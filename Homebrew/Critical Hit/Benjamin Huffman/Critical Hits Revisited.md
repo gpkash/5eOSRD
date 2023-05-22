@@ -6,8 +6,21 @@ Benjamin Huffman
 http://sterlingvermin.com/
 ---
 
-## Weapon Damage Charts
+Critical Hits Revisited Presented here are optional rules that expand the scope of critical hits in D&D 5e. Introducing a series of critical hit charts that vary based on the damage type of the attack, Critical Hits Revisited can be included in a campaign to add an additional element of uncertainty, suspense, and surprise to combat. DMs and players may also be interested in utilizing Critical Hits Revisited to increase the consequence of engaging in combat, including the potential for death or dismemberment. 
 
+## Revisions to Critical Hits
+Except when noted otherwise below, use the normal rules for critical hits. 
+- When you land a critical hit on a creature, instead of rolling the attack’s damage dice twice and adding them together, roll a d20 and use the corresponding result on the critical hit chart determined by the damage type of your attack. 
+- When you score a critical hit with an attack that does two or more types of damage, choose one of those damage types and roll on that critical chart. 
+- The Half-Orc Savage Attacks trait and the Barbarian Brutal Critical feature continue to work as written.
+
+## Alternate Option: Selective Use of Critical Hits 
+When you implement the rules presented in Critical Hits Revisited the lives of the player characters gets a lot harder. Some players will love it, some will hate it, and some will be perfectly fine with it until the day they get one-shot by a kobold. If you and your players prefer, the normal critical hit rules can be used for monsters of low significance to the story or who are not meant to be a life threatening combat for the player characters. Using this alternative rules player characters continue to use the critical hit charts when they deal damage but creatures only roll on the critical hit charts when they have dramatic importance to the story and / or are meant to a potentially lethal encounter for the characters
+
+## Injuries & Insanity
+Critical hits can cause minor and major injuries. When a creature suffers a minor injury it can be healed by the spell [[Lesser Restoration]] or by using the recuperating downtime activity (Player’s Handbook, pg. 187). Major injuries will not heal on their own and require the powerful healing spell, [[Greater Restoration]]. Insanities, caused by critical hits that deal psychic damage, must be healed the same way. The text of certain injuries will specify other ways this injuries might resolve. For example, the *Blow to the Head!* minor injury resolves after the 2d12 hours time period has elapsed while the *Decapitated!* major injury cannot be healed through the use of the [[Greater Restoration]] spell.
+
+## Weapon Damage Charts
 ### Bludgeoning
 | d20 | Bludgeoning |
 |-----|------------ |
