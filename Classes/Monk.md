@@ -1,5 +1,3 @@
-# Monk
-
 ### Class Features
 
 As a monk, you gain the following class features.
@@ -7,21 +5,15 @@ As a monk, you gain the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d8 per monk level
-
 **Hit Points at 1st Level:** 8 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per monk level after 1st
 
 #### Proficiencies
 
 **Armor:** None
-
 **Weapons:** Simple weapons, shortswords
-
 **Tools:** Choose one type of artisan's tools or one musical instrument
-
 **Saving Throws:** Strength, Dexterity
-
 **Skills:** Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
 
 #### Equipment
@@ -56,7 +48,6 @@ You start with the following equipment, in addition to the equipment granted by 
 | 18th  | +6                | 1d10         | 18        | +30 ft.            | Empty Body                                       |
 | 19th  | +6                | 1d10         | 19        | +30 ft.            | Ability Score Improvement                        |
 | 20th  | +6                | 1d10         | 20        | +30 ft.            | Perfect Self                                     |
-|       |                   |              |           |                    |                                                  |
 
 ### Unarmored Defense
 

@@ -1,5 +1,3 @@
-# Barbarian
-
 ### Class Features
 
 As a barbarian, you gain the following class features.
@@ -7,21 +5,15 @@ As a barbarian, you gain the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d12 per barbarian level
-
 **Hit Points at 1st Level:** 12 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per barbarian level after 1st
 
 #### Proficiencies
 
 **Armor:** Light armor, medium armor, shields
-
 **Weapons:** Simple weapons, martial weapons
-
 **Tools:** None
-
 **Saving Throws:** Strength, Constitution
-
 **Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
 
 #### Equipment
@@ -32,7 +24,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) two handaxes or (*b*) any simple weapon
 - An explorer's pack and four javelins
 
-**Table- The Barbarian**
+**Table: The Barbarian**
 
 | Level | Proficiency Bonus | Features                      | Rages     | Rage Damage |
 |-------|-------------------|-------------------------------|-----------|-------------|
@@ -56,7 +48,6 @@ You start with the following equipment, in addition to the equipment granted by 
 | 18th  | +6                | Indomitable Might             | 6         | +4          |
 | 19th  | +6                | Ability Score Improvement     | 6         | +4          |
 | 20th  | +6                | Primal Champion               | Unlimited | +4          |
-|       |                   |                               |           |             |
 
 ### Rage
 

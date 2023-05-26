@@ -1,5 +1,3 @@
-# Druid
-
 ### Class Features
 
 As a druid, you gain the following class features.
@@ -7,21 +5,15 @@ As a druid, you gain the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d8 per druid level
-
 **Hit Points at 1st Level:** 8 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per druid level after 1st
 
 #### Proficiencies
 
 **Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
-
 **Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
-
 **Tools:** Herbalism kit
-
 **Saving Throws:** Intelligence, Wisdom
-
 **Skills:** Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival
 
 #### Equipment
@@ -56,7 +48,6 @@ You start with the following equipment, in addition to the equipment granted by 
 | 18th  | +6                | Timeless Body, Beast Spells                       | 4              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
 | 19th  | +6                | Ability Score Improvement                         | 4              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20th  | +6                | Archdruid                                         | 4              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
-|       |                   |                                                   |                |     |     |     |     |     |     |     |     |     |
 
 ### Druidic
 

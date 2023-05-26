@@ -1,5 +1,3 @@
-# Bard
-
 ### Class Features
 
 As a bard, you gain the following class features.
@@ -7,21 +5,15 @@ As a bard, you gain the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d8 per bard level
-
 **Hit Points at 1st Level:** 8 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per bard level after 1st
 
 #### Proficiencies
 
 **Armor:** Light armor
-
 **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
-
 **Tools:** Three musical instruments of your choice
-
 **Saving Throws:** Dexterity, Charisma
-
 **Skills:** Choose any three
 
 #### Equipment
@@ -57,7 +49,6 @@ You start with the following equipment, in addition to the equipment granted by 
 | 18th  | +6                | Magical Secrets                                      | 4            | 22             | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
 | 19th  | +6                | Ability Score Improvement                            | 4            | 22             | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20th  | +6                | Superior Inspiration                                 | 4            | 22             | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
-|       |                   |                                                      |              |                |     |     |     |     |     |     |     |     |     |
 
 ### Spellcasting
 

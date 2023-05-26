@@ -1,5 +1,3 @@
-# Rogue
-
 ### Class Features
 
 As a rogue, you have the following class features.
@@ -7,21 +5,15 @@ As a rogue, you have the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d8 per rogue level
-
 **Hit Points at 1st Level:** 8 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per rogue level after 1st
 
 #### Proficiencies
 
 **Armor:** Light armor
-
 **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
-
 **Tools:** Thieves' tools
-
 **Saving Throws:** Dexterity, Intelligence
-
 **Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
 
 #### Equipment
@@ -57,7 +49,6 @@ You start with the following equipment, in addition to the equipment granted by 
 | 18th  | +6                | 9d6          | Elusive                                |
 | 19th  | +6                | 10d6         | Ability Score Improvement              |
 | 20th  | +6                | 10d6         | Stroke of Luck                         |
-|       |                   |              |                                        |
 
 ### Expertise
 

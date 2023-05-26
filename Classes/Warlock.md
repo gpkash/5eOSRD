@@ -1,5 +1,3 @@
-# Warlock
-
 ### Class Features
 
 As a warlock, you gain the following class features.
@@ -7,21 +5,15 @@ As a warlock, you gain the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d8 per warlock level
-
 **Hit Points at 1st Level:** 8 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per warlock level after 1st
 
 #### Proficiencies
 
 **Armor:** Light armor
-
 **Weapons:** Simple weapons
-
 **Tools:** None
-
 **Saving Throws:** Wisdom, Charisma
-
 **Skills:** Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
 
 #### Equipment
@@ -57,7 +49,6 @@ You start with the following equipment, in addition to the equipment granted by 
 | 18th  | +6                | -                               | 4              | 14           | 4           | 5th        | 8                 |
 | 19th  | +6                | Ability Score Improvement       | 4              | 15           | 4           | 5th        | 8                 |
 | 20th  | +6                | Eldritch Master                 | 4              | 15           | 4           | 5th        | 8                 |
-|       |                   |                                 |                |              |             |            |                   |
 
 ### Otherworldly Patron
 

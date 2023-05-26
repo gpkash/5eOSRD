@@ -1,5 +1,3 @@
-# Sorcerer
-
 ### Class Features
 
 As a sorcerer, you gain the following class features.
@@ -7,21 +5,15 @@ As a sorcerer, you gain the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d6 per sorcerer level
-
 **Hit Points at 1st Level:** 6 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st
 
 #### Proficiencies
 
 **Armor:** None
-
 **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
-
 **Tools:** None
-
 **Saving Throws:** Constitution, Charisma
-
 **Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
 
 #### Equipment
@@ -57,7 +49,6 @@ You start with the following equipment, in addition to the equipment granted by 
 | 18th  | +6                | 18             | Sorcerous Origin Feature       | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
 | 19th  | +6                | 19             | Ability Score Improvement      | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20th  | +6                | 20             | Sorcerous Restoration          | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
-|       |                   |                |                                |                |              |     |     |     |     |     |     |     |     |     |
 
 ### Spellcasting
 

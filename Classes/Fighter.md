@@ -1,5 +1,3 @@
-# Fighter
-
 ### Class Features
 
 As a fighter, you gain the following class features.
@@ -7,21 +5,15 @@ As a fighter, you gain the following class features.
 #### Hit Points
 
 **Hit Dice:** 1d10 per fighter level
-
 **Hit Points at 1st Level:** 10 + your Constitution modifier
-
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per fighter level after 1st
 
 #### Proficiencies
 
 **Armor:** All armor, shields
-
 **Weapons:** Simple weapons, martial weapons
-
 **Tools:** None
-
 **Saving Throws:** Strength, Constitution
-
 **Skills:** Choose two skills from Acrobatics, Animal, Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
 
 #### Equipment
@@ -57,7 +49,6 @@ You start with the following equipment, in addition to the equipment granted by 
 | 18th  | +6                | Martial Archetype Feature                         |
 | 19th  | +6                | Ability Score Improvement                         |
 | 20th  | +6                | Extra Attack (3)                                  |
-|       |                   |                                                   |
 
 ### Fighting Style
 
