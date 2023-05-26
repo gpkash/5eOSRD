@@ -1,0 +1,7 @@
+[[Bard Spells]]
+[[Cleric Spells]]
+[[Druid Spells]]
+[[Paladin Spells]]
+[[Sorcerer Spells]]
+[[Warlock Spells]]
+[[Wizard Spells]]
