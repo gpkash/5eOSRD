@@ -1,8 +1,6 @@
-### Wonder Maker (UA)
+### Wonder Maker
 
 _Prerequisite: Gnome (Rock)_
-
----
 
 You master the tinker techniques of your people. You gain the following benefits:
 
@@ -19,3 +17,6 @@ _**Lifter.**_ This device can be used as a block and tackle, allowing its user 
 _**Timekeeper.**_ This pocket watch keeps accurate time.
 
 _**Weather Sensor.**_ When used as an action, this device predicts weather conditions in a 1-mile radius over the next 4 hours, showing one symbol (clouds, sun/moon, rain, or snow) for each hour.
+
+
+Source: Unearthed Arcana

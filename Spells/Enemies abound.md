@@ -1,4 +1,3 @@
-### Enemies abound
 *3rd-level enchantment*
 
 **Casting Time:** 1 Action

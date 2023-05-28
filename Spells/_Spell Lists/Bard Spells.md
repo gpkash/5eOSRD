@@ -1,44 +1,47 @@
-## [[Bard]] Spells (PHB)
+## [[Bard]] Spells (PHB, XGE)
 
-|Cantrips| 1st Level | 2nd Level | 3rd Level | 4th Level|
-|--------|-----------|-----------|-----------|----------|
-|[[Dancing Lights]]|[[Animal Friendship]]|[[Animal Messenger]]|[[Bestow Curse]]|[[Compulsion]]|
-|[[Light]]|[[Bane]]|[[Blindness-Deafness]]|[[Clairvoyance]]|[[Confusion]]|
-|[[Mage Hand]]|[[Charm Person]]|[[Calm Emotions]]|[[Dispel Magic]]|[[Dimension Door]]|
-|[[Mending]]|[[Comprehend Languages]]|[[Detect Thoughts]]|[[Fear]]|[[Freedom of Movement]]|
-|[[Message]]|[[Cure Wounds]]|[[Enhance Ability]]|[[Glyph of Warding]]|[[Greater Invisibility]]|
-|[[Minor Illusion]]|[[Detect Magic]]|[[Enthrall]]|[[Hypnotic Pattern]]|[[Hallucinatory Terrain]]|
-|[[Prestidigitation]]|[[Disguise Self]]|[[Heat Metal]]|[[Major Image]]|[[Locate Creature]]|
-|[[True Strike]]|[[Faerie Fire]]|[[Hold Person]]|[[Nondetection]]|[[Polymorph]]|
-|[[Vicious Mockery]]|[[Feather Fall]]|[[Invisibility]]|[[Plant Growth]]||
-||[[Healing Word]]|[[Knock]]|[[Sending]]||
-||[[Heroism]]|[[Lesser Restoration]]|[[Speak with Dead]]||
-||[[Hideous Laughter]]|[[Locate Animals or Plants]]|[[Speak with Plants]]||
-||[[Identify]]|[[Locate Object]]|[[Stinking Cloud]]||
-||[[Illusory Script]]|[[Magic Mouth]]|[[Tiny Hut]]||
-||[[Longstrider]]|[[See Invisibility]]|[[Tongues]]||
-||[[Silent Image]]|[[Shatter]]|||
-||[[Sleep]]|[[Silence]]|||
-||[[Speak with Animals]]|[[Suggestion]]|||
-||[[Thunderwave]]|[[Zone of Truth]]|||
-||[[Unseen Servant]]||||
+| Cantrips              | 1st-level                | 2nd-level                    | 3rd-level                | 4th-level                 |
+| --------------------- | ------------------------ | ---------------------------- | ------------------------ | ------------------------- |
+| [[Dancing Lights]]    | [[Animal Friendship]]    | [[Animal Messenger]]         | [[Bestow Curse]]         | [[Compulsion]]            |
+| [[Light]]             | [[Bane]]                 | [[Blindness-Deafness]]       | [[Catnap]] (XGE)         | [[Confusion]]             |
+| [[Mage Hand]]         | [[Charm Person]]         | [[Calm Emotions]]            | [[Clairvoyance]]         | [[Charm Monster]] (XGE)   |
+| [[Mending]]           | [[Comprehend Languages]] | [[Detect Thoughts]]          | [[Dispel Magic]]         | [[Dimension Door]]        |
+| [[Message]]           | [[Cure Wounds]]          | [[Enhance Ability]]          | [[Enemies Abound]] (XGE) | [[Freedom of Movement]]   |
+| [[Minor Illusion]]    | [[Detect Magic]]         | [[Enthrall]]                 | [[Fear]]                 | [[Greater Invisibility]]  |
+| [[Prestidigitation]]  | [[Disguise Self]]        | [[Heat Metal]]               | [[Glyph of Warding]]     | [[Hallucinatory Terrain]] |
+| [[Thunderclap]] (XGE) | [[Earth Tremor]] (XGE)   | [[Hold Person]]              | [[Hypnotic Pattern]]     | [[Locate Creature]]       |
+| [[True Strike]]       | [[Faerie Fire]]          | [[Invisibility]]             | [[Major Image]]          | [[Polymorph]]             |
+| [[Vicious Mockery]]   | [[Feather Fall]]         | [[Knock]]                    | [[Nondetection]]         |                           |
+|                       | [[Healing Word]]         | [[Lesser Restoration]]       | [[Plant Growth]]         |                           |
+|                       | [[Heroism]]              | [[Locate Animals or Plants]] | [[Sending]]              |                           |
+|                       | [[Hideous Laughter]]     | [[Locate Object]]            | [[Speak with Dead]]      |                           |
+|                       | [[Identify]]             | [[Magic Mouth]]              | [[Speak with Plants]]    |                           |
+|                       | [[Illusory Script]]      | [[Pyrotechnics]] (XGE)       | [[Stinking Cloud]]       |                           |
+|                       | [[Longstrider]]          | [[See Invisibility]]         | [[Tiny Hut]]             |                           |
+|                       | [[Silent Image]]         | [[Shatter]]                  | [[Tongues]]              |                           |
+|                       | [[Skywrite]] (XGE)       | [[Silence]]                  |                          |                           |
+|                       | [[Sleep]]                | [[Suggestion]]               |                          |                           |
+|                       | [[Speak with Animals]]   | [[Warding Wind]] (XGE)       |                          |                           |
+|                       | [[Thunderwave]]          | [[Zone of Truth]]            |                          |                           |
+|                       | [[Unseen Servant]]       |                              |                          |                           |
 
-
-|5th Level| 6th Level | 7th Level | 8th Level | 9th Level|
-|---------|-----------|-----------|-----------|----------|
-|[[Animate Objects]]|[[Eyebite]]|[[Arcane Sword]]|[[Dominate Monster]]|[[Foresight]]|
-|[[Awaken]]|[[Find the Path]]|[[Etherealness]]|[[Feeblemind]]|[[Power Word Kill]]|
-|[[Dominate Person]]|[[Guards and Wards]]|[[Forcecage]]|[[Glibness]]|[[True Polymorph]]|
-|[[Dream]]|[[Irresistible Dance]]|[[Magnificent Mansion]]|[[Mind Blank]]||
-|[[Geas]]|[[Mass Suggestion]]|[[Mirage Arcane]]|[[Power Word Stun]]||
-|[[Greater Restoration]]|[[Programmed Illusion]]|[[Project Image]]|||
-|[[Hold Monster]]|[[True Seeing]]|[[Regenerate]]||
-|[[Legend Lore]]||[[Resurrection]]||
-|[[Mass Cure Wounds]]||[[Symbol]]||
-|[[Mislead]]||[[Teleport]]||
-|[[Modify Memory]]||||
-|[[Planar Binding]]||||
-|[[Raise Dead]]||||
-|[[Scrying]]||||
-|[[Seeming]]||||
-|[[Teleportation Circle]]||||
+| 5th-level                   | 6th-level               | 7th-level               | 8th-level            | 9th-level                |
+| --------------------------- | ----------------------- | ----------------------- | -------------------- | ------------------------ |
+| [[Animate Objects]]         | [[Eyebite]]             | [[Arcane Sword]]        | [[Dominate Monster]] | [[Foresight]]            |
+| [[Awaken]]                  | [[Find the Path]]       | [[Etherealness]]        | [[Feeblemind]]       | [[Mass Polymorph]] (XGE) |
+| [[Dominate Person]]         | [[Guards and Wards]]    | [[Forcecage]]           | [[Glibness]]         | [[Power Word Kill]]      |
+| [[Dream]]                   | [[Irresistible Dance]]  | [[Magnificent Mansion]] | [[Mind Blank]]       | [[Psychic Scream]] (XGE) |
+| [[Geas]]                    | [[Mass Suggestion]]     | [[Mirage Arcane]]       | [[Power Word Stun]]  | [[True Polymorph]]       |
+| [[Greater Restoration]]     | [[Programmed Illusion]] | [[Project Image]]       |                      |                          |
+| [[Hold Monster]]            | [[True Seeing]]         | [[Regenerate]]          |                      |                          |
+| [[Legend Lore]]             |                         | [[Resurrection]]        |                      |                          |
+| [[Mass Cure Wounds]]        |                         | [[Symbol]]              |                      |                          |
+| [[Mislead]]                 |                         | [[Teleport]]            |                      |                          |
+| [[Modify Memory]]           |                         |                         |                      |                          |
+| [[Planar Binding]]          |                         |                         |                      |                          |
+| [[Raise Dead]]              |                         |                         |                      |                          |
+| [[Scrying]]                 |                         |                         |                      |                          |
+| [[Seeming]]                 |                         |                         |                      |                          |
+| [[Skill Empowerment]] (XGE) |                         |                         |                      |                          |
+| [[Synaptic Static]] (XGE)   |                         |                         |                      |                          |
+| [[Teleportation Circle]]    |                         |                         |                      |                          |

@@ -1,8 +1,6 @@
-### Aberrant Dragonmark (WGE)
+### Aberrant Dragonmark
 
 _Prerequisite: No other dragonmark_
-
----
 
 You have manifested an aberrant dragonmark. Determine its appearance and the flaw associated with it. You gain the following benefits:
 
@@ -23,8 +21,11 @@ You have manifested an aberrant dragonmark. Determine its appearance and the fla
 |7|Your looks change slightly whenever you use the mark.|
 |8|You have horrific nightmares after you use your mark.|
 
-#### Option: Greater Abberant Powers
+#### Option: Greater Aberrant Powers
 
 At the DM's option, a character who has the Aberrant Dragonmark feat has a chance of manifesting greater power. Upon reaching 10th level, such a character has a 10 percent chance of gaining an epic boon from among the options in chapter 7 of the Dungeon Master's Guide. If the character fails to gain a boon, they have a 10 percent chance the next time they gain a level.
 
 If the character gains a boon, the DM chooses it or determines it randomly. The character also permanently loses one of their Hit Dice, and their hit point maximum is reduced by an amount equal to a roll of that die plus their Constitution modifier (minimum reduction of 1). This reduction can't be reversed by any means.
+
+
+Source: Wayfinder's Guide to Eberron

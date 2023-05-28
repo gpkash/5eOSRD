@@ -1,5 +1,5 @@
-### Ceremony (Ritual)
-*1st-level abjuration*
+### Ceremony
+*1st-level abjuration ritual*
 
 **Casting Time:** 1 Hour
 **Range:** Touch
