@@ -11,4 +11,4 @@ Choose an area of nonmagical flame that you can see and that fits within a 5-foo
 
 **Smoke**: Thick black smoke spreads out from the target in a 20-foot radius, moving around corners. The area of the smoke is heavily obscured. The smoke persists for 1 minute or until a strong wind disperses it.
 
-Source: XGE pg. 164
+*Source: XGE pg. 164*

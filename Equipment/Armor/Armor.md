@@ -1,16 +1,16 @@
-Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: [[light armor]], [[medium armor]], and [[heavy armor]]. Many warriors supplement their armor with a [[5eOSRD/Equipment/Armor/Shield|shield]].
+Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: [[light armor]], [[medium armor]], and [[heavy armor]]. Many warriors supplement their armor with a [[Shield (armor)|shield]].
 
 The Armor table shows the cost, weight, and other properties of the common types of armor worn in fantasy gaming worlds.
 
-***Armor Proficiency***. Anyone can put on a suit of armor or strap a [[5eOSRD/Equipment/Armor/Shield|shield]] to an arm. Only those proficient in the armor's use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves [[Strength]] or [[Dexterity]], and you can't cast spells.
+***Armor Proficiency***. Anyone can put on a suit of armor or strap a [[Shield (armor)|shield]] to an arm. Only those proficient in the armor's use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves [[Strength]] or [[Dexterity]], and you can't cast spells.
 
-***Armor Class (AC)***. Armor protects its wearer from attacks. The armor (and [[5eOSRD/Equipment/Armor/Shield|shield]]) you wear determines your base Armor Class.
+***Armor Class (AC)***. Armor protects its wearer from attacks. The armor (and [[Shield (armor)|shield]]) you wear determines your base Armor Class.
 
 ***[[Heavy Armor]]***. Heavier armor interferes with the wearer's ability to move quickly, stealthily, and freely. If the Armor table shows "Str 13" or "Str 15" in the [[Strength]] column for an armor type, the armor reduces the wearer's speed by 10 feet unless the wearer has a [[Strength]] score equal to or higher than the listed score.
 
 ***[[Stealth]]***. If the Armor table shows "Disadvantage" in the [[Stealth]] column, the wearer has disadvantage on [[Dexterity]] ([[Stealth]]) checks.
 
-[[5eOSRD/Equipment/Armor/Shield|Shield]]
+[[Shield (armor)|Shield (armor)]]
 [[Light Armor]]
 [[Medium Armor]]
 [[Heavy Armor]]
