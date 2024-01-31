@@ -1,0 +1,7 @@
+#### Dracula’s Essence
+To be kept in a crystal vial, this poison looks like a small vial of fresh blood, but is always in motion, seemingly trying to escape it vessel. Upon opening the vial, it falls still and turns into a rust coloured liquid. When this potion is drank or comes in contact with the blood vial an injury or injection, it forces the target to make a DC 18 Constitution saving throw. On a success, the target retches the entire content of its stomach and takes 2d8 poison damage.
+
+On a failure, the target immediately retches the entire content of its stomach, takes 2d10 poison damage and becomes unable to sleep. After 1 hour, the target becomes supremely sensitive to direct sunlight, taking 1d4 fire damage for each minute spend outside the shade of sunlight while not wearing Muroosa Balm. The target becomes unable to eat or drink anything besides raw meat and blood and has a great craving for the latter, especially of its own species. Attempting to eat or drink anything besides raw meat or blood results in the retching of the entire stomach and 1d6 poison damage. Each hour the target does not consume either raw meat or blood, it gains 1 point of exhaustion. This effects last for 24 hours.
+
+Type: Ingested, Injury
+Ingredients: Dracula’s Blood, Dragon’s Blood, Bloodroot, Red Amanita Mushroom

@@ -1,0 +1,5 @@
+#### House of Rest
+
+This three-story bunkhouse in the Court of Air provides seekers with a place to rest and store their gear. The rustic accommodations include both private rooms and common rooms. In addition to comfortable lodgings, the House of Rest offers guests peace and quiet. Noisy patrons are directed to the Hearth if they want to continue their revels.
+
+The House of Rest can hold up to fifty guests comfortably. If more space is needed, extradimensional spaces are created using *Mordenkainen's [[magnificent mansion]]* spells, the doorways to which are located at the ends of the upstairs hallways. Beneath the House of Rest is an extension of the library known as the Firefly Cellar (see "*[[Candlekeep Mysteries - Shemshime's Bedtime Rhyme|Shemshime's Bedtime Rhyme]]*" later in this book for details).

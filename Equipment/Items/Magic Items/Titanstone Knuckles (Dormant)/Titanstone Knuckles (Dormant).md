@@ -1,0 +1,15 @@
+#### Titanstone Knuckles (Dormant)
+
+Wondrous item, legendary (requires attunement)
+
+![[Titanstone Knuckles (Dormant).webp]]
+
+Vestige
+
+---
+
+Carved from the heartstone of a slain earth primordial, these gauntlets bestow immeasurable might to their wearer. In recent times, they were wielded by the legendary barbarian **Grog Strongjaw**, who continues to use them as he seeks worthy challengers across Tal'Dorei and Exandria.
+
+***Dormant.*** While the Titanstone Knuckles are in a dormant state, your Strength score becomes 22 while you wear these gauntlets. Additionally, your weapon attacks deal double damage to objects and structures.
+
+***Vestige of Divergence.*** *This item is a Vestige of Divergence, see *Tal'Dorei Treasures* for more information.*

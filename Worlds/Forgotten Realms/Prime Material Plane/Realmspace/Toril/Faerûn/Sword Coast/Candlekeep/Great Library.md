@@ -1,0 +1,9 @@
+#### Great Library
+
+The Avowed transported the towers of the Great Library piecemeal from other locations and painstakingly reassembled them, creating a skyline of bristling spires in a panoply of architectural styles. Among the stone structures are a few towers made of stranger materials, such as infernal iron and the bones of a long-dead colossal red dragon. 
+
+Non-Avowed rarely enter the Great Library, but senior staff members occasionally bestow letters of admittance upon individuals of remarkable talent and impeccable reputation (including adventurers). These visitors may peruse the contents within, with an Avowed adjutant (a **commoner**) serving as their guide. Visitors are required to stay with their guide, since those unfamiliar with the library might become lost in its labyrinthine halls and extradimensional spaces.
+
+The oldest of the library's buildings are soaring stone affairs with floors crafted from lustrous dark wood and floor-to-ceiling shelves. Ceiling heights vary, ranging from as low as ten feet to as high as one hundred feet in the tallest towers. The Avowed use floating disks, each one large enough to hold three Medium creatures, to reach the highest shelves. *[[Continual flame]]* spells light the well-traveled areas, and the Avowed employ *driftglobes* when visiting remote sections. An intricate arrangement of mounted mirrors lights the upper reaches of the tallest chambers, reflecting sunlight by day or a *[[continual flame]]* spell on cloudy days or at nights.
+
+***Modrons.*** Candlekeep is a haven for thirteen rogue modrons (**monodrones**) that escaped from Mechanus. The Avowed struck a deal with the creatures, and they've been part of the library staff ever since. Working alongside the Avowed, the modrons catalog and shelve books, though each of them can manage only one book at a time.

@@ -1,0 +1,1 @@
+***Hellish Resistance***. You have [[5eOSRD/Gameplay/Combat/Resistence/Resistance|resistance]] to fire damage.

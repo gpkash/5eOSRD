@@ -1,0 +1,107 @@
+A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides.
+
+At certain levels, your class gives you the Ability Score Improvement feature. Using the optional feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat's description says otherwise.
+
+You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat's prerequisite, you can't use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow-perhaps by a withering curse-you can't benefit from the Grappler feat until your Strength is restored.
+
+### Player's Handbook
+[[Actor]]
+[[Alert]]
+[[Athlete]]
+[[Charger]]
+[[Crossbow Expert]]
+[[Defensive Duelist]]
+[[Dual Wielder]]
+[[Dungeon Delver]]
+[[Elemental Adept]]
+[[Grappler]]
+[[Great Weapon Master]]
+[[Healer]]
+[[Heavily Armored]]
+[[Heavy Armor Master]]
+[[Inspiring Leader]]
+[[Keen Mind]]
+[[Lightly Armored]]
+[[Linguist]]
+[[5eOSRD/Characterizations/Feats/Feats/Lucky]]
+[[Mage Slayer]]
+[[Magic Initiate]]
+[[Martial Adept]]
+[[Medium Armor Master]]
+[[Menacing (homebrew)]]
+[[Mobile]]
+[[Moderately Armored]]
+[[Mounted Combatant]]
+[[Observant]]
+[[Polearm Master]]
+[[Resilient]]
+[[Ritual Caster]]
+[[Savage Attacker]]
+[[Sentinel]]
+[[Sharpshooter]]
+[[Shield Master]]
+[[Skilled]]
+[[Skulker]]
+[[Spell Sniper]]
+[[Tavern Brawler]]
+[[Tough]]
+[[War Caster]]
+[[Weapon Master]]
+
+### Mordenkainen's Tome of Foes
+[[Svirfneblin Magic]]
+
+### Unearthed Arcana
+[[Barbed Hide]]
+[[Critter Friend]]
+[[Dragon Wings]]
+[[Everybody's Friend]]
+[[Grudge Bearer]]
+[[Human Determination]]
+[[Orcish Aggression]]
+[[Telekinetic]]
+[[Telepathic]]
+[[Wonder Maker]]
+
+### Wayfinder's Guide to Eberron
+[[Aberrant Dragonmark]]
+
+### Xanathar's Guide to Everything
+[[Bountiful Luck]]
+[[Dragon Fear]]
+[[Dragon Hide]]
+[[Drow High Magic]]
+[[Dwarven Fortitude]]
+[[Elven Accuracy]]
+[[Fade Away]]
+[[Fey Teleportation]]
+[[Flames of Phlegethos]]
+[[Infernal Constitution]]
+[[Orcish Fury]]
+[[Prodigy]]
+[[Revenant Blade]]
+[[Second Change]]
+[[Squat Nimbleness]]
+[[Wood Elf Magic]]
+
+---
+
+### Homebrew
+[[Accustomed Action]]
+[[Acrobat]]
+[[Arcane Pioneer]]
+[[Beast Whisperer (homebrew)]]
+[[Born at Sea (homebrew)]]
+[[Bulwark (homebrew)]]
+[[Combat Reflexes (homebrew)]]
+[[Dagger Master (homebrew)]]
+[[Diehard (homebrew)]]
+[[Diplomat (homebrew)]]
+[[Escape Artist (homebrew)]]
+[[Expertise (homebrew)]]
+[[Focused Caster (homebrew)]]
+[[Knot Master (homebrew)]]
+[[Tactician (homebrew)]]
+[[Underdog (homebrew)]]
+[[Witty (homebrew)]]
+

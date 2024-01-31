@@ -1,0 +1,6 @@
+#### Night Hag’s Curse
+Conceptually, this poison might be the worst one in existence. It is not meant to kill a person but to torment them to the end of their days. This clear, lilac liquid, once injected or ingested, forces the target to make a DC 18 Wisdom saving throw. On a success, the target suffers from vivid nightmares over the course of a week and suffers 4 psychic damage upon waking up each morning. On a failed saving throw, the target’s brain is afflicted permanently and they experience night terrors that make it hard to sleep, resulting in 2d10 psychic damage upon waking up and no automatic lose of 1 point of exhaustion upon completing a long rest, instead requiring the throw of a d100 each morning. If the target throws a 25 or lower, the restore 1 point of exhaustion. If they throw between 26-74, they do not. If they throw a 75 or higher, they suffer 1 point of exhaustion. 
+The only known way to get rid of the effects of this poison is a greater restoration spell cast at 6th level or higher after drinking a Tea of Refreshment while the target has no levels of exhaustion.  
+
+Type: Ingested, injury or injected
+Ingredients: Devil’s powder

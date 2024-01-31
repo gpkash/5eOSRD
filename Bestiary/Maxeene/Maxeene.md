@@ -1,0 +1,35 @@
+### Maxeene
+_Large beast, unaligned_
+
+![[Maxeene token.png]]
+
+Maxeene is a talking horse.
+
+
+
+
+
+
+---
+
+**Armor Class** 10
+**Hit Points** 19 (3d10 + 3)
+**Speed** 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 18 (+4) | 10 (+0) | 12 (+1) | 10 (+0) | 11 (+0) | 7 (-2) |
+
+**Passive Perception** 10
+**Languages** Common
+**Challenge** 1/4 (50 XP)
+
+---
+
+##### Actions
+**Hooves**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.
+
+
+---
+
+Source: [[WDH]], page 37
