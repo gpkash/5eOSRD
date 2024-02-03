@@ -2,7 +2,7 @@
 
 **Kelddath Ormlyr** was a [[human]] [[cleric]] of [[Lathander]], the high priest of the [[Song of the Morning]] temple, and the governor of [[5eOSRD/Worlds/Forgotten Realms/Prime Material Plane/Realmspace/Toril/Faerûn/Sword Coast/Beregost/Beregost]] during the mid-to-late 14th century DR.
 
-![[Kelddath Ormlyr.png]]
+![[Kelddath Ormlyr Alt.png]]
 
 ## Activities
 
@@ -12,7 +12,7 @@ As governor, Kelddath was a champion to the local farmers, supporting their best
 
 ## Relationships
 
-Kelddath had several influential allies within the town, having been long-supported by the local conjurer of [[5eOSRD/Worlds/Forgotten Realms/Prime Material Plane/Realmspace/Toril/Faerûn/Sword Coast/Beregost/Locations/High Hedge]], [Thalantyr](https://forgottenrealms.fandom.com/wiki/Thalantyr "Thalantyr"), as well as the town's blacksmith, [[Taerom Fuiruim|Taerom "Thunderhammer" Fuiruim]]. He also counted the Craumerdaun mercantile family of Amn as allies, having convinced them to establish an estate outside of town and breed their prized horses within its stables.
+Kelddath had several influential allies within the town, having been long-supported by the local conjurer of [[High Hedge]], [[Thalantyr]], as well as the town's blacksmith, [[Taerom Fuiruim|Taerom "Thunderhammer" Fuiruim]]. He also counted the Craumerdaun mercantile family of Amn as allies, having convinced them to establish an estate outside of town and breed their prized horses within its stables.
 
 ## History
 

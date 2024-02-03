@@ -1,6 +1,6 @@
 # Thalantyr
 
-**Thalantyr** was a tiefling [[wizard]], specialized in [[School of Conjuration|conjuration]], and a former adventurer who lived in his house called [[5eOSRD/Worlds/Forgotten Realms/Prime Material Plane/Realmspace/Toril/Faerûn/Sword Coast/Beregost/Locations/High Hedge]], west of [[5eOSRD/Worlds/Forgotten Realms/Prime Material Plane/Realmspace/Toril/Faerûn/Sword Coast/Beregost/Beregost]].
+**Thalantyr** was a tiefling [[wizard]], specialized in [[School of Conjuration|conjuration]], and a former adventurer who lived in his house called [[High Hedge]], west of [[5eOSRD/Worlds/Forgotten Realms/Prime Material Plane/Realmspace/Toril/Faerûn/Sword Coast/Beregost/Beregost]].
 
 ## Personality
 
@@ -8,7 +8,7 @@ Later retired, Thalantyr was more at home helping others through magic or advice
 
 ## Possessions
 
-The noble archmage owned a long dark [[5eOSRD/Equipment/Items/Magic/Staff of Power/Staff of Power]] and took it on all his trips, whether it was to the town of Beregost or to a distant [[plane]].
+The noble archmage owned a long dark [[Staff of Power]] and took it on all his trips, whether it was to the town of Beregost or to a distant [[plane]].
 
 ## History
 

@@ -1,3 +1,5 @@
+# Paladin
+
 ### Class Features
 
 As a paladin, you gain the following class features.
@@ -23,32 +25,32 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a martial weapon and a [[5eOSRD/Equipment/Armor/Shield|shield]] or (*b*) two [[Martial Weapons]]
 - (*a*) five javelins or (*b*) any simple melee weapon
 - (*a*) a [[5eOSRD/Equipment/Items/Mundane 1/Priest's Pack/Priest's Pack]] or (*b*) an [[5eOSRD/Equipment/Adventuring Gear/Packs/Explorer's Pack]]
-- [[5eOSRD/Equipment/Armor/Heavy Armor/Chain Mail]] and a [[5eOSRD/Equipment/Adventuring Gear/Holy Symbol]]
+- [[5eOSRD/Equipment/Armor/Heavy Armor/Chain Mail]] and a [[Holy Symbol]]
 
 **Table- The Paladin**
 
-| Level | [[Proficiency Bonus]] | Features                                   | 1st | 2nd | 3rd | 4th | 5th |
-|-------|-------------------|--------------------------------------------|-----|-----|-----|-----|-----|
-| 1st   | +2                | Divine Sense, Lay on Hands                 | -   | -   | -   | -   | -   |
-| 2nd   | +2                | Fighting Style, [[Spellcasting]], Divine Smite | 2   | -   | -   | -   | -   |
-| 3rd   | +2                | Divine Health, Sacred Oath                 | 3   | -   | -   | -   | -   |
-| 4th   | +2                | Ability Score Improvement                  | 3   | -   | -   | -   | -   |
-| 5th   | +3                | Extra Attack                               | 4   | 2   | -   | -   | -   |
-| 6th   | +3                | Aura of Protection                         | 4   | 2   | -   | -   | -   |
-| 7th   | +3                | Sacred Oath feature                        | 4   | 3   | -   | -   | -   |
-| 8th   | +3                | Ability Score Improvement                  | 4   | 3   | -   | -   | -   |
-| 9th   | +4                | -                                          | 4   | 3   | 2   | -   | -   |
-| 10th  | +4                | Aura of Courage                            | 4   | 3   | 2   | -   | -   |
-| 11th  | +4                | Improved Divine Smite                      | 4   | 3   | 3   | -   | -   |
-| 12th  | +4                | Ability Score Improvement                  | 4   | 3   | 3   | -   | -   |
-| 13th  | +5                | -                                          | 4   | 3   | 3   | 1   | -   |
-| 14th  | +5                | Cleansing Touch                            | 4   | 3   | 3   | 1   | -   |
-| 15th  | +5                | Sacred Oath feature                        | 4   | 3   | 3   | 2   | -   |
-| 16th  | +5                | Ability Score Improvement                  | 4   | 3   | 3   | 2   | -   |
-| 17th  | +6                | -                                          | 4   | 3   | 3   | 3   | 1   |
-| 18th  | +6                | Aura improvements                          | 4   | 3   | 3   | 3   | 1   |
-| 19th  | +6                | Ability Score Improvement                  | 4   | 3   | 3   | 3   | 2   |
-| 20th  | +6                | Sacred Oath feature                        | 4   | 3   | 3   | 3   | 2   |
+| Level | [[Proficiency Bonus]] | Features                                       | 1st | 2nd | 3rd | 4th | 5th |
+| ----- |:---------------------:| ---------------------------------------------- |:---:|:---:|:---:|:---:|:---:|
+| 1st   |          +2           | Divine Sense, Lay on Hands                     |  -  |  -  |  -  |  -  |  -  |
+| 2nd   |          +2           | Fighting Style, [[Spellcasting]], Divine Smite |  2  |  -  |  -  |  -  |  -  |
+| 3rd   |          +2           | Divine Health, Sacred Oath                     |  3  |  -  |  -  |  -  |  -  |
+| 4th   |          +2           | Ability Score Improvement                      |  3  |  -  |  -  |  -  |  -  |
+| 5th   |          +3           | Extra Attack                                   |  4  |  2  |  -  |  -  |  -  |
+| 6th   |          +3           | Aura of Protection                             |  4  |  2  |  -  |  -  |  -  |
+| 7th   |          +3           | Sacred Oath feature                            |  4  |  3  |  -  |  -  |  -  |
+| 8th   |          +3           | Ability Score Improvement                      |  4  |  3  |  -  |  -  |  -  |
+| 9th   |          +4           | -                                              |  4  |  3  |  2  |  -  |  -  |
+| 10th  |          +4           | Aura of Courage                                |  4  |  3  |  2  |  -  |  -  |
+| 11th  |          +4           | Improved Divine Smite                          |  4  |  3  |  3  |  -  |  -  |
+| 12th  |          +4           | Ability Score Improvement                      |  4  |  3  |  3  |  -  |  -  |
+| 13th  |          +5           | -                                              |  4  |  3  |  3  |  1  |  -  |
+| 14th  |          +5           | Cleansing Touch                                |  4  |  3  |  3  |  1  |  -  |
+| 15th  |          +5           | Sacred Oath feature                            |  4  |  3  |  3  |  2  |  -  |
+| 16th  |          +5           | Ability Score Improvement                      |  4  |  3  |  3  |  2  |  -  |
+| 17th  |          +6           | -                                              |  4  |  3  |  3  |  3  |  1  |
+| 18th  |          +6           | Aura improvements                              |  4  |  3  |  3  |  3  |  1  |
+| 19th  |          +6           | Ability Score Improvement                      |  4  |  3  |  3  |  3  |  2  |
+| 20th  |          +6           | Sacred Oath feature                            |  4  |  3  |  3  |  3  |  2  |
 
 ### Divine Sense
 
@@ -110,7 +112,7 @@ You can change your list of prepared spells when you finish a [[Long Rest]]. Pre
 
 #### Spellcasting Focus
 
-You can use a [[5eOSRD/Equipment/Adventuring Gear/Holy Symbol]] as a spellcasting focus for your [[paladin spells]].
+You can use a [[Holy Symbol]] as a spellcasting focus for your [[paladin spells]].
 
 ### Divine Smite
 
@@ -198,14 +200,14 @@ You gain oath spells at the paladin levels listed.
 
 **Table- Oath of Devotion Spells**
 
-| Level | [[Paladin Spells]]                           |
-|-------|------------------------------------------|
+| Level | [[Paladin Spells]]                               |
+| ----- | ------------------------------------------------ |
 | 3rd   | [[protection from evil and good]], [[sanctuary]] |
 | 5th   | [[lesser restoration]], [[zone of truth]]        |
 | 9th   | [[beacon of hope]], [[dispel magic]]             |
 | 13th  | [[freedom of movement]], [[guardian of faith]]   |
 | 17th  | [[commune]], [[flame strike]]                    |
-|       |                                          |
+|       |                                                  |
 
 #### Channel Divinity
 
@@ -215,7 +217,7 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
 
 You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall [[unconscious]], this effect ends.
 
-***Turn the Unholy***. As an action, you present your [[5eOSRD/Equipment/Adventuring Gear/Holy Symbol]] and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a [[Wisdom]] saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.
+***Turn the Unholy***. As an action, you present your [[Holy Symbol]] and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a [[Wisdom]] saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
