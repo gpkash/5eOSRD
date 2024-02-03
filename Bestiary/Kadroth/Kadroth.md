@@ -1,7 +1,7 @@
 ### Kadroth
 _Medium humanoid (any race), any non-good alignment_
 
-![[Kadroth.webp]]
+![[Kadroth.jpg]]
 
 From this usurped office, he coordinates all cult activities in Ten-Towns. It's a role he carved out for himself by asserting that he's tight with Levistus. He rules the roost by sheer force of personality, though it chafes him that Hethyl Arkorran has more respect and influence within the cult. Kadroth doesn't involve Avarice in cult affairs because he fears her spellcasting ability and her connection to the Arcane Brotherhood. She could take over the cult anytime she wanted, and Kadroth doesn't want to give her any reason to do so.
 

@@ -1,7 +1,7 @@
 ### Ender Dragon
 _Gargantuan dragon, chaotic evil_
 
-![[Ender Dragon.webp]]
+![[Ender Dragon.jpg]]
 
 The mighty Ender Dragon is one of a kind—a vast, flying creature with void-black scales and purple eyes. It soars above the central island of the End. No one can say whether it is a guardian or a prisoner of the End, but either way, the Ender Dragon challenges anyone who enters its domain.
 

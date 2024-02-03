@@ -1,7 +1,7 @@
 ### Tomb Dwarf
 _Medium undead, lawful evil_
 
-![[Tomb Dwarf.webp]]
+![[Tomb Dwarf.jpg]]
 
 Acererak abducted dwarf miners and transformed them into wights to exploit their expertise at underground construction.
 

@@ -1,7 +1,7 @@
 ### Fire Hellion
 _Huge fiend (devil), lawful evil_
 
-![[Fire Hellion.webp]]
+![[Fire Hellion.jpg]]
 
 > _To my mind, the fire hellion perfectly illustrates the difference between natural fire and the corrupt flames of the Nine Hells.
 _

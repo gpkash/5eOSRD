@@ -1,7 +1,7 @@
 ### Affliction Devil (Kocrachon)
 _Medium fiend (devil), lawful evil_
 
-![[Affliction Devil (Kocrachon).webp]]
+![[Affliction Devil (Kocrachon).jpg]]
 
 Masters of torture and pain, kocrachons are some of the most respected lesser devils in the Nine Hells. Each is driven to break the greatest number of creatures during their lifespan—the bigger and more dangerous their charges, the better. The most effective kocrachons study under other torturers, or in infernal schools, to best understand the physiologies of any victim they might come across. Perhaps due to their nature as clandestine torturers, kocrachons abhor direct conflict, choosing instead to flee if given the option.
 

@@ -1,7 +1,7 @@
 ### Scholarly Mastermind
 _Small, Medium humanoid (wizard), any alignment_
 
-![[Scholarly Mastermind.webp]]
+![[Scholarly Mastermind.jpg]]
 
 Scholarly masterminds are the formidable leaders of academic research organizations, responsible for planning and carrying out operations that delve into the secrets of the past. Some masterminds are headmasters at academies or universities. Others operate individually and in secret, pursuing agendas that might diverge wildly from those of the rest of their organization.
 

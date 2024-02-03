@@ -1,7 +1,7 @@
 ### Aspect of Tiamat
 _Gargantuan dragon (chromatic), chaotic evil_
 
-![[Aspect of Tiamat.webp]]
+![[Aspect of Tiamat.jpg]]
 
 The five-headed progenitor of chromatic dragons, Tiamat embodies the vices of evil dragons. Since the destruction of the First World, she has dwelled in the Nine Hells—some say by choice. But others claim that she is imprisoned there to punish her for the evils she perpetrated when the gods sought to colonize the First World with their followers.
 

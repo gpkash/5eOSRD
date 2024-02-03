@@ -1,7 +1,7 @@
 ### Lizardfolk
 _Medium humanoid (lizardfolk), neutral_
 
-![[Lizardfolk.webp]]
+![[Lizardfolk.jpg]]
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
 

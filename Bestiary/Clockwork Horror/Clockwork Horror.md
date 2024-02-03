@@ -1,7 +1,7 @@
 ### Clockwork Horror
 _Small construct, lawful evil_
 
-![[Clockwork Horror.webp]]
+![[Clockwork Horror.jpg]]
 
 Clockwork horrors are ruthless insectile automatons—eldritch machines encased in adamantine or some other precious metal. They roam Wildspace in commandeered spelljamming ships, gathering the precious metals and crystals they need to build more of their kind. Clockwork horrors have no goal beyond replication and will stop at nothing to create new clockwork horrors. The time it takes for a clockwork horror to build another of its kind, assuming it has the requisite materials, is approximately ten days.
 

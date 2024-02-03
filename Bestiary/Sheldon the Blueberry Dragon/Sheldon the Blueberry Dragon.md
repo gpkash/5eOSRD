@@ -1,7 +1,7 @@
 ### Sheldon the Blueberry Dragon
 _Large dragon, neutral good_
 
-![[Sheldon the Blueberry Dragon.webp]]
+![[Sheldon the Blueberry Dragon.jpg]]
 
 Sheldon is a friendly, good-natured dragon who collects and eats blueberries. When he's not attending parties, he lives in Wildspace. His body magically produces air, allowing him to thrive in a vacuum and create powerful gusts of wind. Sheldon uses the wind to knock down foes and propel himself farther than his wings can take him on their own.
 

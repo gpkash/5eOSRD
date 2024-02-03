@@ -1,7 +1,7 @@
 ### Droki
 _Small humanoid (derro), chaotic evil_
 
-![[Droki.webp]]
+![[Droki.jpg]]
 
 **Roleplaying Droki** Droki hates everyone in general and surfacers in particular. He gnashes his teeth if he has to address the characters, taking every opportunity to be insulting and misleading. If the characters look through his satchel while he's still conscious, he throws an epic tantrum and becomes intractable until knocked [[unconscious]].
 

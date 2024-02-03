@@ -1,7 +1,7 @@
 ### Ice Devil
 _Large fiend (devil), lawful evil_
 
-![[Ice Devil.webp]]
+![[Ice Devil.jpg]]
 
 
 

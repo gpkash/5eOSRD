@@ -1,7 +1,7 @@
 ### Atropal
 _Huge undead (titan), neutral evil_
 
-![[Atropal.webp]]
+![[Atropal.jpg]]
 
 An atropal is a ghastly, unfinished creation of an evil god, cast adrift and abandoned long ago. Since an atropal was never truly alive, it can't be raised from the dead or resurrected by any means. Even divine intervention can't breathe true life into this hateful, miserable horror.
 

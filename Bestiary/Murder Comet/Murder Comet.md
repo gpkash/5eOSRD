@@ -1,7 +1,7 @@
 ### Murder Comet
 _Medium elemental, neutral evil_
 
-![[Murder Comet.webp]]
+![[Murder Comet.jpg]]
 
 Evil spellcasters create murder comets by combining the essence of earth elementals with that of fire elementals. A murder comet looks like a screaming stone head wreathed in flame. It trails fire behind it as it flies through Wildspace, either singly or in a posse with other murder comets, looking for ships, crews, and other unsuspecting targets to destroy.
 

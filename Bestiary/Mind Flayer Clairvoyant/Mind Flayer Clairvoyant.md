@@ -1,7 +1,7 @@
 ### Mind Flayer Clairvoyant
 _Medium aberration, lawful evil_
 
-![[Mind Flayer Clairvoyant.webp]]
+![[Mind Flayer Clairvoyant.jpg]]
 
 In pursuit of reconstructing their lost empire, a few mind flayers have turned to their home plane, the Far Realm, for answers. A mind flayer clairvoyant has peered into that realm's starless depths and been subsequently rewarded with extraordinary powers.
 

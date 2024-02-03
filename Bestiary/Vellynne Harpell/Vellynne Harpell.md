@@ -1,7 +1,7 @@
 ### Vellynne Harpell
 _Medium humanoid (human), neutral_
 
-![[Vellynne Harpell.webp]]
+![[Vellynne Harpell.jpg]]
 
 Vellynne Harpell is a member of the prestigious Harpell family, based in the town of Longsaddle. Cold and dispassionate, she took to magic only a decade ago in her late forties and is skilled in the arcane tradition of necromancy. She has a lifelong struggle—a nervous disorder that manifests as trembling. It can affect her balance and her stride, but she has learned to cast her spells unimpeded by it.
 

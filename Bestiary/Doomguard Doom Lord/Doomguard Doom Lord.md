@@ -1,7 +1,7 @@
 ### Doomguard Doom Lord
 _Small, Medium humanoid, any alignment_
 
-![[Doomguard Doom Lord.webp]]
+![[Doomguard Doom Lord.jpg]]
 
 Doom lords are the highest-ranking members of the Doomguard, embodying the multiverse's inevitable collapse into dust. Doom lords' mere presence snuffs the life from weaker foes, and the stoutest walls crumble before them.
 

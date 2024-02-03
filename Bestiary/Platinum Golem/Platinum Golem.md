@@ -1,7 +1,7 @@
 ### Platinum Golem
 _Large construct, _
 
-![[PlatinumGolemFluff.webp]]
+![[PlatinumGolemFluff.jpg]]
 
 
 

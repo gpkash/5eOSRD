@@ -1,7 +1,7 @@
 ### Shadow
 _Medium undead, chaotic evil_
 
-![[Shadow.webp]]
+![[Shadow.jpg]]
 
 Shadows are undead that resemble dark exaggerations of humanoid shadows.
 

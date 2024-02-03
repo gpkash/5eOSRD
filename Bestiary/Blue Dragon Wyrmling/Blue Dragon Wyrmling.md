@@ -1,7 +1,7 @@
 ### Blue Dragon Wyrmling
 _Medium dragon, lawful evil_
 
-![[Blue Dragon Wyrmling.webp]]
+![[Blue Dragon Wyrmling.jpg]]
 
 
 

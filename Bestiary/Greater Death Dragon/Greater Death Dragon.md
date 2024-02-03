@@ -1,7 +1,7 @@
 ### Greater Death Dragon
 _Huge undead, chaotic evil_
 
-![[Greater Death Dragon.webp]]
+![[Greater Death Dragon.jpg]]
 
 Some death dragons manage to retain almost all of their former selves, albeit twisted by their state of being. These greater death dragons scheme to achieve their ends, all the while amassing and jealously guarding treasure hoards as they did in life. In battle, they are deadly foes, channeling the Cataclysmic fire that limns their bones and fuels their breath. They take cruel delight in snatching foes in their jaws, rushing into the air, then dropping the snared creatures to their doom.
 

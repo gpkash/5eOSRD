@@ -1,7 +1,7 @@
 ### Tlincalli
 _Large monstrosity, neutral evil_
 
-![[Tlincalli.webp]]
+![[Tlincalli.jpg]]
 
 Tlincallis, also called scorpion folk, are chitin-covered creatures with a humanlike upper body and the lower body of an enormous scorpion, complete with a stinger at the end of a long tail. These desert creatures range across arid lands, hunting at dawn and dusk. In the hours between, they wait out the day's heat or the night's cold by burying themselves in loose sand or earth or, if the terrain proves too inflexible, lurking in ruins or shallow caves.
 

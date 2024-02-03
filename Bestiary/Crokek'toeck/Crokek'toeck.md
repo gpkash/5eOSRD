@@ -1,7 +1,7 @@
 ### Crokek'toeck
 _Gargantuan fiend (demon), chaotic evil_
 
-![[Crokek'toeck.webp]]
+![[Crokek'toeck.jpg]]
 
 Crokek'toeck is Yeenoghu's demonic pet. Resembling a giant mudskipper with the teeth, fur, ears, and laugh of a hyena, this unique demon can hold smaller demons in its gullet and disgorge them anywhere Yeenoghu wishes. Immune to the mind-shattering effects of the River Styx, Crokek'toeck is often used to transport smaller demons (and sometimes Yeenoghu himself) through the Styx's terrible waters.
 

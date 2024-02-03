@@ -1,7 +1,7 @@
 ### Cinder Hulk
 _Large elemental, chaotic evil_
 
-![[Cinder Hulk.webp]]
+![[Cinder Hulk.jpg]]
 
 Cinder hulks are distant descendants of fire giants who isolated themselves from the world and steeped themselves in the energy of the Elemental Planes. Over the course of centuries, these giants were transformed into Elementals made of smoke and cinders. Half the size of their giant ancestors, cinder hulks maintain the basic physical shape of fire giants, but ash and embers billow around their barely cohesive physical forms.
 

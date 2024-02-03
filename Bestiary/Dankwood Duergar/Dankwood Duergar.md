@@ -1,7 +1,7 @@
 ### Dankwood Duergar
 _Medium humanoid (Dwarf), _
 
-![[Dankwood Duergar.webp]]
+![[Dankwood Duergar.jpg]]
 
 Dankwood duergar live in the deep caves below and are constantly on the search for treasure and magical discoveries they can claim as their own. Like their dwarven relatives, the Dankwood duergar are masters at crafting, but never seem to be happy or satisfied with their creations.
 

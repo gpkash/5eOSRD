@@ -1,7 +1,7 @@
 ### Jabberwock
 _Huge dragon, chaotic evil_
 
-![[Jabberwock.webp]]
+![[Jabberwock.jpg]]
 
 A jabberwock is a solitary, temperamental predator that haunts pristine forests and ancient ruins. Accurate descriptions of jabberwocks are difficult to come by, because the rare survivors of an encounter with one retain only a confused impression of its parts and not a sense of the whole. Pieced-together accounts describe it as a sinewy, dragon-like creature that can walk on its hind legs as easily as it travels on all four. Its eyes can emit fiery beams.
 

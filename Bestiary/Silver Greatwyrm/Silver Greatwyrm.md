@@ -1,7 +1,7 @@
 ### Silver Greatwyrm
 _Gargantuan dragon (metallic), lawful good_
 
-![[Silver Greatwyrm.webp]]
+![[Silver Greatwyrm.jpg]]
 
 Some of the oldest and wisest metallic dragons undergo a miraculous metamorphosis to become greatwyrms. This transformation is often wrought by Bahamut, who takes pride in elevating his worthiest children to a status approaching his own greatness.
 

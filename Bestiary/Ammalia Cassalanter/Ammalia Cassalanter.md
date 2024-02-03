@@ -1,7 +1,7 @@
 ### Ammalia Cassalanter
 _Medium humanoid (human), lawful evil_
 
-![[Ammalia Cassalanter.webp]]
+![[Ammalia Cassalanter.jpg]]
 
 The vainglorious lady of House Cassalanter is schooled in the arcane arts. Like her husband Victoro, she worships Asmodeus. When they were young, Ammalia and Victoro signed a contract with the archdevil, trading the souls of their children for power, good health, and long life. The soul of Osvaldo, their eldest son, was taken immediately, and he was transformed into a chain devil. The souls of the younger twins, Terenzio and Elzerina, will be taken when they turn nine years old.
 

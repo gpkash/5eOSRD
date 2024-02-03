@@ -1,7 +1,7 @@
 ### Koalinth Sergeant
 _Medium humanoid (goblinoid), lawful evil_
 
-![[Koalinth Sergeant.webp]]
+![[Koalinth Sergeant.jpg]]
 
 These fierce koalinths lead special missions for their people, such as the diplomatic envoy encountered in Danger at Dunwater. A koalinth sergeant focuses its ire on the most significant threats on the battlefield, then eliminates those threats one by one.
 

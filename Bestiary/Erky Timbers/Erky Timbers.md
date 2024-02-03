@@ -1,7 +1,7 @@
 ### Erky Timbers
 _Medium humanoid (gnome), any alignment_
 
-![[Erky Timbers.webp]]
+![[Erky Timbers.jpg]]
 
 Acolytes are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor spellcasting power by their deities.
 

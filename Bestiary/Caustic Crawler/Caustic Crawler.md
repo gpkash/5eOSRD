@@ -1,7 +1,7 @@
 ### Caustic Crawler
 _Large monstrosity, unaligned_
 
-![[Caustic Crawler.webp]]
+![[Caustic Crawler.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Swarm of Sorrowfish
 _Medium aberration, unaligned_
 
-![[Swarm of Sorrowfish.webp]]
+![[Swarm of Sorrowfish.jpg]]
 
 A swarm of sorrowfish attacks out of hunger. Although sorrowfish have no sense of fear, they often adopt the tactic of lurking among the petrifying tendrils of a death embrace, using the tendrils for protection against other predators.
 

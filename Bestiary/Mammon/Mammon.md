@@ -1,7 +1,7 @@
 ### Mammon
 _Huge fiend (devil), lawful evil_
 
-![[Mammon.webp]]
+![[Mammon.jpg]]
 
 Perhaps the richest being in all the realms, there is nothing that Mammon loves more than wealth. Where other devils obsess over souls and power, Mammon is perfectly content to continually increase his material possessions. Interestingly, he is one of the only archdevils willing to make deals with mortals over strictly monetary terms. Whether he maintains his end of the deal, however, is a completely different story. Anyone that interacts with Mammon immediately recognizes his two-faced approach—the devil will say or do anything, if he thinks it will benefit him in the end.
 

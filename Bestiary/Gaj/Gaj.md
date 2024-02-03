@@ -1,7 +1,7 @@
 ### Gaj
 _Large aberration, neutral evil_
 
-![[Gaj.webp]]
+![[Gaj.jpg]]
 
 Gaj are hideous hunters that prey on other intelligent life forms. They crawl on six insectile legs and attack with their mandibles. They ambush prey by burying themselves under sand or silt and lying in wait, lurking in dark caves, or perching on natural stone ledges, where they blend in with their surroundings. Gaj have no language, but they have the magical ability to understand the speech of other creatures.
 

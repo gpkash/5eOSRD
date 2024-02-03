@@ -1,7 +1,7 @@
 ### Adult Amethyst Dragon
 _Huge dragon (gem), neutral_
 
-![[Adult Amethyst Dragon.webp]]
+![[Adult Amethyst Dragon.jpg]]
 
 Amethyst dragons, the mightiest of the gem dragons, study and psionically manipulate the fundamental principles of the multiverse, from the force of gravity to the emanations of the Outer Planes. Their innate psionics give them a measure of control over how physical laws affect them. They defy gravity with flight that doesn't rely solely upon their great wings, and gravitational force empowers both their devastating breath weapon and the exploding amethyst crystals they spit at their foes.
 

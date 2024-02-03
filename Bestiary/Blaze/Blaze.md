@@ -1,7 +1,7 @@
 ### Blaze
 _Medium elemental, neutral evil_
 
-![[Blaze.webp]]
+![[Blaze.jpg]]
 
 Blazes are elemental beings that congregate at Nether fortresses. They float a short distance above the ground, and each one is orbited by three sets of glowing rods. When a blaze is destroyed, it sometimes leaves one of these rods behind. Blaze rods are a source of great energy that, when carefully crushed into powder, can be used to brew potions and craft other magic items.
 

@@ -1,7 +1,7 @@
 ### Prisoner 237
 _Medium humanoid (human), lawful evil_
 
-![[Prisoner 237.webp]]
+![[Prisoner 237.jpg]]
 
 Vaelish Gant, Prisoner 237 within the walls of Revel's End, is a member of the Arcane Brotherhood who first engaged in criminal activity by insinuating himself into the trade network of Ten-Towns. He hoped that his work would help the Arcane Brotherhood gain control of the region. A few years ago, shortly after his arrival in Ten-Towns, Gant established a protection racket in Bryn Shander and tried to turn the town against its speaker, Duvessa Shane, with the goal of supplanting her. He also tried to destabilize the economy of Ten-Towns. A party of adventurers thwarted his criminal ventures by capturing him.
 

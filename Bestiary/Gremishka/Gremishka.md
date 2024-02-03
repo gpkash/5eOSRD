@@ -1,7 +1,7 @@
 ### Gremishka
 _Tiny monstrosity, _
 
-![[Gremishka.webp]]
+![[Gremishka.jpg]]
 
 Gremishkas are the vicious products of mistakes made by novice spellcasters seeking to create life. The results are cat-sized, magically unstable creatures with a taste for the trappings of magic—particularly spellbooks, spell components, familiars, and the like. Gremishkas delight in tormenting magic-users, holding vicious grudges against those who gave them life as they infest the walls of spellcasters' homes or the surrounding lands.
 

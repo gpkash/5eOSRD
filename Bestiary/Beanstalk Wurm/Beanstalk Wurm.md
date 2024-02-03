@@ -1,7 +1,7 @@
 ### Beanstalk Wurm
 _Gargantuan monstrosity, unaligned_
 
-![[Beanstalk Wurm.webp]]
+![[Beanstalk Wurm.jpg]]
 
 Wurms are enormous creatures that resemble limbless, wingless dragons, though they lack a dragon's breath weapons and keen intelligence. On the world of Eldraine, many wurms have adapted to life among the world's skyscraping beanstalks. These beanstalk wurms sport leafy growths, sustaining themselves on a mixture of natural photosynthesis and a carnivorous diet.
 

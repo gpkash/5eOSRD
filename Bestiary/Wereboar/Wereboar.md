@@ -1,7 +1,7 @@
 ### Wereboar
 _Medium humanoid (human, shapechanger), neutral evil_
 
-![[Wereboar.webp]]
+![[Wereboar.jpg]]
 
 
 

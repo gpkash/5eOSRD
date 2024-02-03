@@ -1,7 +1,7 @@
 ### Gargantua
 _Gargantuan aberration, chaotic neutral_
 
-![[Gargantua.webp]]
+![[Gargantua.jpg]]
 
 From time to time—perhaps once a generation, under a particular configuration of stars and planets, or at the whim of some malicious god—a gargantua is born to giant parents. Though the child appears like any other of its kind, the creature's true nature manifests upon reaching adulthood: its complexion turns purplish and horns sprout from its head. The gargantua grows rapidly, eventually towering over other giants at a height of 40 feet or more.
 

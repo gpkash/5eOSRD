@@ -1,7 +1,7 @@
 ### Night Scavver
 _Huge monstrosity, unaligned_
 
-![[Night Scavver.webp]]
+![[Night Scavver.jpg]]
 
 Night scavvers are 15 feet long. Their coloration resembles that of Wildspace itself: white spots (representing stars) sprinkled amid dark patches and patterns of color. They fearlessly invade the air envelopes of spelljamming ships and attack crew members on deck.
 

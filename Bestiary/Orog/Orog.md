@@ -1,7 +1,7 @@
 ### Orog
 _Medium humanoid (orc), chaotic evil_
 
-![[Orog.webp]]
+![[Orog.jpg]]
 
 
 

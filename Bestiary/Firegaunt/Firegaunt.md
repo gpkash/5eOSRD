@@ -1,7 +1,7 @@
 ### Firegaunt
 _Huge undead, lawful evil_
 
-![[Firegaunt.webp]]
+![[Firegaunt.jpg]]
 
 A fire giant whose burning hatred prevents it from moving on to the afterlife rises as a firegaunt. Spawned from deep rancor, the firegaunt seeks out living creatures to destroy. Like a specter, it doesn't seek redemption; it just hopes to cause as much destruction as possible before attaining its final oblivion.
 

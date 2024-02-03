@@ -1,7 +1,7 @@
 ### Zi Liang
 _Medium humanoid (Shou human), chaotic good_
 
-![[Zi Liang.webp]]
+![[Zi Liang.jpg]]
 
 Zi Liang is a devout worshiper of Chauntea, the Earth Mother. She has considerably less faith in Goldenfields' defenders, so she patrols the temple-farm during her off-duty hours.
 

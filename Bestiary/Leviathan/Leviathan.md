@@ -1,7 +1,7 @@
 ### Leviathan
 _Gargantuan elemental, neutral_
 
-![[Leviathan.webp]]
+![[Leviathan.jpg]]
 
 A leviathan is an immense creature that acts as a force of nature, dragging ships down to the ocean's depths and washing away coastal settlements. When called forth, a leviathan arises from a large body of water and takes on the form of a gigantic serpent.
 

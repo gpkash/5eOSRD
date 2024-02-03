@@ -1,7 +1,7 @@
 ### Grim Champion of Pestilence
 _Medium undead, neutral evil_
 
-![[Grim Champion of Pestilence.webp]]
+![[Grim Champion of Pestilence.jpg]]
 
 Aleron was once a tiefling adventurer, but unlike so many victims of the Deck of Many Things, he never drew the Skull card. Instead, when one of his allies drew the card and faced the avatar of death, Aleron came to his ally's aid. A second avatar of death appeared, and Aleron was slain; soon after, his Undead corpse crawled from Withered Vineyard, tainted with plague. Aleron resents his fellow Undead in the Grim Harrow, considering himself better than all of them and unjustly condemned to the Gardens of Decay for an act of altruism.
 

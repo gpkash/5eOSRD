@@ -1,7 +1,7 @@
 ### Hare
 _Tiny beast, unaligned_
 
-![[Hare.webp]]
+![[Hare.jpg]]
 
 Snowshoe hares are gentle herbivores that live in burrows throughout Icewind Dale. They have shorter ears than other hares and are acclimated to cold weather.
 

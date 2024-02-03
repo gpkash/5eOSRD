@@ -1,7 +1,7 @@
 ### Giant Strider
 _Large monstrosity, neutral evil_
 
-![[Giant Strider.webp]]
+![[Giant Strider.jpg]]
 
 > _Out of curiosity, I once tamed a giant strider. Several potions of fire resistance later, the creature was purring in my lap, and I didn't feel a thing.
 _

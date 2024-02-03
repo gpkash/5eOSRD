@@ -1,7 +1,7 @@
 ### Kraul Death Priest
 _Medium humanoid (kraul), neutral evil_
 
-![[Kraul Death Priest.webp]]
+![[Kraul Death Priest.jpg]]
 
 The death priests occupy the highest roles in kraul society. They lead the buzzing chants of the kraul rites. Their inscrutable clicks and buzzing can summon crippling necromantic magic, and the presence of death seems to fortify them. They draw power from the defeat of their enemies and channel it to their followers, ensuring the continuation of the cycle.
 

@@ -1,7 +1,7 @@
 ### Deathlock
 _Medium undead, lawful evil_
 
-![[Deathlock.webp]]
+![[Deathlock.jpg]]
 
 
 

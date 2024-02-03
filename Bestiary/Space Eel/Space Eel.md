@@ -1,7 +1,7 @@
 ### Space Eel
 _Small beast, unaligned_
 
-![[Space Eel.webp]]
+![[Space Eel.jpg]]
 
 Space eels avoid confrontations with larger creatures unless the eels are starving. These 5-foot-long scavengers might trail a spelljamming ship and feed on barnacles they detach from the ship's hull. Wildspace hunters try to catch and kill the eels for their meat—a task easier to describe than to accomplish.
 

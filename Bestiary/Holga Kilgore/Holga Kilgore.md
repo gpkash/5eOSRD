@@ -1,7 +1,7 @@
 ### Holga Kilgore
 _Medium humanoid, chaotic good_
 
-![[Holga Kilgore.webp]]
+![[Holga Kilgore.jpg]]
 
 Holga Kilgore is a member of the Uthgardt Elk Tribe, and her strength and scowl conceal a generous heart. She's a woman of few words who lets her actions (and punches) speak for her. A fearsome combatant when her ire is up, Holga wields anything that comes to hand—from weapons to snacks. Her unwavering loyalty makes her a fierce defender of allies, particularly her best friend, Edgin.
 

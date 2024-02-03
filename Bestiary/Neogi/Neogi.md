@@ -1,7 +1,7 @@
 ### Neogi
 _Small aberration, lawful evil_
 
-![[Neogi.webp]]
+![[Neogi.jpg]]
 
 
 

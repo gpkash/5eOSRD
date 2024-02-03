@@ -1,7 +1,7 @@
 ### Half-Ogre (Ogrillon)
 _Large giant, chaotic good evil_
 
-![[Half-Ogre (Ogrillon).webp]]
+![[Half-Ogre (Ogrillon).jpg]]
 
 
 

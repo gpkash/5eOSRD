@@ -1,7 +1,7 @@
 ### Fire Snake
 _Medium elemental, neutral evil_
 
-![[Fire Snake.webp]]
+![[Fire Snake.jpg]]
 
 
 

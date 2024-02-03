@@ -1,7 +1,7 @@
 ### One-Eyed Shiver
 _Medium humanoid (human), chaotic evil_
 
-![[Crushing Wave Cultists.webp]]
+![[Crushing Wave Cultists.jpg]]
 
 A one-eyed shiver is a fearsome cultist who wields powers of ice and cold. To gain the frigid power of elemental water, the shiver removes one eye and replaces it with a frosty white orb that can blast foes with an icy ray. When the orb isn't in use, the shiver covers its magical eye with an eye patch. Even when hidden, the orb's magical power makes itself felt-a one-eyed shiver has ice-cold blood and is constantly surrounded by an aura of thin, cold fog.
 

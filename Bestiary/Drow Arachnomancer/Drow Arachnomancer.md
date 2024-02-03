@@ -1,7 +1,7 @@
 ### Drow Arachnomancer
 _Medium humanoid (elf), chaotic evil_
 
-![[Drow Arachnomancer.webp]]
+![[Drow Arachnomancer.jpg]]
 
 Drow spellcasters who seek to devote themselves wholly to [[ Lolth|Drow|MTF]], the Spider Queen, sometimes walk the sinister path of the arachnomancer. By offering up body and soul to Lolth, they gain tremendous power and a supernatural connection to the ancient spiders of the Demonweb Pits, channeling magic from that dread place.
 

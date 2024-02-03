@@ -1,7 +1,7 @@
 ### Spirit Naga
 _Large monstrosity, chaotic evil_
 
-![[Spirit Naga.webp]]
+![[Spirit Naga.jpg]]
 
 
 

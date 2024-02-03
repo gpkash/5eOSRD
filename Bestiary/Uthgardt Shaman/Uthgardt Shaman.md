@@ -1,7 +1,7 @@
 ### Uthgardt Shaman
 _Medium humanoid (human), any alignment_
 
-![[Uthgardt Shaman.webp]]
+![[Uthgardt Shaman.jpg]]
 
 The Uthgardt are suspicious and resentful of most kinds of magic. Seldom do they choose to become shamans. Instead, the role is thrust upon those who are born with a strong connection to the spirit world. To be a shaman is to stand with one foot in the land of the living and the other in the land of the dead. Those who walk the shadowed path between two lands do so because the spirits of the dead compel them. Other Uthgardt fear and respect a shaman's power.
 

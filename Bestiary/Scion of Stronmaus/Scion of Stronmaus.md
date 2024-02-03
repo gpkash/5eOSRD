@@ -1,7 +1,7 @@
 ### Scion of Stronmaus
 _Gargantuan giant (titan), chaotic good_
 
-![[Scion of Stronmaus.webp]]
+![[Scion of Stronmaus.jpg]]
 
 
 

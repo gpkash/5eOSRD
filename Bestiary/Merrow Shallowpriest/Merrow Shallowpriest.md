@@ -1,7 +1,7 @@
 ### Merrow Shallowpriest
 _Large monstrosity, chaotic evil_
 
-![[Merrow Shallowpriest.webp]]
+![[Merrow Shallowpriest.jpg]]
 
 Some of the many merrow that dwell in the watery shadows of the Menagerie Coast learn to harness the magical aspects of the elements. Often working as guides leading merrow hunting parties, some of these shallowpriests rise to become powerful leaders, inspiring their clans to terrorize coastal communities and passing ships.
 

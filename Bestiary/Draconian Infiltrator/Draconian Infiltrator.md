@@ -1,7 +1,7 @@
 ### Draconian Infiltrator
 _Medium monstrosity, any alignment_
 
-![[Draconian Infiltrator.webp]]
+![[Draconian Infiltrator.jpg]]
 
 Copper, black, and topaz dragon eggs yield these sly and stealthy draconians, who often serve their creators as scouts and spies. They use the paralytic venom of their saliva to coat their weapons, making them formidable assassins as well. Their wings allow them to turn a fall into a rough glide. When draconian infiltrators die, their bodies dissolve into pools of acid.
 

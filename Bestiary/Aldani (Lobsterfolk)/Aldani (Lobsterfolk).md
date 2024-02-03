@@ -1,7 +1,7 @@
 ### Aldani (Lobsterfolk)
 _Medium monstrosity, lawful neutral_
 
-![[Aldani (Lobsterfolk).webp]]
+![[Aldani (Lobsterfolk).jpg]]
 
 Many Chultan natives can recall childhood fables of the aldani, the eerie lobsterfolk that lived in the rivers and lakes of their homeland. As there have been no sightings of the aldani in years, it is widely believed that they were wiped out. In truth, many aldani survived and retreated to the lakes of the Aldani Basin in the heart of Chult.
 

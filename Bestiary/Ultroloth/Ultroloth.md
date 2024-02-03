@@ -1,7 +1,7 @@
 ### Ultroloth
 _Medium fiend (yugoloth), neutral evil_
 
-![[Ultroloth.webp]]
+![[Ultroloth.jpg]]
 
 
 

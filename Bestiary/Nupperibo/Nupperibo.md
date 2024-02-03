@@ -1,7 +1,7 @@
 ### Nupperibo
 _Medium fiend (devil), lawful evil_
 
-![[Nupperibo.webp]]
+![[Nupperibo.jpg]]
 
 > _A lemure emerges from the Styx wiped of memory, yet the patterns of evil it performed in life remain indelibly inscribed upon its soul...
 

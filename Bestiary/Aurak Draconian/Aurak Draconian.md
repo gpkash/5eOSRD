@@ -1,7 +1,7 @@
 ### Aurak Draconian
 _Medium monstrosity (sorcerer), lawful evil_
 
-![[Aurak Draconian.webp]]
+![[Aurak Draconian.jpg]]
 
 Created from the eggs of gold dragons, aurak draconians are the most powerful of draconians, their entire being thrumming with eldritch power. Unlike other draconians, auraks are wingless. This might lull foes into a false sense of security, until the auraks exhale noxious fumes resembling those of their dragon progenitors. Auraks are masterminds and strategists that serve as commanders in the Dragon Armies. They often lead contingents of less powerful draconians. When slain, aurak draconians unleash their inherent magic in a deadly burst of lightning.
 

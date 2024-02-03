@@ -1,7 +1,7 @@
 ### Spore Servant Octopus
 _Large plant, unaligned_
 
-![[Spore Servant Octopus.webp]]
+![[Spore Servant Octopus.jpg]]
 
 Spore servants are dead creatures reanimated by the magical spores of a myconid leader. The final act of the myconid leader in Seagrow Caves before lapsing into its current comatose state was creating a spore servant from a dead giant octopus to protect the caves while the leader could not. Unlike a living octopus, this guardian has only basic control over its tentacles. Rather than coiling around intruders to immobilize them, the spore servant simply bludgeons them.
 

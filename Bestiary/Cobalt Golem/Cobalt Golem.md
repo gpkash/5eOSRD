@@ -1,7 +1,7 @@
 ### Cobalt Golem
 _Huge construct, _
 
-![[CobaltGolemFluff.webp]]
+![[CobaltGolemFluff.jpg]]
 
 
 

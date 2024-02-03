@@ -1,7 +1,7 @@
 ### Fastieth
 _Medium beast, unaligned_
 
-![[Fastieth.webp]]
+![[Fastieth.jpg]]
 
 
 

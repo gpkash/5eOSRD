@@ -1,7 +1,7 @@
 ### Morkoth
 _Medium aberration, chaotic evil_
 
-![[Morkoth.webp]]
+![[Morkoth.jpg]]
 
 Ancient and devious, morkoths are voracious collectors. Each one floats through the planes on a strange, mobile island, amassing the valuables, oddities, and castoffs of the multiverse in a massive, ever-growing collection.
 

@@ -1,7 +1,7 @@
 ### Xenk Yendar
 _Medium humanoid (paladin), lawful good_
 
-![[Xenk Yendar.webp]]
+![[Xenk Yendar.jpg]]
 
 Raised in the nation of Thay, Xenk Yendar has sworn an oath of devotion to aid the innocent. Every inch the knight in shining armor, he thrives when inspiring goodness in his allies. The words "Neither virtue nor blade shall break" are etched in Celestial on the blade of his daggersword.
 

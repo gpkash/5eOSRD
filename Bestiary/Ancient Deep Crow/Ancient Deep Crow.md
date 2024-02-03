@@ -1,7 +1,7 @@
 ### Ancient Deep Crow
 _Huge monstrosity, unaligned_
 
-![[Deep Crow.webp]]
+![[Deep Crow.jpg]]
 
 So little is known of the deep crows that even less is known of their monstrous leviathan cousins, the ancient deep crows. Whether these gargantuan specimens are elder deep crows grown to great size or some higher form that holds lesser deep crows in thrall remains to be determined. Ideally by someone else. Seriously, stay away from these things.
 

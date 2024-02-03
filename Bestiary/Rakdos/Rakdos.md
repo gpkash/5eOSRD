@@ -1,7 +1,7 @@
 ### Rakdos
 _Huge fiend (demon), chaotic evil_
 
-![[Rakdos.webp]]
+![[Rakdos.jpg]]
 
 Rakdos, the demon for whom his cult is named, embodies hedonism. He is also the consummate entertainer, whose mere appearance is an act of grisly performance art. A monstrous figure standing thirty feet tall, spreading enormous wings, crowned with fire and swinging a flaming scythe, Rakdos demands the spotlight. His every entrance is a showstopper.
 

@@ -1,7 +1,7 @@
 ### Hag of the Fetid Gaze
 _Medium fey, neutral evil_
 
-![[Hag of the Fetid Gaze.webp]]
+![[Hag of the Fetid Gaze.jpg]]
 
 Three green hags named Dread Morgan, Vile Sazha, and Auntie Greenbones were once rivals who dwelled in an area of the Feywild coterminous with the High Forest. A decade ago, during a time when the boundaries between the planes thinned, the hags became aware of the magic spring controlled by Sylvarie—and decided to control and corrupt it for their own purposes. The covetous hags each knew part of a ritual for crafting magic paintings that could bind mortal creatures with a terrible curse. After agreeing to share their knowledge and work together, they formed a coven dedicated to claiming Sylvarie's temple and making it a base for their nefarious plans.
 

@@ -1,7 +1,7 @@
 ### Giff Warlord
 _Medium humanoid, any alignment_
 
-![[Giff Warlord.webp]]
+![[Giff Warlord.jpg]]
 
 A high-ranking giff who takes up the life of an independent mercenary might amass enough power and influence to become a warlord.
 

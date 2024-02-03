@@ -1,7 +1,7 @@
 ### Keg Robot
 _Medium construct, unaligned_
 
-![[Keg Robot.webp]]
+![[Keg Robot.jpg]]
 
 This beer is delicious. But did the spigot really have to be placed in that spot?
 

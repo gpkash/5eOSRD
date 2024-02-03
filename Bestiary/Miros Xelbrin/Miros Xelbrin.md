@@ -1,7 +1,7 @@
 ### Miros Xelbrin
 _Medium humanoid (Damaran human), neutral good_
 
-![[Miros Xelbrin.webp]]
+![[Miros Xelbrin.jpg]]
 
 Innkeeper Miros is a retired carnival attraction, dubbed "the Yeti" because of his barrel-shaped body and the thick, white hair covering his arms, chest, back, and head. When Goldenfields suffers, so does his business, so he takes strides to protect the compound.
 

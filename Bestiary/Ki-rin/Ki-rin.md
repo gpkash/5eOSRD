@@ -1,7 +1,7 @@
 ### Ki-rin
 _Huge celestial, lawful good_
 
-![[Ki-rin.webp]]
+![[Ki-rin.jpg]]
 
 Ki-rins are noble, celestial creatures. In the Outer Planes, ki-rins in service to benevolent deities take a direct role in the eternal struggle between good and evil. In the mortal world, ki-rins are celebrated far and wide as harbingers of destiny, guardians of the sacred, and counterbalances to the forces of evil.
 

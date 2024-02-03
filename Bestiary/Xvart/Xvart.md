@@ -1,7 +1,7 @@
 ### Xvart
 _Small humanoid (xvart), chaotic evil_
 
-![[Xvart.webp]]
+![[Xvart.jpg]]
 
 
 

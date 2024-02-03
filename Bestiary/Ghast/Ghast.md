@@ -1,7 +1,7 @@
 ### Ghast
 _Medium undead, chaotic evil_
 
-![[Ghast.webp]]
+![[Ghast.jpg]]
 
 
 

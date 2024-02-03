@@ -1,7 +1,7 @@
 ### Tomb Guardian
 _Medium construct, neutral_
 
-![[Tomb Guardian.webp]]
+![[Tomb Guardian.jpg]]
 
 Adventurers who have perished inside the tomb are stitched together by tomb dwarves and bolted into suits of armor. Once complete, these shambling golems are released into the tomb to hunt intruders.
 

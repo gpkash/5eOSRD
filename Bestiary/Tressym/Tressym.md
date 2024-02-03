@@ -1,7 +1,7 @@
 ### Tressym
 _Tiny monstrosity, any alignment_
 
-![[Tressym.webp]]
+![[Tressym.jpg]]
 
 A tressym resembles a small cat, roughly the size of a common housecat, and growing up 2 feet (61 centimeters) long from nose to tail. their primary feature is their wings. Extending from their well-muscled shoulders, these wings are formed like a bat's, being divided into arc-segments by hollow elongated "finger" bones. However, the leathery membranes between these bones are covered in feathers. These wings have a maximum wingspan of 3 feet (0.9 meters).  
 

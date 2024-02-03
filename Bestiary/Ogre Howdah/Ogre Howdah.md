@@ -1,7 +1,7 @@
 ### Ogre Howdah
 _Large giant, chaotic evil_
 
-![[Ogre Howdah.webp]]
+![[Ogre Howdah.jpg]]
 
 
 

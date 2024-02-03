@@ -1,7 +1,7 @@
 ### Fewmaster Gholcag
 _Large giant, chaotic evil_
 
-![[Fewmaster Gholcag.webp]]
+![[Fewmaster Gholcag.jpg]]
 
 Fewmaster Gholcag is a low-ranking commander in the Red Dragon Army and the leader of the raid on Vogler.
 

@@ -1,7 +1,7 @@
 ### Zombie
 _Medium undead, neutral evil_
 
-![[Zombie.webp]]
+![[Zombie.jpg]]
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
 

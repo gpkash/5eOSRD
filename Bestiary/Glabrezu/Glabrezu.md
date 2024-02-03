@@ -1,7 +1,7 @@
 ### Glabrezu
 _Large fiend (demon), chaotic evil_
 
-![[Glabrezu.webp]]
+![[Glabrezu.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Bjornhild Solvigsdottir
 _Medium humanoid (human), neutral evil_
 
-![[Bjornhild Solvigsdottir.webp]]
+![[Bjornhild Solvigsdottir.jpg]]
 
 It's unusual for a woman to lead a Reghed tribe, but Bjornhild is a most extraordinary woman. The fearless wife of the late King Korold, she fought alongside him in many battles. After a frost giant's mammoth companion slew Korold, the formidable Bjornhild took his place.
 

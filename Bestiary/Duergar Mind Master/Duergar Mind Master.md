@@ -1,7 +1,7 @@
 ### Duergar Mind Master
 _Medium humanoid (dwarf), lawful evil_
 
-![[Duergar Mind Master.webp]]
+![[Duergar Mind Master.jpg]]
 
 
 

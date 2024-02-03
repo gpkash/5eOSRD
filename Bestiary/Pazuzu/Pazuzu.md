@@ -1,7 +1,7 @@
 ### Pazuzu
 _Large fiend (demon), chaotic evil_
 
-![[Pazuzu.webp]]
+![[Pazuzu.jpg]]
 
 > _Boo once heard words coming from a flask made of iron. If I know anything, its that a flask is meant for drinking, not talking.
 _

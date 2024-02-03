@@ -1,7 +1,7 @@
 ### Scuttling Serpentmaw
 _Small aberration, unaligned_
 
-![[Scuttling Serpentmaw.webp]]
+![[Scuttling Serpentmaw.jpg]]
 
 A scuttling serpentmaw looks like an unusually large crab with a sleek black shell. It lurks in crevasses and deep underwater canyons. Once spotted, it scuttles toward its prey and reveals its most formidable feature: an armored maw concealed on the back of its shell. This serpentine appendage can extend out from the shell to tear into prey.
 

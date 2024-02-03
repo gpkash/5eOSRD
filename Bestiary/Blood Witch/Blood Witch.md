@@ -1,7 +1,7 @@
 ### Blood Witch
 _Medium humanoid (any race), chaotic evil_
 
-![[Blood Witch.webp]]
+![[Blood Witch.jpg]]
 
 Blood witches imagine themselves to be the intermediaries between Rakdos and his cult-the pinnacle of his priesthood, his trusted advisors, and the messengers who communicate his will to the scattered troupes and ringmasters. The Cult of Rakdos recognizes no authority but Rakdos, and the demon lord requires no advisors. Nonetheless, the blood witches are smart, charismatic, and powerful, so their voices do carry some weight.
 

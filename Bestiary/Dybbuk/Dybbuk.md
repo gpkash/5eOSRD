@@ -1,7 +1,7 @@
 ### Dybbuk
 _Medium fiend (demon), chaotic evil_
 
-![[Dybbuk.webp]]
+![[Dybbuk.jpg]]
 
 Dybbuks are demons that terrorize mortals on the Material Plane by possessing corpses and giving them a semblance of life, after which the demons use them to engage in a range of sordid activities.
 

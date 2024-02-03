@@ -1,7 +1,7 @@
 ### Surrakar
 _Medium humanoid (lizardfolk), neutral_
 
-![[Surrakar.webp]]
+![[Surrakar.jpg]]
 
 The surrakar are a race of hulking amphibian humanoids native to Bala Ged. They have broad shoulders and long arms that drag on the ground when they walk. Their splayed feet and hands are webbed, and long tusks protrude from their large mouths. They have little culture and no written language, and some members of other races believe they are merely animals with no true language at all.
 

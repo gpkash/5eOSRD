@@ -1,7 +1,7 @@
 ### Cairnwight
 _Huge undead, neutral_
 
-![[Cairnwight.webp]]
+![[Cairnwight.jpg]]
 
 Stone giants believe the god Skoraeus Stonebones inspires artists to create their finest stone carvings. Sometimes a giant pursues this divine inspiration to the exclusion of all other tasks, retreating into a spacious cavern and blocking out all distractions. Creating a masterwork can become such a driving obsession that death can't stop it: a giant who dies while creating art might rise as a cairnwight and continue the work. Once the artwork is completed, the cairnwight remains as its undying guardian.
 

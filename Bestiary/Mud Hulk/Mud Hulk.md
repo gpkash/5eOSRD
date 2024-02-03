@@ -1,7 +1,7 @@
 ### Mud Hulk
 _Large elemental, chaotic evil_
 
-![[Mud Hulk.webp]]
+![[Mud Hulk.jpg]]
 
 The ancestors of mud hulks were hill giants who, living in isolation, ate everything within reach until they were forced to subsist on the earth itself. The giants' elemental nature asserted itself and transformed them into creatures of living mud.
 

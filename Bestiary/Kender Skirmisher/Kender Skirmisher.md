@@ -1,7 +1,7 @@
 ### Kender Skirmisher
 _Small humanoid, any alignment_
 
-![[Kender Skirmisher.webp]]
+![[Kender Skirmisher.jpg]]
 
 Kender skirmishers are fearless fighters who use stealth and wiliness to defend their friends and homes. They excel at disrupting their enemies by sabotaging crucial equipment or by taunting opponents into making rash decisions. They wield the signature kender weapon: the hoopak, a combination spear and sling staff.
 

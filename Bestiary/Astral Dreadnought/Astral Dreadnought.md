@@ -1,7 +1,7 @@
 ### Astral Dreadnought
 _Gargantuan monstrosity (titan), unaligned_
 
-![[Astral Dreadnought.webp]]
+![[Astral Dreadnought.jpg]]
 
 Enormous and terrifying, astral dreadnoughts haunt the silvery void of the Astral Plane, causing planar travelers to shudder at the very thought of them. Dreadnoughts have been gliding through the astral mists since the dawn of the multiverse, trying to devour all other creatures they encounter.
 

@@ -1,7 +1,7 @@
 ### Artus Cimber
 _Medium humanoid (human), neutral good_
 
-![[Artus Cimber.webp]]
+![[Artus Cimber.jpg]]
 
 A former member of the Harpers, Artus Cimber is the keeper of the Ring of Winter. He found the ring in the jungles of Chult, where he also met his wife, Alisanda. The ring halts its wearer's natural aging and has allowed Artus to survive well beyond his natural lifespan. The ring also defies magical attempts to divine its location and that of its wearer. On his fingers above the knuckles, Artus has tattooed the names of his dearly departed animal companions-a pair of talking wombats named Byrt and Lugg.
 

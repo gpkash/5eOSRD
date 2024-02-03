@@ -1,7 +1,7 @@
 ### Hill Giant Avalancher
 _Huge giant (druid), any alignment_
 
-![[Hill Giant Avalancher.webp]]
+![[Hill Giant Avalancher.jpg]]
 
 Hill giants who master rune magic discover a close connection to the natural forces of earth and stone. Their magic, combined with their size and strength, helps them quickly rise to positions of leadership.
 

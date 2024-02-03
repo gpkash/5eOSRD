@@ -1,7 +1,7 @@
 ### Crawling Claw
 _Tiny undead, neutral evil_
 
-![[Crawling Claw.webp]]
+![[Crawling Claw.jpg]]
 
 Crawling claws are the severed hands of murderers animated by dark magic so that they can go on killing. Wizards and warlocks of a dark bent use crawling claws as extra hands in their labors.
 

@@ -1,7 +1,7 @@
 ### Firemane Angel
 _Medium celestial, chaotic good_
 
-![[Firemane Angel.webp]]
+![[Firemane Angel.jpg]]
 
 Firemane angels are holy champions and paragons of war who specialize in single combat. They are powerful warriors who seek out the mightiest foes in any conflict, trusting lesser soldiers to handle lesser opponents.
 

@@ -1,7 +1,7 @@
 ### Stone Golem
 _Large construct, unaligned_
 
-![[Stone Golem.webp]]
+![[Stone Golem.jpg]]
 
 
 

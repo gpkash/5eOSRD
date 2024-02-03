@@ -1,7 +1,7 @@
 ### Harmonium Captain
 _Small, Medium humanoid, any alignment_
 
-![[Harmonium Captain.webp]]
+![[Harmonium Captain.jpg]]
 
 Harmonium captains lead peacekeeper patrols throughout Sigil. They bolster their subordinates in battle and bring the authority of the Harmonium crashing down on suspects with their commands.
 

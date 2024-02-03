@@ -1,7 +1,7 @@
 ### Chwinga
 _Tiny elemental, neutral_
 
-![[Chwinga.webp]]
+![[Chwinga.jpg]]
 
 A chwinga is a tiny elemental spirit that lives in plants, rocks, and rivers far from civilization. Those found in cold climates also live in ice and snow. Painfully shy, chwingas prefer to move about unseen.
 

@@ -1,7 +1,7 @@
 ### Troll Amalgam
 _Gargantuan giant, chaotic evil_
 
-![[Troll Amalgam.webp]]
+![[Troll Amalgam.jpg]]
 
 
 

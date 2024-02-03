@@ -1,7 +1,7 @@
 ### Molydeus
 _Huge fiend (demon), chaotic evil_
 
-![[Molydeus.webp]]
+![[Molydeus.jpg]]
 
 The fearsome molydeus speaks for the demon lord it serves and enforces its master's will. This demon is 12 feet tall, and its bipedal body has a slavering wolfs head and a fanged serpent's head. Its demon lord can speak and see through the serpent head; this master also uses the molydeus to guard treasures, slay foes, and terrify troops into obedience.
 

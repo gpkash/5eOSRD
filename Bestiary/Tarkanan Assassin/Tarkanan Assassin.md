@@ -1,7 +1,7 @@
 ### Tarkanan Assassin
 _Medium humanoid (any race), any non-good alignment_
 
-![[Tarkanan Assassin.webp]]
+![[Tarkanan Assassin.jpg]]
 
 Tarkanan assassins are the elite killers, spies, and thieves who work for House Tarkanan, a criminal organization specializing in theft and assassination. In addition to their deadly skill, a Tarkanan assassin possesses an aberrant dragonmark—a twisted sigil that provides them with magical power. House Tarkanan actively seeks and recruits people with aberrant dragonmarks.
 

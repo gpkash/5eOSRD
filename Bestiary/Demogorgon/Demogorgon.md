@@ -1,7 +1,7 @@
 ### Demogorgon
 _Huge fiend (demon), chaotic evil_
 
-![[Demogorgon.webp]]
+![[Demogorgon.jpg]]
 
 A predator of the Upside Down, the demogorgon hunts the dimension looking for unfortunate creatures that find their way there. The size and shape of an adult humanoid, the demogorgon's mouth encompasses its face and unfolds like a blossoming flower
 

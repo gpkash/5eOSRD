@@ -1,7 +1,7 @@
 ### Zorbo
 _Small monstrosity, unaligned_
 
-![[Zorbo.webp]]
+![[Zorbo.jpg]]
 
 A zorbo (pronounced ZOR-boh) is a ferocious omnivore similar in size and appearance to a koala. Living in trees and caves, it has long claws, a dour disposition, and a fondness for humanoid flesh. A zorbo alters its natural armor to match its surroundings, and it can weaken and destroy armor, shields, and protective magic items with its sharp claws.
 

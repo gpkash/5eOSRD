@@ -1,7 +1,7 @@
 ### Gnoll Vampire
 _Medium undead (shapechanger), chaotic evil_
 
-![[Gnoll Vampire.webp]]
+![[Gnoll Vampire.jpg]]
 
 When a gnoll's ravenous hunger is so great that it craves flesh and blood even after death, it can rise as a vampire to continue its feeding frenzy.
 

@@ -1,7 +1,7 @@
 ### Ancient Blue Dragon
 _Gargantuan dragon, lawful evil_
 
-![[Ancient Blue Dragon.webp]]
+![[Ancient Blue Dragon.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Black Dragon Wyrmling
 _Medium dragon, chaotic evil_
 
-![[Black Dragon Wyrmling.webp]]
+![[Black Dragon Wyrmling.jpg]]
 
 
 

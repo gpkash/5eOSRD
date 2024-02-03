@@ -1,7 +1,7 @@
 ### Nightveil Specter
 _Medium undead, neutral evil_
 
-![[Nightveil Specter.webp]]
+![[Nightveil Specter.jpg]]
 
 The Nightveil specters of Ravnica are hooded, undead guardians that ride flying creatures called gloamwings. They are fearsome agents of House Dimir, protecting the territory and interests of that guild-particularly the neighborhood of Nightveil, from which the specters get their name. Their work can include driving off people who accidentally wander too close to a secret rooftop meeting, killing those who knowingly infiltrate Dimir property, and tracking those who have stolen guild secrets, then wiping those secrets from their victims' minds to ensure that they are never shared.
 

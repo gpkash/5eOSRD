@@ -1,7 +1,7 @@
 ### Baalzebul
 _Huge fiend (devil), lawful evil_
 
-![[Baalzebul.webp]]
+![[Baalzebul.jpg]]
 
 Baalzebul, is an archdevil and the lord of Maladomini, the seventh layer of the Nine Hells. He is known as both the Lord of Lies and the Lord of the Flies because his tightly woven web of intrigue traps even the smallest fly. In recent centuries he was cursed with a new hideous form by Asmodeus. This form earned him a new title—The Slug Archduke.
 

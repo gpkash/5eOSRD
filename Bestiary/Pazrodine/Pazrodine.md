@@ -1,7 +1,7 @@
 ### Pazrodine
 _Gargantuan dragon (moonstone), lawful neutral_
 
-![[Pazrodine.webp]]
+![[Pazrodine.jpg]]
 
 Pazrodine, a moonstone dragon with a peaceful demeanor, oversees Seelie Market. A consummate traveler, she is always searching for fey crossings, which she uses to travel between the Feywild and the Material Plane. Moonstone dragons are detailed further in Fizban's Treasury of Dragons.
 

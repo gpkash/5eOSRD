@@ -1,7 +1,7 @@
 ### Rakdos Performer, Blade Juggler
 _Medium humanoid (any race), chaotic evil_
 
-![[Rakdos Performer.webp]]
+![[Rakdos Performer.jpg]]
 
 By offering a place for those of many different talents, the Cult of Rakdos has seen its numbers swell with performing artists, including blade jugglers, fire eaters, and high wire acrobats. Performers carry the message of Rakdos out into the streets: cut loose, free yourself from the bonds of society's mores and expectations, and indulge your desires.
 

@@ -1,7 +1,7 @@
 ### Lost Sorrowsworn
 _Medium monstrosity, neutral evil_
 
-![[Lost Sorrowsworn.webp]]
+![[Lost Sorrowsworn.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Minotaur Skeleton
 _Large undead, lawful evil_
 
-![[Minotaur Skeleton.webp]]
+![[Minotaur Skeleton.jpg]]
 
 
 

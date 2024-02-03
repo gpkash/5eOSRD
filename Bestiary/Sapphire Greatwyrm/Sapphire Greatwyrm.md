@@ -1,7 +1,7 @@
 ### Sapphire Greatwyrm
 _Gargantuan dragon (gem), neutral_
 
-![[Sapphire Greatwyrm.webp]]
+![[Sapphire Greatwyrm.jpg]]
 
 More so even than their chromatic and metallic kin, gem dragons are fascinated with cultivating their dragonsight and fusing the awareness of their echoes across the Material Plane. Some of them believe that, by doing so, they are taking steps toward reuniting the shattered consciousness of Sardior the Ruby Dragon, and they pursue this awakening as an act of near-religious devotion. Others seek to exploit their knowledge of the many worlds of the Material Plane as a source of power—and indeed, a gem dragon who becomes a greatwyrm has access to almost unimaginable power.
 

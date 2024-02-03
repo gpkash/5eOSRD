@@ -1,7 +1,7 @@
 ### K'thriss Drow'b
 _Medium humanoid (elf), chaotic neutral_
 
-![[Kthriss Drowb.webp]]
+![[Kthriss Drowb.jpg]]
 
 All things are divided into meat and mouths-but even a mouth is just meat.
 

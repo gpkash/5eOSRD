@@ -1,7 +1,7 @@
 ### Summer Eladrin
 _Medium fey (elf), chaotic neutral_
 
-![[Summer Eladrin.webp]]
+![[Summer Eladrin.jpg]]
 
 
 

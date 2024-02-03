@@ -1,7 +1,7 @@
 ### Tin Soldier
 _Small construct, unaligned_
 
-![[Tin Soldier.webp]]
+![[Tin Soldier.jpg]]
 
 These automatons are fashioned to look like stout infantry soldiers, and they obey Skabatha without question. They charge forth to investigate any suspicious activity they see or hear, meaning that they are easily distracted.
 

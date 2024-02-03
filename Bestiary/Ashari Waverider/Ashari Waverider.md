@@ -1,7 +1,7 @@
 ### Ashari Waverider
 _Medium humanoid (any), _
 
-![[AshariWaveriderFluff.webp]]
+![[AshariWaveriderFluff.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Boss Augustus
 _Medium monstrosity, neutral_
 
-![[Boss Augustus.webp]]
+![[Boss Augustus.jpg]]
 
 Augustus is a hulking human werewolf of few words. He shares leadership of the guild with Boss Delour and has a knack for planning heists. Guild members consider him a brutal but fair leader. Some perceptive guild members—like Kathra Bitterwind—have noticed he's become more reclusive recently, and when he does appear, he's restless.
 

@@ -1,7 +1,7 @@
 ### Faerie Pest
 _Small fey, chaotic evil_
 
-![[Faerie Pest.webp]]
+![[Faerie Pest.jpg]]
 
 
 

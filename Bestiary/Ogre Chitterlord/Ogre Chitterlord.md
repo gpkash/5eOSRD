@@ -1,7 +1,7 @@
 ### Ogre Chitterlord
 _Large giant (druid), any alignment_
 
-![[Ogre Chitterlord.webp]]
+![[Ogre Chitterlord.jpg]]
 
 When ogres first moved into the wilds of Eldraine, they encountered all manner of unfamiliar creatures: spellcasting witches, tricksy faeries, and talking beasts. Over generations, these ogres adapted to their new environs, passing down a spellcasting tradition of their own to help their kin wreak havoc in the wilds and beyond.
 

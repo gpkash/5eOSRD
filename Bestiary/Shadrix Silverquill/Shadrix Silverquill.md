@@ -1,7 +1,7 @@
 ### Shadrix Silverquill
 _Gargantuan dragon (bard), neutral_
 
-![[Shadrix Silverquill.webp]]
+![[Shadrix Silverquill.jpg]]
 
 Centuries ago, the dragon Shadrix Silverquill mastered the magic of light and shadow, and he focused that magic through communication. Shadrix's words thrummed with power, inspiring his allies and demoralizing his enemies.
 

@@ -1,7 +1,7 @@
 ### Dolphin
 _Medium beast, unaligned_
 
-![[Dolphin.webp]]
+![[Dolphin.jpg]]
 
 
 

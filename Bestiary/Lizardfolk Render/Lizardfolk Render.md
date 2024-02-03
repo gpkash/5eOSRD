@@ -1,7 +1,7 @@
 ### Lizardfolk Render
 _Large humanoid (lizardfolk), neutral_
 
-![[Lizardfolk Render.webp]]
+![[Lizardfolk Render.jpg]]
 
 Filled with the primal magic of Semuanya, the lizardfolk render undergoes terrifying changes during a dayslong ritual performed by a shaman. As seen in Danger at Dunwater, the render's claws grow long and hard as steel, its frame enlarges, and its temperament becomes even more ferocious.
 

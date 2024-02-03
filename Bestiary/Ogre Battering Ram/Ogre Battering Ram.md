@@ -1,7 +1,7 @@
 ### Ogre Battering Ram
 _Large giant, chaotic evil_
 
-![[Ogre Battering Ram.webp]]
+![[Ogre Battering Ram.jpg]]
 
 
 

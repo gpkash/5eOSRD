@@ -1,7 +1,7 @@
 ### Ghelryn Foehammer
 _Medium humanoid (Shield dwarf), lawful good_
 
-![[Ghelryn Foehammer.webp]]
+![[Ghelryn Foehammer.jpg]]
 
 The blacksmith Ghelryn has a good heart, but he hates orcs and giants-hates them with a fiery passion. He considers it the solemn duty of all dwarves to cave in their skulls!
 

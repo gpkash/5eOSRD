@@ -1,7 +1,7 @@
 ### Sarevok
 _Medium humanoid (human), neutral evil_
 
-![[Sarevok.webp]]
+![[Sarevok.jpg]]
 
 Sarevok Anchev is a powerful Deathstalker. He is also one of the Bhaalspawn, the mortal offspring of the dead god Bhaal. Sarevok attempted to reclaim the divine seat of the Lord of Murder vacated by his immortal father's demise, but his plans were thwarted when he was slain by his half-brother, Abdel Adrian, who rejected his heritage and fought against his Bhaalspawn siblings.
 

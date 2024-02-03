@@ -1,7 +1,7 @@
 ### Female Steeder
 _Large monstrosity, unaligned_
 
-![[Female Steeder.webp]]
+![[Female Steeder.jpg]]
 
 
 

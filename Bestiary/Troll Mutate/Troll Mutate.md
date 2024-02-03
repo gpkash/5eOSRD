@@ -1,7 +1,7 @@
 ### Troll Mutate
 _Large giant, chaotic evil_
 
-![[Troll Mutate.webp]]
+![[Troll Mutate.jpg]]
 
 
 

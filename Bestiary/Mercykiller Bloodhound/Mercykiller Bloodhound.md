@@ -1,7 +1,7 @@
 ### Mercykiller Bloodhound
 _Small, Medium humanoid, any alignment_
 
-![[Mercykiller Bloodhound.webp]]
+![[Mercykiller Bloodhound.jpg]]
 
 Clad in black armor and spiked gauntlets that end in steel claws, bloodhounds hunt down those guilty of serious offenses in Sigil. These trackers pursue their targets across the planes.
 

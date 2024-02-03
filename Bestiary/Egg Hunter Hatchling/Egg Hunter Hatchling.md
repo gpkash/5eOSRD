@@ -1,7 +1,7 @@
 ### Egg Hunter Hatchling
 _Tiny monstrosity, unaligned_
 
-![[Egg Hunter Hatchling.webp]]
+![[Egg Hunter Hatchling.jpg]]
 
 A dragon egg drained by an egg hunter is filled with 1d6 new eggs, which hatch inside the dragon egg's shell in 1d6 days. The egg hunter hatchlings burst forth 1d4 days later, using the needlelike egg tooth that extends from their heads. They are voracious, consuming any other dragon eggs in the vicinity if they can. A hatchling matures into an adult about twenty days after breaking free from its dragon egg.
 

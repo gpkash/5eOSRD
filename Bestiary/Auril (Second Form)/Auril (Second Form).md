@@ -1,7 +1,7 @@
 ### Auril (Second Form)
 _Large elemental, neutral evil_
 
-![[Auril (Second Form).webp]]
+![[Auril (Second Form).jpg]]
 
 
 

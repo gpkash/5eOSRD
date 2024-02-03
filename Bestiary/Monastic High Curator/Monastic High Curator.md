@@ -1,7 +1,7 @@
 ### Monastic High Curator
 _Small, Medium humanoid (monk, wizard), any alignment_
 
-![[Monastic High Curator.webp]]
+![[Monastic High Curator.jpg]]
 
 High curators collect knowledge and disseminate truth. They tackle puzzling mysteries and spy on members of other power structures to manipulate or destabilize them, and provide the oppressed with opportunities to escape their plight. High curators are privy to their organizations' deepest secrets and the activities of lesser agents. Their expertise enables them to manipulate energy to defend themselves and disrupt enemies' ability to act.
 

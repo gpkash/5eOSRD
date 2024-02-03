@@ -1,7 +1,7 @@
 ### Ruin Spider
 _Large monstrosity, unaligned_
 
-![[Ruin Spider.webp]]
+![[Ruin Spider.jpg]]
 
 The potent magic of a Deck of Many Things can have unpredictable effects on its environment, especially when the deck remains in one place for a long time.
 

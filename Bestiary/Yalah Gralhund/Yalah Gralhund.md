@@ -1,7 +1,7 @@
 ### Yalah Gralhund
 _Medium humanoid (Tethyrian human), lawful evil_
 
-![[The Gralhunds.webp]]
+![[The Gralhunds.jpg]]
 
 The lady of House Gralhund is no fool. She has a keen mind and the wisdom to discern friend from foe. She also has a husband who worships her (see "Orond Gralhund"), and a house that has the resources of the Black Network at its disposal.
 

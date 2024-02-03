@@ -1,7 +1,7 @@
 ### Storm Giant
 _Huge giant, chaotic good_
 
-![[Storm Giant.webp]]
+![[Storm Giant.jpg]]
 
 
 

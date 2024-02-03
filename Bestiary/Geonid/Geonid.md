@@ -1,7 +1,7 @@
 ### Geonid
 _Small elemental, neutral_
 
-![[Geonid.webp]]
+![[Geonid.jpg]]
 
 Also known as rocklings and rock hermits, geonids are small, intelligent cave dwellers that originated on the Elemental Plane of Earth. A geonid's arms and legs come out of a small opening in the bottom of its shell. A geonid can draw its limbs into its shell and close the opening. When it does so, the creature looks like a small boulder. In this state, the geonid can't see and relies on its [[ tremorsense]] to detect other creatures nearby.
 

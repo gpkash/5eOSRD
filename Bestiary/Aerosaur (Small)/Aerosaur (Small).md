@@ -1,7 +1,7 @@
 ### Aerosaur (Small)
 _Medium beast, unaligned_
 
-![[Aerosaur.webp]]
+![[Aerosaur.jpg]]
 
 Aerosaurs include several varieties of large reptiles with leathery wings, including pterodons and sunwings. Though they are generally clumsy fliers, better at gliding from high perches or riding coastal updrafts than at lifting themselves from the ground, aerosaurs are sometimes used as mounts by knights of the Sun Empire. Smaller aerosaurs can be represented by the [[pteranodon]] in the [[Monster Manual]], while larger ones are more like the [[quetzalcoatlus|VGM]] in [[Volo's Guide to Monsters|VGM]].
 

@@ -1,7 +1,7 @@
 ### Duke Thalamra Vanthampur
 _Medium humanoid (human), lawful evil_
 
-![[Duke Thalamra Vanthampur.webp]]
+![[Duke Thalamra Vanthampur.jpg]]
 
 Acid-tongued, shrewd, and aggressive, Duke Thalamra Vanthampur is the matriarch of the Vanthampur family. Born with nothing, she spent years wallowing in obscurity, repairing and renovating the city's ancient sewer system. One promotion after another followed until she was named Master of Drains and Underways. By then, she had been married three times and given birth to three sons. Her lifelong goal has been to lift herself and her family out of the sewers and into high society.
 

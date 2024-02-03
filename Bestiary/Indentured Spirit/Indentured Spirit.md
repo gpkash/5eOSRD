@@ -1,7 +1,7 @@
 ### Indentured Spirit
 _Medium undead, any alignment_
 
-![[Indentured Spirit.webp]]
+![[Indentured Spirit.jpg]]
 
 Those who die with unpaid debts to the Orzhov Syndicate don't get a reprieve. Instead, their spirits serve the syndicate until they have worked off their obligation. Sometimes that means existing as an indentured spirit for years or even millennia.
 

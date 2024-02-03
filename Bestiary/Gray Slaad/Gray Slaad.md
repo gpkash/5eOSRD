@@ -1,7 +1,7 @@
 ### Gray Slaad
 _Medium aberration (shapechanger), chaotic neutral_
 
-![[Gray Slaad.webp]]
+![[Gray Slaad.jpg]]
 
 
 

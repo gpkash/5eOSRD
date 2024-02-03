@@ -1,7 +1,7 @@
 ### Jim Darkmagic
 _Medium humanoid (human), chaotic neutral_
 
-![[Jim Darkmagic.webp]]
+![[Jim Darkmagic.jpg]]
 
 Have a magical day!
 

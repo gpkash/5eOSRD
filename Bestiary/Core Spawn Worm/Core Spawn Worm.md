@@ -1,7 +1,7 @@
 ### Core Spawn Worm
 _Gargantuan aberration, chaotic evil_
 
-![[Core Spawn Worm.webp]]
+![[Core Spawn Worm.jpg]]
 
 This invertebrate horror has quivering, barbed tentacles set around its massive, toothy maw. The worm's cracked and stony hide pulses with a dull orange glow, as if it might be composed of primordial lava perpetually on the verge of hardening into solid rock.
 

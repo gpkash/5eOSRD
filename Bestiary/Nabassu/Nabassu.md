@@ -1,7 +1,7 @@
 ### Nabassu
 _Medium fiend (demon), chaotic evil_
 
-![[Nabassu.webp]]
+![[Nabassu.jpg]]
 
 The insatiable nabassus prowl the multiverse in search of souls to devour. If they think they can kill a creature and consume its soul, they attack—even if that other creature is a demon, including another nabassu.
 

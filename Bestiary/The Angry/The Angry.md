@@ -1,7 +1,7 @@
 ### The Angry
 _Medium monstrosity, lawful evil_
 
-![[The Angry.webp]]
+![[The Angry.jpg]]
 
 **The Angry** Relying on violence to sustain their existence, the Angry grow more powerful when their foes fight back. If a creature opts not to attack, though, the Angry becomes confused, and its attacks weaken. Each of the Angry has two heads, which bicker with each other until they find something else on which they can vent their wrath.
 

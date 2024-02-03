@@ -1,7 +1,7 @@
 ### Star Lancer
 _Large celestial, neutral_
 
-![[Star Lancer.webp]]
+![[Star Lancer.jpg]]
 
 Drifting in the Astral Sea are the petrified husks of dead gods, their colossal bodies riddled with natural tunnels and caverns. While exploring the innards of one of these dead gods, githyanki xenomancers found a vast cavern containing scores of winged creatures they had never encountered before. The cavern's denizens used telepathy to question the githyanki interlopers, who promptly suggested an alliance. The winged creatures quickly developed a fondness for the githyanki.
 

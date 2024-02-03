@@ -1,7 +1,7 @@
 ### Bag Jelly
 _Medium ooze, unaligned_
 
-![[Bag Jelly.webp]]
+![[Bag Jelly.jpg]]
 
 > _A Dwarvish saga claims bag jellies are the result of a curse laid by Durgrid Bladeforge, who was beaten to death while hiding inside a giant's bag.
 _

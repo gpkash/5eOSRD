@@ -1,7 +1,7 @@
 ### Needle Spawn
 _Medium plant, chaotic evil_
 
-![[Needle Spawn.webp]]
+![[Needle Spawn.jpg]]
 
 A wise ranger knows that the sight of a needle spawn is an ill omen, for it heralds the rise of a dreaded needle lord and a war for the soul of a forest.
 

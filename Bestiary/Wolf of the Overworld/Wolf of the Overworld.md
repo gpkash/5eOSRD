@@ -1,7 +1,7 @@
 ### Wolf of the Overworld
 _Medium beast, unaligned_
 
-![[Wolf of the Overworld.webp]]
+![[Wolf of the Overworld.jpg]]
 
 Running through the forests of the Overworld on four legs, this gray-furred hunter is at home in the cold of the taiga.
 

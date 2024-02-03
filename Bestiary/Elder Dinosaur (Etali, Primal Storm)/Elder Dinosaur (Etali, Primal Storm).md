@@ -1,7 +1,7 @@
 ### Elder Dinosaur (Etali, Primal Storm)
 _Gargantuan monstrosity (titan), unaligned_
 
-![[Elder Dinosaur (Etali, Primal Storm).webp]]
+![[Elder Dinosaur (Etali, Primal Storm).jpg]]
 
 
 

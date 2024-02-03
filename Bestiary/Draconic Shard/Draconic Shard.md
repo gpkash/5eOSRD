@@ -1,7 +1,7 @@
 ### Draconic Shard
 _Huge undead, neutral_
 
-![[Draconic Shard.webp]]
+![[Draconic Shard.jpg]]
 
 Gem dragons wield psionic power, and when a powerful gem dragon perishes, the force of the dragon's will and mind sometimes refuses to pass on. This essence lingers in the form of a psychic remnant called a draconic shard.
 

@@ -1,7 +1,7 @@
 ### Cloud Giant
 _Huge giant, neutral good, neutral evil_
 
-![[Cloud Giant.webp]]
+![[Cloud Giant.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Rictavio
 _Medium humanoid (human), lawful good_
 
-![[Rictavio.webp]]
+![[Rictavio.jpg]]
 
 Several months ago, a colorfully dressed half-elf bard came to Barovia in a carnival wagon, with a pet monkey on his shoulder. He took over an abandoned tower on Lake Baratok before rolling into the town of Vallaki several months later. Claiming to be a carnival ringmaster in search of new actors, he began regaling locals with tales of distant lands.
 

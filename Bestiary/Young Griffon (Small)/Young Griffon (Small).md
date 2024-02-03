@@ -1,7 +1,7 @@
 ### Young Griffon (Small)
 _Large monstrosity, unaligned_
 
-![[Young Griffon (Small).webp]]
+![[Young Griffon (Small).jpg]]
 
 A griffon is a ferocious avian carnivore with the muscular body of a lion and the head, forelegs, and wings of an eagle.
 

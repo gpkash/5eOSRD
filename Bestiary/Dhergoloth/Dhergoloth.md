@@ -1,7 +1,7 @@
 ### Dhergoloth
 _Medium fiend (yugoloth), neutral evil_
 
-![[Dhergoloth.webp]]
+![[Dhergoloth.jpg]]
 
 > _A dhergoloth's head doesn't turn along with its furiously spinning torso, and its torso can spin a different direction from its dancing legs.
 

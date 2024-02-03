@@ -1,7 +1,7 @@
 ### Ankheg
 _Large monstrosity, unaligned_
 
-![[Ankheg.webp]]
+![[Ankheg.jpg]]
 
 An ankheg resembles an enormous many-legged insect, its long antennae twitching in response to any movement around it. Its legs end in sharp hooks adapted for burrowing and grasping its prey, and its powerful mandibles can snap a small tree in half.
 

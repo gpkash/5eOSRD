@@ -1,7 +1,7 @@
 ### Angel of Amonkhet
 _Medium celestial, lawful good_
 
-![[Angel of Amonkhet.webp]]
+![[Angel of Amonkhet.jpg]]
 
 Whatever their original forms might have been, the angels of Amonkhet have been twisted into distorted reflections of Nicol Bolas. Their limbs are long and thin, with elongated shins and forearms. Their huge wings are adorned with white and black feathers. Light shines through their joints and chests as if from an internal fire, and their eyes glow with a gold or orange light.
 

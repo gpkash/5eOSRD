@@ -1,7 +1,7 @@
 ### Haint
 _Medium undead, neutral_
 
-![[Haint.webp]]
+![[Haint.jpg]]
 
 Rising from the sorrowful dead, haints are spirits that change their shape in tragic imitation of what they once were. A haint can shift from its spectral form to appear as the corporeal Humanoid it was in life, passing as a living creature. These spirits might mistakenly view innocents as those who killed them or entreat mortals to exact revenge on their behalf.
 

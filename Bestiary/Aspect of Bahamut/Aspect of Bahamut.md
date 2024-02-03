@@ -1,7 +1,7 @@
 ### Aspect of Bahamut
 _Gargantuan dragon (metallic), lawful good_
 
-![[Aspect of Bahamut.webp]]
+![[Aspect of Bahamut.jpg]]
 
 Known as the Platinum Dragon, Bahamut is the patron and progenitor of metallic dragons. Since fleeing the First World, he has made his home in the Seven Heavens of Mount Celestia and is often numbered among the gods of that plane. Adventurers and dragons alike pray to Bahamut to uphold honor and justice, or when they need courage to face a great threat. In the most dire situations, a powerful follower of Bahamut who makes a tremendous sacrifice—a vast hoard or even the follower's own life—might convince the god to send aid to the world in the form of a divine aspect. This aspect is a physical manifestation of the Platinum Dragon, carrying his memories and will—and a significant portion of his formidable strength.
 

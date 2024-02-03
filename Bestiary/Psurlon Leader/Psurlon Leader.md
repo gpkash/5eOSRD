@@ -1,7 +1,7 @@
 ### Psurlon Leader
 _Medium aberration, lawful evil_
 
-![[Psurlon Leader.webp]]
+![[Psurlon Leader.jpg]]
 
 One out of every hundred psurlons is a mutant with two heads, one at each end of its body, and a superior intellect. Other psurlons look to the two-headed ones for leadership.
 

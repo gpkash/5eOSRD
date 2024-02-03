@@ -1,7 +1,7 @@
 ### Sunder Shaman
 _Huge giant, chaotic neutral_
 
-![[Sunder Shaman.webp]]
+![[Sunder Shaman.jpg]]
 
 Gruul sunder shamans are angry giants that channel their rage into brutal attacks that deal overwhelming damage to foes and structures alike.
 

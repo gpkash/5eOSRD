@@ -1,7 +1,7 @@
 ### Choker
 _Small aberration, chaotic evil_
 
-![[Choker.webp]]
+![[Choker.jpg]]
 
 The choker is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.
 

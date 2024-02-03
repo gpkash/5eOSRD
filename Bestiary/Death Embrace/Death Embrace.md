@@ -1,7 +1,7 @@
 ### Death Embrace
 _Huge aberration, chaotic evil_
 
-![[Death Embrace.webp]]
+![[Death Embrace.jpg]]
 
 Drifting through the dark waters of the Netherdeep, the death embrace is an ominous sight. Beneath its bell hangs a lacy, tendrilous mass that thrums with magic, surrounded by six 60-foot-long, barbed tentacles. The death embrace uses these tentacles to grasp and petrify its prey.
 

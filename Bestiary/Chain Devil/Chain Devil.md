@@ -1,7 +1,7 @@
 ### Chain Devil
 _Medium fiend (devil), lawful evil_
 
-![[Chain Devil.webp]]
+![[Chain Devil.jpg]]
 
 
 

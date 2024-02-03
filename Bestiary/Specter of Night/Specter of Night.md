@@ -1,7 +1,7 @@
 ### Specter of Night
 _Huge undead, neutral evil_
 
-![[Specter of Night.webp]]
+![[Specter of Night.jpg]]
 
 Like dark mirrors of Eldraine's archons (see " Archon of Boundaries "), specters appear as shrouded figures mounted on horrific flying beasts. It is easy to look at a specter and imagine the rider in command of the mount, but the truth is the opposite; the flying horror is an Undead monster that scours the wilds for a knightly corpse. On finding one, the horror binds its essence to the dead body, giving the corpse the semblance of life as a rider. The two function as a single creature, more powerful for their unnatural union.
 

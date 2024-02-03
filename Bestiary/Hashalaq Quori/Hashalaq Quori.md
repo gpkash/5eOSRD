@@ -1,7 +1,7 @@
 ### Hashalaq Quori
 _Medium aberration, lawful evil_
 
-![[Hashalaq Quori.webp]]
+![[Hashalaq Quori.jpg]]
 
 
 

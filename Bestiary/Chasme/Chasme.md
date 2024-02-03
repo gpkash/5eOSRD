@@ -1,7 +1,7 @@
 ### Chasme
 _Large fiend (demon), chaotic evil_
 
-![[Chasme.webp]]
+![[Chasme.jpg]]
 
 
 

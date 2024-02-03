@@ -1,7 +1,7 @@
 ### Shadar-kai Shadow Dancer
 _Medium humanoid (elf), any alignment_
 
-![[Shadar-kai Shadow Dancer.webp]]
+![[Shadar-kai Shadow Dancer.jpg]]
 
 
 

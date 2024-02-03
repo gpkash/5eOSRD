@@ -1,7 +1,7 @@
 ### Hollow Dragon
 _Huge undead, any alignment_
 
-![[Hollow Dragon.webp]]
+![[Hollow Dragon.jpg]]
 
 Unlike dragons who explore the magic of undeath for power, some metallic dragons see undeath as a means to pursue a noble purpose. For the sake of protecting an artifact or fulfilling an oath, a dragon might transform into a hollow dragon, accepting undeath until that purpose is fulfilled.
 

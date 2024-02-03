@@ -1,7 +1,7 @@
 ### Red Greatwyrm
 _Gargantuan dragon (chromatic), chaotic evil_
 
-![[Red Greatwyrm.webp]]
+![[Red Greatwyrm.jpg]]
 
 The most ancient chromatic dragons, who have survived over twelve hundred years of mortal life and acquired vast hoards worth millions of gold pieces, can achieve a form of apotheosis, reaching a level of power approaching that of Tiamat's mighty aspect. The competitive avarice of dragonkind and the interference of adventurers prevent most dragons from attaining this level of power. But a chromatic dragon who can outwit all rivals and overcome all potential thieves can rise to become one of the mightiest of dragons.
 

@@ -1,7 +1,7 @@
 ### Brain in a Jar
 _Small undead, any alignment_
 
-![[Brain in a Jar.webp]]
+![[Brain in a Jar.jpg]]
 
 Through an eldritch ritual combining alchemy, necromancy, and grim surgical precision, the brain of a mortal being (willing or unwilling) is encased in a glass jar filled with preserving fluids and the liquefied goop of their body's flesh. The transformation renders the brain immortal and imbues it with psionic power, so that it can spend eternity plotting and executing its desires.
 

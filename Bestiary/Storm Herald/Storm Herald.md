@@ -1,7 +1,7 @@
 ### Storm Herald
 _Huge aberration, lawful evil_
 
-![[Storm Herald.webp]]
+![[Storm Herald.jpg]]
 
 Ancient and alien beings dwell or slumber in ocean depths, awaiting some cosmic circumstance that signals their time to rise. In their retreat from the world, storm giants sometimes stray into the orbit of such creatures, perhaps while seeking insight into some omen, vision, or prophecy. Krakens, aboleths, and Great Old Ones delight in corrupting storm giants to their service, transforming them into storm heralds.
 

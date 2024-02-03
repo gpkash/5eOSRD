@@ -1,7 +1,7 @@
 ### Dragon Army Dragonnel
 _Large dragon, lawful evil_
 
-![[Dragon Army Dragonnel.webp]]
+![[Dragon Army Dragonnel.jpg]]
 
 Dragonnels from the volcanic mountains surrounding Sanction are closely related to red dragons, resembling them in scale coloration and general shape. They are cruel and selfish creatures trained by the Dragon Armies to serve as mounts for trusted officers. While they lack a red dragon's destructive breath, these dragonnels are inured to fire, and their vicious teeth and claws flare with embers.
 

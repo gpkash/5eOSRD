@@ -1,7 +1,7 @@
 ### Duergar Stone Guard
 _Medium humanoid (dwarf), lawful evil_
 
-![[Duergar Stone Guard.webp]]
+![[Duergar Stone Guard.jpg]]
 
 
 

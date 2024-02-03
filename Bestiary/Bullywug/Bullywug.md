@@ -1,7 +1,7 @@
 ### Bullywug
 _Medium humanoid (bullywug), neutral evil_
 
-![[Bullywug.webp]]
+![[Bullywug.jpg]]
 
 Life as a bullywug is nasty, brutish, and wet. These frog-headed amphibious humanoids must stay constantly moist, dwelling in rainy forests, marshes, and damp caves. Always hungry and thoroughly evil, bullywugs overwhelm opponents with superior numbers when they can, but they flee from serious threats to search for easier prey.
 

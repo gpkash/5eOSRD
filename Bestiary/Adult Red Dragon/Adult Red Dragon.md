@@ -1,7 +1,7 @@
 ### Adult Red Dragon
 _Huge dragon, chaotic evil_
 
-![[Adult Red Dragon.webp]]
+![[Adult Red Dragon.jpg]]
 
 
 

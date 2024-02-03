@@ -1,7 +1,7 @@
 ### Empyrean
 _Huge celestial (titan), chaotic good, neutral evil_
 
-![[Empyrean.webp]]
+![[Empyrean.jpg]]
 
 Empyreans are the celestial children of the gods of the Upper Planes. They are universally beautiful, statuesque, and self-assured.
 

@@ -1,7 +1,7 @@
 ### Cult Fanatic
 _Medium humanoid (any race), any non-good alignment_
 
-![[Cult Fanatic.webp]]
+![[Cult Fanatic.jpg]]
 
 Fanatics are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else
 

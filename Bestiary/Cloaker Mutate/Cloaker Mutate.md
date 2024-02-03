@@ -1,7 +1,7 @@
 ### Cloaker Mutate
 _Large aberration, chaotic neutral_
 
-![[Cloaker Mutate.webp]]
+![[Cloaker Mutate.jpg]]
 
 
 

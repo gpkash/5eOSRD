@@ -1,7 +1,7 @@
 ### Ghost Dragon
 _Huge undead, any alignment_
 
-![[Ghost Dragon.webp]]
+![[Ghost Dragon.jpg]]
 
 A dragon's attachment to a hoard can be strong enough to bind the dragon's spirit to existence after death. Such a ghost dragon haunts the hoard, often forming an attachment to a single priceless object that becomes the focus of the ghost dragon's Undead existence.
 

@@ -1,7 +1,7 @@
 ### Skulk
 _Medium humanoid, chaotic neutral_
 
-![[Skulk.webp]]
+![[Skulk.jpg]]
 
 > _Some children have imaginary friends that their parents can't see. Sometimes those invisible friends aren't imaginary.
 _

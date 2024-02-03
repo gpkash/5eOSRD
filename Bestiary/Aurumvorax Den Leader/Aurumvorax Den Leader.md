@@ -1,7 +1,7 @@
 ### Aurumvorax Den Leader
 _Medium monstrosity, unaligned_
 
-![[Aurumvorax Den Leader.webp]]
+![[Aurumvorax Den Leader.jpg]]
 
 
 

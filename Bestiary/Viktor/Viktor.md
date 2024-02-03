@@ -1,7 +1,7 @@
 ### Viktor
 _Medium humanoid (human), lawful neutral_
 
-![[Viktor.webp]]
+![[Viktor.jpg]]
 
 Viktor was born into a large family of simple farmers harvesting cabbage, beets, and potatoes. His family's farmstead sits on the northern reaches of a village called Barovia. At an early age he learned about the dread master of Barovia ruling from atop Castle Ravenloft. It was his fate and the fate of every other Barovian to never leave the mist shrouded valley. The lord of Ravenloft and first vampire, Strahd Von Zarovich, would never allow that.
 

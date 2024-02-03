@@ -1,7 +1,7 @@
 ### Niv-Mizzet
 _Gargantuan dragon, chaotic neutral_
 
-![[Niv-Mizzet.webp]]
+![[Niv-Mizzet.jpg]]
 
 Possessed of arrogance and vanity that matches his vast intellect and tremendous power, Niv-Mizzet is the ancient dragon who founded and continues to control the Izzet League. From his private laboratory at the top of the Izzet guildhall, Niv-Mizzet directs the research and experiments of his countless underlings. He coordinates a tremendous number of apparently unrelated projects, working toward some mysterious end.
 

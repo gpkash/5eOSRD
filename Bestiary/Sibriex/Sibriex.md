@@ -1,7 +1,7 @@
 ### Sibriex
 _Huge fiend (demon), chaotic evil_
 
-![[Sibriex.webp]]
+![[Sibriex.jpg]]
 
 Thought to be as old as the Abyss itself, sibriexes haunt remote parts of that plane, where they use their vile abilities to create new horrors and they seek ancient lore. Rivulets of blood and bile cascade from a sibriex's body, polluting the surrounding landscape.
 

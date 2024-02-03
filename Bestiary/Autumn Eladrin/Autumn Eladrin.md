@@ -1,7 +1,7 @@
 ### Autumn Eladrin
 _Medium fey (elf), chaotic neutral_
 
-![[Autumn Eladrin.webp]]
+![[Autumn Eladrin.jpg]]
 
 
 

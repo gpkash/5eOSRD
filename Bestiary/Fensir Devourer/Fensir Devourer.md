@@ -1,7 +1,7 @@
 ### Fensir Devourer
 _Huge celestial, chaotic neutral_
 
-![[Fensir Devourer.webp]]
+![[Fensir Devourer.jpg]]
 
 
 

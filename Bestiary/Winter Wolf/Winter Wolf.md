@@ -1,7 +1,7 @@
 ### Winter Wolf
 _Large monstrosity, neutral evil_
 
-![[Winter Wolf.webp]]
+![[Winter Wolf.jpg]]
 
 The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fur and pale blue eyes. Frost giants use these evil creatures as guards and hunting companions, putting the wolves' deadly breath weapon to use against their foes. Winter wolves communicate with one another using growls and barks, but they speak Common and Giant well enough to follow simple conversations.
 

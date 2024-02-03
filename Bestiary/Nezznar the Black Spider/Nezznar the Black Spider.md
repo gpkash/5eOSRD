@@ -1,7 +1,7 @@
 ### Nezznar the Black Spider
 _Medium humanoid (elf), neutral evil_
 
-![[Nezznar the Black Spider.webp]]
+![[Nezznar the Black Spider.jpg]]
 
 Drow (dark elves) are a devious, scheming subterranean race that worships Lolth, the Demon Queen of Spiders.
 

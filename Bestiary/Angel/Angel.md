@@ -1,7 +1,7 @@
 ### Angel
 _Medium celestial, lawful good_
 
-![[Angel.webp]]
+![[Angel.jpg]]
 
 Angels are mysterious, detached beings seldom glimpsed by mortal eyes. They are the living incarnations of white mana, and embody its inherent tendencies toward order and harmony. Some inventors view angels in the context of the Aether Cycle as an expression of a Great Design. Given divine inspiration and an utterly perfect stage of innovation, an angel is the constructed result—a living invention. Their masks, headdresses, and armor give them an almost mechanical appearance, but they are living beings with brightly colored skin almost entirely concealed beneath their armor and decorative robes. Because of their perfection, angels are believed to be immune to the final stages of the Aether Cycle, which would involve their destruction.
 

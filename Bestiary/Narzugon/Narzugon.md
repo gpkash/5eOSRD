@@ -1,7 +1,7 @@
 ### Narzugon
 _Medium fiend (devil), lawful evil_
 
-![[Narzugon.webp]]
+![[Narzugon.jpg]]
 
 Paladins who make deals with devils and carry their twisted sense of honor into the afterlife are especially valuable to the archdukes of the Nine Hells. These narzugons act as horrific perversions of knights errant, carrying out their masters' will.
 

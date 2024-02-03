@@ -1,7 +1,7 @@
 ### Swavain Basilisk
 _Huge monstrosity, unaligned_
 
-![[Swavain Basilisk.webp]]
+![[Swavain Basilisk.jpg]]
 
 Pearl divers and seafloor scavengers sometimes tell tales of mysterious ocean gardens filled with statues of sea creatures and sailors—the underwater grottoes of the deadly Swavain basilisk. Though named for the Swavain Islands where they are most commonly found, these dangerous hunters have been known to wander inland waterways, and have even been spotted in subterranean sewer systems.
 

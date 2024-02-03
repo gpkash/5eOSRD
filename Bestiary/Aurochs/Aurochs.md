@@ -1,7 +1,7 @@
 ### Aurochs
 _Large beast, unaligned_
 
-![[Aurochs.webp]]
+![[Aurochs.jpg]]
 
 
 

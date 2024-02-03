@@ -1,7 +1,7 @@
 ### Skeletal Knight
 _Medium undead, lawful evil_
 
-![[Skeletal Knight.webp]]
+![[Skeletal Knight.jpg]]
 
 Skeletal knights are powerful Undead that arise to serve even more wicked beings—often death knights. Those who become skeletal knights were typically virtuous in life but betrayed their oaths and died in disgrace. Unable to rest, they are now unswervingly loyal to the villains they serve. Should a skeletal knight's master be destroyed, the knight regains its will and is free to pursue its own ends.
 

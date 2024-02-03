@@ -1,7 +1,7 @@
 ### Thri-kreen Gladiator
 _Medium monstrosity, any alignment_
 
-![[Thri-kreen Gladiator.webp]]
+![[Thri-kreen Gladiator.jpg]]
 
 Thri-kreen gladiators relish opportunities to test their mettle in combat and often paint their carapaces with the blood of their enemies.
 

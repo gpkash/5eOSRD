@@ -1,7 +1,7 @@
 ### Scion of Surtur
 _Gargantuan giant (titan), lawful evil_
 
-![[Scion of Surtur.webp]]
+![[Scion of Surtur.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Clapperclaw the Scarecrow
 _Small construct, lawful neutral_
 
-![[Clapperclaw the Scarecrow.webp]]
+![[Clapperclaw the Scarecrow.jpg]]
 
 Clapperclaw the scarecrow is 3 feet tall. Created by Granny Nightshade using a tormented child's soul she found in Gehenna, it ran away from home so that it wouldn't have to perform evil tasks for her. After fleeing Thither, Clapperclaw was waylaid by Agdon Longscarf and his harengon brigands, who stole its head, which the scarecrow describes as a most glorious stag skull. It desperately wants its head back, and it's a bit self-conscious about its replacement head: a hollow gourd that now sits askew on its shoulders. Eight copper coins are sealed inside the gourd, causing the head to rattle whenever Clapperclaw nods, turns, or shakes its head.
 

@@ -1,7 +1,7 @@
 ### Displacer Beast
 _Large monstrosity, lawful evil_
 
-![[Displacer Beast.webp]]
+![[Displacer Beast.jpg]]
 
 This monstrous predator takes its name from its ability to displace light so that it appears to be several feet away from its actual location. A displacer beast resembles a sleek great cat covered in blue-black fur.
 

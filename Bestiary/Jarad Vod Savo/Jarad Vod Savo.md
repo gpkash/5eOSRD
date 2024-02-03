@@ -1,7 +1,7 @@
 ### Jarad Vod Savo
 _Medium undead, neutral evil_
 
-![[Jarad Vod Savo.webp]]
+![[Jarad Vod Savo.jpg]]
 
 The Golgari guildmaster is a Devkarin necromancer and lich named Jarad Vod Savo. In life, Jarad was an archer and accomplished hunter, as well as the brother of the previous guildmaster, the ambitious Savra. Jarad mastered the ways of necromancy so he could rise as a lich after he sacrificed himself to save his son from the demon Rakdos.
 

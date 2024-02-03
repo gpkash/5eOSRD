@@ -1,7 +1,7 @@
 ### Allosaurus
 _Large beast, unaligned_
 
-![[Dinosaurs.webp]]
+![[Dinosaurs.jpg]]
 
 The allosaurus is a predator possessing great size, strength, and speed. It can run down almost any prey over open ground, pouncing to pull creatures down with its wicked claws.
 

@@ -1,7 +1,7 @@
 ### Serpopard
 _Large beast, unaligned_
 
-![[Serpopard.webp]]
+![[Serpopard.jpg]]
 
 
 

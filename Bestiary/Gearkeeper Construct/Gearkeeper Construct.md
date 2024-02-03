@@ -1,7 +1,7 @@
 ### Gearkeeper Construct
 _Large construct, unaligned_
 
-![[Gearkeeper Construct.webp]]
+![[Gearkeeper Construct.jpg]]
 
 Rolling, deadly whirlwinds of metal plates and curving blades, these clockwork automatons were initially designed by tinkerers and mage engineers to be sentries and guardians in the deepest of vaults during the Age of Arcanum. While most of these majestic and deadly curiosities have fallen to rust and ruin, forgotten along with their long-destroyed and buried societies, some continue to patrol the tunnels and pathways of forgotten tombs and dungeons, following their original operations and directives to protect the contents of their domain.
 

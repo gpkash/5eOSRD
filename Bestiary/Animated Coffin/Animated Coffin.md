@@ -1,7 +1,7 @@
 ### Animated Coffin
 _Large construct, unaligned_
 
-![[Animated Coffin.webp]]
+![[Animated Coffin.jpg]]
 
 Animated coffins are heavy, macabre Constructs designed to ferry the dead to places of rest. They waddle the Mortuary's halls unbothered, scooping up corpses and carrying them to the next stage of the funerary process.
 

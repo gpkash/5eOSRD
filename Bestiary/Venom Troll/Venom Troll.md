@@ -1,7 +1,7 @@
 ### Venom Troll
 _Large giant, chaotic evil_
 
-![[Venom Troll.webp]]
+![[Venom Troll.jpg]]
 
 
 

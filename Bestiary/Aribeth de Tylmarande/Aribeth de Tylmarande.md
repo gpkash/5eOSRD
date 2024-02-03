@@ -1,7 +1,7 @@
 ### Aribeth de Tylmarande
 _Medium undead, neutral evil_
 
-![[Aribeth de Tylmarande.webp]]
+![[Aribeth de Tylmarande.jpg]]
 
 Aribeth was once an elven paladin of Tyr, the Blind God of Justice. Renowned for her beauty and beloved for her kindness, she was the personal guard of Nasher Alagonder, the lord of the city of Neverwinter. But when her fiancé, Fenthick Moss, was unjustly hanged for treason, grief and a desire for vengeance corrupted her once noble spirit. She started down a path of revenge against her lord, her people, and even her god that ultimately ended with her own death.
 

@@ -1,7 +1,7 @@
 ### Water Weird
 _Large elemental, neutral_
 
-![[Water Weird.webp]]
+![[Water Weird.jpg]]
 
 A water weird is an elemental guardian bound to a specific water-filled location, such as a pool or fountain.
 

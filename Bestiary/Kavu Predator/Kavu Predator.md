@@ -1,7 +1,7 @@
 ### Kavu Predator
 _Large beast, unaligned_
 
-![[Kavu Predator.webp]]
+![[Kavu Predator.jpg]]
 
 
 

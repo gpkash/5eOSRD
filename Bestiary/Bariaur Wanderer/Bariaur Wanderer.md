@@ -1,7 +1,7 @@
 ### Bariaur Wanderer
 _Medium celestial, chaotic good_
 
-![[Bariaur Wanderer.webp]]
+![[Bariaur Wanderer.jpg]]
 
 Hailing from Ysgard, bariaurs are centaur-like Celestials with the lower bodies of goats, humanoid torsos, and curved horns. Some bariaurs sate their wanderlust by exploring their home plane, the Outlands, and the Great Wheel beyond. These bariaur wanderers often serve as guides in the Outlands, assisting visitors by eagerly suggesting gate-town attractions and other points of interest. Throughout their travels, these hardy wanderers absorb ambient planar energies, adapting to the vast and varied terrains of the Outer Planes and frequently taking on aspects of those planes (see " Planar Influences " in[[Morte's Planar Parade]]).
 

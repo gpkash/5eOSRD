@@ -1,7 +1,7 @@
 ### Rain
 _Small celestial, lawful good_
 
-![[Rain.webp]]
+![[Rain.jpg]]
 
 Rain lives in happy meadows atop clouds, away from all the evil of the world. She loves cupcakes and readily accepts them as gifts. She has fiery wings and a tiny halo around the tip of her horn. When confronted by bullies or evildoers, she can emit rainbow-colored positive energy from her haloed horn. Rain uses her rainbows to heal friendly creatures and punish evildoers, transforming the latter into glittering flowers.
 

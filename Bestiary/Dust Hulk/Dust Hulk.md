@@ -1,7 +1,7 @@
 ### Dust Hulk
 _Large elemental, chaotic neutral_
 
-![[Dust Hulk.webp]]
+![[Dust Hulk.jpg]]
 
 Dust hulks are descended from enclaves of stone giants who lived in extreme environments, isolated from others. Elemental energy from the Plane of Air eroded their physical forms and slowly transformed them into Elementals. They are little more than clouds of gravel and dust, barely maintaining a cohesive form. When a dust hulk dies, it disperses into a cloud of dust.
 

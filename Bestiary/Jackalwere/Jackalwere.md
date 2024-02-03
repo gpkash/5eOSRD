@@ -1,7 +1,7 @@
 ### Jackalwere
 _Medium humanoid (shapechanger), chaotic evil_
 
-![[Jackalwere.webp]]
+![[Jackalwere.jpg]]
 
 Ordinary jackals tainted by demonic power, jackalweres haunt roads and trails, waylaying and murdering those they meet.
 

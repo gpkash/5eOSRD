@@ -1,7 +1,7 @@
 ### Thessalar
 _Medium humanoid (human), neutral evil_
 
-![[Thessalar.webp]]
+![[Thessalar.jpg]]
 
 Thessalar was a master alchemist and creator of monsters, whose own blood was said to possess dire magical properties.
 

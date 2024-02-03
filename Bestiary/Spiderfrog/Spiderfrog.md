@@ -1,7 +1,7 @@
 ### Spiderfrog
 _Small beast, _
 
-![[Spiderfrog.webp]]
+![[Spiderfrog.jpg]]
 
 Spiderfrogs are unique to the Dankwood and may or may not have been created by the eccentric gnome wizard, Doonwaggle. Either way, their high-pitched squeaking sounds indicate that they are thriving in large numbers, despite being difficult to catch.
 

@@ -1,7 +1,7 @@
 ### Amonkhet Mummy
 _Medium undead, lawful evil_
 
-![[Amonkhet Mummy Lord.webp]]
+![[Amonkhet Mummy Lord.jpg]]
 
 Not every citizen of Naktamun proves to be worthy of the afterlife. Acolytes sometimes die before the Ceremony of Measurement, perhaps in training accidents. Many initiates perish in one of the first four trials, before earning their five cartouches. Viziers sometimes die before they have truly earned a place in the afterlife serving their gods. Without having proven themselves worthy, these poor souls have no place as Eternals in the afterlife—but neither have they committed a grievous sin that would warrant abandoning them to the Curse of Wandering as marauding [[amonkhet mummy|amonkhet mummies]].
 

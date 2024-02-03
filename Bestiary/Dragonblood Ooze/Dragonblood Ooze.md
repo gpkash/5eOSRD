@@ -1,7 +1,7 @@
 ### Dragonblood Ooze
 _Large ooze, unaligned_
 
-![[Dragonblood Ooze.webp]]
+![[Dragonblood Ooze.jpg]]
 
 Magic-minded artisans have long incorporated parts of dragons' bodies into magic items, crafting dragon hide into armor and forging weapons from claws and teeth. Alchemists have found beneficial uses for dragon blood, but ill-advised experiments have also given rise to dragonblood oozes.
 

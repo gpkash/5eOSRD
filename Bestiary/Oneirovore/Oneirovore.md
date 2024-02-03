@@ -1,7 +1,7 @@
 ### Oneirovore
 _Large fiend, unaligned_
 
-![[Oneirovore.webp]]
+![[Oneirovore.jpg]]
 
 The ancestors of these Fiends were servants of the divine and Fey which devoured the nightmares of mortals, bringing restful sleep. Imported into the Nine Hells and cultivated by devils, dream eaters, as they're also known, became a powerful weapon in subtly corrupting mortal minds. They can be found grazing wherever the toxic foliage of the Nine Hells grows, often guarded by low-status devils and hell hounds. When brought to weak points between the planes, their spirits seep into the mortal world. There they browse the dreaming minds of mortals. Often, they devour the hope and wonder that might inspire people to improve their lives.
 

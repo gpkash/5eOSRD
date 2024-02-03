@@ -1,7 +1,7 @@
 ### Hellion (Large)
 _Large monstrosity, unaligned_
 
-![[Hellion.webp]]
+![[Hellion.jpg]]
 
 Hellions appear similar to wurms, though the two creatures are unrelated. A hellion has a long, segmented body like that of a centipede, with innumerable short legs that propel it above or below ground. Its huge, toothy maw is surrounded by anywhere from six to twelve long appendages resembling clawed fingers, which it uses to grasp and pull prey to its mouth. Hellions are found in mountainous areas, where they burst up from the rocky ground to ambush their prey.
 

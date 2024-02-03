@@ -1,7 +1,7 @@
 ### Invisible Stalker
 _Medium elemental, neutral_
 
-![[Invisible Stalker.webp]]
+![[Invisible Stalker.jpg]]
 
 An invisible stalker is an air elemental that has been summoned from its native plane and transformed by powerful magic. Its sole purpose is to hunt down creatures and retrieve objects for its summoner. When it is defeated or the magic that binds it expires, an invisible stalker vanishes in a gust of wind.
 

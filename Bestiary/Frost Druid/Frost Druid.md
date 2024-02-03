@@ -1,7 +1,7 @@
 ### Frost Druid
 _Medium humanoid (human), any alignment_
 
-![[Frost Druid.webp]]
+![[Frost Druid.jpg]]
 
 Frost druids are solitary defenders of nature and the natural enemies of civilization in the North. They seek to preserve the arctic wilderness by destroying outsiders who cross their path. Each patrols its territory in the guise of an arctic fox, a mountain goat, a snowy owl, or a wolf, reverting to human form only when it attacks. Clever ambushers, they use [[hallucinatory terrain]] spells to create illusory snowdrifts under which they can hide, or to obscure pools covered by thin ice through which others might fall.
 

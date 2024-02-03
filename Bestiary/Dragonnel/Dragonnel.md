@@ -1,7 +1,7 @@
 ### Dragonnel
 _Large dragon, neutral_
 
-![[Dragonnel.webp]]
+![[Dragonnel.jpg]]
 
 Dragonnels are distantly related to chromatic, gem, and metallic dragons and resemble them in basic form. Intelligent enough to understand speech but incapable of speaking themselves, they are willful creatures motivated by the desire for food and entertainment. In the wild, they are picky eaters with mercurial moods, inclined to toy with their prey before going in for the kill.
 

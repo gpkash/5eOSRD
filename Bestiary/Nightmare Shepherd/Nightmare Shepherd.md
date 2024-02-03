@@ -1,7 +1,7 @@
 ### Nightmare Shepherd
 _Large fiend, lawful evil_
 
-![[Nightmare Shepherd.webp]]
+![[Nightmare Shepherd.jpg]]
 
 A nightmare shepherd is a gaunt, ashen fiend with leathery wings. It carries a shepherd's crook, which it uses to direct a flock of wandering dead that it torments and occasionally feeds upon.
 

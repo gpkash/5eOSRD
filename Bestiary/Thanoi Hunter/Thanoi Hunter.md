@@ -1,7 +1,7 @@
 ### Thanoi Hunter
 _Medium monstrosity, any alignment_
 
-![[Thanoi Hunter.webp]]
+![[Thanoi Hunter.jpg]]
 
 Thanoi are walrus-like beings who dwell in the frozen wastelands of Krynn. They sport thick, ivory tusks, which they use both to defend themselves and to poke breathing holes in sea ice as they swim.
 

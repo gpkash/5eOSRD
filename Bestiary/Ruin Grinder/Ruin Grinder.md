@@ -1,7 +1,7 @@
 ### Ruin Grinder
 _Large construct, unaligned_
 
-![[Ruin Grinder.webp]]
+![[Ruin Grinder.jpg]]
 
 Created by the archaeomancers of Lorehold College, ruin grinders are mighty automatons built to excavate ancient ruins and artifacts. The massive toothed shovels attached to a ruin grinder's arms tear through millennia-old bedrock with ease, leading some Lorehold mages to fear that the grinders destroy more history than they unearth.
 

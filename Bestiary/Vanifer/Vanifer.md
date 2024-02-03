@@ -1,7 +1,7 @@
 ### Vanifer
 _Medium humanoid (tiefling), neutral evil_
 
-![[Vanifer.webp]]
+![[Vanifer.jpg]]
 
 Vanifer's rough childhood has hardened her heart against others. The world is a corrupt, painful place, she thinks, and deserving of a fiery end. For years, she was a dancer and concubine in a pasha's court in Calimshan. Later, she took up the mantle of prophet when she found Tinderstrike, and the same ruthless ambition and practiced manipulation that enabled her to escape a life of servitude serves her well as the head of a growing cult.
 

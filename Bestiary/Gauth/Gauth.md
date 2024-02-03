@@ -1,7 +1,7 @@
 ### Gauth
 _Medium aberration, lawful evil_
 
-![[Gauth.webp]]
+![[Gauth.jpg]]
 
 A gauth is a hungry, tyrannical creature similar to a beholder that eats magic and tries to exact tribute from anything weaker than itself. Its body is about 4 feet in diameter, with six eyestalks, a central eye (sometimes surrounded by multiple smaller eyes), and four small grasping tentacles near its mouth. It has color and texture variations similar to a true beholder.
 

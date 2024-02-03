@@ -1,7 +1,7 @@
 ### Goliath Warrior
 _Medium humanoid (goliath), any alignment_
 
-![[Goliath Warrior.webp]]
+![[Goliath Warrior.jpg]]
 
 Goliaths inhabit the Spine of the World, where their mettle is tested against orcs, ogres, frost giants, remorhazes, ice trolls, young white dragons, the treacherous mountain terrain, and the cruel indifference of nature.
 

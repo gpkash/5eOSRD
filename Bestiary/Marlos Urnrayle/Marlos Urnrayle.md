@@ -1,7 +1,7 @@
 ### Marlos Urnrayle
 _Medium monstrosity, neutral evil_
 
-![[Marlos Urnrayle.webp]]
+![[Marlos Urnrayle.jpg]]
 
 Marlos Urnrayle is the earth prophet of Elemental Evil and the leader of the Black Earth cult in the Sumber Hills. He is a medusa of unusual power who was once a vain and cruel human nobleman. Marlos delights in petrifying his foes, especially those of great physical beauty, and smashing the remains to rubble.
 

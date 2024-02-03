@@ -1,7 +1,7 @@
 ### Ancient Dragon Turtle
 _Gargantuan dragon, neutral_
 
-![[Ancient Dragon Turtle.webp]]
+![[Ancient Dragon Turtle.jpg]]
 
 Dragon turtles are mighty creatures whose inherent magic is intimately linked with the oceans of the Material Plane. The dragon turtle presented in the [[Monster Manual]] is a typical adult, at least a century old and boasting a valuable hoard. You can use the stat blocks in this section for older or younger dragon turtles. In addition, chapter 5 includes lair actions and regional effects that can be used for adult or ancient dragon turtles. An ancient dragon turtle is a mythic creature akin to a greatwyrm, combining the power of multiple echoes from across the worlds of the Material Plane. Such a creature can be as large as an island—and indeed, legends suggest that many unwitting sailors wrecked at sea have mistaken slumbering dragon turtles for solid ground.
 

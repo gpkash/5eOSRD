@@ -1,7 +1,7 @@
 ### Werewolf (Krallenhorde)
 _Medium humanoid (human, shapechanger), chaotic evil_
 
-![[Werewolf (Krallenhorde).webp]]
+![[Werewolf (Krallenhorde).jpg]]
 
 Driven by their passions, their supernatural hunger, and the cycle of the moon, werewolves shed their tenuous humanity to embrace the savage predator within. They live along the boundary between humanity and supernatural evil, between civilization and the wilds, between light and utter darkness. Gathering in wild packs or hunting alone under the silver moon, werewolves embody the urge to violence, the rebellion against social mores and the chains of conscience, and the hunting instinct that lives within the human heart.
 

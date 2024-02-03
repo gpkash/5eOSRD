@@ -1,7 +1,7 @@
 ### Blood-Toll Harpy
 _Medium monstrosity, chaotic evil_
 
-![[Blood-Toll Harpy.webp]]
+![[Blood-Toll Harpy.jpg]]
 
 Murderous gangs of harpies collect in grim places across Theros, preying on any who pass by. Many merchants face regular losses at the harpies' claws, common casualties often referred to as a "blood toll."
 

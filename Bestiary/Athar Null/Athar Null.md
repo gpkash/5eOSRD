@@ -1,7 +1,7 @@
 ### Athar Null
 _Small, Medium humanoid, any alignment_
 
-![[Athar Null.webp]]
+![[Athar Null.jpg]]
 
 The Athar deny the legitimacy of gods, believing the so-called deities are merely powerful spellcasters. To combat false gods, Athar nulls train to negate the powers of those with magic. Nulls work in the shadows, serving as assassins and spies for the Athar.
 

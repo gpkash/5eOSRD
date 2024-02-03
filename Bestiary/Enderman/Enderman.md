@@ -1,7 +1,7 @@
 ### Enderman
 _Medium aberration, chaotic neutral_
 
-![[Enderman.webp]]
+![[Enderman.jpg]]
 
 Endermen are tall, black, bipedal creatures with long, thin limbs and piercing, purple eyes. Violet particles flicker in and out of existence around them. Endermen are unnerving and enigmatic, acting in a manner that is all but impossible to interpret.
 

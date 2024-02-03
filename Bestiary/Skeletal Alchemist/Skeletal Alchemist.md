@@ -1,7 +1,7 @@
 ### Skeletal Alchemist
 _Medium undead, lawful evil_
 
-![[Skeletal Alchemist.webp]]
+![[Skeletal Alchemist.jpg]]
 
 This undead retains enough of its former self to continue its alchemical work, often on behalf of necromancers or other sinister patrons. It toils in a dark laboratory (such as the one found in The Sinister Secret of Saltmarsh), often falling dormant for long periods of time.
 

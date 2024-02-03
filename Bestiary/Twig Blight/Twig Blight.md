@@ -1,7 +1,7 @@
 ### Twig Blight
 _Small plant, neutral evil_
 
-![[Twig Blight.webp]]
+![[Twig Blight.jpg]]
 
 
 

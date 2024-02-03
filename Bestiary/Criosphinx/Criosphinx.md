@@ -1,7 +1,7 @@
 ### Criosphinx
 _Large monstrosity, neutral_
 
-![[Criosphinx.webp]]
+![[Criosphinx.jpg]]
 
 A rare few [[amonkhet sphinx|PSA|sphinxes]] have the heads of rams instead of the humanlike faces of other [[amonkhet sphinx|PSA|sphinxes]]. Though they lie under the same curse as all their kind, they are less enigmatic and more aggressive, actively attacking [[angel of amonkhet|PSA|angels]], demons, and other agents of Bolas they encounter in the desert. They stay far from Naktamun and care little for its people. Their hatred of Bolas is driven only by his curse.
 

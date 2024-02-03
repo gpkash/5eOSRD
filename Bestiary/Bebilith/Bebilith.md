@@ -1,7 +1,7 @@
 ### Bebilith
 _Huge fiend (demon), chaotic evil_
 
-![[Bebilith.webp]]
+![[Bebilith.jpg]]
 
 > _It is said that the drow can imprison a Bebilith in a metal shell. This new creation is called a Retriever and is used by the dark elves to track down and exterminate their enemies.
 _

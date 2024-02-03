@@ -1,7 +1,7 @@
 ### Hadozee Shipmate
 _Medium humanoid, any alignment_
 
-![[Hadozee Shipmate.webp]]
+![[Hadozee Shipmate.jpg]]
 
 Hadozee shipmates make up much of the crew aboard some spelljamming ships.
 

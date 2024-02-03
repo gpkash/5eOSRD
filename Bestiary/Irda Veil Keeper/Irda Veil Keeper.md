@@ -1,7 +1,7 @@
 ### Irda Veil Keeper
 _Medium giant (sorcerer), any alignment_
 
-![[Irda Veil Keeper.webp]]
+![[Irda Veil Keeper.jpg]]
 
 Masters of their innate illusory powers, irda veil keepers protect their companions by weaving magical mirages that disorient foes. Rumors say that the most skilled irda veil keepers can keep entire enclaves hidden, guarding a community's inhabitants from the outside world for centuries.
 

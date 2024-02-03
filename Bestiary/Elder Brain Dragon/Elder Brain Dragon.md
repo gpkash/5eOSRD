@@ -1,7 +1,7 @@
 ### Elder Brain Dragon
 _Gargantuan aberration, lawful evil_
 
-![[Elder Brain Dragon.webp]]
+![[Elder Brain Dragon.jpg]]
 
 One of the few consolations available to those who must contend with a mind flayer colony is the limit of its reach, which spreads only as far as the influence of the colony's elder brain. But this small solace withers away when a colony manages to capture a dragon. Teams of mind flayers bind the dragon, which is subject to a gruesome transformation as the elder brain latches onto the dragon's back and digs its tentacles into the dragon's brain. An elder brain dragon is the nightmarish result.
 

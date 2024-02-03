@@ -1,7 +1,7 @@
 ### Vampire
 _Medium undead (shapechanger), lawful evil_
 
-![[Vampire.webp]]
+![[Vampire.jpg]]
 
 Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.
 

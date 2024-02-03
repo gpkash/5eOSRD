@@ -1,7 +1,7 @@
 ### Star Spawn Hulk
 _Large aberration, chaotic evil_
 
-![[Star Spawn Hulk.webp]]
+![[Star Spawn Hulk.jpg]]
 
 
 

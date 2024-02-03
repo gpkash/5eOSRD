@@ -1,7 +1,7 @@
 ### Sludge Hag
 _Medium fey, _
 
-![[Sludge Hag.webp]]
+![[Sludge Hag.jpg]]
 
 You can smell a sludge hag long before you see one. A super stinky smell like rotten eggs mixed with old flower water lingers whenever a sludge hag is around. Sludge hags also tend to leave oily, dark trails of goop around the locations they inhabit. Small critters who venture too close will become covered in the oily goop and require the help of another creature to get clean.
 

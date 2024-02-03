@@ -1,7 +1,7 @@
 ### Kenku
 _Medium humanoid (kenku), chaotic neutral_
 
-![[Kenku.webp]]
+![[Kenku.jpg]]
 
 Kenku are feathered humanoids that wander the world as vagabonds, driven by greed. They can perfectly imitate any sound they hear.
 

@@ -1,7 +1,7 @@
 ### Halaster Blackcloak
 _Medium humanoid (human), chaotic evil_
 
-![[Halaster Blackcloak.webp]]
+![[Halaster Blackcloak.jpg]]
 
 As the master of Undermountain, Halaster can alter the entire dungeon to some extent. His lair actions and regional effects don't extend beyond Undermountain.
 

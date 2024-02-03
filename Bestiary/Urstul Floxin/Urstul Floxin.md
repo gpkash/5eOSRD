@@ -1,7 +1,7 @@
 ### Urstul Floxin
 _Medium humanoid (Illuskan human), lawful evil_
 
-![[Urstul Floxin.webp]]
+![[Urstul Floxin.jpg]]
 
 Urstul Floxin works for Manshoon, and he is the highest-ranking member of the Zhentarim squad stationed at House Gralhund. Urstul is a glorified thug with all the charm and breeding of a snake, but the Gralhunds tolerate him because he feeds them useful information culled from his spies throughout the city. Urstul takes his orders from Manshoon's current simulacrum, which comes and goes from House Gralhund by way of a teleportation circle (connected to the circle in Kolat Towers).
 

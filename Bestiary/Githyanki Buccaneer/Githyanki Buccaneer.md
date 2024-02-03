@@ -1,7 +1,7 @@
 ### Githyanki Buccaneer
 _Medium humanoid (gith), any alignment_
 
-![[Githyanki Buccaneer.webp]]
+![[Githyanki Buccaneer.jpg]]
 
 Githyanki buccaneers ply the Astral Plane for riches, which they haul back to their hidden fortresses in the Deep Astral. Many of them are warriors who lost the will to serve the Lich-Queen Vlaakith; they prefer to live by their own code or revel in their unbridled freedom.
 

@@ -1,7 +1,7 @@
 ### Blindheim
 _Medium humanoid (blindheim), chaotic neutral_
 
-![[Blindheim.webp]]
+![[Blindheim.jpg]]
 
 These frog-like humanoids have the ability to project intense, blinding light from their eyes. Dwelling on the fringes of the Underdark, blindheims are opportunistic ambushers who can be swayed into service with payment of fresh food and metal weapons. A blindheim's radiant eyes make these creatures a unique source of light in the Underdark depths, and are bright enough to hinder creatures that suffer in the presence of bright light—or to destroy their foes.
 

@@ -1,7 +1,7 @@
 ### Solar Dragon Wyrmling
 _Medium dragon, neutral_
 
-![[Solar Dragon Wyrmling.webp]]
+![[Solar Dragon Wyrmling.jpg]]
 
 
 

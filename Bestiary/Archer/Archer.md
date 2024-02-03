@@ -1,7 +1,7 @@
 ### Archer
 _Medium humanoid (any race), any alignment_
 
-![[Archer.webp]]
+![[Archer.jpg]]
 
 Archers defend castles, hunt wild game on the fringes of civilization, serve as artillery in military units, and occasionally make good coin as brigands or caravan guards.
 

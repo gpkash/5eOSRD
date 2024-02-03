@@ -1,7 +1,7 @@
 ### Dao
 _Large elemental, neutral evil_
 
-![[Dao.webp]]
+![[Dao.jpg]]
 
 
 

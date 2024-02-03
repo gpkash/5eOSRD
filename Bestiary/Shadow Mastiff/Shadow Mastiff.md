@@ -1,7 +1,7 @@
 ### Shadow Mastiff
 _Medium monstrosity, neutral evil_
 
-![[Shadow Mastiff.webp]]
+![[Shadow Mastiff.jpg]]
 
 
 

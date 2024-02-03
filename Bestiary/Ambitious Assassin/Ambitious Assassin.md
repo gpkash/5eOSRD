@@ -1,7 +1,7 @@
 ### Ambitious Assassin
 _Small, Medium humanoid, neutral evil_
 
-![[Ambitious Assassin.webp]]
+![[Ambitious Assassin.jpg]]
 
 Appropriate for tier 1 play (levels 1 to 4), the ambitious assassin is a Humanoid who might be a charming manipulator or a ruthless killer.
 

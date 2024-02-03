@@ -1,7 +1,7 @@
 ### Wraithroot Tree
 _Huge plant, neutral evil_
 
-![[WraithrootTreeFluff.webp]]
+![[WraithrootTreeFluff.jpg]]
 
 When ancient or nefarious entities need to safeguard objects of grave consequence—particularly items intertwined with their immortality—they bury those secrets alongside wraithroot trees, around which the people of Exandria dare not tread.
 

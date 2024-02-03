@@ -1,7 +1,7 @@
 ### Maggie Keeneyes (Tier 3)
 _Large giant (ogre), lawful neutral_
 
-![[Maggie Keeneyes (Tier 3).webp]]
+![[Maggie Keeneyes (Tier 3).jpg]]
 
 People might laugh when a 12-foot-tall ogre orders a drink at a bar and says her name is Maggie, but they don't laugh for long. Some people fixate on her name, her enormous size, her muscles, or the weapon at her side. Wiser folk take notice of Maggie's bright blue eyes. All her life, people have considered Maggie a stupid meathead because of her size, but her eyes betray her intelligence. She can read others with a glance, whether in conversation or in a duel. When her eyes dart back and forth across a battlefield, they take in enough information to give her allies an advantage in the fight.
 

@@ -1,7 +1,7 @@
 ### Wiggan Nettlebee
 _Small humanoid (halfling), neutral evil_
 
-![[Wiggan Nettlebee.webp]]
+![[Wiggan Nettlebee.jpg]]
 
 Wiggan Nettlebee is the patriarch of the Nettlebee clan, a wealthy family of halflings that raise livestock and farm their land. He presents the outward appearance of a modest rancher, and he forbids extravagance on his farm. Thinking he had found a cult dedicated to the dominating nature and utilizing its darker aspects, Wiggan joined the Cult of the Black Earth. He still doesn't know the full extent of the cult's plans.
 

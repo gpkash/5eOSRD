@@ -1,7 +1,7 @@
 ### Xan Moonblade
 _Medium humanoid (elf), lawful neutral_
 
-![[Xan Moonblade.webp]]
+![[Xan Moonblade.jpg]]
 
 Xan is an elven bladesinger raised in the city of Evereska, one of the largest elven enclaves left in Faerûn, its population size second only to that of the island nation of Evermeet. With its name meaning "fortress home" in elvish, Evereska has remained hidden within the Western Heartlands for millennia. This secrecy is the major reason why the city remains as one of the last major elven enclaves in the North, whereas most others have fallen to outsiders. Because of this, Evereska is sometimes called the Last City.
 

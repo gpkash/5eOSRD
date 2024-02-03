@@ -1,7 +1,7 @@
 ### Sea Spawn
 _Medium humanoid, neutral evil_
 
-![[Sea Spawn.webp]]
+![[Sea Spawn.jpg]]
 
 Many of the stories sung as sea chanteys and recounted in dockside taverns tell of people lost to the sea—but not merely drowned and gone. Some unfortunates taken by the ocean live on as sea spawn, haunting the waves like tortured reflections of their former selves. Coral encrusts them. Barnacles cling to their cold skin. Lungs that once filled with air can now breathe in water as well.
 

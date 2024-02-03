@@ -1,7 +1,7 @@
 ### Giant Owl
 _Large beast, neutral_
 
-![[Giant Owl.webp]]
+![[Giant Owl.jpg]]
 
 Giant owls often befriend fey and other sylvan creatures and are guardians of their woodland realms.
 

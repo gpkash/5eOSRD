@@ -1,7 +1,7 @@
 ### Borborygmos
 _Huge giant, chaotic neutral_
 
-![[Borborygmos.webp]]
+![[Borborygmos.jpg]]
 
 For decades, the enormous cyclops Borborygmos has commanded the respect and obedience of the Gruul Clans by defeating all who challenged him. He embodies the raging fire that the Gruul believe burns in their bellies, and his wrath toward the civilization of Ravnica knows no bounds.
 

@@ -1,7 +1,7 @@
 ### Hrabbaz
 _Medium humanoid (half-orc), lawful evil_
 
-![[Hrabbaz.webp]]
+![[Hrabbaz.jpg]]
 
 Hrabbaz is a muscle-bound half-orc with a cleft palate who serves the lord and lady of House Gralhund as a bodyguard. He is well mannered and dresses impeccably-a disarming appearance that belies a murderous heart. Though he has great respect for Lady Yalah Gralhund, he is less fond of her moody husband, and wouldn't be sad to see Orond knocked down a peg or two.
 

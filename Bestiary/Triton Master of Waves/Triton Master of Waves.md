@@ -1,7 +1,7 @@
 ### Triton Master of Waves
 _Medium humanoid (triton), neutral_
 
-![[Triton Master of Waves.webp]]
+![[Triton Master of Waves.jpg]]
 
 Triton masters of waves sculpt storms and change the tides, bending the sea to their will. Drawing forth living currents and the icy cold of the deep, these mages make the ocean their ally, using it to defend their people or enact Thassa's wishes. While dire threats from the land might bring them to coastal shallows, most masters of waves keep to the ocean's depths.
 

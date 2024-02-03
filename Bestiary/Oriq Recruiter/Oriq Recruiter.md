@@ -1,7 +1,7 @@
 ### Oriq Recruiter
 _Medium humanoid (warlock), lawful evil_
 
-![[Oriq Recruiter.webp]]
+![[Oriq Recruiter.jpg]]
 
 Oriq recruiters are subtle mages who infiltrate Strixhaven in service to their order. They are adept at blending in, watching for powerful but underperforming mages and students who have fallen through the cracks of the institution. The recruiters approach and befriend these individuals either as potential recruits to the Oriq or as assets who can help the Oriq acquire spells, rare spell components, or knowledge from Strixhaven.
 

@@ -1,7 +1,7 @@
 ### Wersten Kern
 _Medium undead, lawful evil_
 
-![[Wersten Kern.webp]]
+![[Wersten Kern.jpg]]
 
 Wersten Kern is Lord Soth's standard bearer and champion. As with many of Soth's knights, she died alongside her liege during the Cataclysm and was cursed with undeath. In battle, she wields a wicked pike that flies Soth's black rose standard, and her cries can stop mighty warriors' hearts. Wersten staunchly follows Soth's commands, and she will serve him until she faces a second doom.
 

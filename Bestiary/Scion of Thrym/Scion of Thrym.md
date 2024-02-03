@@ -1,7 +1,7 @@
 ### Scion of Thrym
 _Gargantuan giant (titan), neutral evil_
 
-![[Scion of Thrym.webp]]
+![[Scion of Thrym.jpg]]
 
 
 

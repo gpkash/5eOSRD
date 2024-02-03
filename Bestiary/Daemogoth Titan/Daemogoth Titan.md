@@ -1,7 +1,7 @@
 ### Daemogoth Titan
 _Gargantuan fiend, chaotic evil_
 
-![[Daemogoth Titan.webp]]
+![[Daemogoth Titan.jpg]]
 
 Daemogoth titans are towering monsters that blight the land around them. A daemogoth grows in power over the course of decades spent feeding on sorrow and draining life from nature. Eventually that growth turns the daemogoth into a titan.
 

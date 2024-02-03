@@ -1,7 +1,7 @@
 ### Thousand Teeth
 _Large monstrosity, neutral evil_
 
-![[Thousand Teeth.webp]]
+![[Thousand Teeth.jpg]]
 
 Thousand Teeth is an ancient crocodilian nightmare that has served as the apex predator in the swamps near Saltmarsh for as long as anyone can remember. This monster recently fought a number of lizardfolk and lost one of its teeth. Angered and hungry, it sulks in its lair, lost in primal dreams of rending and tearing. It is found in the deep marshes in Danger at Dunwater.
 

@@ -1,7 +1,7 @@
 ### Barovian Witch
 _Medium humanoid (human), chaotic evil_
 
-![[Barovian Witch.webp]]
+![[Barovian Witch.jpg]]
 
 The mad women and men known as Barovian witches forge pacts with Strahd and the Dark Powers of Ravenloft in exchange for magic and longevity. They prefer to live in the shadows and can see in the dark. When traveling in the open, they use [[alter self]] spells to assume less conspicuous forms. They also use these spells to grow long, sharp claws with which they can attack.
 

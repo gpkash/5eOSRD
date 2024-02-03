@@ -1,7 +1,7 @@
 ### Asteria
 _Medium humanoid (human, paladin), chaotic good_
 
-![[Asteria.webp]]
+![[Asteria.jpg]]
 
 Though she now travels alone, Asteria still draws much of her power from her bond with Euryale. Asteria is foremost a protector and warrior, traveling the multiverse to uproot injustice, defend innocents, and inspire hope. She believes everyone deserves a chance to write their own story on their own terms, and her deeds have inspired countless heroic tales.
 

@@ -1,7 +1,7 @@
 ### Mage Hunter
 _Large monstrosity, lawful evil_
 
-![[Mage Hunter.webp]]
+![[Mage Hunter.jpg]]
 
 Mage hunters are hideous spider-legged creatures employed by the Oriq to pursue magic-wielders. These creatures can naturally sense magic via the glowing purple spines on their backs.
 

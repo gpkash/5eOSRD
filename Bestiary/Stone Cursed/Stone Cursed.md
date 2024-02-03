@@ -1,7 +1,7 @@
 ### Stone Cursed
 _Medium construct, lawful evil_
 
-![[Stone Cursed.webp]]
+![[Stone Cursed.jpg]]
 
 Stone cursed are spawned through a foul alchemical ritual performed on a Humanoid that has been turned to stone. The ritual, which requires a mixture of basilisk blood and the ashes from the burned feathers of a cockatrice, awakens a dim echo of the [[petrified]] victim's spirit, animating the statue and turning it into a useful guardian.
 

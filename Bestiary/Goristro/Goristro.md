@@ -1,7 +1,7 @@
 ### Goristro
 _Huge fiend (demon), chaotic evil_
 
-![[Goristro.webp]]
+![[Goristro.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Winged Thrull
 _Small construct, unaligned_
 
-![[Winged Thrull.webp]]
+![[Winged Thrull.jpg]]
 
 Winged thrulls are at once the most intelligent of Orzhov thrulls (which isn't saying much), as well as the smallest, most unobtrusive, and most mobile. They act as messengers and spies for their Orzhov masters and tend to mimic the mannerisms and movements of the oligarchs they serve.
 

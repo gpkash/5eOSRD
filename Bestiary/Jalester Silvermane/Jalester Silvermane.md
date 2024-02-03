@@ -1,7 +1,7 @@
 ### Jalester Silvermane
 _Medium humanoid (human), lawful good_
 
-![[Jalester Silvermane.webp]]
+![[Jalester Silvermane.jpg]]
 
 An earnest man in his mid-twenties, Jalester hails from the distant land of Cormyr, where he earned his spurs working for a mercenary company called the Steel Shadows. A few years ago, Jalester left the Dales and traveled to Waterdeep with several other members of the company, one of whom-Faerrel Dunblade-would become his best friend and lover.
 

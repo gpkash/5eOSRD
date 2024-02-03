@@ -1,7 +1,7 @@
 ### Keyleth, Voice of the Tempest
 _Medium humanoid (half-elf), _
 
-![[KeylethFluff.webp]]
+![[KeylethFluff.jpg]]
 
 
 

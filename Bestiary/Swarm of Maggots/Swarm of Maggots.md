@@ -1,7 +1,7 @@
 ### Swarm of Maggots
 _Medium beast, _
 
-![[Swarm of Maggots.webp]]
+![[Swarm of Maggots.jpg]]
 
 Base creatures are among the first to respond to sinister forces at work in a land. As nefarious powers grip an area, populations of maggots, scarabs, and similar scavenging insects explode and become aggressive predators. Roll on the Swarm Behavior table to see how such swarms might manifest.
 

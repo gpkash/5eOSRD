@@ -1,7 +1,7 @@
 ### Vargouille Reflection
 _Tiny fiend, chaotic evil_
 
-![[Vargouille Reflection.webp]]
+![[Vargouille Reflection.jpg]]
 
 Vargouilles are flying Fiends that resemble disembodied Humanoid heads with wings. While most vargouilles roam the planes to curse Humanoids and create more vargouilles, a variant known as the vargouille reflection resides in Undersigil. When a vargouille reflection spots a Humanoid target, it takes on that creature's visage, terrifying that creature by appearing as its own disembodied head.
 

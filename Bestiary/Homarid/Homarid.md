@@ -1,7 +1,7 @@
 ### Homarid
 _Medium monstrosity, chaotic evil_
 
-![[Homarid.webp]]
+![[Homarid.jpg]]
 
 The merfolk of Vodalia have waged bitter war for generations against the cryptic, cold-loving crustacean race of homarids. The surface ocean waters have become too warm for the homarids in recent times, but in the years following the Brothers' War, as a global ice age settled over Dominaria, the homarids swarmed to the surface and nearly unraveled the fabric of the first Vodalian Empire. Even now, these creatures teem in the deep, frigid trenches to the west of the Voda Sea.
 

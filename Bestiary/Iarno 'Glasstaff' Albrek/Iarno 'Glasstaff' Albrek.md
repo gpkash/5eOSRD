@@ -1,7 +1,7 @@
 ### Iarno "Glasstaff" Albrek
 _Medium humanoid (human, wizard), lawful evil_
 
-![[Iarno Glasstaff Albrek.webp]]
+![[Iarno Glasstaff Albrek.jpg]]
 
 A former member of the Lords' Alliance, Glasstaff seized an opportunity in Phandalin to line his own pockets. Originally tasked with setting up a constabulary, he instead assembled a group of outlaws and local ruffians to secure his own position in town.
 

@@ -1,7 +1,7 @@
 ### Deathless Rider
 _Medium undead, lawful evil_
 
-![[Deathless Rider.webp]]
+![[Deathless Rider.jpg]]
 
 Legends told in the courts of Eldraine suggest that the deathless riders serve a warlock-queen, known simply as the Shadow Queen, who rules from a castle called Dynnistan. It isn't known whether these legends are based on any true experience or are simply the result of imagination trying to account for a terrifying and unexplained phenomenon.
 

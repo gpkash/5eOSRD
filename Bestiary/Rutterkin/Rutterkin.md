@@ -1,7 +1,7 @@
 ### Rutterkin
 _Medium fiend (demon), chaotic evil_
 
-![[Rutterkin.webp]]
+![[Rutterkin.jpg]]
 
 > _Eugh, rutterkins. You've heard of stinking cloud—now get ready for its sequel, rancid crows.
 

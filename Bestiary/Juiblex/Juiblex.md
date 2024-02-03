@@ -1,7 +1,7 @@
 ### Juiblex
 _Huge fiend (demon), chaotic evil_
 
-![[Juiblex.webp]]
+![[Juiblex.jpg]]
 
 Called the Faceless Lord and the Oozing Hunger in ancient grimoires, Juiblex is demon lord of slime and ooze, a noxious creature that doesn't care about the plots and schemes of others of its kind. It exists only to consume, digesting and transforming living matter into more of itself.
 

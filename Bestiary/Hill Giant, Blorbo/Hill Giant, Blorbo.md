@@ -1,7 +1,7 @@
 ### Hill Giant, Blorbo
 _Huge giant, chaotic evil_
 
-![[Hill Giant, Blorbo.webp]]
+![[Hill Giant, Blorbo.jpg]]
 
 The hill giant, Blorbo, is an ill-tempered brute who has a taste for goblin flesh. Goblins tell their children horror stories of Blorbo around the campfire at night to keep them from wandering too far into the Dankwood.
 

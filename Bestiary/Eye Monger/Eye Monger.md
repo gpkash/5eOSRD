@@ -1,7 +1,7 @@
 ### Eye Monger
 _Large aberration, lawful evil_
 
-![[Eye Monger.webp]]
+![[Eye Monger.jpg]]
 
 When its large eye and mouth are closed, an eye monger looks like nothing more than a 12-foot-diameter asteroid. When it senses vibrations in the space around it, the eye monger opens its eye and reveals its true, menacing nature.
 

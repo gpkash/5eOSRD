@@ -1,7 +1,7 @@
 ### Oaken Bolter
 _Medium construct, unaligned_
 
-![[Oaken Bolter.webp]]
+![[Oaken Bolter.jpg]]
 
 
 

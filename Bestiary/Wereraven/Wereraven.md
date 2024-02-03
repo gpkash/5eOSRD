@@ -1,7 +1,7 @@
 ### Wereraven
 _Medium humanoid (human, shapechanger), _
 
-![[Wereraven.webp]]
+![[Wereraven.jpg]]
 
 Wereravens are secretive and extraordinarily cautious lycanthropes that trust one another but are wary of just about everyone else. Although skilled at blending into society, they keep mostly to themselves, respect local laws, and strive to do good whenever possible.
 

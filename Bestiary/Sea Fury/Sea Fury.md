@@ -1,7 +1,7 @@
 ### Sea Fury
 _Medium fey, chaotic evil_
 
-![[Sea Fury.webp]]
+![[Sea Fury.jpg]]
 
 In times of great danger, sea hags form massive covens to channel powerful magic against outside threats. But when the threat is vanquished, these covens often destroy themselves from within. One sea hag grows more powerful than the others, killing its kin one by one and siphoning their magical power as it does so.
 

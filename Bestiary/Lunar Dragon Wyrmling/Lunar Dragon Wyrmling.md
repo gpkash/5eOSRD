@@ -1,7 +1,7 @@
 ### Lunar Dragon Wyrmling
 _Medium dragon, lawful evil_
 
-![[Lunar Dragon Wyrmling.webp]]
+![[Lunar Dragon Wyrmling.jpg]]
 
 Lunar dragons (also known as moon dragons or phase dragons) are capricious, xenophobic creatures that make their lairs inside desolate moons by burrowing through the rock.
 

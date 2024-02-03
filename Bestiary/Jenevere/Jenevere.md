@@ -1,7 +1,7 @@
 ### Jenevere
 _Large celestial, lawful good_
 
-![[Jenevere.webp]]
+![[Jenevere.jpg]]
 
 It was Jenevere's role to watch the mortal planes for individuals of particular virtue. Forbidden to intervene, she would record their struggles and deeds, to be brought in evidence when their souls migrated to their final reward. After centuries of meek observation, she petitioned for more active divine involvement in the fates of those she watched. She was refused. It was too much for her. Against the strictures of her role, she visited the mortal realms to interfere. No grand drawing of flaming swords, just calm words, a timely reminder of morality at the fulcrum point of someone's moral struggle. In time, the Nine Hells became aware of her influence and set a trap for her. After her capture she passed through various hands. Jenevere isn't fierce and combative, but open, honest, and infinitely merciful. She forgives the Fiends that torment her, knowing it is their nature, and her forgiveness burns them more than they can burn her. Possession of Jenevere became something of a poisoned chalice, so that she fell through their hierarchy, possessed by meaner and meaner masters, until she was acquired by Vaness and Fling of the Eye Market.
 

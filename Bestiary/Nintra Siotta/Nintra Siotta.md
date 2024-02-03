@@ -1,7 +1,7 @@
 ### Nintra Siotta
 _Large fey, chaotic evil_
 
-![[Nintra Siotta.webp]]
+![[Nintra Siotta.jpg]]
 
 Nintra Siotta, a chaotic evil archfey who was exiled from the Gloaming Court by the Queen of Air and Darkness long ago, is known in Faerûn by three titles: Princess of the Shadow Glass, Lady of Dread Omens, and Seeker of the Three Crowns. She appears as a 9-foot-tall humanoid made of smoky gray glass, wrapped in a cloak-like darkness that appears to devour the light.
 

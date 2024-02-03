@@ -1,7 +1,7 @@
 ### Spring Eladrin
 _Medium fey (elf), chaotic neutral_
 
-![[Spring Eladrin.webp]]
+![[Spring Eladrin.jpg]]
 
 
 

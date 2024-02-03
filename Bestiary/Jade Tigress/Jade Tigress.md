@@ -1,7 +1,7 @@
 ### Jade Tigress
 _Medium humanoid (human), lawful evil_
 
-![[Jade Tigress.webp]]
+![[Jade Tigress.jpg]]
 
 Jade Tigress is a powerfully built woman whose body has been honed by intense physical training. She is rugged in appearance, with jet-black hair, hazel eyes, and a long, thin scar running across her right cheek. She matches the description of one of the thieves who infiltrated Candlekeep.
 

@@ -1,7 +1,7 @@
 ### Alhoon
 _Medium undead, lawful chaotic evil_
 
-![[Alhoon.webp]]
+![[Alhoon.jpg]]
 
 > _There are many reasons to avoid the way of the lich. An impermanent solution is paradoxical. Take alhoons. They require souls to keep from shriveling. I fail to see the appeal.
 _

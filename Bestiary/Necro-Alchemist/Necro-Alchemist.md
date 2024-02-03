@@ -1,7 +1,7 @@
 ### Necro-Alchemist
 _Medium humanoid (any race), any alignment_
 
-![[Necro-Alchemist.webp]]
+![[Necro-Alchemist.jpg]]
 
 Some bizarre and eccentric scientists use geists—the spirits of the dead—as an energy source to conduct strange experiments on living creatures and fuel crazed technological inventions. Necro-alchemists sometimes call themselves geistmages, but different practitioners identify themselves in different ways. What all have in common, however, is their use of elaborate contraptions to capture, bind, and draw the energy from geists.
 

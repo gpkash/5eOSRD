@@ -1,7 +1,7 @@
 ### Mind Flayer Prophet
 _Medium aberration, lawful evil_
 
-![[Mind Flayer Prophet.webp]]
+![[Mind Flayer Prophet.jpg]]
 
 Some mind flayers dedicate their lives to channeling abstruse truths from beyond reality. This insight gives them preternatural senses and allows them to focus their innate psionic power.
 

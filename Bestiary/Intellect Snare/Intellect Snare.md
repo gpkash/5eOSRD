@@ -1,7 +1,7 @@
 ### Intellect Snare
 _Small aberration, neutral evil_
 
-![[Intellect Snare.webp]]
+![[Intellect Snare.jpg]]
 
 When the strange horrors of the Far Realm rip at the minds of individuals, some of those wayward shreds of thought conglomerate to form an intellect snare. An intellect snare appears as a writhing ball of tentacles, echoing with the cacophonous sounds of every thought the snare has consumed.
 

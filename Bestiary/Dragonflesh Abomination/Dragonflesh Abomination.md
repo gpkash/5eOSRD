@@ -1,7 +1,7 @@
 ### Dragonflesh Abomination
 _Huge monstrosity, neutral evil_
 
-![[Dragonflesh Abomination.webp]]
+![[Dragonflesh Abomination.jpg]]
 
 A dragonflesh abomination is the final stage of a grafter's transformation—a hulking monster whose corrupted brain is ablaze with desire for treasure. Its abhorrent transformation erases the last vestiges of its previous life. It sprouts a tail and clumsy wings and grows to enormous size, barely retaining a bipedal shape. Its stomach churns with acid, causing noxious fumes to waft from its mouth and providing it with a caustic breath weapon. Its body is in a constant state of growth and change, allowing it to quickly heal from its wounds.
 

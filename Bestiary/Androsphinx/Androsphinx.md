@@ -1,7 +1,7 @@
 ### Androsphinx
 _Large monstrosity, lawful neutral_
 
-![[Androsphinx.webp]]
+![[Androsphinx.jpg]]
 
 
 

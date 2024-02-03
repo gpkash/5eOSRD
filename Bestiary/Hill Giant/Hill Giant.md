@@ -1,7 +1,7 @@
 ### Hill Giant
 _Huge giant, chaotic evil_
 
-![[Hill Giant.webp]]
+![[Hill Giant.jpg]]
 
 
 

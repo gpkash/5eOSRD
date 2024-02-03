@@ -1,7 +1,7 @@
 ### Quickling
 _Tiny fey, chaotic evil_
 
-![[Quickling.webp]]
+![[Quickling.jpg]]
 
 Quicklings rocket through twisted forests where the unseelie fey hold sway, both in the Feywild and in the world. These slender Fey resemble miniature elves with feral features and cold eyes that gleam like jewels. Racing faster than the eye can track, they appear as little more than blurry waverings in the air.
 

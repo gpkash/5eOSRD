@@ -1,7 +1,7 @@
 ### Berbalang
 _Medium aberration, neutral evil_
 
-![[Berbalang.webp]]
+![[Berbalang.jpg]]
 
 Berbalangs creep across the [[petrified]] remains of dead gods adrift on the Astral Plane. Obsessed with gathering secrets, both from the gods they inhabit and from the bones of dead creatures, they call forth the spirits of the dead and force them to divulge what they learned in life.
 

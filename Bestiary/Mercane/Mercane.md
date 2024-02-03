@@ -1,7 +1,7 @@
 ### Mercane
 _Large celestial, lawful neutral_
 
-![[Mercane.webp]]
+![[Mercane.jpg]]
 
 Mercanes are the mysterious, magical creations of one or more deities whose portfolios revolve around fair commerce. Standing 12 feet tall, they are lanky blue beings who dress in elegant robes and have elongated heads and long, spindly fingers.
 

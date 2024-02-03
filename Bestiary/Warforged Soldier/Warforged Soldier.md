@@ -1,7 +1,7 @@
 ### Warforged Soldier
 _Medium humanoid (warforged), any alignment_
 
-![[Warforged Soldier.webp]]
+![[Warforged Soldier.jpg]]
 
 Warforged soldiers are humanoids formed from wood and steel, then magically imbued with life and sentience. The warforged were created to fight in the Last War, and in the aftermath of that conflict, they struggle to understand their place in the world.
 

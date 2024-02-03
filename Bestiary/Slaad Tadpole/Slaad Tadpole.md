@@ -1,7 +1,7 @@
 ### Slaad Tadpole
 _Tiny aberration, chaotic neutral_
 
-![[Slaad Tadpole.webp]]
+![[Slaad Tadpole.jpg]]
 
 
 

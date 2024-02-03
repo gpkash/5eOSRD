@@ -1,7 +1,7 @@
 ### Geist
 _Medium undead, any alignment_
 
-![[Geist.webp]]
+![[Geist.jpg]]
 
 Innistrad is filled with the ghosts of the human dead. These spirits, called geists, take many forms. Some are protective ancestors, some are simply lost between life and death, and others are vengeful creatures bent on resolving conflicts they couldn't in life. While Avacyn stood as guardian over Innistrad, she and the angels of Flight Alabaster ushered the spirits of the departed into the Æther, where they rejoined the essence of the plane. In her absence—and now her madness—many spirits cling to the world of the living, unable or unwilling to find their way to the Blessed Sleep.
 

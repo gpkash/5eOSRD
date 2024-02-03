@@ -1,7 +1,7 @@
 ### Djinni
 _Large elemental, chaotic good_
 
-![[Djinni.webp]]
+![[Djinni.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Canopic Golem
 _Large construct, _
 
-![[Canopic Golem.webp]]
+![[Canopic Golem.jpg]]
 
 A mummy lord's organs, normally stored in sacred canopic jars during mummification, can be magically preserved and transplanted into living humanoids. The transplant recipients come under the control of the mummy lord, either as living supplicants or mindless golems through which the mummy lord can see and speak.
 

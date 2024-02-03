@@ -1,7 +1,7 @@
 ### Khargra
 _Small elemental, neutral_
 
-![[Khargra.webp]]
+![[Khargra.jpg]]
 
 The bizarre khargra is a flying creature from the Elemental Plane of Earth that devours any metals it encounters. Though normally content to eat raw veins of ore, this creature considers refined and crafted metals to be particularly delectable.
 

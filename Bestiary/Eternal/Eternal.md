@@ -1,7 +1,7 @@
 ### Eternal
 _Medium undead, neutral evil_
 
-![[Eternal.webp]]
+![[Eternal.jpg]]
 
 **An Eternal Army** A being as mighty and magnificent as Nicol Bolas demands a fighting force of the highest caliber, so that an ordinary army of zombies could never be worthy of the God-Pharaoh. The Eternals are elite soldiers with all the skill and prowess of living soldiers, but none of the disadvantages that arise in living beings, such as emotions, hesitation, or disloyalty. Bolas has personally crafted all of Amonkhet to create just such an army.
 

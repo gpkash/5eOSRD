@@ -1,7 +1,7 @@
 ### Stone Giant Dreamwalker
 _Huge giant (stone giant), chaotic neutral_
 
-![[Stone Giant Dreamwalker.webp]]
+![[Stone Giant Dreamwalker.jpg]]
 
 The surface of the world is an alien realm to stone giants: fluctuating, temporary, exposed to gusting wind and sudden rain. It is as wildly changeable as a dream, and that's how they regard it—as a dream. Nothing there is permanent, so nothing there is real. What happens on the surface doesn't matter. Promises and bargains made there needn't be honored. Life and even art hold less value there.
 

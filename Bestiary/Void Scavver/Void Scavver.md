@@ -1,7 +1,7 @@
 ### Void Scavver
 _Huge monstrosity, unaligned_
 
-![[Void Scavver.webp]]
+![[Void Scavver.jpg]]
 
 Void scavvers are 20 feet long. Each one is a solitary menace with a pitch-black hide. While most other scavvers are content to feed on kitchen scraps, a void scavver goes after the cook.
 

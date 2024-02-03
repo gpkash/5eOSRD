@@ -1,7 +1,7 @@
 ### Fire Giant Forgecaller
 _Huge giant (cleric), any alignment_
 
-![[Fire Giant Forgecaller.webp]]
+![[Fire Giant Forgecaller.jpg]]
 
 A fire giant who masters traditional rune magic can control the heat of a volcanic environment and conjure raw elemental energy of fire and magma. In a fire giant community, these forgecallers oversee both forges and the community's defense, often in Surtur's name. Some forgecallers prefer to live and work in isolation, seeking the hottest fires in volcanoes' hearts or the Elemental Plane of Fire to pursue their own crafts and studies.
 

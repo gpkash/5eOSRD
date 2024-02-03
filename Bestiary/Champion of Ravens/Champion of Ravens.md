@@ -1,7 +1,7 @@
 ### Champion of Ravens
 _Medium celestial, _
 
-![[VaxFluff.webp]]
+![[VaxFluff.jpg]]
 
 
 

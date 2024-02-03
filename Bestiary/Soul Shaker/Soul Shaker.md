@@ -1,7 +1,7 @@
 ### Soul Shaker
 _Large undead, chaotic evil_
 
-![[Soul Shaker.webp]]
+![[Soul Shaker.jpg]]
 
 A grasping mass of Humanoid limbs, a soul shaker is an obsessive claimer of corpses and collector of body parts. These nightmarish creatures arise from ghoulish collections of severed limbs exposed to necromantic energies or when numerous crawling claws form a cooperative relationship.
 

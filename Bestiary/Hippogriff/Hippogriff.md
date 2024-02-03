@@ -1,7 +1,7 @@
 ### Hippogriff
 _Large monstrosity, unaligned_
 
-![[Hippogriff.webp]]
+![[Hippogriff.jpg]]
 
 A beast whose magical origins are lost to history, a hippogriff possesses the wings and forelimbs of an eagle, the hindquarters of a horse, and a head that combines the features of both animals.
 

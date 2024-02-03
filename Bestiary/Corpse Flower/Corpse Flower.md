@@ -1,7 +1,7 @@
 ### Corpse Flower
 _Large plant, chaotic evil_
 
-![[Corpse Flower.webp]]
+![[Corpse Flower.jpg]]
 
 A corpse flower can sprout atop the grave of an evil necromancer or the remains of powerful Undead creatures. Unless it is uprooted and burned while it is still a seedling, the corpse flower grows to enormous size over several weeks, then tears itself free of the earth and begins scavenging Humanoid corpses from battlefields and graveyards. Using its fibrous tentacles, it stuffs the remains into its body to sustain and repair itself. The plant has a malevolent bent and despises the living.
 

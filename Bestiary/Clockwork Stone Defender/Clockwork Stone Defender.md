@@ -1,7 +1,7 @@
 ### Clockwork Stone Defender
 _Medium construct, unaligned_
 
-![[Clockwork Stone Defender.webp]]
+![[Clockwork Stone Defender.jpg]]
 
 
 

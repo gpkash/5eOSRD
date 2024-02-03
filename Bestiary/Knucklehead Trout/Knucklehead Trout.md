@@ -1,7 +1,7 @@
 ### Knucklehead Trout
 _Small beast, unaligned_
 
-![[Knucklehead Trout.webp]]
+![[Knucklehead Trout.jpg]]
 
 The tasty and tenacious knucklehead trout can't easily be caught in nets. Moreover, using a line to reel in such a strong fish is a significant undertaking. Incautious fishers who get pulled into freezing water can quickly die, particularly if they're weighed down by heavy furs and cloaks.
 

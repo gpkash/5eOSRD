@@ -1,7 +1,7 @@
 ### Bronze Scout
 _Medium construct, unaligned_
 
-![[Bronze Scout.webp]]
+![[Bronze Scout.jpg]]
 
 
 

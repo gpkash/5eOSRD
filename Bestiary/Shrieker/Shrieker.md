@@ -1,7 +1,7 @@
 ### Shrieker
 _Medium plant, unaligned_
 
-![[Shrieker.webp]]
+![[Shrieker.jpg]]
 
 
 

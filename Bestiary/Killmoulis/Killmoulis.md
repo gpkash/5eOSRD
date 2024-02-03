@@ -1,7 +1,7 @@
 ### Killmoulis
 _Tiny fey, neutral_
 
-![[Killmoulis.webp]]
+![[Killmoulis.jpg]]
 
 A killmoulis can be either a bane or boon to an adventuring party. When kept well fed with tasty treats, this creature is a helpful assistant that mends armor, collects herbs that make the blandest rations into a feast, and turns a dull, uncomfortable campsite into a welcoming refuge. But if a party abuses or neglects a killmoulis, the creature's mean-spirited thirst for revenge can turn even the simplest expedition into a draining ordeal that leaves adventurers tired, dispirited, and sullen.
 

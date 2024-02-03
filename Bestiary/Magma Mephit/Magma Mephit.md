@@ -1,7 +1,7 @@
 ### Magma Mephit
 _Small elemental, neutral evil_
 
-![[Magma Mephit.webp]]
+![[Magma Mephit.jpg]]
 
 
 

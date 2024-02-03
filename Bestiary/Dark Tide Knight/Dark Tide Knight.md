@@ -1,7 +1,7 @@
 ### Dark Tide Knight
 _Medium humanoid (human), lawful evil_
 
-![[Dark Tide Knight.webp]]
+![[Dark Tide Knight.jpg]]
 
 Dark Tide knights are the elite warriors of the Crushing Wave cult. By drawing upon Olhydra's dark power, they gain the ability to ride sea-creatures that normally wouldn't be suitable as mounts, and can even breathe underwater and share their mount's senses. The knights prefer to fight from or in the water, since they don't like to leave their mounts behind, but they can be fierce opponents on foot at need.
 

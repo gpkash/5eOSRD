@@ -1,7 +1,7 @@
 ### Hellion
 _Huge monstrosity, unaligned_
 
-![[Hellion.webp]]
+![[Hellion.jpg]]
 
 Similar to wurms, hellions are enormous serpentine creatures that dwell in the lava deep beneath the surface of Akoum. When an eruption brings lava to the surface, hellions occasionally emerge as well. Thrust into what seems to them like freezing air, the hellions begin a rampage of devastation resembling an extension of the lava flow.
 

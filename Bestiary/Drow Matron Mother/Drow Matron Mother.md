@@ -1,7 +1,7 @@
 ### Drow Matron Mother
 _Medium humanoid (elf), neutral evil_
 
-![[Drow Matron Mother.webp]]
+![[Drow Matron Mother.jpg]]
 
 Among drow followers of [[ Lolth|Drow|MTF]], each noble house is led by a matron mother, an influential priestess of Lolth charged with carrying out the god's will while also advancing the interests of the family. Matron mothers embody the scheming and treachery associated with the Queen of Spiders. Each stands at the center of a vast conspiratorial web, with demons, spiders, and conscripted soldiers positioned between them and their enemies. Although matron mothers command great power, that power depends on maintaining the Spider Queen's favor, and the goddess sometimes capriciously takes back what she has given. The stat block here represents a matron mother at the height of her power.
 

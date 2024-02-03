@@ -1,7 +1,7 @@
 ### Dracohydra
 _Huge monstrosity, chaotic evil_
 
-![[Dracohydra.webp]]
+![[Dracohydra.jpg]]
 
 The dracohydra is the result of arcane experimentation dedicated to recreating Tiamat's power. Amalgamating the magic of chromatic dragons with the blood of a hydra resulted in a many-headed draconic monster with wings and multiple snakelike tails. The dracohydra's breath weapon is a multicolored mass of energy that contains the essence of a chromatic dragon's elemental power.
 

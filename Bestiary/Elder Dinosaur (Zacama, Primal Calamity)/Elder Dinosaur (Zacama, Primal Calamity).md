@@ -1,7 +1,7 @@
 ### Elder Dinosaur (Zacama, Primal Calamity)
 _Gargantuan monstrosity (titan), unaligned_
 
-![[Elder Dinosaur (Zacama, Primal Calamity).webp]]
+![[Elder Dinosaur (Zacama, Primal Calamity).jpg]]
 
 
 

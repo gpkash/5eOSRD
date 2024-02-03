@@ -1,7 +1,7 @@
 ### Maw of Yeenoghu
 _Huge fiend (demon), chaotic evil_
 
-![[Maw of Yeenoghu.webp]]
+![[Maw of Yeenoghu.jpg]]
 
 Hill giants are known for their voracious appetites, which can attract the attention of the demon lord Yeenoghu, known as the Beast of Butchery. A cruel hill giant sometimes turns to Yeenoghu for help in expanding the reach of its malevolence. Occasionally a hill giant consumes an evil artifact that transforms the giant into a fiendish form. Once in a while, Yeenoghu whispers promises of power in the dreams of a giant whose hunger surpasses other giants'. In any case, the result is a ravenous monster called a maw of Yeenoghu, which is wholly devoted to the demon lord.
 

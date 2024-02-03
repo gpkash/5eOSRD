@@ -1,7 +1,7 @@
 ### Skabatha Nightshade
 _Medium fey (hag), neutral evil_
 
-![[Skabatha Nightshade.webp]]
+![[Skabatha Nightshade.jpg]]
 
 Skabatha is the oldest member of the Hourglass Coven. Better known as Granny Nightshade, she offers her assistance to those who are haunted by regret. Her deals often result in cruel twists; for example, a petitioner who asks to be reunited with a lost love might be transformed into one of their loved one's cherished items, such as a favorite bonnet.
 

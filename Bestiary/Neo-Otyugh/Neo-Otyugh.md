@@ -1,7 +1,7 @@
 ### Neo-Otyugh
 _Huge aberration, neutral_
 
-![[Neo-Otyugh.webp]]
+![[Neo-Otyugh.jpg]]
 
 A neo-otyugh is a stronger, more intelligent version of an otyugh—a grotesque aberration sporting three legs, snake-like tentacles, and a perpetually ravenous maw. Like an otyugh, a neo-otyugh buries itself under mounds of offal and carrion to ambush prey. Their improved intellect and innate spellcasting makes them especially effective against humanoid targets, as they use their powers of control to split off a straggler from a party, then attack.
 

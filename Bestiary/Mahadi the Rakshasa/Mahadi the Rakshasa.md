@@ -1,7 +1,7 @@
 ### Mahadi the Rakshasa
 _Medium fiend, lawful evil_
 
-![[Mahadi the Rakshasa.webp]]
+![[Mahadi the Rakshasa.jpg]]
 
 Mahadi appears as a wealthy merchant lord. Though extremely powerful, Mahadi doesn't believe in taking unnecessary risks, particularly in the Nine Hells where he can be permanently slain. Mahadi acts as the eyes and ears of Asmodeus in Avernus. As a deal broker and moderator, he's privy to all manner of dealings that might otherwise escape the attention of his patron.
 

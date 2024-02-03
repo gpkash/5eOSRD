@@ -1,7 +1,7 @@
 ### Counterflux Blastseeker
 _Medium humanoid (any race), chaotic neutral_
 
-![[Counterflux Blastseeker.webp]]
+![[Counterflux Blastseeker.jpg]]
 
 While chemisters focus on inventing new tools, weapons, and other devices for the guild to use, the role of a blastseeker is to put those devices to work. Despite the name, not all such devices produce explosions, but all the most interesting ones (from the Izzet perspective) do.
 

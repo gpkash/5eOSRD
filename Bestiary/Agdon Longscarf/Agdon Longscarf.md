@@ -1,7 +1,7 @@
 ### Agdon Longscarf
 _Medium fey (harengon), chaotic evil_
 
-![[Agdon Longscarf.webp]]
+![[Agdon Longscarf.jpg]]
 
 In days gone by, Agdon Longscarf made a name for himself as he and his band of miscreants menaced travelers throughout various Feywild domains. It was in Prismeer, however, that Agdon's antics came to an end by Zybilna's hand. As punishment for his offenses, the archfey demanded that Agdon give up his beloved scarf. When he refused, Zybilna cursed him so that he would never be able to remove it. She then pinned the scarf to a young sapling with a magic nail made of gold and iron, and she bade the tree grow until its branches raked the clouds. Agdon was thus carried into the sky, where he was stranded for a long time.
 

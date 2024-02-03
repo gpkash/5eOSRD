@@ -1,7 +1,7 @@
 ### Sapphire Sentinel
 _Large construct, unaligned_
 
-![[Sapphire Sentinel.webp]]
+![[Sapphire Sentinel.jpg]]
 
 Stone golems are magical constructs cut and chiseled from stone to appear as tall, impressive statues. Like other golems, they are nearly impervious to spells and ordinary weapons. The golem remains a noncombatant unless it is directly attacked.
 

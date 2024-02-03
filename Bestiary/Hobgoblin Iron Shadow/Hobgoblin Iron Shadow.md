@@ -1,7 +1,7 @@
 ### Hobgoblin Iron Shadow
 _Medium humanoid (goblinoid), lawful evil_
 
-![[Hobgoblin Iron Shadow.webp]]
+![[Hobgoblin Iron Shadow.jpg]]
 
 Iron shadows are hobgoblin martial artists who serve fey and mortal courts as secret police, scouts, and assassins. They spy to ferret out treachery, rebellion, and betrayal and deal with it ruthlessly. Iron shadows possess agility and stamina matched only by their ironclad commitment to the will of their masters. They wield a deadly combination of unarmed fighting techniques and shadow magic to deceive and defeat their foes. While on secret missions, they wear masks crafted to resemble monsters, both to conceal their identities and to strike fear into their foes.
 

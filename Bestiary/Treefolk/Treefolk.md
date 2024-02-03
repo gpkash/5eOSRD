@@ -1,7 +1,7 @@
 ### Treefolk
 _Large plant (druid), any alignment_
 
-![[Treefolk.webp]]
+![[Treefolk.jpg]]
 
 The wise and ancient treefolk thrive in the depths of Eldraine's forested wilds. Though many treefolk rival members of the high fae in age, they rarely interfere with the goings-on of the faerie court. Instead, treefolk serve as guardians and shepherds of their wild groves, dispensing wisdom and blessings to travelers who wander under their branches.
 

@@ -1,7 +1,7 @@
 ### Death Giant Shrouded One
 _Huge giant (wizard), any alignment_
 
-![[Death Giant Shrouded One.webp]]
+![[Death Giant Shrouded One.jpg]]
 
 
 

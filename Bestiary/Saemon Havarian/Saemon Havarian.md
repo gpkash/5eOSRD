@@ -1,7 +1,7 @@
 ### Saemon Havarian
 _Medium humanoid (human), chaotic neutral_
 
-![[Saemon Havarian.webp]]
+![[Saemon Havarian.jpg]]
 
 > _Fool me once, shame on you; fool me twice, watch it! Fool me three times and you're a pirate! Never trust a pirate! This is something me and Boo agree wholeheartedly on.
 _

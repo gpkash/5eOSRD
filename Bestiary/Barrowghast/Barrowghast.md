@@ -1,7 +1,7 @@
 ### Barrowghast
 _Huge undead, chaotic evil_
 
-![[Barrowghast.webp]]
+![[Barrowghast.jpg]]
 
 A hill giant who dies with an empty stomach, full of rage and regret, might become suffused with energy from the Negative Plane and rise as a barrowghast. Though it looks like little more than an animated corpse, a barrowghast is filled with necrotic energy and driven by spite and malice. Its blood is a thick and toxic ichor that gives the barrowghast a noxious stench.
 

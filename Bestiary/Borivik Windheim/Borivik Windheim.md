@@ -1,7 +1,7 @@
 ### Borivik Windheim
 _Medium humanoid (human), neutral good_
 
-![[Borivik Windheim.webp]]
+![[Borivik Windheim.jpg]]
 
 Borovik Windheim is a skilled ranger and undead hunter originally from the distant lands of Oerth. He was a scout for the ancient Order of the Heart. Long ago, Borovik was leading a small band of the Order of the Heart when a strange mist rose and carried them to the Shadowfell. One by one, the horrors of that land took Borovik's companions, until Borovik was the lone survivor. Borovik blamed himself for the deaths of so many of his close friends, but he never succumbed to despair.
 

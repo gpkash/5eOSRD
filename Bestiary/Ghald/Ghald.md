@@ -1,7 +1,7 @@
 ### Ghald
 _Large humanoid (sahuagin), lawful evil_
 
-![[Ghald.webp]]
+![[Ghald.jpg]]
 
 Ghald is an 8-foot-tall, four-armed sahuagin who works with a partner, Unferth, for the Kraken Society in Yartar. He's careful not to emerge from his hiding place beneath the docks unless it's dark and rainy, and even then he hides under a bulky cloak. He and Unferth serve as the Kraken Society's top operatives in this part of the North, and specialize in advancing the agenda of the society through theft, intimidation, and assassination.
 

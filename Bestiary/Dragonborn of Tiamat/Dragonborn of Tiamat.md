@@ -1,7 +1,7 @@
 ### Dragonborn of Tiamat
 _Medium humanoid, chaotic evil_
 
-![[Dragonborn of Tiamat.webp]]
+![[Dragonborn of Tiamat.jpg]]
 
 Champions of the dragon queen are often called Talons of Tiamat. They work tirelessly to free their master from her imprisonment in Avernus, and Tiamat grants these pawns immense strength and a devastating breath weapon. Champions of Tiamat are sometimes associated with the Cult of the Dragon (described in chapter 3).
 

@@ -1,7 +1,7 @@
 ### Fomorian Deep Crawler
 _Huge giant, any alignment_
 
-![[Fomorian Deep Crawler.webp]]
+![[Fomorian Deep Crawler.jpg]]
 
 
 

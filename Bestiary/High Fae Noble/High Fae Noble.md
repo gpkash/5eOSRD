@@ -1,7 +1,7 @@
 ### High Fae Noble
 _Medium fey, any alignment_
 
-![[High Fae Noble.webp]]
+![[High Fae Noble.jpg]]
 
 
 

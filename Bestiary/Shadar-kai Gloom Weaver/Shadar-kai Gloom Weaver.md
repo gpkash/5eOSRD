@@ -1,7 +1,7 @@
 ### Shadar-kai Gloom Weaver
 _Medium humanoid (elf), neutral evil_
 
-![[Shadar-kai Gloom Weaver.webp]]
+![[Shadar-kai Gloom Weaver.jpg]]
 
 
 

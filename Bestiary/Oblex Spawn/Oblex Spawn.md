@@ -1,7 +1,7 @@
 ### Oblex Spawn
 _Tiny ooze, lawful evil_
 
-![[Oblex Spawn.webp]]
+![[Oblex Spawn.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Undercity Medusa
 _Medium monstrosity, neutral evil_
 
-![[Undercity Medusa.webp]]
+![[Undercity Medusa.jpg]]
 
 The medusas of Ravnica, often called gorgons, are a monstrous race of creatures that appear superficially similar to human women. In place of hair, a gorgon has a writhing mass of black, serpentine cables, and its hands are scaly claws.
 

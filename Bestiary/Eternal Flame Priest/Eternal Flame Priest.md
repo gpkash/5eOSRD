@@ -1,7 +1,7 @@
 ### Eternal Flame Priest
 _Medium humanoid (human), neutral evil_
 
-![[Eternal Flame Priest.webp]]
+![[Eternal Flame Priest.jpg]]
 
 Eternal Flame priests see the world around them as impure and unworthy, and believe that only cleansing by fire can set it right. As a result, all fire is deemed holy, from the smallest candle flame to the greatest conflagrations. When traveling in the open, Eternal Flame priests are clever enough to hide their true beliefs, passing themselves off as druids or wizards with a knack for fire magic.
 

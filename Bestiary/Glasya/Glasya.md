@@ -1,7 +1,7 @@
 ### Glasya
 _Medium fiend (devil), lawful evil_
 
-![[Glasya.webp]]
+![[Glasya.jpg]]
 
 Glasya is known by many names: the Dark Prodigy, the Princess of the Nine Hells, and Lord of Malbolge. She maintains control over the erinyes and has a massive following within the downtrodden and the neglected royalty of the other planes. For a long time, she was simply a lesser archdevil, jumping between various courts as she saw fit. It wasn't until the Reckoning, which she helped instigate, that she claimed true power and became ruler of one of the nine layers.
 

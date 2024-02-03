@@ -1,7 +1,7 @@
 ### Avoral Guardinal
 _Medium celestial, neutral good_
 
-![[Avoral Guardinal.webp]]
+![[Avoral Guardinal.jpg]]
 
 Avorals are eagle-like bipeds with winged arms and keen, golden eyes. Prone to wander, these avian Celestials leave Elysium more frequently than their counterparts, meandering across the Outlands to wherever the winds might take them. Solitary scouts and skirmishers, avorals are nimble aerial combatants, able to swiftly dive at foes from the heavens and tear into them with razor-sharp talons.
 

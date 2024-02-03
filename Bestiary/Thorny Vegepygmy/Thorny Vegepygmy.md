@@ -1,7 +1,7 @@
 ### Thorny Vegepygmy
 _Medium plant, neutral_
 
-![[Thorny Vegepygmy.webp]]
+![[Thorny Vegepygmy.jpg]]
 
 
 

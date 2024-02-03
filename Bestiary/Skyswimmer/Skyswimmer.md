@@ -1,7 +1,7 @@
 ### Skyswimmer
 _Gargantuan monstrosity, unaligned_
 
-![[Skyswimmer.webp]]
+![[Skyswimmer.jpg]]
 
 Skyswimmers are enormous, predatory leviathans that feed on drakes, rocs, griffins, and anything else they encounter as they soar through the clouds above Ravnica.
 

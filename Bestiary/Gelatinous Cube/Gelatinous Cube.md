@@ -1,7 +1,7 @@
 ### Gelatinous Cube
 _Large ooze, unaligned_
 
-![[Gelatinous Cube.webp]]
+![[Gelatinous Cube.jpg]]
 
 Gelatinous cubes scour dungeon passages in silent, predictable patterns, leaving perfectly clean paths in their wake. They consume living tissue while leaving bones and other materials undissolved.
 

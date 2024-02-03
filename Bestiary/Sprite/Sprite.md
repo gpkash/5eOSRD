@@ -1,7 +1,7 @@
 ### Sprite
 _Tiny fey, neutral good_
 
-![[Sprite.webp]]
+![[Sprite.jpg]]
 
 In secret groves and shaded glens, tiny sprites with dragonfly wings flutter. For all their fey splendor, however, sprites lack warmth and compassion. They are aggressive and hardy warriors, taking severe measures to ward strangers away from their homes. Interlopers that come too close have their moral character judged, then are put to sleep or frightened off.
 

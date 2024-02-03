@@ -1,7 +1,7 @@
 ### Sivak Draconian
 _Large monstrosity, lawful evil_
 
-![[Sivak Draconian.webp]]
+![[Sivak Draconian.jpg]]
 
 Sivak draconians are fearsome brutes created from the eggs of silver dragons. They fly on mighty wings over battlefields wherever the fighting is the fiercest, making them effective shock troops. Sivaks can magically change their features to mimic the appearance of those they've slain. This allows these cunning soldiers to sow confusion and despair among their enemies. When sivaks are killed, their crumbling bodies mimic the form of their killers and shriek in agony.
 

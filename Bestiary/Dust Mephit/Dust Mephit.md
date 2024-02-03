@@ -1,7 +1,7 @@
 ### Dust Mephit
 _Small elemental, neutral evil_
 
-![[Dust Mephit.webp]]
+![[Dust Mephit.jpg]]
 
 
 

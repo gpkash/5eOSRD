@@ -1,7 +1,7 @@
 ### Half-Red Dragon Veteran
 _Medium humanoid (human), any alignment_
 
-![[Half-Red Dragon Veteran.webp]]
+![[Half-Red Dragon Veteran.jpg]]
 
 When a dragon in polymorphed form mates with another creature, the union sometimes produces half dragon offspring. A creature might also transform into a half-dragon as a result of a mad wizard's spell or a ritual bath in dragon's blood. In all these cases, the result is a creature that combines the essence of a dragon with the form of its original race. Regardless of their origins, all half-dragons have similar features and appearance, gaining special senses, resistance to destructive energy, and a breath weapon.
 

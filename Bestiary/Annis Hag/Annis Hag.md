@@ -1,7 +1,7 @@
 ### Annis Hag
 _Large fey, chaotic evil_
 
-![[Annis Hag.webp]]
+![[Annis Hag.jpg]]
 
 Annis hags lair in mountains or hills. These hunchbacked and hump-shouldered hags are the largest and most physically imposing of their kind, standing eight feet tall. They can easily tear a fully grown person apart, but they love hunting the young, preferring their flesh above all others.
 

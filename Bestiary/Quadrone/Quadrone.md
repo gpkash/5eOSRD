@@ -1,7 +1,7 @@
 ### Quadrone
 _Medium construct, lawful neutral_
 
-![[Quadrone.webp]]
+![[Quadrone.jpg]]
 
 
 

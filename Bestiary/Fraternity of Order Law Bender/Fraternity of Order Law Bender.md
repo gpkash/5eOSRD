@@ -1,7 +1,7 @@
 ### Fraternity of Order Law Bender
 _Small, Medium humanoid, any alignment_
 
-![[Fraternity of Order Law Bender.webp]]
+![[Fraternity of Order Law Bender.jpg]]
 
 Members of the Fraternity of Order find and exploit loopholes in the laws of the multiverse. Law benders are magistrates who skirt the rules of probability and space, moving freely and manipulating the outcomes of actions around them.
 

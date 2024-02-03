@@ -1,7 +1,7 @@
 ### Bozak Draconian
 _Medium monstrosity (sorcerer), lawful evil_
 
-![[Bozak Draconian.webp]]
+![[Bozak Draconian.jpg]]
 
 Bozak draconians are born from bronze dragon eggs and wield magic to aid their allies in battle. Their wings aren't strong enough for full flight, but bozaks can use them to glide during a fall. When bozaks die, their flesh shrivels away before their bones explode, sending a shower of magical splinters in all directions.
 

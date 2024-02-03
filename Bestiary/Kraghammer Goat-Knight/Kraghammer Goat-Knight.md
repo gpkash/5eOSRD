@@ -1,7 +1,7 @@
 ### Kraghammer Goat-Knight
 _Medium humanoid (dwarf), _
 
-![[GoatKnightFluff.webp]]
+![[GoatKnightFluff.jpg]]
 
 The sheer cliff faces and winding mountainside roads of the [[Cliffkeep Mountains|3|Cliffkeep Mountains]] are nearly impossible to traverse by normal means with any speed. The Peakclimber Knights of [[Kraghammer|3|Kraghammer]]—commonly known as the [[Kraghammer Goat-Knight|goat-knights]]—are the enforcers of peace and justice across the mountain range. They trust their [[Goat-Knight Steed|giant goat steeds]] to master the harsh mountain slopes, and many travelers lost within the [[Cliffkeep Mountains|3|Cliffkeep Mountains]] have been saved by a [[Kraghammer Goat-Knight|goat-knight]] who led them to safety along the more traversable mountain paths.
 

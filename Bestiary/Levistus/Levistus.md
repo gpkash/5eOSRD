@@ -1,7 +1,7 @@
 ### Levistus
 _Medium fiend (devil), lawful evil_
 
-![[Levistus.webp]]
+![[Levistus.jpg]]
 
 No archdevil is more hated than the Frozen Prince, Levistus, despite his reputation as an honorable and chivalrous archdevil. Rivaling Asmodeus and Dis in their ability to plan and strategize, Levistus is generally considered one of the most plausible archdevils for overthrowing the throne. His ambition was somewhat stifled when he committed an unspeakable betrayal and was imprisoned by Asmodeus deep within the ice of Stygia.
 

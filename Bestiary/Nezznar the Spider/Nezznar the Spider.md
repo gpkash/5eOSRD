@@ -1,7 +1,7 @@
 ### Nezznar the Spider
 _Medium humanoid (elf, wizard), neutral evil_
 
-![[Nezznar the Spider.webp]]
+![[Nezznar the Spider.jpg]]
 
 The Spider—a drow mastermind named Nezznar—is searching Wave Echo Cave for the Forge of Spells, a magical forge that was used by dwarves and gnomes in bygone days to fashion powerful magic items.
 

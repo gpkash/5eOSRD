@@ -1,7 +1,7 @@
 ### Lohezet
 _Medium humanoid (human, wizard), neutral evil_
 
-![[Lohezet.webp]]
+![[Lohezet.jpg]]
 
 A black-robed member of the Mages of High Sorcery, Lohezet is a scholar obsessed with extinct creatures and fallen empires. He views the Dragon Army as a way to recreate the glories of Ansalon's past. During the Dragon Armies' invasions of Khur and Kendermore, Lohezet's investigations of Istarian ruins revealed the location of the flying city of Onyari. He now travels with the Red Dragon Army, intent on finding the City of Lost Names and restoring it to the skies.
 

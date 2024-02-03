@@ -1,7 +1,7 @@
 ### Drowned Master
 _Medium undead, chaotic evil_
 
-![[Drowned One.webp]]
+![[Drowned One.jpg]]
 
 This waterlogged undead, bound to the Pit of Hatred in Tammeraut's Fate, hovers menacingly over the bones of its victims. Its torso, arms, and head retain their former shapes, but its legs have split into shadowy tentacles. The drowned master is tethered to a source of powerful magic that prevents it from traveling far. It commands other drowned ones, compelling them to serve as agents in its dark plots.
 

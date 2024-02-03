@@ -1,7 +1,7 @@
 ### Centaur Mummy
 _Large undead, lawful evil_
 
-![[Centaur Mummy.webp]]
+![[Centaur Mummy.jpg]]
 
 In The Hidden Shrine of Tamoachan, characters must contend with a mummified centaur that wants to prevent them from moving any farther into the dungeon. Combining the most lethal features of two creature types, the centaur mummy can attack nearby targets with its melee weapons while trying to use its Dreadful Glare against enemies that hold back.
 

@@ -1,7 +1,7 @@
 ### Firefist
 _Medium humanoid (any race), lawful good_
 
-![[Firefist.webp]]
+![[Firefist.jpg]]
 
 Boros firefists combine potent magic with peerless fighting ability, inspiring all who serve alongside them. They often act as the point of contact between the Boros Legion and the angelic leaders.
 

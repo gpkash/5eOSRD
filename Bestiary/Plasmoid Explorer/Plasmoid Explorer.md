@@ -1,7 +1,7 @@
 ### Plasmoid Explorer
 _Medium ooze, any alignment_
 
-![[Plasmoid Explorer.webp]]
+![[Plasmoid Explorer.jpg]]
 
 Wanderlust compels some plasmoids to explore the Astral Plane and visit different worlds of the Material Plane. Such an explorer usually travels light, keeping its possessions in a backpack or similar container.
 

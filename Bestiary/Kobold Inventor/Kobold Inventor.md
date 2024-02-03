@@ -1,7 +1,7 @@
 ### Kobold Inventor
 _Small humanoid (kobold), lawful evil_
 
-![[Kobold Inventor.webp]]
+![[Kobold Inventor.jpg]]
 
 A kobold inventor builds improvised weapons to gain an advantage in combat. These weapons last for only one or two attacks before they break and typically work only for the inventor, but they might be surprisingly effective in the meantime. The weapons don't have to be lethal—often one serves its purpose if it distracts, scares, or confuses a creature long enough for the inventor to kill that foe.
 

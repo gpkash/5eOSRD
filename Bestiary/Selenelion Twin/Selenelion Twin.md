@@ -1,7 +1,7 @@
 ### Selenelion Twin
 _Medium humanoid (elf), chaotic good_
 
-![[Selenelion Twin.webp]]
+![[Selenelion Twin.jpg]]
 
 Gleam and Glister are high elf twins, who until recently performed amazing acts of balance and agility at the Witchlight Carnival. Together, they are known as the Selenelion twins. (A selenelion is a celestial event during a lunar eclipse in which the sun and the eclipsed moon can be observed at the same time, either just before sunset or just after sunrise, when both bodies appear just above the horizon at nearly opposite points in the sky.)
 

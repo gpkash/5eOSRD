@@ -1,7 +1,7 @@
 ### Asharra
 _Medium humanoid (aarakocra), lawful neutral_
 
-![[Asharra.webp]]
+![[Asharra.jpg]]
 
 Aarakocra range the Howling Gyre, an endless storm of mighty winds and lashing rains that surrounds the tranquil realm of Aaqa in the Elemental Plane of Air. Making aerial patrols, these birdlike humanoids guard the windy borders of their home against invaders from the Elemental Plane of Earth, such as gargoyles, their sworn enemies.
 

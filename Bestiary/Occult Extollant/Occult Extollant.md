@@ -1,7 +1,7 @@
 ### Occult Extollant
 _Small, Medium humanoid (sorcerer), any alignment_
 
-![[Occult Extollant.webp]]
+![[Occult Extollant.jpg]]
 
 Occult extollants delve deep into ancient legends and seek to solve mysteries that have led other investigators to their doom, driven by an unquenchable yearning to know the unknown.
 

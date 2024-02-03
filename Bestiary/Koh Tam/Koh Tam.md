@@ -1,7 +1,7 @@
 ### Koh Tam
 _Medium humanoid, lawful neutral_
 
-![[Koh Tam.webp]]
+![[Koh Tam.jpg]]
 
 Koh Tam is the powerful head priest of Kelemvor, god of death and the dead, at the Waterdeep cathedral. Seeking to know all the secrets of the realms of the dead, Koh Tam petitioned his god for permission to explore the Nine Hells. The young priest set forth into the infernal realm where he bore witness to horrors beyond mortal imagination and encountered fiendish creatures whose power greatly outmatched his own. The experience forever changed the priest. Rather than sate his curiosity, the journey only served to further incite Koh Tam's fascination with the infernal. He devoted himself to the study of arcane books concerning the subject and collected an impressive number of infernal relics.
 

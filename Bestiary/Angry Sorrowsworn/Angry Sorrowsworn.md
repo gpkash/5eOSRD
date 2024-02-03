@@ -1,7 +1,7 @@
 ### Angry Sorrowsworn
 _Medium monstrosity, neutral evil_
 
-![[Angry Sorrowsworn.webp]]
+![[Angry Sorrowsworn.jpg]]
 
 
 

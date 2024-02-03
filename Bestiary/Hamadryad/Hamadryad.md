@@ -1,7 +1,7 @@
 ### Hamadryad
 _Medium fey, chaotic neutral_
 
-![[Hamadryad.webp]]
+![[Hamadryad.jpg]]
 
 > _I cannot drink the water. My roots grow black and rotten. I cannot drink the water. My leaves wither and die. I cannot drink...
 _

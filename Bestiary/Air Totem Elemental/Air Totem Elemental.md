@@ -1,7 +1,7 @@
 ### Air Totem Elemental
 _Large elemental, neutral_
 
-![[Air Totem Elemental.webp]]
+![[Air Totem Elemental.jpg]]
 
 
 

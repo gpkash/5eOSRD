@@ -1,7 +1,7 @@
 ### Scholarly Agent
 _Small, Medium humanoid (wizard), any alignment_
 
-![[Scholarly Agent.webp]]
+![[Scholarly Agent.jpg]]
 
 Scholarly agents are low-ranking members of an academic organization. They know a few tricks to help them avoid danger, and they study magic that enables them to decipher secrets of the past and identify magical relics.
 

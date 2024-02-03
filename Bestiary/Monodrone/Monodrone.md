@@ -1,7 +1,7 @@
 ### Monodrone
 _Medium construct, lawful neutral_
 
-![[Monodrone.webp]]
+![[Monodrone.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Ashari Stoneguard
 _Medium humanoid (any), _
 
-![[AshariStoneguardFluff.webp]]
+![[AshariStoneguardFluff.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Sphinx (Type 1)
 _Large monstrosity, lawful neutral_
 
-![[Sphinx.webp]]
+![[Sphinx.jpg]]
 
 Utterly inscrutable, sphinxes are mysterious creatures known for their wisdom and knowledge. Closely aligned with blue mana, they are utterly devoted to gaining and possessing knowledge—but not to sharing or acting upon it. Sphinxes are content to search out the mysteries of Zendikar, then sit in quiet contemplation of what they have learned. To them, everything is an intellectual exercise, including conversation. They are famously oblique, answering questions with questions and posing riddles to test the acuity of others.
 

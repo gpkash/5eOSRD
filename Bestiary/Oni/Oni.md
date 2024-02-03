@@ -1,7 +1,7 @@
 ### Oni
 _Large giant, lawful evil_
 
-![[Oni.webp]]
+![[Oni.jpg]]
 
 In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of children and adults alike, yet they are very real and always hungry. They find human babies especially delicious. Oni look like demonic ogres with blue or green skin, dark hair, and a pair of short ivory horns protruding from their foreheads. Their eyes are dark with strikingly white pupils, and their teeth and claws are jet black.
 

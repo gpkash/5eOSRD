@@ -1,7 +1,7 @@
 ### Creepy Doll
 _Tiny construct, lawful evil_
 
-![[Creepy Doll.webp]]
+![[Creepy Doll.jpg]]
 
 Many of the evils that plague humanity on Innistrad arise from within humanity itself, and among the most terrible of these are creatures built by human hands. Some of these are animated by the magic of [[necro-alchemist|PSI|necro-alchemists]] or witches, but others are inhabited and given life by hostile spirits or other malign forces. These include [[gargoyle|gargoyles]] and [[scarecrow|scarecrows]], haunted dolls and suits of [[animated armor]], [[stone golem|stone golems]] formed of gravestones and mausoleums, and [[homunculus|homunculi]] created by stitchers and [[necro-alchemist|PSI|necro-alchemists]].
 

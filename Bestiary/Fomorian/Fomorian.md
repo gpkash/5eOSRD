@@ -1,7 +1,7 @@
 ### Fomorian
 _Huge giant, chaotic evil_
 
-![[Fomorian.webp]]
+![[Fomorian.jpg]]
 
 The most hideous and wicked of all giantkind are the godless fomorians, whose deformed bodies reflect their vile demeanors. Some have facial features randomly distributed around their misshapen, warty heads. Others have limbs of grossly different sizes and shapes, or emit terrible howls each time they draw breath through misshapen mouths. Their wretched appearance rarely evokes sympathy, however, for the fomorians brought their doom upon themselves with the evil that rules their hearts and minds.
 

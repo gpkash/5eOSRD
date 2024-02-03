@@ -1,7 +1,7 @@
 ### Warduke
 _Medium humanoid (human), chaotic evil_
 
-![[Warduke.webp]]
+![[Warduke.jpg]]
 
 Warduke's services as a remorseless killer-for-hire can be easily bought. The evil swordsman serves Kelek as a cohort and adventuring companion from time to time. He isn't terribly bright, which is why he leaves the plotting and scheming to others.
 

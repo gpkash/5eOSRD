@@ -1,7 +1,7 @@
 ### Smoke Mephit
 _Small elemental, neutral evil_
 
-![[Smoke Mephit.webp]]
+![[Smoke Mephit.jpg]]
 
 
 

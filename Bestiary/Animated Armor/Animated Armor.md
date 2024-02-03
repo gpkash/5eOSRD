@@ -1,7 +1,7 @@
 ### Animated Armor
 _Medium construct, unaligned_
 
-![[Animated Armor.webp]]
+![[Animated Armor.jpg]]
 
 
 

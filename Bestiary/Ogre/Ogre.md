@@ -1,7 +1,7 @@
 ### Ogre
 _Large giant, chaotic evil_
 
-![[Ogre.webp]]
+![[Ogre.jpg]]
 
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
 

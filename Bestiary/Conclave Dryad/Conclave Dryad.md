@@ -1,7 +1,7 @@
 ### Conclave Dryad
 _Medium fey, lawful good_
 
-![[Conclave Dryad.webp]]
+![[Conclave Dryad.jpg]]
 
 The lush forests that once grew on Ravnica are gone, but the dryads remain, striving to bring the sprawling city and the verdant green of nature into harmony. Dryads believe that their efforts are the will of Mat'Selesnya, the soul of the world, and they spread their teachings through every Selesnya enclave.
 

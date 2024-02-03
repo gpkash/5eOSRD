@@ -1,7 +1,7 @@
 ### Star Spawn Grue
 _Small aberration, lawful evil_
 
-![[Star Spawn Grue.webp]]
+![[Star Spawn Grue.jpg]]
 
 
 

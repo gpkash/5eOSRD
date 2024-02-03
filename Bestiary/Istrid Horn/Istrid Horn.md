@@ -1,7 +1,7 @@
 ### Istrid Horn
 _Medium humanoid (dwarf), lawful evil_
 
-![[Istrid Horn.webp]]
+![[Istrid Horn.jpg]]
 
 Istrid is regarded as the Black Network's Master of Trade and Coin in Waterdeep. The shield dwarf operates an illegal lending operation out of a heavily guarded warehouse in the Dock Ward, offering loans to those in need of coin. Her interest rates are comparable to those of her competitors (including noble families of bankers such as the Cassalanters and the Irlingstars), but the penalties for not paying back Istrid's loans are severe.
 

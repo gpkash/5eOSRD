@@ -1,7 +1,7 @@
 ### High Fae Impostor
 _Medium fey, any alignment_
 
-![[High Fae Impostor.webp]]
+![[High Fae Impostor.jpg]]
 
 
 

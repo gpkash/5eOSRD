@@ -1,7 +1,7 @@
 ### Graz'zt
 _Large fiend (demon, shapechanger), chaotic evil_
 
-![[Grazzt.webp]]
+![[Grazzt.jpg]]
 
 The appearance of this demon lord is a warning that not all that is beautiful is good. Every plane and curve of his nine-foot-tall body, every glance of his burning eyes, promises a mixture of pleasure and pain. Graz'zt can transform himself at will, appearing in any humanlike form that pleases him or his onlookers, all equally tempting in their own ways. In every form, though, a subtle wrongness pervades his beauty, from the cruel cast of his features to the six fingers on each hand and six toes on each foot.
 

@@ -1,7 +1,7 @@
 ### Stone Giant Rockspeaker
 _Huge giant (wizard), any alignment_
 
-![[Stone Giant Rockspeaker.webp]]
+![[Stone Giant Rockspeaker.jpg]]
 
 Stone giants practice rune magic more than other giants do, perhaps because of these giants' interest in and aptitude for carving stone. Stone giants who combine this magic with prodigious artistic skill are called rockspeakers. Within their communities, they act as leaders and oracles.
 

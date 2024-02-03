@@ -1,7 +1,7 @@
 ### Saeth Cromley
 _Medium humanoid (Illuskan human), lawful good_
 
-![[Saeth Cromley.webp]]
+![[Saeth Cromley.jpg]]
 
 Saeth Cromley is a retired sergeant of the City Watch, a likable fellow with a sharp, sarcastic wit. He occasionally comes out of retirement at the request of Barnibus Blastwind, and he assists the mage in investigating unusual crimes in the city. Cromley helps Barnibus relate to the common folk, and he is good at coaxing information out of them. Though Cromley was once a strict proponent of Watch regulations and dress codes, he has grown a bit lax in both matters now that he's officially retired.
 

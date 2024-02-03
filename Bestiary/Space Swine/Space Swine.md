@@ -1,7 +1,7 @@
 ### Space Swine
 _Medium beast, unaligned_
 
-![[Space Swine.webp]]
+![[Space Swine.jpg]]
 
 Space swine are a species of winged boar bred by dohwars for a variety of uses. They can serve as mounts for Small creatures, and they also make fine trackers and capable beasts of burden. Space swine that are trained for battle are typically outfitted with half-plate barding and are referred to as death squealers.
 

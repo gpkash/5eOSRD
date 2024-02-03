@@ -1,7 +1,7 @@
 ### Assassin
 _Medium humanoid (any race), any non-good alignment_
 
-![[Assassin.webp]]
+![[Assassin.jpg]]
 
 Trained in the use of poison, assassins are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.
 

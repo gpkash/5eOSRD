@@ -1,7 +1,7 @@
 ### Zakya Rakshasa
 _Medium fiend, lawful evil_
 
-![[Zakya Rakshasa.webp]]
+![[Zakya Rakshasa.jpg]]
 
 Millions of years before the rise of the humanoid races, the rakshasas of Eberron ruled a civilization that spanned Khorvaire. Masters of combat, the rakshasas of Eberron wield their weapons with demonic fury, rushing into battle seeking vengeance against those who bound their fiendish masters.
 

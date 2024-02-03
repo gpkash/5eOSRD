@@ -1,7 +1,7 @@
 ### Werebat
 _Small humanoid (goblinoid, shapechanger), neutral evil_
 
-![[Werebat.webp]]
+![[Werebat.jpg]]
 
 A werebat is a humanoid afflicted with a rare form of lycanthropy that enables it to transform into a giant bat or a bat-humanoid hybrid. (See the [[Monster Manual]] for more information on [[lycanthropy]].) Most werebats are of goblin stock.
 

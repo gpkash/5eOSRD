@@ -1,7 +1,7 @@
 ### Babau
 _Medium fiend (demon), chaotic evil_
 
-![[Babau.webp]]
+![[Babau.jpg]]
 
 > _I'm unimpressed by most children. They are a blend of their ancestors but often more disappointing. You'd think two of the most beautiful, bloodthirsty beings of the Lower Planes would create a creature of greater potential. Instead, the ghastly babau fails to match the fiendish splendor of its parents.
 _

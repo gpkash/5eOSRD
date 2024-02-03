@@ -1,7 +1,7 @@
 ### Oinoloth
 _Medium fiend (yugoloth), neutral evil_
 
-![[Oinoloth.webp]]
+![[Oinoloth.jpg]]
 
 Grim specters of death, oinoloths bring pestilence wherever they go. When armies recognize their awful forms, their mere appearance causes soldiers to break ranks and flee, lest they succumb to one of the awful plagues that oinoloths let loose.
 

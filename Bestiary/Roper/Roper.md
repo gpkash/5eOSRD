@@ -1,7 +1,7 @@
 ### Roper
 _Large monstrosity, neutral evil_
 
-![[Roper.webp]]
+![[Roper.jpg]]
 
 Living in caves and caverns throughout the Underdark, voracious ropers feast on whatever they can catch and seize. A roper eats any creature, from Underdark beasts to adventurers and their gear.
 

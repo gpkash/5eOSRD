@@ -1,7 +1,7 @@
 ### Kapak Draconian
 _Medium monstrosity, lawful evil_
 
-![[Kapak Draconian.webp]]
+![[Kapak Draconian.jpg]]
 
 Kapak draconians are created using copper dragon eggs. These cunning opponents relish striking foes who are distracted or unaware. Kapaks often coat their weapons with their paralytic saliva, making them formidable assassins as well. Their small wings don't allow kapaks to fly, but they do help the draconians turn a fall into a rough glide. When they die, kapaks dissolve into acid that can splash onto nearby creatures.
 

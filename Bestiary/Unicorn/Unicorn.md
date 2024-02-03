@@ -1,7 +1,7 @@
 ### Unicorn
 _Large celestial, lawful good_
 
-![[Unicorn.webp]]
+![[Unicorn.jpg]]
 
 Unicorns dwell in enchanted forests. Unrelated to the horses it resembles, a unicorn is a celestial creature that wanders sylvan realms, its white form glimmering like starlight.
 

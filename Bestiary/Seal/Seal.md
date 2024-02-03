@@ -1,7 +1,7 @@
 ### Seal
 _Medium beast, unaligned_
 
-![[Seal.webp]]
+![[Seal.jpg]]
 
 The seals native to the Sea of Moving Ice often beach themselves on ice floes and rocky shores. They are acclimated to the cold weather and feed primarily on small fish, squid, and clams. Seal pups have yellowish-white fur, which turns silvery gray as they enter adulthood.
 

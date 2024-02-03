@@ -1,7 +1,7 @@
 ### Scrapper
 _Large construct, unaligned_
 
-![[Scrapper.webp]]
+![[Scrapper.jpg]]
 
 Scrappers are tall, broad-shouldered automatons usually found in scrap yards. Sparks erupt from the loose wires that protrude from their hulking frames. Their quasi-mechanical minds are shielded with lead, protecting them from psychic damage.
 

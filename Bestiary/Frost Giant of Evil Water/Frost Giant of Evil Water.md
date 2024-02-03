@@ -1,7 +1,7 @@
 ### Frost Giant of Evil Water
 _Huge giant, neutral evil_
 
-![[Frost Giant of Evil Water.webp]]
+![[Frost Giant of Evil Water.jpg]]
 
 > _I learned enough about the Temple of Elemental Evil in my studies with Mordenkainen that I regard giants connected to the cult with a healthy amount of respect. When you combine a cultist's fanatical devotion with a giant's sheer power, the result can be horrifying.
 _

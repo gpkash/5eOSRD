@@ -1,7 +1,7 @@
 ### Duergar Hammerer
 _Medium construct, lawful evil_
 
-![[Duergar Hammerer.webp]]
+![[Duergar Hammerer.jpg]]
 
 
 

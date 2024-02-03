@@ -1,7 +1,7 @@
 ### Kalaraq Quori
 _Medium aberration, lawful evil_
 
-![[Kalaraq Quori.webp]]
+![[Kalaraq Quori.jpg]]
 
 
 

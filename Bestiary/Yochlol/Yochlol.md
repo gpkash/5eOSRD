@@ -1,7 +1,7 @@
 ### Yochlol
 _Medium fiend (demon, shapechanger), chaotic evil_
 
-![[Yochlol.webp]]
+![[Yochlol.jpg]]
 
 
 

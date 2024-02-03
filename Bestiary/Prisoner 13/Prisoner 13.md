@@ -1,7 +1,7 @@
 ### Prisoner 13
 _Medium humanoid (dwarf, monk), neutral evil_
 
-![[Prisoner 13.webp]]
+![[Prisoner 13.jpg]]
 
 Prisoner 13 is a dwarf named Korda Glintstone. Prior to her incarceration years ago, Korda was an ally and agent of Clan Axebreaker, a moderately influential dwarf clan in a stronghold called Gauntlgrym. Korda built a network of informants and agents, ostensibly all to the benefit of Clan Axebreaker. With each success, she paid tattooists to inscribe a memorial of her triumph onto her skin. Using ancient rituals, Korda infused many of these artful etchings with the magic of Gauntlgrym's forges, granting her wondrous gifts.
 

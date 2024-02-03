@@ -1,7 +1,7 @@
 ### Markham Southwell
 _Medium humanoid (Turami human), lawful good_
 
-![[Markham Southwell.webp]]
+![[Markham Southwell.jpg]]
 
 Sheriff Markham of Bryn Shander is a brawny, likable man of few words. Nothing is more important to him than protecting Icewind Dale. He judges others by their actions, not their words.
 

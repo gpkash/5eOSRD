@@ -1,7 +1,7 @@
 ### Renaer Neverember
 _Medium humanoid (Illuskan human), chaotic good_
 
-![[Renaer Neverember.webp]]
+![[Renaer Neverember.jpg]]
 
 Renaer is the estranged son of Dagult Neverember, the former Open Lord of Waterdeep and the current Lord of Neverwinter. Father and son detest one another, and Renaer is least happy when he finds himself forced to deal with some mess his father left behind. Qualities that both share include striking good looks, a love of drink, and a flair for diplomacy. What Renaer lacks is his father's belligerence, ill temper, and bad judgment.
 

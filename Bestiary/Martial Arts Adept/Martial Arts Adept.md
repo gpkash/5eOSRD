@@ -1,7 +1,7 @@
 ### Martial Arts Adept
 _Medium humanoid (any race), any alignment_
 
-![[Martial Arts Adept.webp]]
+![[Martial Arts Adept.jpg]]
 
 Martial arts adepts are disciplined monks with extensive training in hand-to-hand combat. Some protect monasteries; others travel the world seeking enlightenment or new forms of combat to master. A few become bodyguards, trading their combat prowess and loyalty for food and lodging.
 

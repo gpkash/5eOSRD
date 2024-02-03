@@ -1,7 +1,7 @@
 ### Bard
 _Medium humanoid (any race), any alignment_
 
-![[Bard.webp]]
+![[Bard.jpg]]
 
 Bards are gifted poets, storytellers, and entertainers who travel far and wide. They're commonly found in taverns or in the company of jolly bands of adventurers, rough-and-tumble mercenaries, and wealthy patrons.
 

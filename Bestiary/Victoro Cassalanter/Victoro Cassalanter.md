@@ -1,7 +1,7 @@
 ### Victoro Cassalanter
 _Medium humanoid (half-elf), lawful evil_
 
-![[Victoro Cassalanter.webp]]
+![[Victoro Cassalanter.jpg]]
 
 The lord of House Cassalanter is a devilishly handsome half-elf who likes coin and power. He and his wife gained both by cutting a deal with Asmodeus-which involved trading away the souls of their three children.
 

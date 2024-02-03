@@ -1,7 +1,7 @@
 ### Scion of Skoraeus
 _Gargantuan giant (titan), neutral_
 
-![[Scion of Skoraeus.webp]]
+![[Scion of Skoraeus.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Amonkhet Hydra
 _Huge monstrosity, unaligned_
 
-![[Amonkhet Hydra.webp]]
+![[Amonkhet Hydra.jpg]]
 
 
 

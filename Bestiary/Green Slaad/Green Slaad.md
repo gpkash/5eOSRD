@@ -1,7 +1,7 @@
 ### Green Slaad
 _Large aberration (shapechanger), chaotic neutral_
 
-![[Green Slaad.webp]]
+![[Green Slaad.jpg]]
 
 
 

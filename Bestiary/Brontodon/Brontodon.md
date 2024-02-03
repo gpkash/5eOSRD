@@ -1,7 +1,7 @@
 ### Brontodon
 _Gargantuan beast (dinosaur), unaligned_
 
-![[Brontodon.webp]]
+![[Brontodon.jpg]]
 
 
 

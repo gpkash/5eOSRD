@@ -1,7 +1,7 @@
 ### Werebear
 _Medium humanoid (human, shapechanger), neutral good_
 
-![[Werebear.webp]]
+![[Werebear.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Neogi Hatchling
 _Tiny aberration, lawful evil_
 
-![[Neogi Hatchling.webp]]
+![[Neogi Hatchling.jpg]]
 
 
 

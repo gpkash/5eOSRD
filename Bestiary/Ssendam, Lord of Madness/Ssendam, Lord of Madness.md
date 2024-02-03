@@ -1,7 +1,7 @@
 ### Ssendam, Lord of Madness
 _Large aberration (shapechanger), chaotic evil_
 
-![[Ssendam, Lord of Madness.webp]]
+![[Ssendam, Lord of Madness.jpg]]
 
 > _The lord of insanity is a difficult subject to find accurate information on. Mainly because most that encounter the primal slaad are left either catatonic, incoherent or psychotic. Ssendam is one of the two known slaadi lords, the other being Ygorl, lord of entropy. There are rumors of other slaadi that may rival the power of Ssendam and Ygorl. Netherese texts refer to them as void slaad and chronal slaad.
 _

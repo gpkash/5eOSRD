@@ -1,7 +1,7 @@
 ### Galazeth Prismari
 _Gargantuan dragon (sorcerer), chaotic neutral_
 
-![[Galazeth Prismari.webp]]
+![[Galazeth Prismari.jpg]]
 
 The dragon Galazeth Prismari embodies the flow of magic from inspiration into artistic expression, whether through physical form or another sensory medium. His magic draws on primal energy—such as flame, lightning, and the tides—and weaves them into spectacles both beautiful and deadly.
 

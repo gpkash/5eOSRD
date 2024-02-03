@@ -1,7 +1,7 @@
 ### Octon Modron
 _Large construct, lawful neutral_
 
-![[Octon Modron.webp]]
+![[Octon Modron.jpg]]
 
 At the head of Mechanus's sectors are the octons, hierarch modrons that oversee daily governance. They provide data to other hierarchs, such as productivity reports to septons and diagnostic data to decatons. Octons have eight mechanical tentacles which they use to manipulate objects and defend themselves, spinning them in a bludgeoning whirlwind.
 

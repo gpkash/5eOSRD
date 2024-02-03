@@ -1,7 +1,7 @@
 ### Tlacatecolo
 _Medium fiend (demon), neutral evil_
 
-![[Tlacatecolo.webp]]
+![[Tlacatecolo.jpg]]
 
 Appearing as plague-stricken, bipedal owls, tlacatecolo sow sickness and feed on the suffering of mortals. These fiends spread an affliction that leaches heat and life from the living, dispersing it upon winds that rattle like a gasp from a frozen body. Sunlight staves off the disease, but those affected rarely survive the dark of night.
 

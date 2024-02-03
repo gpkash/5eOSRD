@@ -1,7 +1,7 @@
 ### Tri-flower Frond
 _Medium plant, unaligned_
 
-![[Tri-flower Frond.webp]]
+![[Tri-flower Frond.jpg]]
 
 When fully grown, a tri-flower frond stands 6 to 7 feet tall. It has three bright, trumpet-shaped flowers, each as large as a human head and each one a different color: intense red, vivid orange, and bright yellow. Each flower can harm a creature in a different terrible way.
 

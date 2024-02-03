@@ -1,7 +1,7 @@
 ### Water Elemental
 _Large elemental, neutral_
 
-![[Water Elemental.webp]]
+![[Water Elemental.jpg]]
 
 
 

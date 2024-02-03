@@ -1,7 +1,7 @@
 ### Moonstone Dragon Wyrmling
 _Medium dragon, neutral_
 
-![[Moonstone Dragon Wyrmling.webp]]
+![[Moonstone Dragon Wyrmling.jpg]]
 
 Ancient legends suggest that when the gods came to the First World and tried to populate it with their Humanoid followers, a clever dragon fled to the Feywild to hide a clutch of eggs. The magic of that faerie realm suffused the eggs, which hatched into the first moonstone dragons. Their descendants are now found throughout the Feywild.
 

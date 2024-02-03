@@ -1,7 +1,7 @@
 ### Heralds of Dust Exorcist
 _Small, Medium humanoid, any alignment_
 
-![[Heralds of Dust Exorcist.webp]]
+![[Heralds of Dust Exorcist.jpg]]
 
 Dauntless in the face of death, exorcists in the Heralds of Dust cleanse hapless creatures and resting places haunted by ghosts, specters, and other malign entities that prevent the dead from being interred or jeopardize those already in repose. Though most Duster exorcists conduct their operations in the Mortuary, many heed calls throughout Sigil and the planes beyond.
 

@@ -1,7 +1,7 @@
 ### Loup Garou
 _Medium monstrosity (shapechanger), _
 
-![[Loup Garou.webp]]
+![[Loup Garou.jpg]]
 
 Loup garou possess a strain of lycanthropy more virulent than that carried by common werewolves. Aside from being deadlier than their werewolf cousins, loup garou aggressively spread the plague of lycanthropy. Only through the death of a loup garou might those afflicted by it escape their curse.
 

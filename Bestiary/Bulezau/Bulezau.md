@@ -1,7 +1,7 @@
 ### Bulezau
 _Medium fiend (demon), chaotic evil_
 
-![[Bulezau.webp]]
+![[Bulezau.jpg]]
 
 > _Some ask why the bulezau, for all its rage and violence, has the head of a goat. I always respond, have you met a goat? They're stubborn, they're vicious, and they rarely go down without bashing you several times in the shins.
 

@@ -1,7 +1,7 @@
 ### Ancient Time Dragon
 _Gargantuan dragon, neutral_
 
-![[Ancient Time Dragon.webp]]
+![[Ancient Time Dragon.jpg]]
 
 These sleek dragons harness the power of time to manipulate the past, present, and future. Time dragon wyrmlings are born with shining scales and have horns that are barely more than nubs. As they master the flow of time, their horns grow with branching, rainbow-hued veins suggestive of time's paths and possibilities.
 

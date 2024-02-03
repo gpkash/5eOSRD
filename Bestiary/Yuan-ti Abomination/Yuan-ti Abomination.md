@@ -1,7 +1,7 @@
 ### Yuan-ti Abomination
 _Large monstrosity (shapechanger, yuan-ti), neutral evil_
 
-![[Yuan-ti Abomination.webp]]
+![[Yuan-ti Abomination.jpg]]
 
 
 

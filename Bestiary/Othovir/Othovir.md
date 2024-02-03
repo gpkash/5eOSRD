@@ -1,7 +1,7 @@
 ### Othovir
 _Medium humanoid (Illuskan human), lawful neutral_
 
-![[Othovir.webp]]
+![[Othovir.jpg]]
 
 Othovir is a gifted harness-maker who doesn't talk about his family or where he came from. He cares about his business, his clients, and his good name.
 

@@ -1,7 +1,7 @@
 ### Forest Master
 _Large celestial (unicorn), neutral good_
 
-![[Forest Master.webp]]
+![[Forest Master.jpg]]
 
 Said to be older than the trees themselves, the Forest Master is a wise and powerful unicorn who rules over the creatures of Darken Wood in Krynn. The ancient being's body is wreathed in protective briars, and moonlight dances around the unicorn's horn. Those who threaten the Forest Master's lands find themselves beguiled by magical mist and nigh-impregnable thorny thickets, but those who gain the Forest Master's favor are blessed with healing and protected as they traverse the woods.
 

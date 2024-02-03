@@ -1,7 +1,7 @@
 ### Leedara
 _Medium undead (elf), neutral_
 
-![[Leedara.webp]]
+![[Leedara.jpg]]
 
 Leedara died during the Cataclysm over three hundred years ago. Once an elven priest, Leedara witnessed her companion and fellow priest, Isolde, drawn into the grim fate of the wicked Knight of Solamnia, Lord Loren Soth. When Soth failed his gods-given quest to prevent the Cataclysm, he became cursed to exist forever as a death knight. As part of his curse, Leedara and several of her companions returned as deathless spirits devoted to ensuring Soth never finds peace.
 

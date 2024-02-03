@@ -1,7 +1,7 @@
 ### Warden Archon
 _Large celestial, lawful good_
 
-![[Warden Archon.webp]]
+![[Warden Archon.jpg]]
 
 Warden archons are vigilant, ursine guardians of portals and paths connected to goodly realms. They have powerfully built, bipedal bodies with the heads of great bears and eyes like pools of silvery light. When warden archons speak, glimmering radiance shines from within their mouths, punctuating their deep, resonant voices.
 

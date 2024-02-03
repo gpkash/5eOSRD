@@ -1,7 +1,7 @@
 ### Zephyros
 _Huge giant, neutral good_
 
-![[Zephyros.webp]]
+![[Zephyros.jpg]]
 
 Cloud giants live extravagant lives high above the world, showing little concern for the plights of other races except as amusement. They are muscular with light skin and have hair of silver or blue.
 

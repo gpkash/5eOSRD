@@ -1,7 +1,7 @@
 ### Servo
 _Tiny construct, unaligned_
 
-![[Servo.webp]]
+![[Servo.jpg]]
 
 
 

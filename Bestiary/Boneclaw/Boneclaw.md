@@ -1,7 +1,7 @@
 ### Boneclaw
 _Large undead, chaotic evil_
 
-![[Boneclaw.webp]]
+![[Boneclaw.jpg]]
 
 A wizard who tries to become a lich but fails might become a boneclaw instead. These hideous, cackling monsters share a few of liches' attributes, but while liches are immortal masters of the arcane, boneclaws are thralls to evil, hatred, and pain.
 

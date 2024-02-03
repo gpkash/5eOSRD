@@ -1,7 +1,7 @@
 ### Grippli Warrior
 _Small humanoid (grippli), _
 
-![[Grippli Warrior.webp]]
+![[Grippli Warrior.jpg]]
 
 At first glance or from a distance, a grippli looks like a large frog. Its head and body are indeed those of a frog, but its front extremities end in hands with fingers that enable it to manipulate weapons and other objects, and its rear legs have similar digits that it can use for grasping and climbing. A grippli can move as quickly on all fours as it can on two legs.
 

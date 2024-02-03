@@ -1,7 +1,7 @@
 ### Chardalyn Berserker
 _Medium fiend, chaotic evil_
 
-![[Chardalyn Berserker.webp]]
+![[Chardalyn Berserker.jpg]]
 
 Chardalyn berserkers are Reghed nomads who wield weapons made of chardalyn, specifically ones suffused with demonic magic (see the Chardalyn). This exposure has transformed them into fiends. They shed their heavier protective clothing and embrace the frigid cold, allowing frostbite to ravage the exposed parts of their bodies, with only their faith in the Frostmaiden keeping them alive.
 

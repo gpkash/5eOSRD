@@ -1,7 +1,7 @@
 ### Astral Elf Aristocrat
 _Medium humanoid (wizard), any alignment_
 
-![[Astral Elf Aristocrat.webp]]
+![[Astral Elf Aristocrat.jpg]]
 
 An astral elf aristocrat is a brilliant, highborn leader gifted with magical abilities, including the power to channel sunlight and summon a solar dragon.
 

@@ -1,7 +1,7 @@
 ### Môrgæn
 _Medium humanoid (elf), chaotic neutral_
 
-![[Morgaen.webp]]
+![[Morgaen.jpg]]
 
 If I had wanted to kill, I would have killed.
 

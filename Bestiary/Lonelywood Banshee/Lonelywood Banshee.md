@@ -1,7 +1,7 @@
 ### Lonelywood Banshee
 _Medium undead, chaotic evil_
 
-![[Lonelywood Banshee.webp]]
+![[Lonelywood Banshee.jpg]]
 
 This banshee is the spectral remnant of a female elf warrior who was banished for a selfish, evil act. It wields a spectral longbow that shoots phantom arrows. There is only one banshee haunting the forest. If it's destroyed, it re-forms after 24 hours in a random location in the forest, damned to its eternal exile.
 

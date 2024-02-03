@@ -1,7 +1,7 @@
 ### Thri-kreen Hunter
 _Medium monstrosity, any alignment_
 
-![[Thri-kreen Hunter.webp]]
+![[Thri-kreen Hunter.jpg]]
 
 Thri-kreen hunters are skilled foragers and stalkers. A thri-kreen hunter encountered in Wildspace might be on the trail of a fugitive or leading a gang of pirates.
 

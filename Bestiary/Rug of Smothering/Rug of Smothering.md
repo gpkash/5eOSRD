@@ -1,7 +1,7 @@
 ### Rug of Smothering
 _Large construct, unaligned_
 
-![[Rug of Smothering.webp]]
+![[Rug of Smothering.jpg]]
 
 
 

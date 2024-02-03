@@ -1,7 +1,7 @@
 ### Trilobite
 _Tiny beast, unaligned_
 
-![[Trilobite.webp]]
+![[Trilobite.jpg]]
 
 On the beaches and banks of the rivers and seas, crabs scuttle across the sand and birds wade in the shallow water. Trilobites are among the most common shore-dwellers, including predatory varieties as well as scavengers and filter-feeders consuming scraps they find in the sand.
 

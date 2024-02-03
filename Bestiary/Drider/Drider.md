@@ -1,7 +1,7 @@
 ### Drider
 _Large monstrosity, chaotic evil_
 
-![[Drider.webp]]
+![[Drider.jpg]]
 
 When a drow shows great promise, Lolth summons it to the Demonweb Pits for a test of faith and strength. Those that pass the test rise higher in the Spider Queen's favor. Those that fail are transformed into driders-a horrid hybrid of a drow and a giant spider that serves as a living reminder of Lolth's power. Only drow can be turned into driders, and the power to create these creatures resides with Lolth alone.
 

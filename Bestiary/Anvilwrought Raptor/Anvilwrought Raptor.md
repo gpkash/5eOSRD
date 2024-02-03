@@ -1,7 +1,7 @@
 ### Anvilwrought Raptor
 _Tiny construct, unaligned_
 
-![[Anvilwrought Raptor.webp]]
+![[Anvilwrought Raptor.jpg]]
 
 Prized among Meletis's thaumaturges, anvilwrought raptors are often crafted in the form of a hawk or an owl. Most serve as messengers and spies, flying over the busy streets or high over the land while carrying or seeking vital information for their masters.
 

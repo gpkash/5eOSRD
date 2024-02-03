@@ -1,7 +1,7 @@
 ### Fire Elemental
 _Large elemental, neutral_
 
-![[Fire Elemental.webp]]
+![[Fire Elemental.jpg]]
 
 
 

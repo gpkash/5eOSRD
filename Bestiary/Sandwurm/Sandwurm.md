@@ -1,7 +1,7 @@
 ### Sandwurm
 _Gargantuan monstrosity, unaligned_
 
-![[Sandwurm.webp]]
+![[Sandwurm.jpg]]
 
 
 

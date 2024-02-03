@@ -1,7 +1,7 @@
 ### Arasta
 _Huge monstrosity, neutral evil_
 
-![[Arasta.webp]]
+![[Arasta.jpg]]
 
 A victim of the gods' petty rivalries, Arasta was once one of Nylea's most beloved dryad companions. Phenax's bitterness saw her transformed into an arachnid monstrosity and driven into the darkest depths of the Nessian Wood. Now she broods on her unjust fate and the fickleness of the gods who left her cursed with monstrous immortality.
 

@@ -1,7 +1,7 @@
 ### Bak Mei
 _Medium humanoid (human), lawful evil_
 
-![[Bak Mei.webp]]
+![[Bak Mei.jpg]]
 
 Bak Mei was once an agile and skilled Shou monk famous for upholding justice and helping the needy in his distant homeland to the east of Faerûn. As he grew older, learned more about the world, and began to feel the weight of old age, his worldview changed dramatically. Motivated by his growing fear of death, Bak Mei became obsessed with living an unending life. He began collecting texts on the subject, consulting with practitioners of the necromantic arts, and seeking audiences with dark forces.
 

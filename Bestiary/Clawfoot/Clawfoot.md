@@ -1,7 +1,7 @@
 ### Clawfoot
 _Medium beast, unaligned_
 
-![[Clawfoot.webp]]
+![[Clawfoot.jpg]]
 
 
 

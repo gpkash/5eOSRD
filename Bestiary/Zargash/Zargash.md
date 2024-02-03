@@ -1,7 +1,7 @@
 ### Zargash
 _Medium humanoid (cleric, human), chaotic evil_
 
-![[Zargash.webp]]
+![[Zargash.jpg]]
 
 Zargash worships Orcus, the Demon Prince of Undeath, who has promised to transform Zargash into a vampire after a lifetime of faithful service. For a living priest to worship Orcus is utter folly, but Zargash is twisted beyond any hope of redemption. His hobbies include slaying the living and animating the dead.
 

@@ -1,7 +1,7 @@
 ### Eye of Fear and Flame
 _Medium undead, chaotic evil_
 
-![[Eye of Fear and Flame.webp]]
+![[Eye of Fear and Flame.jpg]]
 
 An eye of fear and flame stalks the world of the living, commanding individuals to perform evil deeds of the undead's choosing or be destroyed. If its commands are not obeyed, an eye of fear and flame throws back its hood to reveal its skull—set with gems of red and black in each eye socket—then attacks.
 

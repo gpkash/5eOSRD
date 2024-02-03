@@ -1,7 +1,7 @@
 ### Faerie Borrower
 _Tiny fey, chaotic neutral_
 
-![[Faerie Borrower.webp]]
+![[Faerie Borrower.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Galsariad Ardyth (Tier 1)
 _Medium humanoid (drow, elf, wizard), neutral_
 
-![[Galsariad Ardyth (Tier 1).webp]]
+![[Galsariad Ardyth (Tier 1).jpg]]
 
 Beautiful, ethereal, deathly, shadowy—all accurately describe Galsariad Ardyth, a drow in his two-hundredth year of life. He's recently taken up the study of arcane magic, and he's pursuing the life of an adventurer in hopes of improving his reputation within the Kryn Dynasty. Loquacious, snarky, and sarcastic to a fault, he's ready with a barb for any occasion—usually to mask his own insecurities.
 

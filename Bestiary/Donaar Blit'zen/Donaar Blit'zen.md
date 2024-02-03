@@ -1,7 +1,7 @@
 ### Donaar Blit'zen
 _Medium humanoid (dragonborn), chaotic good_
 
-![[Donaar Blitzen.webp]]
+![[Donaar Blitzen.jpg]]
 
 Everybody cooooool out!
 

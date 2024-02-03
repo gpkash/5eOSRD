@@ -1,7 +1,7 @@
 ### Dragonbait
 _Medium humanoid (saurial), lawful good_
 
-![[Dragonbait.webp]]
+![[Dragonbait.jpg]]
 
 Dragonbait is a champion of good and a saurial-a race that originated on a distant world and whose members have long lives. Very few saurials dwell in the Forgotten Realms, and no saurial communities are believed to exist anywhere in the world.
 

@@ -1,7 +1,7 @@
 ### Gishath, Sun's Avatar
 _Gargantuan beast, unaligned_
 
-![[Gishath, Sun's Avatar.webp]]
+![[Gishath, Sun's Avatar.jpg]]
 
 
 

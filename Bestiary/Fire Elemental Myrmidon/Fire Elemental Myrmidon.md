@@ -1,7 +1,7 @@
 ### Fire Elemental Myrmidon
 _Medium elemental, neutral_
 
-![[Fire Elemental Myrmidon.webp]]
+![[Fire Elemental Myrmidon.jpg]]
 
 
 

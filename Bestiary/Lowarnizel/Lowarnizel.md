@@ -1,7 +1,7 @@
 ### Lowarnizel
 _Large dragon (young gem), neutral_
 
-![[Lowarnizel.webp]]
+![[Lowarnizel.jpg]]
 
 Lowarnizel is a young amethyst dragon, and his companion is a lawful neutral human mage named Gossa. Both hate the Far Realm and anything tainted by it.
 

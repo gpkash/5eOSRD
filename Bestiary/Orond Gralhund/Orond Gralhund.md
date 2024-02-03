@@ -1,7 +1,7 @@
 ### Orond Gralhund
 _Medium humanoid (Tethyrian human), lawful evil_
 
-![[The Gralhunds.webp]]
+![[The Gralhunds.jpg]]
 
 The Gralhunds are nobles who trade in arms and mercenaries, and whose family motto is "We see both sides." Orond is the patriarch, but he's not a quick-thinking or cultured sort-and deep down, he knows it. He leaves most of the plotting and socializing to his wife, Yalah, to whom he is devoted.
 

@@ -1,7 +1,7 @@
 ### Quaggoth
 _Medium humanoid (quaggoth), chaotic neutral_
 
-![[Quaggoth.webp]]
+![[Quaggoth.jpg]]
 
 Savage and territorial, quaggoths climb the chasms of the Underdark. They maul their foes in a frenzy, becoming even more murderous in the face of death.
 

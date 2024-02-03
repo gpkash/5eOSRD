@@ -1,7 +1,7 @@
 ### Kiddywidget
 _Small construct, _
 
-![[Kiddywidget.webp]]
+![[Kiddywidget.jpg]]
 
 A skitterwidget that gives birth to a kiddywidget can't procreate for 3d6 days afterward. Still, given that skitterwidgets are constructs with no natural life span, there is no telling how many kiddywidgets a pair of skitterwidgets can produce.
 

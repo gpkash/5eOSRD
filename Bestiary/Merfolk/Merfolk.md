@@ -1,7 +1,7 @@
 ### Merfolk
 _Medium humanoid (merfolk), neutral_
 
-![[Merfolk.webp]]
+![[Merfolk.jpg]]
 
 Aquatic humanoids with the upper body of a human and the lower body of a fish, merfolk adorn their skin and scales with shell decorations.
 

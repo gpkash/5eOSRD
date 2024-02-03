@@ -1,7 +1,7 @@
 ### Dragonborn of Sardior
 _Medium humanoid, neutral_
 
-![[Dragonborn of Sardior.webp]]
+![[Dragonborn of Sardior.jpg]]
 
 Sardior is said to have died in the destruction of the First World. But many believe that Sardior's divine essence survives within every gem dragon. This philosophy is central to the teachings of Sardior's dragonborn champions, who wield psionic power in the service of their mysterious cause. Many of these champions are associated with the Inheritors of the First World (see chapter 3).
 

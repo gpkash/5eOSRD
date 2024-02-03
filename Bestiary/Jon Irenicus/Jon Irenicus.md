@@ -1,7 +1,7 @@
 ### Jon Irenicus
 _Medium undead, neutral evil_
 
-![[Jon Irenicus.webp]]
+![[Jon Irenicus.jpg]]
 
 > _Me and Boo have traveled far and wide and wide and far. Over mountains and under mountains and beside mountains. In all these places we have fought evil...for evil is everywhere. We have fought evil that is as evil as a green dragon that assaults your senses with tremendously loud and stinky belches. But never have we fought evil quite like Jon and Bodhi.
 _

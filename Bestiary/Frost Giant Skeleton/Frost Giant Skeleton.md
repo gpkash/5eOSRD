@@ -1,7 +1,7 @@
 ### Frost Giant Skeleton
 _Huge undead, lawful evil_
 
-![[Frost Giant Skeleton.webp]]
+![[Frost Giant Skeleton.jpg]]
 
 Necromancers can transform the inanimate bones of long-dead frost giants into malevolent juggernauts that love to harm the living.
 

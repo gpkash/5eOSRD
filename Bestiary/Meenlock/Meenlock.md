@@ -1,7 +1,7 @@
 ### Meenlock
 _Small fey, neutral evil_
 
-![[Meenlock.webp]]
+![[Meenlock.jpg]]
 
 Meenlocks are Fey that invoke terror and seek to destroy all that is good, innocent, and beautiful. These bipeds have the heads and claws of crustaceans, and they primarily live in forests, although they adapt well to urban and subterranean settings.
 

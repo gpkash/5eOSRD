@@ -1,7 +1,7 @@
 ### Gnome Ceremorph
 _Small aberration, any alignment_
 
-![[Gnome Ceremorph.webp]]
+![[Gnome Ceremorph.jpg]]
 
 Mind flayers, which are described in the Monster Manual, are created through ceremorphosis, a process that begins with the implantation of an illithid tadpole in the brain of a humanoid host. After about seven days in its new home, the tadpole transforms its host into a mind flayer. The new creation typically retains no memory of its previous existence.
 

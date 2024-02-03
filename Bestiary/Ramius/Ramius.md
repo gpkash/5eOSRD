@@ -1,7 +1,7 @@
 ### Ramius
 _Medium humanoid, neutral good_
 
-![[Ramius.webp]]
+![[Ramius.jpg]]
 
 Ramius Dangremond is the commander of the Hellriders of Elturel. He never wanted the position, but because of the many deaths within the ranks of the order, he had to step up. His friend and fellow Hellrider, Barachiel, was the main reason he was able to grow into a capable commander. The loss of his friend saddens Ramius, and the news of his imprisonment within the Nine Hells gnaws at his soul.
 

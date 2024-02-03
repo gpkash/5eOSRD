@@ -1,7 +1,7 @@
 ### Stegosaurus
 _Huge beast, unaligned_
 
-![[Stegosaurus.webp]]
+![[Stegosaurus.jpg]]
 
 This heavily built dinosaur has rows of plates on its back and a flexible, spiked tail held high to strike predators. It tends to travel in herds of mixed ages.
 

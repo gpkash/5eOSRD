@@ -1,7 +1,7 @@
 ### Juvenile Kraken
 _Huge monstrosity (titan), chaotic evil_
 
-![[Juvenile Kraken.webp]]
+![[Juvenile Kraken.jpg]]
 
 Hidden in a deep, dark underwater pit near the Styes, this creature bears the mark of the dark god Tharizdun's madness. Becoming more independent every day, it dreams of freeing itself from its aboleth tenders and wreaking its own foul will upon the seas.
 

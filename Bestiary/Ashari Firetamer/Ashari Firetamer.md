@@ -1,7 +1,7 @@
 ### Ashari Firetamer
 _Medium humanoid (any), _
 
-![[AshariFiretamerFluff.webp]]
+![[AshariFiretamerFluff.jpg]]
 
 
 

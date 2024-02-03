@@ -1,7 +1,7 @@
 ### Swarm of Rats
 _Medium beast, unaligned_
 
-![[Swarm of Rats.webp]]
+![[Swarm of Rats.jpg]]
 
 
 

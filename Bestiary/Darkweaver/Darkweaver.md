@@ -1,7 +1,7 @@
 ### Darkweaver
 _Medium aberration, chaotic evil_
 
-![[Darkweaver.webp]]
+![[Darkweaver.jpg]]
 
 Arachnid predators of the Shadowfell, darkweavers inhabit caves, dungeons, and other dark locales throughout the multiverse, including Undersigil and the windswept darkness of Pandemonium. A darkweaver lurks in the shadows of its lair, waiting for hapless prey to pass by. When a target approaches, the darkweaver fires webs of pure shadow at its quarry, then drags the victim into the darkness.
 

@@ -1,7 +1,7 @@
 ### Chardalyn Dragon
 _Huge construct, chaotic evil_
 
-![[Chardalyn Dragon.webp]]
+![[Chardalyn Dragon.jpg]]
 
 This construct is fashioned from pieces of chardalyn (see the Chardalyn) that have been assembled in the form of a dragon. The only parts of the dragon not forged from chardalyn are its wing flaps, which are made of an oily film as tough as rubber, and its heart, which is an orb of pulsating, radiant energy. Demonic magic suffusing the chardalyn imbues the construct with malevolence, allowing it to enjoy the terror it causes. This effect extends outward from it, corrupting other creatures who get too close to the dragon. Those affected by the dragon's presence turn their efforts to helping the dragon inflict suffering on others.
 

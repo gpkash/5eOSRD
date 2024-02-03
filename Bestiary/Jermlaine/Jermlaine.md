@@ -1,7 +1,7 @@
 ### Jermlaine
 _Tiny humanoid (jermlaine), neutral evil_
 
-![[Jermlaine.webp]]
+![[Jermlaine.jpg]]
 
 Jermlaine prove that terrible things can come in tiny packages. Their tiny, foot-tall forms can barely contain the cruelty and malevolence that courses through them. Deep in the Underdark, the jermlaine lurk among the tunnels, dungeons, and caverns inhabited by much larger, more dangerous folk. The jermlaine huddle in their small tunnels, avoiding contact with all other creatures unless they can marshal overwhelming numbers. When the odds are in their favor, they strike with a vicious determination that can overwhelm even a heavily armed drow patrol or duergar war party.
 

@@ -1,7 +1,7 @@
 ### Istarian Drone
 _Medium construct, unaligned_
 
-![[Istarian Drone.webp]]
+![[Istarian Drone.jpg]]
 
 Istarian drones are ancient Constructs made of marble and gleaming metal inlaid with crystals that flash with sparks of electricity. Created to build the fantastic structures that once marked the glory of Istar, these drones resemble short, stout mantises. They have four scuttling insectile legs and barbed, scythe-shaped arms for carrying and placing building materials. The drones create a viscous gel that hardens into crystalline mortar, which they can repurpose to restrain attackers.
 

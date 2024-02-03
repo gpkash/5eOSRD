@@ -1,7 +1,7 @@
 ### Scanlan Shorthalt
 _Small humanoid (gnome), _
 
-![[ScanlanFluff.webp]]
+![[ScanlanFluff.jpg]]
 
 
 

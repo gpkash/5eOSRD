@@ -1,7 +1,7 @@
 ### Nine-Fingers Keene
 _Medium humanoid (human), neutral_
 
-![[Nine-Fingers Keene.webp]]
+![[Nine-Fingers Keene.jpg]]
 
 The current leader of the Guild, Nine-Fingers Keene, disdains flashy garb and illusion magic. She appears to the world as she is: an unassuming woman of middling age and build. Her forgettable looks have proven her greatest asset as a thief, as her victims have trouble recognizing her even when they meet her again face-to-face. Keene's leadership over the years earned her a reputation of thoughtful pragmatism. When necessary, she seeks revenge for offenses against the Guild—provided doing so is profitable. Her methods are vicious when necessary, and she is as feared as she is respected.
 

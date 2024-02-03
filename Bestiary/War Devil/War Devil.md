@@ -1,7 +1,7 @@
 ### War Devil
 _Huge fiend (devil), lawful evil_
 
-![[War Devil.webp]]
+![[War Devil.jpg]]
 
 Created through the sacrifice of other devils, both alive and dead, war devils vary in size and shape, but not personality. They crave combat and are highly aggressive, often commanding legions of lesser devils in wars. While they greatly enjoy bullying weaker creatures and exerting their dominance, they're highly submissive towards more powerful creatures and higher ranked devils.
 

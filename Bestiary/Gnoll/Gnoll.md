@@ -1,7 +1,7 @@
 ### Gnoll
 _Medium humanoid (gnoll), chaotic evil_
 
-![[Gnoll.webp]]
+![[Gnoll.jpg]]
 
 Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without warning, slaughtering their victims and devouring their flesh.
 

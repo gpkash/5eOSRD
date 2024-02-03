@@ -1,7 +1,7 @@
 ### Ankylosaurus
 _Huge beast, unaligned_
 
-![[Dinosaurs.webp]]
+![[Dinosaurs.jpg]]
 
 Thick armor plating covers the body of the plant-eating ankylosaurus, which defends itself against predators with a knobbed tail that delivers a devastating strike. Some varieties of ankylosaurus have spiked tails that deal piercing damage instead of bludgeoning damage.
 

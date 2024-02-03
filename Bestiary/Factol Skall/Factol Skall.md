@@ -1,7 +1,7 @@
 ### Factol Skall
 _Medium undead (wizard), neutral evil_
 
-![[Factol Skall.webp]]
+![[Factol Skall.jpg]]
 
 Skall is the current factol of the Heralds of Dust and the only leader the faction has ever had. A popular Duster legend holds that other than the Lady of Pain herself, Skall is Sigil's oldest resident, the first creature to live and die in the City of Doors. The Heralds of Dust idolize their ageless factol, whose stoic visage has become the faction's emblem. Skall can usually be found examining his orrery of souls (detailed in[[Adventure Atlas: The Mortuary]]).
 

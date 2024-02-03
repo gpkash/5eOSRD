@@ -1,7 +1,7 @@
 ### Mastiff
 _Medium beast, unaligned_
 
-![[Mastiff.webp]]
+![[Mastiff.jpg]]
 
 Mastiffs are impressive hounds prized by humanoids for their loyalty and keen senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halflings and other Small humanoids ride them as mounts.
 

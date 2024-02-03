@@ -1,7 +1,7 @@
 ### Valenar Hound
 _Medium fey, neutral_
 
-![[Valenar Hound.webp]]
+![[Valenar Hound.jpg]]
 
 
 

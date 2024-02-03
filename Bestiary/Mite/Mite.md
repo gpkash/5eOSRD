@@ -1,7 +1,7 @@
 ### Mite
 _Small fey, lawful evil_
 
-![[Mite.webp]]
+![[Mite.jpg]]
 
 Mites are vexing fey creatures that delight in causing minor havoc and playing irritating pranks, making even the coolest, most experienced adventurers prone to outbursts of destructive frustration. When mites are about, even the simplest task can turn into a disaster, and a mild disagreement can quickly become a brawl.
 

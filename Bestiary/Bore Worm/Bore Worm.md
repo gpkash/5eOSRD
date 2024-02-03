@@ -1,7 +1,7 @@
 ### Bore Worm
 _Gargantuan construct, unaligned_
 
-![[041-13-01.webp]]
+![[041-13-01.jpg]]
 
 Trobriand modeled this 100-foot-long, 15-foot-diameter drilling machine after a purple worm. Unless Trobriand commands it to do otherwise, the worm tirelessly moves through well-worn tunnels and trenches. It mindlessly attacks anything that gets in its way, and occasionally ventures up to level 12 or down to level 14. Characters hear it long before they see it.
 

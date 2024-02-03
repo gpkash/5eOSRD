@@ -1,7 +1,7 @@
 ### Jingle Jangle
 _Small humanoid (goblinoid), chaotic good_
 
-![[Jingle Jangle.webp]]
+![[Jingle Jangle.jpg]]
 
 Jingle Jangle's obsession with keys serves as a cautionary tale for those who would enter into a bargain with Bavlorna Blightstraw. The goblin once sought the hag's help in a desperate attempt to undo what she thought was a terrible curse: wherever Jingle Jangle went, she felt a tormenting fear of being caught on the wrong side of a locked door. When she appealed to Bavlorna for aid, the hag removed the goblin's ability to perceive that fear and replaced it with an insatiable and overwhelming need to collect keys. So great is this obsession that Jingle Jangle has lost her own sense of self and now refers to herself only in the third person.
 

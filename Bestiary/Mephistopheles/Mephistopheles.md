@@ -1,7 +1,7 @@
 ### Mephistopheles
 _Large fiend (devil), lawful evil_
 
-![[Mephistopheles.webp]]
+![[Mephistopheles.jpg]]
 
 Mephistopheles is the lord of Cania, the eighth level of the Nine Hells, and the most formidable archdevil next to Asmodeus himself. He is famed as Hell's most powerful spellcaster and the wielder of a power known as Hellfire.
 

@@ -1,7 +1,7 @@
 ### Eblis
 _Large monstrosity, neutral evil_
 
-![[Eblis.webp]]
+![[Eblis.jpg]]
 
 Eblis (pronounced EH-blee) are thought to be reincarnations of evil humans who were punished by gods for acts of larceny and kidnapping. These intelligent, evil cranes loom 8 feet tall and lay eggs as mundane birds do. They can manipulate objects with their beaks and feet.
 

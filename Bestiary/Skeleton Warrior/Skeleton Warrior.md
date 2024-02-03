@@ -1,7 +1,7 @@
 ### Skeleton Warrior
 _Medium undead, lawful evil_
 
-![[Skeleton Warrior.webp]]
+![[Skeleton Warrior.jpg]]
 
 > _Walking skeletons are a sure sign that some EVIL wizard is getting up to no good. Minsc is quite certain that skeletons should be sleeping in their graves-not ambulating around as if in search of midnight snacks! And now you say they have crowns and platemail and magic swords?! Are there no depths to which evil will not sink? And what does evil find down there, anyway? Boo would like to know!
 _

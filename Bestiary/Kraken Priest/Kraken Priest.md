@@ -1,7 +1,7 @@
 ### Kraken Priest
 _Medium humanoid (any race), lawful chaotic evil_
 
-![[Kraken Priest.webp]]
+![[Kraken Priest.jpg]]
 
 A kraken can seem godlike to folk who have faced its fury. Those who mistake its might for divine power and those who seek to appease the monster through veneration are sometimes rewarded with power, to serve thereafter as kraken priests.
 

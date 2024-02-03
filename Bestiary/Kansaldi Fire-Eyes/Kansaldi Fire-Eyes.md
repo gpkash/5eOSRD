@@ -1,7 +1,7 @@
 ### Kansaldi Fire-Eyes
 _Medium humanoid (cleric, human), lawful evil_
 
-![[Kansaldi Fire-Eyes.webp]]
+![[Kansaldi Fire-Eyes.jpg]]
 
 High Master Kansaldi Fire-Eyes leads the Red Dragon Army's offensive in Solamnia. A fanatical adherent of the Dragon Queen, Kansaldi was indoctrinated into the god's worship by Dragon High Lord Verminaard. During a test of faith from her mentor, Kansaldi replaced her left eye with a gem of seeing. This gem smolders and glows red whenever Kansaldi uses her magic, and her followers claim it allows her to see through any lie.
 

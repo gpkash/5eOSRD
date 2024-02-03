@@ -1,7 +1,7 @@
 ### Tarul Var
 _Medium undead, neutral evil_
 
-![[Tarul Var.webp]]
+![[Tarul Var.jpg]]
 
 After failing in an earlier task for the Red Wizards, the lich Tarul Var is sequestered within the Doomvault (Dead in Thay), where he tries to avoid the attention of Szass Tam. Interlopers who discover his quarters are set upon by the lich and his dread warrior guards, but if Var is brought to the brink of death, he might bargain for a chance to escape the dungeon.
 

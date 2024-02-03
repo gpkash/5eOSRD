@@ -1,7 +1,7 @@
 ### Mr. Dory
 _Medium aberration, chaotic evil_
 
-![[Mr. Dory.webp]]
+![[Mr. Dory.jpg]]
 
 One of the four councillors who rule the Styes, Mr. Dory hides his cursed nature in plain sight. His rare, liquid-sensitive "skin condition" is actually a form of the same aboleth affliction that creates skum, though Dory's condition is not as severe, and he has managed to retain his free will.
 

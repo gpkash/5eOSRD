@@ -1,7 +1,7 @@
 ### Master Thief
 _Medium humanoid (any race), any alignment_
 
-![[Master Thief.webp]]
+![[Master Thief.jpg]]
 
 Master thieves are known for perpetrating daring heists. They tend to develop a romanticized reputation. A master thief might "retire" from hands-on work to run a thieves' guild, spearhead some covert enterprise, or enjoy a quiet life of luxury.
 

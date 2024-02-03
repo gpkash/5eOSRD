@@ -1,7 +1,7 @@
 ### Vellin Farstride
 _Small humanoid (halfling), neutral good_
 
-![[Vellin Farstride.webp]]
+![[Vellin Farstride.jpg]]
 
 > _COURAGE, FRIENDSHIP, AND the sound of steel on steel! These are the stuff of all great adventures. The fight for justice is hard, sweaty work, but when the times get tough, the tough get hamsters!
 _

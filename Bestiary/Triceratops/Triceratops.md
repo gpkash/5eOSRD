@@ -1,7 +1,7 @@
 ### Triceratops
 _Huge beast, unaligned_
 
-![[Dinosaurs.webp]]
+![[Dinosaurs.jpg]]
 
 One of the most aggressive of the herbivorous dinosaurs, a triceratops has a skull that flares out to form a protective plate of bone. With its great horns and formidable speed, a triceratops gores and tramples would-be predators to death.
 

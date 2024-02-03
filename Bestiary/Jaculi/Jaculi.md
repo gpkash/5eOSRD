@@ -1,7 +1,7 @@
 ### Jaculi
 _Large beast, unaligned_
 
-![[Jaculi.webp]]
+![[Jaculi.jpg]]
 
 A jaculi (pronounced jah-KOO-lee) is a 15-foot-long snake that can alter the color and texture of its scales to camouflage itself. Altering its appearance to resemble wood or stone, it coils around pillars and tree trunks from which it launches itself like a javelin, striking with great force and accuracy.
 

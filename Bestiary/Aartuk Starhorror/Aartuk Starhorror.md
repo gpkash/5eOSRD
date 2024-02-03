@@ -1,7 +1,7 @@
 ### Aartuk Starhorror
 _Medium plant, lawful evil_
 
-![[Aartuk Starhorror.webp]]
+![[Aartuk Starhorror.jpg]]
 
 Aartuks are intelligent plant creatures that live to wage war. Beholders destroyed their original home world and scattered the survivors across the Material Plane. These survivors formed small nomadic cells.
 

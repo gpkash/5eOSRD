@@ -1,7 +1,7 @@
 ### Braxat
 _Huge giant, neutral_
 
-![[Braxat.webp]]
+![[Braxat.jpg]]
 
 A braxat is a towering, warm-blooded carnivore with a thick, articulated shell covering its back, a squarish head topped with horny protrusions, and thick arms ending in large hands with opposable thumbs. The creature walks upright on two legs and speaks in a voice similar to that of a human.
 

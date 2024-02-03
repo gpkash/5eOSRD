@@ -1,7 +1,7 @@
 ### Flesh Golem
 _Medium construct, neutral_
 
-![[Flesh Golem.webp]]
+![[Flesh Golem.jpg]]
 
 ---
 

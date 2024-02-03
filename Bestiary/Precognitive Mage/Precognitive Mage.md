@@ -1,7 +1,7 @@
 ### Precognitive Mage
 _Medium humanoid (any race), lawful neutral_
 
-![[Precognitive Mage.webp]]
+![[Precognitive Mage.jpg]]
 
 Precognitive mages, a rarity among Azorius spellcasters, are capable of capturing glimpses of the future. They are typically employed to anticipate the actions of wanted criminals, thus aiding in their capture.
 

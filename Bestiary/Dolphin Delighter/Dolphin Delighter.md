@@ -1,7 +1,7 @@
 ### Dolphin Delighter
 _Medium fey, chaotic good_
 
-![[Dolphin Delighter.webp]]
+![[Dolphin Delighter.jpg]]
 
 
 

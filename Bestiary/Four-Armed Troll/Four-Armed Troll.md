@@ -1,7 +1,7 @@
 ### Four-Armed Troll
 _Large giant, chaotic evil_
 
-![[Four-Armed Troll.webp]]
+![[Four-Armed Troll.jpg]]
 
 Sometimes when a troll loses a limb, it regenerates two limbs to replace the one it lost. This can result in trolls with multiple arms. A four-armed troll uses the troll stat block, except that it is a Challenge Rating 6 monster (2,300 XP) and has alternate action options to suit.
 

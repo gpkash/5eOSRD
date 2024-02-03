@@ -1,7 +1,7 @@
 ### Murgaxor
 _Medium humanoid (bullywug, warlock), neutral evil_
 
-![[Murgaxor.webp]]
+![[Murgaxor.jpg]]
 
 After giving the characters their quest, Professor Lang hands them a file with information the faculty members have collected about Murgaxor from university records. Tell the players the following to give them context about this evil spellcaster:
 

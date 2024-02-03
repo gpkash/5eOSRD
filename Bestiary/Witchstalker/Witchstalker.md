@@ -1,7 +1,7 @@
 ### Witchstalker
 _Large monstrosity, unaligned_
 
-![[Witchstalker.webp]]
+![[Witchstalker.jpg]]
 
 Twice the size of their ordinary kin, witchstalkers are giant wolves drawn to sources of magic by their supernatural sense of smell. As a result, the moors and forests of Dunbarrow make for good hunting grounds. The greater the source of magic, the more witchstalkers are drawn to the area. To their dismay, witches have drawn as many as a dozen witchstalkers.
 

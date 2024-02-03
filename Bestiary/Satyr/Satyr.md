@@ -1,7 +1,7 @@
 ### Satyr
 _Medium fey, chaotic neutral_
 
-![[Satyr.webp]]
+![[Satyr.jpg]]
 
 Satyrs are raucous fey that frolic in wild forests, driven by curiosity and hedonism in equal measure.
 

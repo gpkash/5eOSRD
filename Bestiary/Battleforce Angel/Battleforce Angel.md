@@ -1,7 +1,7 @@
 ### Battleforce Angel
 _Medium celestial, lawful good_
 
-![[Battleforce Angel.webp]]
+![[Battleforce Angel.jpg]]
 
 Battleforce angels are the radiant hosts that soar into combat, bathed in the light of Boros zeal. They lead companies of mortal soldiers from above or fly ahead of roc-mounted skyknights. They don't shy away from the blood, pain, and confusion of combat; rather, they immerse themselves in the shifting tides of battle. Only by wading into the battle can they fulfill their responsibility to carry out the commands of the warleaders by adapting their tactics to the shifting situation on the ground.
 

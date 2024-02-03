@@ -1,7 +1,7 @@
 ### Spotted Lion
 _Huge beast, unaligned_
 
-![[Spotted Lion.webp]]
+![[Spotted Lion.jpg]]
 
 > _When it comes to infiltrating giant steadings, I must admit that spotted lions are in some ways preferable to, say, dire wolves or cave bears. Namely, if they're well fed, they're more likely to stretch and yawn than they are to raise an alarm when they spot you.
 _

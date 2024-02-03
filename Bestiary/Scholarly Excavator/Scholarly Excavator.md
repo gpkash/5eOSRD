@@ -1,7 +1,7 @@
 ### Scholarly Excavator
 _Small, Medium humanoid, any alignment_
 
-![[Scholarly Excavator.webp]]
+![[Scholarly Excavator.jpg]]
 
 Field research is often dangerous work, especially when it involves ancient magic and monster-infested ruins. Scholarly excavators are trained to deal with those dangers, adept at protecting their allies and clearing obstacles from their path.
 

@@ -1,7 +1,7 @@
 ### Yuan-ti Pureblood
 _Medium humanoid (yuan-ti), neutral evil_
 
-![[Yuan-ti Pureblood.webp]]
+![[Yuan-ti Pureblood.jpg]]
 
 
 

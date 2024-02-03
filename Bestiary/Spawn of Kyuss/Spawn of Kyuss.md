@@ -1,7 +1,7 @@
 ### Spawn of Kyuss
 _Medium undead, chaotic evil_
 
-![[Spawn of Kyuss.webp]]
+![[Spawn of Kyuss.jpg]]
 
 Kyuss was a high priest of Orcus who plundered corpses from necropolises to create the first spawn of Kyuss. Even centuries after Kyuss's death, his malign disciples continue performing the horrific rites he perfected.
 

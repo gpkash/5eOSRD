@@ -1,7 +1,7 @@
 ### Walnut Dankgrass
 _Medium humanoid (elf), lawful neutral_
 
-![[Walnut Dankgrass.webp]]
+![[Walnut Dankgrass.jpg]]
 
 The war ever rages.
 

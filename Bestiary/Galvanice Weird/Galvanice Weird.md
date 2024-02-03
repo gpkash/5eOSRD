@@ -1,7 +1,7 @@
 ### Galvanice Weird
 _Medium elemental, chaotic neutral_
 
-![[Galvanice Weird.webp]]
+![[Galvanice Weird.jpg]]
 
 Galvanice weirds seem to be the epitome of weird technology. Indeed, they serve willingly, with cheerful stupidity, as guardians and laborers in Izzet workshops. They combine a rigid body of elemental ice with a core of lightning that animates them. If a galvanice weird is destroyed, the ice shatters and lightning crackles outward in a dangerous explosion. Still, most Izzet researchers find that their usefulness outweighs this risk.
 

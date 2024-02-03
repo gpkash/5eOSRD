@@ -1,7 +1,7 @@
 ### Young Kruthik
 _Small monstrosity, unaligned_
 
-![[Young Kruthik.webp]]
+![[Young Kruthik.jpg]]
 
 
 

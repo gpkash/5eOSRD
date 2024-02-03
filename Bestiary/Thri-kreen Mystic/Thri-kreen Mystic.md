@@ -1,7 +1,7 @@
 ### Thri-kreen Mystic
 _Medium monstrosity, any alignment_
 
-![[Thri-kreen Mystic.webp]]
+![[Thri-kreen Mystic.jpg]]
 
 Thri-kreen mystics use psionics to navigate difficult terrain in Wildspace, turn invisible, and drain life from their prey. They often serve as spelljammers aboard thri-kreen ships.
 

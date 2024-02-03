@@ -1,7 +1,7 @@
 ### Manshoon
 _Medium humanoid (human), lawful evil_
 
-![[Manshoon.webp]]
+![[Manshoon.jpg]]
 
 Referred to in this adventure simply as "Manshoon," this clone of the ancient archwizard infiltrated Waterdeep years ago and has been hiding out in Kolat Towers ever since, in the city's Southern Ward.
 

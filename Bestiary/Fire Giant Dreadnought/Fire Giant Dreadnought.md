@@ -1,7 +1,7 @@
 ### Fire Giant Dreadnought
 _Huge giant (fire giant), lawful evil_
 
-![[Fire Giant Dreadnought.webp]]
+![[Fire Giant Dreadnought.jpg]]
 
 > _When I first saw a fire giant dreadnought, I doubted the giant could even move. I quickly learned my error.
 _

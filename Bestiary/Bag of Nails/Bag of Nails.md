@@ -1,7 +1,7 @@
 ### Bag of Nails
 _Medium humanoid (tabaxi), chaotic neutral_
 
-![[Bag of Nails.webp]]
+![[Bag of Nails.jpg]]
 
 Bag of Nails yearns for a hunter's death. Senility has taken hold, and now he sees all creatures as his prey.
 

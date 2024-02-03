@@ -1,7 +1,7 @@
 ### Couatl
 _Medium celestial, lawful good_
 
-![[Couatl.webp]]
+![[Couatl.jpg]]
 
 Couatls are benevolent serpentine beings of great intellect and insight. Their brilliantly colored wings and gentle manner speak to their celestial origins.
 

@@ -1,7 +1,7 @@
 ### Galvan Magen
 _Medium construct, unaligned_
 
-![[Galvan Magen.webp]]
+![[Galvan Magen.jpg]]
 
 Galvan magen can fly. They also store static electricity, which they discharge as lightning bolts.
 

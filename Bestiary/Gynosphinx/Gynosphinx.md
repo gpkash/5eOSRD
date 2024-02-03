@@ -1,7 +1,7 @@
 ### Gynosphinx
 _Large monstrosity, lawful neutral_
 
-![[Gynosphinx.webp]]
+![[Gynosphinx.jpg]]
 
 
 

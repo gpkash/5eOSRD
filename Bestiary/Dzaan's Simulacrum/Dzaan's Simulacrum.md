@@ -1,7 +1,7 @@
 ### Dzaan's Simulacrum
 _Medium construct, lawful evil_
 
-![[Dzaans Simulacrum.webp]]
+![[Dzaans Simulacrum.jpg]]
 
 Unbeknownst to his executioners, Dzaan had used a spell scroll of simulacrum to create a copy of himself. This simulacrum dwells in the sunken Netherese spire, waiting for its creator to return.
 

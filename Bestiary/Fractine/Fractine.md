@@ -1,7 +1,7 @@
 ### Fractine
 _Large construct, neutral_
 
-![[Fractine.webp]]
+![[Fractine.jpg]]
 
 > _I've encountered a creature unlike any other in the multiverse: a flickering mirror tumbling across the Astral Sea toward some unknown destination, with a beholder's distorted reflection in its surface. Initially, I feared it was some kind of vessel. Now I believe the beholder was the mirror's prisoner.
 

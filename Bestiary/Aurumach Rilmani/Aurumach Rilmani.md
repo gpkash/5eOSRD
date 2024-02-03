@@ -1,7 +1,7 @@
 ### Aurumach Rilmani
 _Large celestial, neutral_
 
-![[Aurumach Rilmani.webp]]
+![[Aurumach Rilmani.jpg]]
 
 From redoubts near the Spire in the Outlands, aurumachs oversee the preservation of the cosmic status quo, serving as leaders and strategists of the rilmani. Employing mysterious magic, occult calculations, and networks of informants, aurumachs monitor forces across the planes. Only when planar balance is under threat of total collapse do these elusive, gold-skinned beings leave the Outlands, manifesting gleaming blades to destroy those that threaten multiversal stability.
 

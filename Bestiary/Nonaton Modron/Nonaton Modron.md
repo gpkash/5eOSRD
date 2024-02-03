@@ -1,7 +1,7 @@
 ### Nonaton Modron
 _Large construct, lawful neutral_
 
-![[Nonaton Modron.webp]]
+![[Nonaton Modron.jpg]]
 
 When modrons act against the will of Primus, nonatons are charged with bringing those rogue units into line. These inspectors also interrogate captured trespassers of Mechanus. Nonatons have wormlike bodies studded with nine mechanical arms.
 

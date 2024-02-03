@@ -1,7 +1,7 @@
 ### Biomancer
 _Medium humanoid (any race), neutral good_
 
-![[Biomancer.webp]]
+![[Biomancer.jpg]]
 
 Nearly all the innovation and advancement in Simic bioengineering comes from the work of biomancers. Specialists in hybridizing and altering creatures through a mixture of science and magic, they have spawned countless hybrids and krasis in search of the perfect union between nature and civilization.
 

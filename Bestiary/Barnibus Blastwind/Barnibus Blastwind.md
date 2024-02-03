@@ -1,7 +1,7 @@
 ### Barnibus Blastwind
 _Medium humanoid (human), lawful good_
 
-![[Barnibus Blastwind.webp]]
+![[Barnibus Blastwind.jpg]]
 
 Barnibus works for the Watchful Order of Magists and Protectors, investigating crimes that involve the use of magic. He comes across as prickly and secretive, confiding only in Saeth Cromley, a retired sergeant of the City Watch who assists in many of his investigations.
 

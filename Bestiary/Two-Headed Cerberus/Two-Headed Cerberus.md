@@ -1,7 +1,7 @@
 ### Two-Headed Cerberus
 _Medium monstrosity, lawful evil_
 
-![[Two-Headed Cerberus.webp]]
+![[Two-Headed Cerberus.jpg]]
 
 Thought to be a lesser breed of cerberi that have interbred with mortal wolves, two-headed cerberi typically roam the mortal side of the Tartyx River. There they generally ignore—or only modestly menace—the souls of the dead. Such isn't the case for mortals, though, and they eagerly set upon those who tread too close to the Underworld's borders.
 

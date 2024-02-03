@@ -1,7 +1,7 @@
 ### Giant
 _Huge giant, neutral_
 
-![[Giant.webp]]
+![[Giant.jpg]]
 
 Standing twenty to thirty feet tall, giants are towering bipedal creatures that follow the flow of aether on regular migratory routes. Once they start moving, they build both momentum and a single-mindedness that makes them nearly impossible to stop. Anything in their path, whether it's a building or a force of soldiers, is crushed without thought.
 

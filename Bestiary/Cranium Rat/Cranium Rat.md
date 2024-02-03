@@ -1,7 +1,7 @@
 ### Cranium Rat
 _Tiny beast, lawful evil_
 
-![[Swarm of Cranium Rats.webp]]
+![[Swarm of Cranium Rats.jpg]]
 
 **Cranium Rat** Mind flayers create cranium rats by bombarding rats with psionic energy. Cranium rats are somewhat smarter than ordinary rats and behave as such. If enough cranium rats come together to form a swarm, they merge their minds into a single intelligence with the accumulated memories of all the swarm's constituents. The rats become smarter as a result, and retain their heightened intelligence for as long as the swarm persists. The swarm also awakens latent psionic abilities implanted within each cranium rat by its mind flayer creators, bestowing upon the swarm psionic powers.
 

@@ -1,7 +1,7 @@
 ### The Lord of Blades
 _Medium humanoid (warforged), lawful evil_
 
-![[The Lord of Blades.webp]]
+![[The Lord of Blades.jpg]]
 
 The Lord of Blades is a warforged warlord who has broken all ties with his former masters. He has established a nation for his people deep in the Mournland, centered in a great fortress where warforged from all over Khorvaire can come and feel a sense of belonging. No one knows what the Lord of Blades plans for his followers, but many fear that he intends to build a legion of warforged zealots, primed to march from the Mournland to unleash destruction on their former masters.
 

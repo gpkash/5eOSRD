@@ -1,7 +1,7 @@
 ### Jaheira
 _Medium humanoid (half-elf), Neutral or Any Neutral Alignment_
 
-![[Jaheira.webp]]
+![[Jaheira.jpg]]
 
 Jaheira is a half-elf druid and an experienced leader within the organization known as the Harpers. She originally traveled to the Sword Coast with Khalid, her husband and fellow Harper, to investigate the Iron Crisis of 1368 DR on behalf of the secretive organization. Khalid was killed during the mission and Jaheira has never remarried. Although harsh and somewhat abrasive, Jaheira is fiercely loyal to the Harpers.
 

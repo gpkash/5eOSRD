@@ -1,7 +1,7 @@
 ### Grimlock
 _Medium humanoid (grimlock), neutral evil_
 
-![[Grimlock.webp]]
+![[Grimlock.jpg]]
 
 The degenerate subterranean grimlocks were once human, but their worship of the mind flayers over generations of prowling the Underdark transformed them into blind, monstrous cannibals long ago.
 

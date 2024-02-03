@@ -1,7 +1,7 @@
 ### Wynling
 _Tiny fey, chaotic neutral_
 
-![[Wynling.webp]]
+![[Wynling.jpg]]
 
 Playful and mischievous, wynlings defend mountain heights and alpine vales against trespassers. A wynling rarely engages a threat directly, preferring to deter intruders by harassing them with thefts and pranks. Many travelers return from lands protected by wynlings with stories of vanishing equipment and curious eyes staring from the shadows.
 

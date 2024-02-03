@@ -1,7 +1,7 @@
 ### Magmin
 _Small elemental, chaotic neutral_
 
-![[Magmin.webp]]
+![[Magmin.jpg]]
 
 A grinning, mischievous magmin resembles a stumpy humanoid sculpted from a black shell of magma. Even when it isn't ablaze and radiating heat like a bonfire, small jets of flame erupt from its porous skin.
 

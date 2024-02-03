@@ -1,7 +1,7 @@
 ### Thri-kreen
 _Medium humanoid (thri-kreen), chaotic neutral_
 
-![[Thri-kreen.webp]]
+![[Thri-kreen.jpg]]
 
 Thri-kreen wander the deserts and savannas of the world, avoiding all other races.
 

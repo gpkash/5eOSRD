@@ -1,7 +1,7 @@
 ### Ember Roc
 _Gargantuan monstrosity, _
 
-![[EmberRocFluff.webp]]
+![[EmberRocFluff.jpg]]
 
 Centuries old, birthed by primordial chaos, and equaling the oldest dragons in size, the ember roc is an engine of ruthless consumption. With wingspans vast enough to blot out the sky and auras bright enough to rival the sun, these fiery birds of prey hunt only the deadliest game.
 

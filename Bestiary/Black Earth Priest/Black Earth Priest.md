@@ -1,7 +1,7 @@
 ### Black Earth Priest
 _Medium humanoid (human), neutral evil_
 
-![[Black Earth Priest.webp]]
+![[Black Earth Priest.jpg]]
 
 The priests of the Black Earth are the drivers and organizers of Ogrémoch's cult. They are the true believers, seeing Ogrémoch as a divine force, and they have developed a twisted dogma to explain how the evil of elemental earth is destined to remake the world and rule over all. The Black Earth priests form a cabal of leaders whose fanaticism and magical power serve as the backbone of the cult. Individuals of unusual power hold higher rank in the cult, but the priests provide the cult leader with his or her authority over the rest of Ogrémoch's followers.
 

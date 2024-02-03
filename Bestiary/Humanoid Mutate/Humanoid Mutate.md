@@ -1,7 +1,7 @@
 ### Humanoid Mutate
 _Medium aberration, any alignment_
 
-![[Humanoid Mutate.webp]]
+![[Humanoid Mutate.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Drowned Assassin
 _Medium undead, chaotic evil_
 
-![[Drowned One.webp]]
+![[Drowned One.jpg]]
 
 The drowned assassin stalks and kills in a grim pantomime of its former occupation. Sneaking from shadow to shadow, and appearing in the undead assault of Tammeraut's Fate, it aims its barnacle-encrusted hand crossbow with deadly precision. Hidden behind a simple driftwood mask, this creature's face causes terror in mortal hearts when exposed.
 

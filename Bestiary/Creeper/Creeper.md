@@ -1,7 +1,7 @@
 ### Creeper
 _Medium monstrosity, neutral evil_
 
-![[Creeper.webp]]
+![[Creeper.jpg]]
 
 A creeper is a green, armless creature that emerges in darkness and silently prowls the Overworld on its four short legs. Its peculiar face bears no clue of its motives, but its destructiveness makes it one of the greatest threats to both life and property in the Overworld.
 

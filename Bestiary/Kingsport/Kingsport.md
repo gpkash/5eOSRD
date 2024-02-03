@@ -1,7 +1,7 @@
 ### Kingsport
 _Medium beast, unaligned_
 
-![[Kingsport.webp]]
+![[Kingsport.jpg]]
 
 Scrivenscry is an arcanaloth who always refers to itself in the third person. It has a fondness for black licorice, strips of which it keeps in the pockets of its robe. The fiend is attended by Kingsport, a blind, albino giant penguin under the effect of an [[awaken]] spell.
 

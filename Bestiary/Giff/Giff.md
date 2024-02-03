@@ -1,7 +1,7 @@
 ### Giff
 _Medium humanoid, lawful neutral_
 
-![[Giff.webp]]
+![[Giff.jpg]]
 
 > _My travels in Wildspace are always brightened by my giff associates. Their use of gunpowder reminds me of my own explosive wizardry. Spectacular!
 _

@@ -1,7 +1,7 @@
 ### Dermot Wurder (Tier 1)
 _Small humanoid (cleric, goblin, goblinoid), lawful good_
 
-![[Dermot Wurder (Tier 1).webp]]
+![[Dermot Wurder (Tier 1).jpg]]
 
 When you're the twelfth son of a poor goblin family in Jigow, the only way to make a name for yourself is to become a great champion—someone who can win bragging contests in the local taverns night after night. Young Dermot Wurder, however, wasn't interested in performing feats of strength or agility that would win him a boast-worthy epithet. Fame wasn't for him, nor was the aggressiveness that becoming famous required. He was more interested in cooking, planting flowers, and sewing clothes—doing the work that kept his family together while his carefree siblings dove off waterfalls and wrestled stray dogs.
 

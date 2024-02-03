@@ -1,7 +1,7 @@
 ### Pteranodon
 _Medium beast, unaligned_
 
-![[Dinosaurs.webp]]
+![[Dinosaurs.jpg]]
 
 These flying reptiles have wingspans of 15 to 20 feet and typically dive for small marine prey, though they are opportunists and will attack any creature that appears edible. A pteranodon has no teeth, instead using its sharp beak to stab prey too large to swallow with one gulp.
 

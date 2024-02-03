@@ -1,7 +1,7 @@
 ### Flail Snail
 _Large elemental, unaligned_
 
-![[Flail Snail.webp]]
+![[Flail Snail.jpg]]
 
 A flail snail is a creature of elemental earth that is prized for its multihued shell. It may seem harmless, but if a creature big enough to be a threat approaches too close, the snail flashes a scintillating light and attacks with its mace-like tentacles.
 

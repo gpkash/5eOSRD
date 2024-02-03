@@ -1,7 +1,7 @@
 ### Psionic Ashenwight
 _Medium undead, neutral_
 
-![[Psionic Ashenwight.webp]]
+![[Psionic Ashenwight.jpg]]
 
 
 

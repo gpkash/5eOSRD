@@ -1,7 +1,7 @@
 ### Hellcat (Bezekira)
 _Large fiend, neutral evil_
 
-![[Hellcat (Bezekira).webp]]
+![[Hellcat (Bezekira).jpg]]
 
 Possessing a unique ability to detect both the alignment and strength of an individual telepathically, bezekiras, otherwise known as hellcats, search for the most powerful master of lawful evil alignment. Once they've found a master, they're extremely loyal and follow all commands, until a stronger master comes along. When not serving a master, hellcats are fiercely independent, secretive, and intelligent.
 

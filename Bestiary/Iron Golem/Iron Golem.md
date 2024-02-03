@@ -1,7 +1,7 @@
 ### Iron Golem
 _Large construct, unaligned_
 
-![[Iron Golem.webp]]
+![[Iron Golem.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Lava Child
 _Medium humanoid (lava child), neutral_
 
-![[Lava Child.webp]]
+![[Lava Child.jpg]]
 
 Physically identical to one another, lava children have muscular builds and childish, perpetually grinning faces. Most are born in the Fountains of Creation, also known as the Plane of Magma, which is wedged between the Elemental Planes of Earth and Fire. Within volcanic caverns, lava children form communities, serving primordial beings out of fear or worshiping gods of earth and fire.
 

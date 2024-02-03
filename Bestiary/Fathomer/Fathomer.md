@@ -1,7 +1,7 @@
 ### Fathomer
 _Medium humanoid (human), neutral evil_
 
-![[Crushing Wave Cultists.webp]]
+![[Crushing Wave Cultists.jpg]]
 
 Fathomers are cultists who have sealed a pact with Olhydra, Princess of Evil Water. In addition to their spellcasting abilities, fathomers have the ability to transform their bodies into water, taking serpent-like shapes. In their water serpent forms, fathomers gain many of the resistances elemental creatures possess, as well as the ability to grapple and crush their enemies with their watery bodies.
 

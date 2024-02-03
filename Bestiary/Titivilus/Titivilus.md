@@ -1,7 +1,7 @@
 ### Titivilus
 _Medium fiend (devil), lawful evil_
 
-![[Titivilus.webp]]
+![[Titivilus.jpg]]
 
 Dispater, the gloomy Lord of Dis, rules from his iron palace, seeming to hide behind its labyrinthine corridors, iron walls, diabolical traps, and monstrous servants. Knowing he has enemies on all sides and fearing he'll be displaced like Moloch, Geryon, and so many others, he almost never travels farther than the sprawling city that lies outside his palace.
 

@@ -1,7 +1,7 @@
 ### Living Demiplane
 _Medium construct, unaligned_
 
-![[Living Demiplane.webp]]
+![[Living Demiplane.jpg]]
 
 A living demiplane is a [[demiplane]] spell that has become vaguely self-aware. It is a shadowy rectangle, 5 feet wide and 10 feet high, which creeps along flat, solid surfaces and groans softly when it moves.
 

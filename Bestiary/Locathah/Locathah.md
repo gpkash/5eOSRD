@@ -1,7 +1,7 @@
 ### Locathah
 _Medium humanoid (locathah), neutral_
 
-![[Locathah.webp]]
+![[Locathah.jpg]]
 
 These resilient and proud fish-folk (found in Danger at Dunwater) have endured war, slavery, and mistreatment at the hands of other aquatic creatures. They dwell in submerged tribal communities along seacoasts, and hunt both above and below the water.
 

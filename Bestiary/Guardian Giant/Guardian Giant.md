@@ -1,7 +1,7 @@
 ### Guardian Giant
 _Huge giant, lawful neutral_
 
-![[Guardian Giant.webp]]
+![[Guardian Giant.jpg]]
 
 Most of the giants in the Boros Legion come from a single clan, the Skorskal, that has long been at odds with the Gruul Clans. These giants are guards and gatekeepers, well represented in the Sunhome Guard, as well as powerful muscle supporting Boros missions.
 

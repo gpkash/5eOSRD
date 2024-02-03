@@ -1,7 +1,7 @@
 ### Ghoul
 _Medium undead, chaotic evil_
 
-![[Ghoul.webp]]
+![[Ghoul.jpg]]
 
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
 

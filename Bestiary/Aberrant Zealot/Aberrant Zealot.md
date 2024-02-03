@@ -1,7 +1,7 @@
 ### Aberrant Zealot
 _Medium aberration, chaotic evil_
 
-![[Aberrant Zealot.webp]]
+![[Aberrant Zealot.jpg]]
 
 Aberrant zealots are cultists who have reached out to the powers of the Far Realm—only for something to reach back. Steeped in strange energy, aberrant zealots borrow their vicious might from the monstrous entities that inhabit that fell plane.
 

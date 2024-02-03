@@ -1,7 +1,7 @@
 ### Giant Eagle
 _Large beast, neutral good_
 
-![[Giant Eagle.webp]]
+![[Giant Eagle.jpg]]
 
 A giant eagle is a noble creature that speaks its own language and understands speech in the Common tongue. A mated pair of giant eagles typically has up to four eggs or young in their nest (treat the young as normal eagles).
 

@@ -1,7 +1,7 @@
 ### Star Spawn Mangler
 _Medium aberration, chaotic evil_
 
-![[Star Spawn Mangler.webp]]
+![[Star Spawn Mangler.jpg]]
 
 
 

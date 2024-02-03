@@ -1,7 +1,7 @@
 ### Corrupted Giant Shark
 _Huge aberration, unaligned_
 
-![[Corrupted Giant Shark.webp]]
+![[Corrupted Giant Shark.jpg]]
 
 In addition to its vicious bite, this giant shark projects a psychic aura that causes painful mental distress in other creatures nearby. The crystals that corrupt the shark's body enable it to regenerate, and only radiant energy or particularly devastating attacks can overcome this unnatural defense.
 

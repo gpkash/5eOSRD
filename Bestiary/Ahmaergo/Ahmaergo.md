@@ -1,7 +1,7 @@
 ### Ahmaergo
 _Medium humanoid (dwarf), lawful evil_
 
-![[Ahmaergo.webp]]
+![[Ahmaergo.jpg]]
 
 Ahmaergo, Xanathar's majordomo, has a fascination with minotaurs. Although outwardly civil, the shield dwarf is as devious and corrupt as the worst devil, yet also unflinchingly loyal to his beholder master.
 

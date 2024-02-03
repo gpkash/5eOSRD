@@ -1,7 +1,7 @@
 ### Stone Defender
 _Medium construct, unaligned_
 
-![[Stone Defender.webp]]
+![[Stone Defender.jpg]]
 
 
 

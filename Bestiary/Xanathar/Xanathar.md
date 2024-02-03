@@ -1,7 +1,7 @@
 ### Xanathar
 _Large aberration, lawful evil_
 
-![[Xanathar-Lair.webp]]
+![[Xanathar-Lair.jpg]]
 
 Xanathar is the name given to the beholder crime lord that lives in the dungeons under Waterdeep. It isn't the first beholder to claim this mantle, nor will it be the last.
 

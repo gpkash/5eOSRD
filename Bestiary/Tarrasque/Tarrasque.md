@@ -1,7 +1,7 @@
 ### Tarrasque
 _Gargantuan monstrosity (titan), unaligned_
 
-![[Tarrasque.webp]]
+![[Tarrasque.jpg]]
 
 The legendary tarrasque is possibly the most dreaded monster of the Material Plane. It is widely believed that only one of these creatures exists, though no one can predict where and when it will strike.
 

@@ -1,7 +1,7 @@
 ### Werewolf
 _Medium humanoid (human, shapechanger), chaotic evil_
 
-![[Werewolf.webp]]
+![[Werewolf.jpg]]
 
 
 

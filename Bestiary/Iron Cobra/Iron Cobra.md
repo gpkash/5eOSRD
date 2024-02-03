@@ -1,7 +1,7 @@
 ### Iron Cobra
 _Medium construct, unaligned_
 
-![[Iron Cobra.webp]]
+![[Iron Cobra.jpg]]
 
 
 

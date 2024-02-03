@@ -1,7 +1,7 @@
 ### Core Spawn Crawler
 _Small aberration, chaotic evil_
 
-![[Core Spawn Crawler.webp]]
+![[Core Spawn Crawler.jpg]]
 
 The smallest and most numerous of the core spawn, these eyeless creatures scurry through the subterranean darkness with the help of their four irregular, gangly arms and hooked prehensile tails. Core spawn crawlers rarely travel alone, and a group of these agile predators is known as a vein of crawlers. Their clattering taloned limbs warn of their presence as they scuttle through the shadow-haunted depths of the earth.
 

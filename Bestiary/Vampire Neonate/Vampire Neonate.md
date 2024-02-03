@@ -1,7 +1,7 @@
 ### Vampire Neonate
 _Medium undead, neutral evil_
 
-![[Vampire Neonate.webp]]
+![[Vampire Neonate.jpg]]
 
 The vampires of Innistrad form a civilization that stands alongside and in direct competition with humanity, presenting the greatest danger to human life on the plane. Like werewolves, vampires were originally human, and they view themselves as successors to the weak human race—even as they grudgingly recognize that they require humans to feed upon. Vampires are the embodiment of self-indulgent desire, pursuing hedonistic cravings that humans suppress out of a sense of morality and propriety. In their stately manor houses, sprawling courts, and towering castles, four great family lines of vampires show varying degrees of aggressiveness toward their human prey.
 

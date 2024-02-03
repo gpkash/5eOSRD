@@ -1,7 +1,7 @@
 ### Draconian Foot Soldier
 _Medium monstrosity, any alignment_
 
-![[Draconian Foot Soldier.webp]]
+![[Draconian Foot Soldier.jpg]]
 
 The most numerous draconians are the foot soldiers, who are born from brass, white, or crystal dragon eggs. They are the smallest of their kind, and their slight wings are incapable of flight—though they do afford the draconians some control when falling. These wings are small enough to be hidden beneath a cloak or robe, so foot soldiers sometimes disguise themselves to get close to enemies before springing an ambush. When draconian foot soldiers die, they unleash clouds of petrifying gas, turning their corpses—and any creatures within the clouds—to stone.
 

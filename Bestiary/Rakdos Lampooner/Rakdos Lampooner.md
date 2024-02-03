@@ -1,7 +1,7 @@
 ### Rakdos Lampooner
 _Medium humanoid (any race), chaotic evil_
 
-![[Rakdos Lampooner.webp]]
+![[Rakdos Lampooner.jpg]]
 
 One of the most effective weapons in the Rakdos cult's arsenal is satire, and a Rakdos lampooner is a virtuoso of that art. Lampooners generally reserve their mockery for people and guilds that have seized an outsized measure of power, those who need to be taken down a peg, rather than piling further humiliation onto those who are already struggling. They use masks, marionettes, or effigies to caricature public figures, or sometimes play pranks on those individuals directly in the streets.
 

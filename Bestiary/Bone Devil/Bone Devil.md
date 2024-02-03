@@ -1,7 +1,7 @@
 ### Bone Devil
 _Large fiend (devil), lawful evil_
 
-![[Bone Devil.webp]]
+![[Bone Devil.jpg]]
 
 
 

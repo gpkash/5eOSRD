@@ -1,7 +1,7 @@
 ### Goblin Psi Commander
 _Small aberration (goblinoid), any alignment_
 
-![[Goblin Psi Commander.webp]]
+![[Goblin Psi Commander.jpg]]
 
 
 

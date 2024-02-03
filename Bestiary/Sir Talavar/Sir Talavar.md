@@ -1,7 +1,7 @@
 ### Sir Talavar
 _Tiny dragon, lawful good_
 
-![[Sir Talavar.webp]]
+![[Sir Talavar.jpg]]
 
 Sir Talavar is an esteemed member of the Seelie Court and a loyal vassal of the Summer Queen. Many of Sir Talavar's squires have gone on to become knights of great renown. The venerable faerie dragon has an encouraging, can-do demeanor and an unwavering sense of honor.
 

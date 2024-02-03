@@ -1,7 +1,7 @@
 ### Fate Hag
 _Medium fey, neutral_
 
-![[Fate Hag.webp]]
+![[Fate Hag.jpg]]
 
 Fate hags are servants of destiny that mostly reside in the Feywild and Shadowfell or near crossings to those realms from the Material Plane. The aspects of fate to which a fate hag is most attuned depends on the plane where the hag dwells—hopeful and prosperous in the Feywild or dire and doomed in the Shadowfell.
 

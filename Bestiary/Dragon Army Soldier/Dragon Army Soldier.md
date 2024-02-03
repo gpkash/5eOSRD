@@ -1,7 +1,7 @@
 ### Dragon Army Soldier
 _Medium humanoid, lawful evil_
 
-![[Dragon Army Soldier.webp]]
+![[Dragon Army Soldier.jpg]]
 
 The Dragon Armies gather fanatical followers to their ranks. Recruits are indoctrinated to revere the Dragon Queen and view dragons as her favored servants. Troops in the Dragon Army wield weapons blessed by Takhisis to strike with the power of the dragons they fight alongside.
 

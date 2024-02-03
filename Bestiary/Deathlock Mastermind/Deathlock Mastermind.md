@@ -1,7 +1,7 @@
 ### Deathlock Mastermind
 _Medium undead, lawful evil_
 
-![[Deathlock Mastermind.webp]]
+![[Deathlock Mastermind.jpg]]
 
 
 

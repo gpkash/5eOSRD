@@ -1,7 +1,7 @@
 ### Steel Predator
 _Large construct, lawful evil_
 
-![[Steel Predator.webp]]
+![[Steel Predator.jpg]]
 
 A steel predator is a merciless machine with one purpose: to locate and kill its target regardless of distance and obstacles.
 

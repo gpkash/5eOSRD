@@ -1,7 +1,7 @@
 ### Locathah Hunter
 _Medium humanoid (locathah), neutral_
 
-![[Locathah.webp]]
+![[Locathah.jpg]]
 
 The far-ranging locathah hunter is trained in tracking and stalking prey on land and in water. They often serve as leaders to small bands of locathah or emissaries for their people (such as the hunter found in Danger at Dunwater). Their colorful, [[poisoned]], and fast-loading crossbows rarely miss a target.
 

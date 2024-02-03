@@ -1,7 +1,7 @@
 ### Gloomstalker
 _Large monstrosity, neutral evil_
 
-![[Gloomstalker.webp]]
+![[Gloomstalker.jpg]]
 
 A gloomstalker is a terrifying, winged predator resembling a wyvern composed of twisting shadows, with glowing eyes and dagger-like teeth.
 

@@ -1,7 +1,7 @@
 ### Harpy
 _Medium monstrosity, chaotic evil_
 
-![[Harpy.webp]]
+![[Harpy.jpg]]
 
 Taking glee in suffering and death, the sadistic harpy is always on the hunt for prey. Its sweet song has lured countless adventurers to their deaths, drawing them in close for the harpy to kill and then consume.
 

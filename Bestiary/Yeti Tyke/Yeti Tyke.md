@@ -1,7 +1,7 @@
 ### Yeti Tyke
 _Small monstrosity, _
 
-![[Yeti Tyke.webp]]
+![[Yeti Tyke.jpg]]
 
 Yeti tykes are as volatile and mean as their parents, their fearsomeness diminished only by their size. Standing 3 feet tall on average, they like to bully creatures of their height or smaller. But they are easily intimidated by bigger and stronger creatures. A cowed yeti tyke can be controlled, at least for a while, but raising one to be anything other than a savage, flesh-eating predator is incredibly difficult (though not impossible).
 

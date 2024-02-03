@@ -1,7 +1,7 @@
 ### Githyanki Supreme Commander
 _Medium humanoid (gith), lawful evil_
 
-![[Githyanki Supreme Commander.webp]]
+![[Githyanki Supreme Commander.jpg]]
 
 
 

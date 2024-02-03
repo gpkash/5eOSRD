@@ -1,7 +1,7 @@
 ### Rilsa Rael
 _Medium humanoid (human), neutral_
 
-![[Rilsa Rael.webp]]
+![[Rilsa Rael.jpg]]
 
 The Guild kingpin of Little Calimshan. Among Little Calimshan's most notorious locations is the Calim Jewel Emporium, widely regarded as the best jeweler in the city—and the best place to fence stolen gems, as it's also the local Guild headquarters. In addition to hosting regular public forums in her shop, Rael tacitly oversees the Garden of Whispers, a maze of wood-and-paper screens where people from across the city can buy and sell secrets with Guild agents and each other, speaking through the barriers so as to maintain anonymity.
 

@@ -1,7 +1,7 @@
 ### Fierna
 _Medium fiend (devil), lawful evil_
 
-![[Fierna.webp]]
+![[Fierna.jpg]]
 
 Fierna rules Phlegethos alongside her father, Belial. She is emotionally intelligent, and her charisma has earned her many allies and few enemies in the Nine Hells. Although some view her as incompetent, Fierna's true intentions are hidden behind a smokescreen of brashness.
 

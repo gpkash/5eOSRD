@@ -1,7 +1,7 @@
 ### Giant Tick
 _Medium monstrosity, unaligned_
 
-![[Giant Tick.webp]]
+![[Giant Tick.jpg]]
 
 Ticks the size of boars have feasted on the blood of giants for countless ages. Though these parasites are painful nuisances to giants, they can be terrible threats to smaller folk, since a hungry tick will consume the blood of any creature it can catch.
 

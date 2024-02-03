@@ -1,7 +1,7 @@
 ### Narth Tezrin
 _Medium humanoid (Tethyrian human), chaotic good_
 
-![[Narth Tezrin.webp]]
+![[Narth Tezrin.jpg]]
 
 Narth sells gear to adventurers, and he also has an adventurous spirit. The Lionshield Coster pays him well, but he longs to make a name for himself. At the same time, he runs a business with his partner Alaestra and knows she wouldn't forgive him if he ran off and never returned.
 

@@ -1,7 +1,7 @@
 ### Anchorite of Talos
 _Medium humanoid (half-orc, shapechanger), neutral evil_
 
-![[Anchorite of Talos.webp]]
+![[Anchorite of Talos.jpg]]
 
 These religious recluses are granted spellcasting power by Talos, the god of storms. Their human ancestors bred with orcs, and now all anchorites of Talos are half-orcs.
 

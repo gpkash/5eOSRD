@@ -1,7 +1,7 @@
 ### Daemogoth
 _Huge fiend, lawful evil_
 
-![[Daemogoth.webp]]
+![[Daemogoth.jpg]]
 
 Slipping through the darkest corners of the world, daemogoths are powerful fiendish creatures that feed on misery and other negative emotions. Some sages refer to daemogoths as tear lickers, owing to the fiends' tendency to lurk near battlefields and other sites of great tragedy to consume the anguish saturating the area.
 

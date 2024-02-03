@@ -1,7 +1,7 @@
 ### Pit Fiend
 _Large fiend (devil), lawful evil_
 
-![[Pit Fiend.webp]]
+![[Pit Fiend.jpg]]
 
 
 

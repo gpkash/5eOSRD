@@ -1,7 +1,7 @@
 ### Mud Mephit
 _Small elemental, neutral evil_
 
-![[Mud Mephit.webp]]
+![[Mud Mephit.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Velomachus Lorehold
 _Gargantuan dragon (wizard), lawful neutral_
 
-![[Velomachus Lorehold.webp]]
+![[Velomachus Lorehold.jpg]]
 
 Velomachus Lorehold was the first dragon of Strixhaven to master the magic of order and chaos, the flow and prediction of events through time. Her magic encourages exploration and discovery through the lens of creating a direct conduit to the past.
 

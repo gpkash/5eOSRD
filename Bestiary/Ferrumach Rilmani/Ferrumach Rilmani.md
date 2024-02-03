@@ -1,7 +1,7 @@
 ### Ferrumach Rilmani
 _Medium celestial, neutral_
 
-![[Ferrumach Rilmani.webp]]
+![[Ferrumach Rilmani.jpg]]
 
 Ferrumachs are the foot soldiers of the rilmani, preserving the balance between the planes through martial force. They vigilantly defend the Spire and fight at the command of aurumachs to protect the neutrality of the multiverse. Ferrumachs gleam with the sheen of bare iron. Their bodies are honed to razor edges, and from it they can fling bolts of sharpened metal.
 

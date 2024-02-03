@@ -1,7 +1,7 @@
 ### Armanite
 _Large fiend (demon), chaotic evil_
 
-![[Armanite.webp]]
+![[Armanite.jpg]]
 
 Great herds of armanites race across the blasted fields of the Abyss, bent on slaughter and death, driven by unrestrained bloodlust. Whether they're controlled by more powerful demons or charging into battle for the sake of it, armanites use their claws and hooves, as well as their long, whiplike tails, to tear apart foes.
 

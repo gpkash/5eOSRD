@@ -1,7 +1,7 @@
 ### Centaur
 _Large monstrosity, neutral good_
 
-![[Centaur.webp]]
+![[Centaur.jpg]]
 
 > _I hear centaurs make excellent mounts!
 _

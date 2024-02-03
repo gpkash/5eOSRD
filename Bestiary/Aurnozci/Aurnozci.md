@@ -1,7 +1,7 @@
 ### Aurnozci
 _Gargantuan fiend (demon), chaotic evil_
 
-![[Aurnozci.webp]]
+![[Aurnozci.jpg]]
 
 The demon lord Aurnozci is a wormlike horror of fiery flesh and toxic seepage. In its present form, Aurnozci can't leave Xulregg, the Abyssal layer that's both its fiefdom and its prison. It lairs within a grotesque hive dangling from a mountain-size tree of tar and flame called Gorewood.
 

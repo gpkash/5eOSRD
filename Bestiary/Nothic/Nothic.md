@@ -1,7 +1,7 @@
 ### Nothic
 _Medium aberration, neutral evil_
 
-![[Nothic.webp]]
+![[Nothic.jpg]]
 
 A baleful eye peers out from the darkness, its gleam hinting at a weird intelligence and unnerving malevolence. Most times, a nothic is content to watch, weighing and assessing the creatures it encounters. When driven to violence, it uses its horrific gaze to rot the flesh from its enemies' bones.
 

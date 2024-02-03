@@ -1,7 +1,7 @@
 ### Almiraj
 _Small beast, unaligned_
 
-![[Almiraj.webp]]
+![[Almiraj.jpg]]
 
 An almiraj (pronounced AWL-meer-ahj) is a large, timid rabbit with a 1-foot-long spiral horn emerging from its forehead, not unlike the horn of a unicorn. If driven to attack, it tries to spear enemies with its horn.
 

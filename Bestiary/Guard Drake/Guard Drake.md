@@ -1,7 +1,7 @@
 ### Guard Drake
 _Medium dragon, unaligned_
 
-![[Guard Drake.webp]]
+![[Guard Drake.jpg]]
 
 A guard drake is a reptilian creature created out of dragon scales by means of a bizarre and grisly ritual. When trained properly, a drake is obedient and territorial, which makes it an excellent watch beast that can follow simple commands.
 

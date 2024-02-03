@@ -1,7 +1,7 @@
 ### Galeokaerda
 _Small, Medium humanoid (elf, sorcerer), neutral evil_
 
-![[Galeokaerda.webp]]
+![[Galeokaerda.jpg]]
 
 Galeokaerda has long posed as a professor of the Allegiance of Allsight and has become Insight's friend.
 

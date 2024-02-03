@@ -1,7 +1,7 @@
 ### Faldorn
 _Medium humanoid (human), neutral evil_
 
-![[Faldorn.webp]]
+![[Faldorn.jpg]]
 
 Faldorn is a human druid who is secretly a Shadow Master, one of the leaders of a militant sect of druids called the Shadow Druids. She is a devout follower of the beliefs of the Shadow Druids, believing that civilization is a cancer that threatens to make all the mortal races into weaklings.
 

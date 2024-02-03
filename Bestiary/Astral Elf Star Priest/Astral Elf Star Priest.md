@@ -1,7 +1,7 @@
 ### Astral Elf Star Priest
 _Medium humanoid (cleric), any alignment_
 
-![[Astral Elf Star Priest.webp]]
+![[Astral Elf Star Priest.jpg]]
 
 Star priests draw their strength from the pantheon of elven gods and oversee religious practices in astral elf society. It's common for them to serve aboard spelljamming ships, not only as emissaries of the gods but also as spelljammers.
 

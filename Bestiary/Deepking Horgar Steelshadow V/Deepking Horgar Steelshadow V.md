@@ -1,7 +1,7 @@
 ### Deepking Horgar Steelshadow V
 _Medium humanoid (dwarf), lawful evil_
 
-![[Deepking Horgar Steelshadow V.webp]]
+![[Deepking Horgar Steelshadow V.jpg]]
 
 Deepking Horgar V ascended to the throne in 1372 DR. He is a ruthless and canny ruler who engages in secret meetings with all the city's councils and clans to keep their members guessing what he's up to, hands out favors out of the blue, and lets it be known that he'll use any trick to maintain his hold on power. This includes hiring assassins through third parties to take care of potential troublemakers. This strategy keeps all the city's factions at each other's throats and out of Horgar's way.
 

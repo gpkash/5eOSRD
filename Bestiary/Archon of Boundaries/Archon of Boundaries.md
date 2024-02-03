@@ -1,7 +1,7 @@
 ### Archon of Boundaries
 _Huge celestial, lawful good_
 
-![[Archon of Boundaries.webp]]
+![[Archon of Boundaries.jpg]]
 
 The archons of Eldraine are enigmatic beings who fly over the perimeter where the realm meets the wilds, marking the boundary between safety (for the people of the realm) and danger. The sight of an archon overhead is a clear signal that one is entering the wilds.
 

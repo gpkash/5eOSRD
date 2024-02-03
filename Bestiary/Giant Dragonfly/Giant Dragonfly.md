@@ -1,7 +1,7 @@
 ### Giant Dragonfly
 _Large beast, unaligned_
 
-![[Giant Dragonfly.webp]]
+![[Giant Dragonfly.jpg]]
 
 A giant dragonfly has a 20-foot wingspan. It drones loudly as it hovers and darts through the air, searching for smaller insects to consume.
 

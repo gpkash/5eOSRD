@@ -1,7 +1,7 @@
 ### Darien
 _Large giant (ogre), chaotic evil_
 
-![[Darien.webp]]
+![[Darien.jpg]]
 
 Typically appearing as a beautiful, young elven woman clad in golden jewelry, Darien is usually accompanied by several scantily clad and equally beautiful "bodyguards", all of whom seem to be comfortable in any climate, no matter how cold. However, in reality Darien is a powerful half-ogre illusionist and the golden jewelry aren't simply valuable trinkets, but the soul circlets of skeleton warriors—the magically disguised bodyguards that accompany her. Worst of all, Darien is driven by a disturbing obsession for those who call themselves adventurers.
 

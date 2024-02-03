@@ -1,7 +1,7 @@
 ### Iriad
 _Medium humanoid (elf), chaotic good_
 
-![[Iriad.webp]]
+![[Iriad.jpg]]
 
 [[Iriad|DSotDQ]] is a Kagonesti elf from the lush woodlands of Southern Ergoth, where she learned to move undetected across the terrain. When Silvanesti elves began arriving at Southern Ergoth as refugees, she decided to lend her skills in the fight against the Dragon Armies before they can invade her homeland. She is a talented spy and scout who isn't afraid to bring her blades to bear if the situation demands it.
 

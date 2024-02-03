@@ -1,7 +1,7 @@
 ### Horned Devil
 _Large fiend (devil), lawful evil_
 
-![[Horned Devil.webp]]
+![[Horned Devil.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Vargouille
 _Tiny fiend, chaotic evil_
 
-![[Vargouille.webp]]
+![[Vargouille.jpg]]
 
 Shrieking, flapping, and hideous to behold—with a body like a severed head and wings in place of ears—vargouilles boil out of the Abyss to infest other planes of existence, such as Carceri, where they are a menace. Each vargouille carries a disease that creates more of its kind; a flock of vargouilles on the wing is a plague of chaos and evil.
 

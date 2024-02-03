@@ -1,7 +1,7 @@
 ### Ziraj the Hunter
 _Medium humanoid (half-orc), lawful evil_
 
-![[Ziraj the Hunter.webp]]
+![[Ziraj the Hunter.jpg]]
 
 Ziraj is a half-orc hunter who wields an oversized bow that shoots correspondingly large arrows. He is the Master of Assassination for the Black Network. If Ziraj sets out to kill someone, it's because one of his friends (Davil, Istrid, Skeemo, or Tashlyn) asked him to. The characters might become Ziraj's prey, or Ziraj might come to their aid to eliminate a common enemy. He's the strong, silent type.
 

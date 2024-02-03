@@ -1,7 +1,7 @@
 ### Xardorok Sunblight
 _Medium humanoid (dwarf), lawful evil_
 
-![[Xardorok Sunblight.webp]]
+![[Xardorok Sunblight.jpg]]
 
 Xardorok Sunblight leads the Sunblight clan of duergar which, until recently, dwelled in the subterranean depths beneath the Spine of the World. In the guise of Deep Duerra, the duergar god of conquest, the archdevil Asmodeus visited Xardorok and urged him to conquer Icewind Dale, beginning with Ten-Towns.
 

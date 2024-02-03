@@ -1,7 +1,7 @@
 ### Flying Sword
 _Small construct, unaligned_
 
-![[Flying Sword.webp]]
+![[Flying Sword.jpg]]
 
 
 

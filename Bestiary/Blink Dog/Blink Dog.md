@@ -1,7 +1,7 @@
 ### Blink Dog
 _Medium fey, lawful good_
 
-![[Blink Dog.webp]]
+![[Blink Dog.jpg]]
 
 A blink dog takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long-standing hatred for displacer beasts and attack them on sight.
 

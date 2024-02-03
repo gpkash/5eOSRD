@@ -1,7 +1,7 @@
 ### River Serpent
 _Huge beast, unaligned_
 
-![[River Serpent.webp]]
+![[River Serpent.jpg]]
 
 The Luxa river is an abundant source of life, fertilizing the lush valley around Naktamun and providing water to humanoids and animals alike. It is also a vibrant habitat for countless creatures, including many species of birds, fish, and frogs. [[crocodile||Crocodiles]] and [[hippopotamus|PSA|hippopotamuses]] can be a danger to boats and barges, but perhaps the most feared denizens of the river are the [[giant river serpent|PSA|giant serpents]] known to lurk near its bottom. When roused to anger, they can sink fishing boats by the dozens and flood the shore.
 

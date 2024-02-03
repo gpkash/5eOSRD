@@ -1,7 +1,7 @@
 ### Clockwork Iron Cobra
 _Medium construct, unaligned_
 
-![[Clockwork Iron Cobra.webp]]
+![[Clockwork Iron Cobra.jpg]]
 
 
 

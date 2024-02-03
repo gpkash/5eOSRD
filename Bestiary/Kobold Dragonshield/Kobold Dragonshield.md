@@ -1,7 +1,7 @@
 ### Kobold Dragonshield
 _Small humanoid (kobold), lawful evil_
 
-![[Kobold Dragonshield.webp]]
+![[Kobold Dragonshield.jpg]]
 
 > _Believe it or not, I like kobolds. I find their oscillation between bravery an cowardice endlessly entertaining. In fact,I'd say kobolds are proof of the universe's most fundamental lesson: there is always something bigger than you.
 _

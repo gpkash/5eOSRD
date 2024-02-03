@@ -1,7 +1,7 @@
 ### Assassin Vine
 _Large plant, unaligned_
 
-![[Assassin Vine.webp]]
+![[Assassin Vine.jpg]]
 
 An assassin vine is an ambulatory plant that collects its fertilizer by grabbing and crushing prey and depositing the carcasses near its roots. It usually stays put unless it needs to seek out prey. A mature plant consists of a main vine, about 20 feet long. Smaller vines up to 5 feet long branch from the main vine every 6 inches. In late summer, the secondary vines produce bunches of small fruits that resemble wild grapes. The fruit is tough and has a hearty but bitter flavor.
 

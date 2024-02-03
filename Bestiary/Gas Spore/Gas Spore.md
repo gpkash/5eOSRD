@@ -1,7 +1,7 @@
 ### Gas Spore
 _Large plant, unaligned_
 
-![[Gas Spore.webp]]
+![[Gas Spore.jpg]]
 
 
 

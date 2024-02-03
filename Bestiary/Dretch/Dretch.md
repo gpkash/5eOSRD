@@ -1,7 +1,7 @@
 ### Dretch
 _Small fiend (demon), chaotic evil_
 
-![[Dretch.webp]]
+![[Dretch.jpg]]
 
 
 

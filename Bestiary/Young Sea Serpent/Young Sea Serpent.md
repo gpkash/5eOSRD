@@ -1,7 +1,7 @@
 ### Young Sea Serpent
 _Huge dragon, neutral_
 
-![[Young Sea Serpent.webp]]
+![[Young Sea Serpent.jpg]]
 
 Sea serpents rank alongside dragon turtles as some of the most feared predators of the deep and inspire many sailors' worst nightmares. Their strong fins propel them through the water at great speed.
 

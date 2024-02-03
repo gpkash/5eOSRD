@@ -1,7 +1,7 @@
 ### Efreeti
 _Large elemental, lawful evil_
 
-![[Efreeti.webp]]
+![[Efreeti.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Evoker Wizard
 _Medium humanoid, any alignment_
 
-![[Evoker Wizard.webp]]
+![[Evoker Wizard.jpg]]
 
 
 

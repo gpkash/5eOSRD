@@ -1,7 +1,7 @@
 ### Arcturia
 _Medium undead, lawful chaotic evil_
 
-![[Arcturia.webp]]
+![[Arcturia.jpg]]
 
 Unable to abide normalcy and consistency, Arcturia fixates on transforming herself, her surroundings, and other creatures. Her moods are ever-changing as well.
 

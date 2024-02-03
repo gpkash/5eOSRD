@@ -1,7 +1,7 @@
 ### Solar Bastion Knight
 _Medium humanoid (paladin), neutral good_
 
-![[Solar Bastion Knight.webp]]
+![[Solar Bastion Knight.jpg]]
 
 Knights of the Solar Bastion are battle-hardened veterans who operate independently across the multiverse. When word reaches the organization that a Deck of Many Things has appeared, the nearest knight investigates, but every knight has the magical means to contact the Solar Bastion's headquarters and request help. Even so, it's rare for knights to work together outside their headquarters.
 

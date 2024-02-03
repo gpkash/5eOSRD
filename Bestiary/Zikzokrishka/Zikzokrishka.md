@@ -1,7 +1,7 @@
 ### Zikzokrishka
 _Huge undead, lawful evil_
 
-![[Zikzokrishka.webp]]
+![[Zikzokrishka.jpg]]
 
 **Zikzokrishka's Phylactery** Zikzokrishka hid her phylactery deep within the Scimitar Spires, a mountain range to the east of the necropolis of Azumar. If the characters defeat her, Zikzokrishka uses her phylactery to rematerialize, having long ago prepared a dragon's corpse to house her spirit upon its return to the phylactery.
 

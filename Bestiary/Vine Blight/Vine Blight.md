@@ -1,7 +1,7 @@
 ### Vine Blight
 _Medium plant, neutral evil_
 
-![[Vine Blight.webp]]
+![[Vine Blight.jpg]]
 
 
 

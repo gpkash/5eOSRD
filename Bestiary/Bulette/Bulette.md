@@ -1,7 +1,7 @@
 ### Bulette
 _Large monstrosity, unaligned_
 
-![[Bulette.webp]]
+![[Bulette.jpg]]
 
 A bulette is a massive predator that terrorizes any lands it inhabits. Also called a "land shark," it lives only to feed. Irascible and rapacious, bulettes fear no other creature, and they attack with no regard for superior numbers or strength.
 

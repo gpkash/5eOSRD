@@ -1,7 +1,7 @@
 ### Levna Drakehorn
 _Medium humanoid (human), lawful good_
 
-![[Levna Drakehorn.webp]]
+![[Levna Drakehorn.jpg]]
 
 Though a recent inductee into the Order of the Rose, [[Levna Drakehorn|DSotDQ|Levna]] is a confident, experienced Solamnic knight. She is brave, decisive, and deadly with her two-handed sword. After a chance encounter with agents of the Blue Dragon Army, Levna was left with a distinctive, branching scar. She claims it came from the breath of a blue dragon, but few of her fellow Knights of Solamnia believe her.
 

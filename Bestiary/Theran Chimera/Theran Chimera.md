@@ -1,7 +1,7 @@
 ### Theran Chimera
 _Large monstrosity, unaligned_
 
-![[Theran Chimera.webp]]
+![[Theran Chimera.jpg]]
 
 The term chimera applies to a wide variety of disparate monsters that combine the features of multiple beasts. While many artistic depictions represent chimeras as an amalgam of lion, ram, and dragon, these beasts appear with nearly endless variations.
 

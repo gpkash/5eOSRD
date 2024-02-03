@@ -1,7 +1,7 @@
 ### Asmodeus
 _Large fiend (devil), lawful evil_
 
-![[Asmodeus.webp]]
+![[Asmodeus.jpg]]
 
 > _You mortals should take pride in how you can make a hell out of any heaven.
 _

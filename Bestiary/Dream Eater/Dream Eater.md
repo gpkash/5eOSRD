@@ -1,7 +1,7 @@
 ### Dream Eater
 _Medium aberration, chaotic evil_
 
-![[Dream Eater.webp]]
+![[Dream Eater.jpg]]
 
 Originating from the dream-warped elven realm of Silvanesti, dream eaters are violent manifestations of nightmares and subconscious terrors. The true appearance of a dream eater is obscured, as the dream eater twists its hazy form into surreal illusions of its foes' greatest fears. However, all dream eaters share one thing: a gaping, always-smiling mouth, which it reveals before engulfing its prey in a phantasmagorical nightmare.
 

@@ -1,7 +1,7 @@
 ### Archduke Zariel of Avernus
 _Large fiend (devil), lawful evil_
 
-![[Archduke Zariel of Avernus.webp]]
+![[Archduke Zariel of Avernus.jpg]]
 
 Once a mighty angel charged with watching the tides of the Blood War, Zariel succumbed to the corrupting influence of the Nine Hells and fell from grace. Asmodeus admired Zariel's passion for war and offered her rulership of Avernus. She accepted his offer and was transformed by Asmodeus into an archdevil.
 

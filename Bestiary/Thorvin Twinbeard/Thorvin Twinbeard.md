@@ -1,7 +1,7 @@
 ### Thorvin Twinbeard
 _Medium humanoid (dwarf), lawful neutral_
 
-![[Thorvin Twinbeard.webp]]
+![[Thorvin Twinbeard.jpg]]
 
 Thorvin serves as Xanathar's chief engineer and trapsmith. He also serves the Harpers as a paid informant, keeping that faction apprised of Xanathar's plans as well as he can. Thorvin uses the ruse of maintenance inspections to cover up secret meetings he holds with Harper spies in Skullport and elsewhere.
 

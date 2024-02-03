@@ -1,7 +1,7 @@
 ### Spined Devil
 _Small fiend (devil), lawful evil_
 
-![[Spined Devil.webp]]
+![[Spined Devil.jpg]]
 
 
 

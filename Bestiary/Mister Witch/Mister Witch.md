@@ -1,7 +1,7 @@
 ### Mister Witch
 _Medium humanoid (elf, shadar-kai), chaotic good_
 
-![[Mister Witch.webp]]
+![[Mister Witch.jpg]]
 
 Witch, who used to go by the name Naeryx Krumple, spent his youth as a homeless orphan, eking out a meager and dreary existence on the fog-shrouded streets of Gloomwrought, a city in the Shadowfell. He earned a few coppers selling broadsheets as a young boy, then later swept floors until an old clock tower keeper took him on as a helper. The tower's clock was in such poor condition that it would break down often. Naeryx helped with the repairs and found that the work gave him a sliver of joy. When the old keeper died years later, Naeryx replaced him.
 

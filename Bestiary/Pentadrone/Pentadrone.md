@@ -1,7 +1,7 @@
 ### Pentadrone
 _Large construct, lawful neutral_
 
-![[Pentadrone.webp]]
+![[Pentadrone.jpg]]
 
 
 

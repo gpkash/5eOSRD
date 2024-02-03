@@ -1,7 +1,7 @@
 ### Living Bigby's Hand
 _Large construct, unaligned_
 
-![[Living Bigbys Hand.webp]]
+![[Living Bigbys Hand.jpg]]
 
 A living Bigby's hand is a Large, hovering hand of shimmering, translucent force. It often serves as a guardian, attacking creatures that cross its path while remaining loyal to its caster.
 

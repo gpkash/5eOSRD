@@ -1,7 +1,7 @@
 ### Griffin (Type 1)
 _Large monstrosity, unaligned_
 
-![[Griffin.webp]]
+![[Griffin.jpg]]
 
 Less intelligent and less magical than [[felidar|PSZ|felidars]], griffins share those great cats' noble nature and alignment with the principles of white mana. Larger griffin species are about the size of horses and can be ridden. Indeed, such griffins are often the only reliable means of reaching certain remote locations, particularly in Akoum. Smaller griffins range from the size of donkeys to large dogs, and are trained to carry messages or supplies without a rider.
 

@@ -1,7 +1,7 @@
 ### Noska Ur'gray
 _Medium humanoid (dwarf), lawful evil_
 
-![[Noska Ur'gray.webp]]
+![[Noska Ur'gray.jpg]]
 
 Noska is a ruthless enforcer in the Xanathar Guild. A green slime in Undermountain dissolved his left hand and forearm, and the lost appendage has been replaced with a heavy crossbow that attaches to the stump.
 

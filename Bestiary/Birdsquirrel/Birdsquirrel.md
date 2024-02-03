@@ -1,7 +1,7 @@
 ### Birdsquirrel
 _Tiny beast, unaligned_
 
-![[Birdsquirrel.webp]]
+![[Birdsquirrel.jpg]]
 
 Birdsquirrel is a plucky, little critter who loves Muk with all its heart. Some say that Birdsquirrel was created by Doonwaggle the wizard, and that it is the only birdsquirrel in the Dankwood (and maybe the whole world) but who knows?
 

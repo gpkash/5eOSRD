@@ -1,7 +1,7 @@
 ### Gomazoa
 _Large monstrosity, neutral evil_
 
-![[Gomazoa.webp]]
+![[Gomazoa.jpg]]
 
 Zendikar's seas and skies tend to blur together, and creatures typically found in the sea often find their way to the clouds, gliding through the plane's gravitational currents by consuming the mana infused in the wind. The windrider eels hunted by the kor and the cloud mantas sometimes ridden by Emeria-creed merfolk are two examples. The gomazoas found in Murasa and the Makindi Trenches are another.
 

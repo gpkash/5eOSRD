@@ -1,7 +1,7 @@
 ### Red Ruin
 _Medium humanoid, lawful evil_
 
-![[Red Ruin.webp]]
+![[Red Ruin.jpg]]
 
 Known for her incredible awareness and reflexes, the dragonnel-flying ace Red Ruin leads the Red Dragon Army's airborne forces. Her actual name is unknown, leading her allies to refer to her merely as "commander" or "Red Ruin"—a sobriquet earned after razing numerous targets from the air. She rarely removes her distinctive dragonnel-shaped helmet, leading to speculation about her actual identity. She also speaks little, relying on sharp hand gestures to direct dragonnel-riders in flight.
 

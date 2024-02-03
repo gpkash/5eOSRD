@@ -1,7 +1,7 @@
 ### Yuan-ti Broodguard
 _Medium humanoid (yuan-ti), neutral evil_
 
-![[Yuan-ti Broodguard.webp]]
+![[Yuan-ti Broodguard.jpg]]
 
 > _Tasha once likened histachii to the bees that tend to larvae in beehives. It is a fanciful view of a horrific process.
 _

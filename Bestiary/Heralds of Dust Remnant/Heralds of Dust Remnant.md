@@ -1,7 +1,7 @@
 ### Heralds of Dust Remnant
 _Small, Medium humanoid, any alignment_
 
-![[Heralds of Dust Remnant.webp]]
+![[Heralds of Dust Remnant.jpg]]
 
 Remnants are Dusters who sought undeath via rituals but failed. Liaisons and spies, these agents exist in a halfway point between life and death.
 

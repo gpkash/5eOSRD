@@ -1,7 +1,7 @@
 ### Pixie
 _Tiny fey, neutral good_
 
-![[Pixie.webp]]
+![[Pixie.jpg]]
 
 Standing barely a foot tall, pixies resemble diminutive elves with gossamer wings like those of dragonflies or butterflies, bright as the clear dawn and as luminous as the full moonrise.
 

@@ -1,7 +1,7 @@
 ### Doomwake Giant
 _Huge giant, lawful evil_
 
-![[Doomwake Giant.webp]]
+![[Doomwake Giant.jpg]]
 
 Belief is a powerful force in Theros, capable of bringing about wonders and changing the world—but not always for the better. Doomwake giants arise from pernicious fears that infect a whole city or region. If enough mortals dread destruction for long enough, their terror can manifest as one of these massive Nyxborn beings. Once unleashed, a doomwake giant goes on a rampage, fulfilling the prophecy mortals believed into being. After doing so, these terrors typically roam to the edges of the world, where they either fade away over time or become legends that take on their own terrible life.
 

@@ -1,7 +1,7 @@
 ### Viari
 _Medium humanoid (human), chaotic good_
 
-![[Viari.webp]]
+![[Viari.jpg]]
 
 I know a story about that...
 

@@ -1,7 +1,7 @@
 ### Quasit
 _Tiny fiend (demon), chaotic evil_
 
-![[Quasit.webp]]
+![[Quasit.jpg]]
 
 
 

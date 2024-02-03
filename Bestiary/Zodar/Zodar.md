@@ -1,7 +1,7 @@
 ### Zodar
 _Medium aberration, neutral_
 
-![[Zodar.webp]]
+![[Zodar.jpg]]
 
 A zodar is a bipedal entity whose body is encased in an obsidian exoskeleton. It has no facial features aside from two narrow, vertical slits that resemble eyes, and its countenance betrays no hint of pain or emotion. Underneath its armored exterior, a zodar's body is composed of tightly knit muscle fibers that make it incredibly strong and heavy. A zodar weighs 1,500 pounds.
 

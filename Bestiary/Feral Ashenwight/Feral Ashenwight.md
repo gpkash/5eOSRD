@@ -1,7 +1,7 @@
 ### Feral Ashenwight
 _Medium undead, neutral evil_
 
-![[Feral Ashenwight.webp]]
+![[Feral Ashenwight.jpg]]
 
 
 

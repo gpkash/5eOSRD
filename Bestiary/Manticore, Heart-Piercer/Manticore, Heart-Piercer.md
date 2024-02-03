@@ -1,7 +1,7 @@
 ### Manticore, Heart-Piercer
 _Large monstrosity, chaotic evil_
 
-![[Manticore, Heart-Piercer.webp]]
+![[Manticore, Heart-Piercer.jpg]]
 
 
 

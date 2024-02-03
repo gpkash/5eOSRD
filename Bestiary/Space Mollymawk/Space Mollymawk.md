@@ -1,7 +1,7 @@
 ### Space Mollymawk
 _Small beast, unaligned_
 
-![[Space Mollymawk.webp]]
+![[Space Mollymawk.jpg]]
 
 Space mollymawks are as common in Wildspace as albatrosses are on the Material Plane. They perch on the hulls of spelljamming ships and move from one ship's air envelope to another's when they need to.
 

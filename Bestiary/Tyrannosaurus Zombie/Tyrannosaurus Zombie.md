@@ -1,7 +1,7 @@
 ### Tyrannosaurus Zombie
 _Huge undead, unaligned_
 
-![[Tyrannosaurus Zombie.webp]]
+![[Tyrannosaurus Zombie.jpg]]
 
 Several new zombie variants are presented below. For more information on zombies, see the Monster Manual.
 

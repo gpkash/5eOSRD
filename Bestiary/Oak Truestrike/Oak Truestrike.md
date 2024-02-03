@@ -1,7 +1,7 @@
 ### Oak Truestrike
 _Medium humanoid (elf), neutral good, neutral evil_
 
-![[The B Team.webp]]
+![[The B Team.jpg]]
 
 Oak Truestrike is the "B" Team's decisionist-and, depending on who you talk to, a reincarnated demigod. (It's a long story.) Those who know him acknowledge his confidence, his arrogance, and his odd ability to engage with others by somehow saying exactly what each listener wants to hear. Whether this is some subtle magical ability or simply grifter's charm, he makes good use of it either way.
 

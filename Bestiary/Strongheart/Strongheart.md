@@ -1,7 +1,7 @@
 ### Strongheart
 _Medium humanoid (human, paladin), lawful good_
 
-![[Strongheart.webp]]
+![[Strongheart.jpg]]
 
 Strongheart is a fearless seeker of justice, risking his life to ensure that good triumphs over evil. He is thoughtful, kind, and seldom rash, yet never hesitant to punish those who spit in the face of law and order.
 

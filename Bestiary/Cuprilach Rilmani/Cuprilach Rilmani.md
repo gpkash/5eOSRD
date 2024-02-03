@@ -1,7 +1,7 @@
 ### Cuprilach Rilmani
 _Medium celestial, neutral_
 
-![[Cuprilach Rilmani.webp]]
+![[Cuprilach Rilmani.jpg]]
 
 Cuprilachs infiltrate places of power throughout the multiverse, serving as spies and assassins. They strike surgically, following the orders of aurumachs without question or emotion.
 

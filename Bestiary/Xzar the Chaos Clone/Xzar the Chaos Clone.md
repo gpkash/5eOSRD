@@ -1,7 +1,7 @@
 ### Xzar the Chaos Clone
 _Medium humanoid (human), chaotic evil_
 
-![[Xzar the Chaos Clone.webp]]
+![[Xzar the Chaos Clone.jpg]]
 
 > _I have long wondered what a creature without a soul would be like. It is unfortunate that the first example is also insane.
 _

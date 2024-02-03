@@ -1,7 +1,7 @@
 ### Rak Tulkhesh
 _Huge fiend, neutral evil_
 
-![[Rak Tulkhesh.webp]]
+![[Rak Tulkhesh.jpg]]
 
 
 

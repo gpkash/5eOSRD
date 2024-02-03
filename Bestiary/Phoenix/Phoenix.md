@@ -1,7 +1,7 @@
 ### Phoenix
 _Gargantuan elemental, neutral_
 
-![[Phoenix.webp]]
+![[Phoenix.jpg]]
 
 > _To rise like a phoenix from the ashes–so many use that quaint colloquialism. Little do they know about the true horror of such a rebirth.
 _

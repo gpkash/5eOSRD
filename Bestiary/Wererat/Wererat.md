@@ -1,7 +1,7 @@
 ### Wererat
 _Medium humanoid (human, shapechanger), lawful evil_
 
-![[Wererat.webp]]
+![[Wererat.jpg]]
 
 
 

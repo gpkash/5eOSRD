@@ -1,7 +1,7 @@
 ### Phase Spider
 _Large monstrosity, unaligned_
 
-![[Phase Spider.webp]]
+![[Phase Spider.jpg]]
 
 A phase spider possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the Ethereal Plane before coming back to the Material Plane makes it seem like it can teleport.
 

@@ -1,7 +1,7 @@
 ### Incubus
 _Medium fiend (shapechanger), neutral evil_
 
-![[Incubus.webp]]
+![[Incubus.jpg]]
 
 
 

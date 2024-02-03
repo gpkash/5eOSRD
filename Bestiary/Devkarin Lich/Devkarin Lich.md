@@ -1,7 +1,7 @@
 ### Devkarin Lich
 _Medium undead, neutral evil_
 
-![[Devkarin Lich.webp]]
+![[Devkarin Lich.jpg]]
 
 Powerful spellcasters of the Devkarin elves, steeped in Golgari magic, can transcend death to become liches. For them, life and death don't merely chase each other in an inevitable cycle; the two can intersect, and at that nexus the liches find immense power, which commands the awe, envy, and fear of other Golgari.
 

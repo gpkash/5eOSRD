@@ -1,7 +1,7 @@
 ### Bodak
 _Medium undead, chaotic evil_
 
-![[Bodak.webp]]
+![[Bodak.jpg]]
 
 A bodak is the undying remains of someone who revered Orcus. Devoid of life and soul, it exists only to cause death.
 

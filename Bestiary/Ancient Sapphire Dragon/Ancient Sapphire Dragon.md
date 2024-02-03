@@ -1,7 +1,7 @@
 ### Ancient Sapphire Dragon
 _Gargantuan dragon (gem), lawful neutral_
 
-![[Ancient Sapphire Dragon.webp]]
+![[Ancient Sapphire Dragon.jpg]]
 
 The thunderous clash of conflict is part of the very nature of sapphire dragons. Militant and territorial, they defend their lairs fiercely, ambushing intruders and plotting assaults against their rivals. The sonic pulse of their breath weapon sows weakness, leaving the victims unable to fight back.
 

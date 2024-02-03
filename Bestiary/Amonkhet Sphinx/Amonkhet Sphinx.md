@@ -1,7 +1,7 @@
 ### Amonkhet Sphinx
 _Large monstrosity, lawful neutral_
 
-![[Amonkhet Sphinx.webp]]
+![[Amonkhet Sphinx.jpg]]
 
 Sphinxes are inscrutable beings, and keepers of secrets and mysteries. They have leonine bodies, hawklike wings, and faces resembling humans, framed by great frills or manes of feathers. Their powerful forearms are also feathered, and fans of long feathers form their tails.
 

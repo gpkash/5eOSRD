@@ -1,7 +1,7 @@
 ### Koalinth
 _Medium humanoid (goblinoid), lawful evil_
 
-![[Koalinth.webp]]
+![[Koalinth.jpg]]
 
 The koalinth, found in Danger at Dunwater, are martial and aggressive aquatic hobgoblins, with brightly colored faces and functional gills. They are known for their ferocity, and for their hatred of elves.
 

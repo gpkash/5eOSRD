@@ -1,7 +1,7 @@
 ### Kobold
 _Small humanoid (kobold), lawful evil_
 
-![[Kobold.webp]]
+![[Kobold.jpg]]
 
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
 

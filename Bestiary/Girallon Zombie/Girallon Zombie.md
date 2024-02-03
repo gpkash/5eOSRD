@@ -1,7 +1,7 @@
 ### Girallon Zombie
 _Large undead, chaotic evil_
 
-![[Girallon Zombie.webp]]
+![[Girallon Zombie.jpg]]
 
 Several new zombie variants are presented below. For more information on zombies, see the Monster Manual.
 

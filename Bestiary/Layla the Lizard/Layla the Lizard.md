@@ -1,7 +1,7 @@
 ### Layla the Lizard
 _Medium construct, chaotic evil_
 
-![[021-intro-14.webp]]
+![[021-intro-14.jpg]]
 
 Layla the Lizard has blue overalls, a guitar, and a straw hat.
 

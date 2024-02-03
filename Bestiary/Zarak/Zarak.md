@@ -1,7 +1,7 @@
 ### Zarak
 _Medium humanoid (orc), chaotic evil_
 
-![[Zarak.webp]]
+![[Zarak.jpg]]
 
 Zarak is an assassin without honor or conscience. Unusually short of stature for someone of orcish heritage, he might pass for an ugly, beardless dwarf were it not for his rotting tusks and grayish pallor. The only thing he loves is money, and he wouldn't hesitate to stab allies in the back if they came between him and the riches he covets.
 

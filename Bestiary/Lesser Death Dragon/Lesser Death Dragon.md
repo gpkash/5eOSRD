@@ -1,7 +1,7 @@
 ### Lesser Death Dragon
 _Large undead, chaotic evil_
 
-![[Lesser Death Dragon.webp]]
+![[Lesser Death Dragon.jpg]]
 
 Most death dragons are pale imitations of their former selves. They remember flashes and echoes, and sometimes things or creatures they encounter painfully remind them of what they once had. These fleeting moments of lucidity quickly burn away in rage and anguish, driving the dragons to destroy the would-be memento.
 

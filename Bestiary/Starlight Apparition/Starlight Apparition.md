@@ -1,7 +1,7 @@
 ### Starlight Apparition
 _Medium celestial, neutral good_
 
-![[Starlight Apparition.webp]]
+![[Starlight Apparition.jpg]]
 
 The transparent projections of unfortunate souls who perished in Wildspace or in the Astral Sea are known as starlight apparitions. Each one has a luminous, incorporeal appearance that resembles its former self, but with eyes that glow.
 

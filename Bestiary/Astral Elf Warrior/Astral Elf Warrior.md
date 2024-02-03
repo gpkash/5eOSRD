@@ -1,7 +1,7 @@
 ### Astral Elf Warrior
 _Medium humanoid, any alignment_
 
-![[Astral Elf Warrior.webp]]
+![[Astral Elf Warrior.jpg]]
 
 Astral elf warriors operate elven spelljamming ships and defend elven strongholds throughout the Astral Plane.
 

@@ -1,7 +1,7 @@
 ### Death Slaad
 _Medium aberration (shapechanger), chaotic evil_
 
-![[Death Slaad.webp]]
+![[Death Slaad.jpg]]
 
 
 

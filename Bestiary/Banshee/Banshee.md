@@ -1,7 +1,7 @@
 ### Banshee
 _Medium undead, chaotic evil_
 
-![[Banshee.webp]]
+![[Banshee.jpg]]
 
 When night falls, unlucky travelers hear the faint cries of the forlorn dead. This woeful spirit is a banshee, a spiteful creature formed from the spirit of a female elf. Banshees appear as luminous, wispy forms that vaguely recall their mortal features. A banshee's face is wreathed in a wild tangle of hair, its body clad in wispy rags that flutter and stream around it.
 

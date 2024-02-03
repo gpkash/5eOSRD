@@ -1,7 +1,7 @@
 ### Hierophant of the Comet
 _Medium humanoid (warlock), chaotic evil_
 
-![[Hierophant of the Comet.webp]]
+![[Hierophant of the Comet.jpg]]
 
 The number of hierophants is fixed at twenty-two on any one world, one for each card in a Deck of Many Things. As a group, hierophants are sometimes called Sages, but each hierophant is also identified with a particular card. When a hierophant dies, the remaining leaders choose an initiate to fill the position, preferring initiates from the oldest broods.
 

@@ -1,7 +1,7 @@
 ### Ice Mephit
 _Small elemental, neutral evil_
 
-![[Ice Mephit.webp]]
+![[Ice Mephit.jpg]]
 
 
 

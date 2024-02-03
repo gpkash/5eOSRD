@@ -1,7 +1,7 @@
 ### Silverquill Pledgemage
 _Small, Medium humanoid (bard), any alignment_
 
-![[Silverquill Pledgemage.webp]]
+![[Silverquill Pledgemage.jpg]]
 
 Stylish and driven, the students of Silverquill College—first as apprentices and then as pledgemages—cut imposing figures on campus. Dressed in smartly trimmed black-and-white uniforms, these budding mages practice bolstering speeches and wield inky blades.
 

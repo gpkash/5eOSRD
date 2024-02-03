@@ -1,7 +1,7 @@
 ### Guardian Portrait
 _Medium construct, unaligned_
 
-![[Guardian Portrait.webp]]
+![[Guardian Portrait.jpg]]
 
 A guardian portrait looks like a finely rendered and beautifully framed work of art, usually depicting someone important in a realistic manner. The picture and its frame are bound with powerful magic and are inseparable.
 

@@ -1,7 +1,7 @@
 ### Runara
 _Huge dragon, lawful good_
 
-![[Runara.webp]]
+![[Runara.jpg]]
 
 Despite her innocuous disguise and her commitment to peace, the leader of Dragon's Rest is an adult bronze dragon—a fearsome opponent or a powerful ally. Her capabilities go beyond what is presented here.
 

@@ -1,7 +1,7 @@
 ### Darathra Shendrel
 _Medium humanoid (Chondathan human), lawful good_
 
-![[Darathra Shendrel.webp]]
+![[Darathra Shendrel.jpg]]
 
 As the Lord Protector of Triboar and a secret agent of the Harpers, Darathra has sworn an oath to defend the town. She takes her duty very seriously. In addition to her gear, Darathra has an unarmored warhorse named Buster.
 

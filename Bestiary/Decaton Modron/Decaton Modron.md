@@ -1,7 +1,7 @@
 ### Decaton Modron
 _Large construct, lawful neutral_
 
-![[Decaton Modron.webp]]
+![[Decaton Modron.jpg]]
 
 The least of the hierarchs, decatons monitor the physical well-being of base modrons. Two stubby legs support their spherical bodies, and ten mechanical tentacles sprout out from their rounded frames in all directions. Their heads contain ten eyes to readily observe the operations of surrounding base modrons. In emergencies, a decaton can discharge a bolt of electricity from each of its ten eyes, synchronizing them to deadly effect.
 

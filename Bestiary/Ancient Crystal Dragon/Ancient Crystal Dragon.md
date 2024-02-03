@@ -1,7 +1,7 @@
 ### Ancient Crystal Dragon
 _Gargantuan dragon (gem), chaotic neutral_
 
-![[Ancient Crystal Dragon.webp]]
+![[Ancient Crystal Dragon.jpg]]
 
 Shimmering with radiant energy and brimming with life, crystal dragons enjoy an innate psionic connection to the Positive Plane that suffuses their bodies as well as their personalities with light. Though they prefer to live in desolate, frigid regions, many of them are among the friendliest of dragonkind, nurturing and optimistic.
 

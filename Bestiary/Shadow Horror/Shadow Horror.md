@@ -1,7 +1,7 @@
 ### Shadow Horror
 _Large aberration, neutral evil_
 
-![[Shadow Horror.webp]]
+![[Shadow Horror.jpg]]
 
 **Horrors and Madness** Horrors on Ravnica are terror and madness personified. You can represent this reality by using the madness rules in the Dungeon Master's Guide.
 

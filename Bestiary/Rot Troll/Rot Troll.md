@@ -1,7 +1,7 @@
 ### Rot Troll
 _Large giant, chaotic evil_
 
-![[Rot Troll.webp]]
+![[Rot Troll.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Ayo Jabe (Tier 1)
 _Medium humanoid, chaotic good_
 
-![[Ayo Jabe (Tier 1).webp]]
+![[Ayo Jabe (Tier 1).jpg]]
 
 As the de facto leader of a new, unnamed adventuring party, Ayo Jabe has a lot of responsibility on her shoulders. She and her companions have worked odd jobs around the town of Jigow for a few weeks now, and she's starting to feel confident that they're ready for real adventure.
 

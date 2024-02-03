@@ -1,7 +1,7 @@
 ### Deep Rothé
 _Medium beast, unaligned_
 
-![[Deep Rothe.webp]]
+![[Deep Rothe.jpg]]
 
 
 

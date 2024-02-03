@@ -1,7 +1,7 @@
 ### Zythan
 _Medium humanoid, lawful neutral_
 
-![[Zythan.webp]]
+![[Zythan.jpg]]
 
 Zythan, like many other Halruaans, spent his early years studying the arcane arts. His talent in Divination magic made him particularly useful to the Conclave, and they quickly sought him out. Under their tutelage, his skill flourished, and he became a powerful mage. Those that know him personally recount his matter-of-fact personality, his green hair, and his third eye that seems to open when he performs magic. He rarely speaks of himself, however, choosing instead to focus his attention on the future.
 

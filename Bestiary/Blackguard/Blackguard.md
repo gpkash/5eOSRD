@@ -1,7 +1,7 @@
 ### Blackguard
 _Medium humanoid (any race), any non-good alignment_
 
-![[Blackguard.webp]]
+![[Blackguard.jpg]]
 
 Blackguards are paladins who broke their sacred oaths and now indulge their own villainous ambitions. They consort with Fiends and Undead, and they reject many of the goodly things from their former lives.
 

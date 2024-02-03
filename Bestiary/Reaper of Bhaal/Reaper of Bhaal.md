@@ -1,7 +1,7 @@
 ### Reaper of Bhaal
 _Medium humanoid (human), chaotic evil_
 
-![[Reaper of Bhaal.webp]]
+![[Reaper of Bhaal.jpg]]
 
 Bhaal's cultists emulate their deity, carrying out gruesome murders to spread fear and horror. They are charming and disarming when they wish, but in combat their true, bloodthirsty nature comes to the fore.
 

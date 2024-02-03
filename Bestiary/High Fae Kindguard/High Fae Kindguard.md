@@ -1,7 +1,7 @@
 ### High Fae Kindguard
 _Medium fey, any alignment_
 
-![[High Fae Kindguard.webp]]
+![[High Fae Kindguard.jpg]]
 
 
 

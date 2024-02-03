@@ -1,7 +1,7 @@
 ### Chuul
 _Large aberration, chaotic evil_
 
-![[Chuul.webp]]
+![[Chuul.jpg]]
 
 Survivors of the ancient aboleth empire, chuuls are crustaceans the aboleths modified and endowed with sentience. They follow the ingrained directives of their creators, as they have done since the dawn of time.
 

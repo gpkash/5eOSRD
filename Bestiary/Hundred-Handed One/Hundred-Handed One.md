@@ -1,7 +1,7 @@
 ### Hundred-Handed One
 _Huge giant, lawful neutral_
 
-![[Hundred-Handed One.webp]]
+![[Hundred-Handed One.jpg]]
 
 Extra pairs of arms magically orbit the bodies of the titanic, nearly forgotten artisans known as hundred-handed ones. These giants often dwell in remote mountains and seaside cliffs, where they carve their memories into the ancient stone, covering their territories with intricate reliefs and massive statues of bygone ages. Some linger near ancient temples and palaces, ruins they once raised to the gods or archons of old.
 

@@ -1,7 +1,7 @@
 ### Banrion
 _Large celestial, lawful good_
 
-![[Banrion.webp]]
+![[Banrion.jpg]]
 
 Unrelated to the horses it resembles, a unicorn is a celestial creature that wanders sylvan realms, its white form glimmering like starlight. They allow good-hearted creatures to enter their woods to hunt or gather food, but they hold evil ever at bay.
 

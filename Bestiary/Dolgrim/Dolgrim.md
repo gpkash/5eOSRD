@@ -1,7 +1,7 @@
 ### Dolgrim
 _Small aberration, chaotic evil_
 
-![[Dolgrim.webp]]
+![[Dolgrim.jpg]]
 
 Dolgrims are squat, deformed things. Warped by the daelkyr, a dolgrim is essentially two goblins crushed into one creature, their misshapen body boasting four arms and a pair of twisted mouths that gibber and slather at the front of a headless torso. The two mouths of a dolgrim sometimes carry on demented conversations with one another. However, a dolgrim has only a single personality—sadistic, bloodthirsty, and brutally dedicated to serving itself.
 

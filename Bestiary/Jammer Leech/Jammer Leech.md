@@ -1,7 +1,7 @@
 ### Jammer Leech
 _Tiny plant, unaligned_
 
-![[Jammer Leech.webp]]
+![[Jammer Leech.jpg]]
 
 A jammer leech is a barnacle-like creature that begins life as a space-dwelling spore that attaches to the hull of a spelljamming ship, with the leech inside in larval form. A spore that remains attached to a ship for a few days punctures the hull and begins to develop a hard shell that roughly matches the color of the hull. The shell is affixed to the ship by a glue-like substance secreted by the leech. The shell grows until it's about 1 foot in diameter. The leech inside is reddish-purple in color, with a body resembling that of a snail. It has a single watery eye at one end and a spiked tentacle protruding from just below the eye, which it uses to defend itself.
 

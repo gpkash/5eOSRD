@@ -1,7 +1,7 @@
 ### Red Abishai
 _Medium fiend (devil), lawful evil_
 
-![[Red Abishai.webp]]
+![[Red Abishai.jpg]]
 
 
 

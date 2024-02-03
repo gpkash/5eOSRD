@@ -1,7 +1,7 @@
 ### Chupacabra
 _Medium monstrosity, neutral evil_
 
-![[Chupacabra.webp]]
+![[Chupacabra.jpg]]
 
 
 

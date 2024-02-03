@@ -1,7 +1,7 @@
 ### Doomguard Rot Blade
 _Small, Medium humanoid, any alignment_
 
-![[Doomguard Rot Blade.webp]]
+![[Doomguard Rot Blade.jpg]]
 
 Rot blades are the entropic levers through which the Doomguard quickens the natural decay of the multiverse. These members wield weapons immersed in necrotic energy, which can turn their enemies to ash.
 

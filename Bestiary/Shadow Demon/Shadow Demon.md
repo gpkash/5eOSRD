@@ -1,7 +1,7 @@
 ### Shadow Demon
 _Medium fiend (demon), chaotic evil_
 
-![[Shadow Demon.webp]]
+![[Shadow Demon.jpg]]
 
 
 

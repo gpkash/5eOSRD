@@ -1,7 +1,7 @@
 ### Gray Ooze
 _Medium ooze, unaligned_
 
-![[Gray Ooze.webp]]
+![[Gray Ooze.jpg]]
 
 
 

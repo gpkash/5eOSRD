@@ -1,7 +1,7 @@
 ### Living Portent
 _Small, Medium celestial, lawful neutral_
 
-![[Living Portent.webp]]
+![[Living Portent.jpg]]
 
 Living portents are embodiments of prophecy sent by deities or other cosmic forces. These Celestials descend to Material Plane worlds in the form of falling stars. When the living portents impact the earth, they carve great craters, yet miraculously, none who live in the impact zone are harmed. These beings of light then assume Humanoid forms to blend in with the inhabitants of the world.
 

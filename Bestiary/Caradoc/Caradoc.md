@@ -1,7 +1,7 @@
 ### Caradoc
 _Medium undead, neutral evil_
 
-![[Caradoc.webp]]
+![[Caradoc.jpg]]
 
 Seneschal of Lord Soth and a former Knight of Solamnia, Caradoc burned when Dargaard Keep was consumed in the fires of the Cataclysm. As with many of Soth's retainers, Caradoc was cursed with undeath. Being duplicitous and cowardly at his core, the seneschal didn't return as a skeletal knight but rather as an intangible spirit. Caradoc's Undead form suits him well, allowing him to possess the living and use unwilling tongues to spread his lies. However, Caradoc is tethered to his scorched bones, which collect dust in Dargaard Keep. He can leave the accursed castle while possessing the body of a Humanoid, but he's swiftly pulled back if caught beyond its walls without a host.
 

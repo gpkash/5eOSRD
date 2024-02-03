@@ -1,7 +1,7 @@
 ### Animated Chained Library
 _Large construct, _
 
-![[Animated Chained Library.webp]]
+![[Animated Chained Library.jpg]]
 
 The three shelves are filled with books bound in iron covers, which are attached to chains that secure them to the shelves—a chained library. The reading desk is used to support the chained books while they are being read.
 

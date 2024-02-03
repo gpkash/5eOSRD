@@ -1,7 +1,7 @@
 ### Wolfwere
 _Medium humanoid (beast, shapechanger), chaotic evil_
 
-![[Wolfwere.webp]]
+![[Wolfwere.jpg]]
 
 > _I remember being told that wolfweres were nature's perfect predator. Boo disagreed with this though. There is nothing more fearsome than a pissed off space hamster!
 _

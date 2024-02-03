@@ -1,7 +1,7 @@
 ### Death Kiss
 _Large aberration, neutral evil_
 
-![[Death Kiss.webp]]
+![[Death Kiss.jpg]]
 
 A death kiss is a lesser beholder that can come into being when a true beholder has a vivid nightmare about losing blood. Its coloration and shape resemble those of the beholder that dreamed it into existence, but its hue is more muted, and instead of magical eye rays, it has ten long tentacles, each ending in a mouth full of teeth. It can speak through any of its tentacle-maws in a high-pitched, nasal voice.
 

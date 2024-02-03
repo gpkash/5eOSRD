@@ -1,7 +1,7 @@
 ### Sirene
 _Medium fey, chaotic neutral_
 
-![[Sirene.webp]]
+![[Sirene.jpg]]
 
 > _Sirenes are seen in only a few places in Faerûn. Obviously, the Sword Coast region is one such place. Sirenes have also been sighted in the Sea of Fallen Stars and the Moonsea lake. There are rumors that sirenes can be found at the courts of storm giant lords.
 _

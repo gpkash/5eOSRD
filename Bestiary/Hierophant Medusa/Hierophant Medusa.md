@@ -1,7 +1,7 @@
 ### Hierophant Medusa
 _Large monstrosity, any alignment_
 
-![[Hierophant Medusa.webp]]
+![[Hierophant Medusa.jpg]]
 
 Sometimes deeply devout people, usually either Humanoids or medusas, dedicate themselves to a cause and are transformed by a deity or magic into hierophant medusas—beings with powerful snakelike tails for their lower body, snakes for hair, and a petrifying gaze. The first hierophant medusa was transformed by the power of the Euryale card when that individual was inspired by Euryale's story and unwavering conviction.
 

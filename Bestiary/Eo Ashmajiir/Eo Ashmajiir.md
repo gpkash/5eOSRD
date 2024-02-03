@@ -1,7 +1,7 @@
 ### Eo Ashmajiir
 _Medium humanoid (tiefling), chaotic neutral_
 
-![[Eo Ashmajiir.webp]]
+![[Eo Ashmajiir.jpg]]
 
 Born from the experiments of Belic Haphrat, a Red Wizard from the lands of Thay, Eo is a powerful tiefling sorceress. The offspring of a half-dragon and a succubus, Eo was raised by Belic as his own child, and showed an early affinity for magical gifts. As she grew older, Eo became increasingly useful to the Haphrat's families plans and schemes, eventually becoming a key cog in their complex machinations. Only then did Belic realize his daughter had been carefully manipulating him her entire life, working herself into a position of power and influence in his affairs so she could betray him. By then, however, it was too late, and Eo used her power to take control of Belic's mind, his family, and his wealth before ultimately discarding her adopted father when he ceased to be useful.
 

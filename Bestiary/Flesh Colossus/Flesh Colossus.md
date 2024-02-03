@@ -1,7 +1,7 @@
 ### Flesh Colossus
 _Gargantuan construct, unaligned_
 
-![[Flesh Colossus.webp]]
+![[Flesh Colossus.jpg]]
 
 During the dawn of the giants' empires, twisted minds sought to make their fallen comrades continue their service. Wizard giants stitched and wove the flesh of various giants over an adamantine skeleton, creating a grisly colossal construct. Inside the flesh colossus's chest is a stone sphere infused with spirits from each elemental plane acting as its core.
 

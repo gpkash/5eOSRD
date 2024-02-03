@@ -1,7 +1,7 @@
 ### Gideon Lightward
 _Medium undead, lawful evil_
 
-![[Gideon Lightward.webp]]
+![[Gideon Lightward.jpg]]
 
 Gideon Lightward was a priest of Lathander who served Elturel and his deity proudly. Zariel saw that his fervor could be an asset to her, so she sent devils to corrupt him in the months leading up to the fall of Elturel. The devils posed as angels, offering Gideon increased power if he would dedicate himself to fighting the ever-present threat of demons.
 

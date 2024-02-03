@@ -1,7 +1,7 @@
 ### Howler
 _Large fiend, chaotic evil_
 
-![[Howler.webp]]
+![[Howler.jpg]]
 
 > _Why does the howler sing? Doing so causes its prey to flee, and surely stealth would make for better hunting in howling Pandemonium. There is only one answer: the creature can taste fear.
 _

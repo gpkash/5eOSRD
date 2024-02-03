@@ -1,7 +1,7 @@
 ### Fog Giant
 _Huge giant, neutral evil_
 
-![[Fog Giant.webp]]
+![[Fog Giant.jpg]]
 
 The place of cloud giants in the ordning—the set of values and expectations that determines their rank in giant society—is driven by wealth. Those cloud giants foolish or unlucky enough to have their treasure plundered fall to the bottom of the ordning, becoming outcasts known as fog giants. Cut off from their proper place in society, they become raiders and marauders who seek to reclaim their treasure or start a new hoard—by any means possible.
 

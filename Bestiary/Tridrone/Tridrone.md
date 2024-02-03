@@ -1,7 +1,7 @@
 ### Tridrone
 _Medium construct, lawful neutral_
 
-![[Tridrone.webp]]
+![[Tridrone.jpg]]
 
 
 

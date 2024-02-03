@@ -1,7 +1,7 @@
 ### Kobold Scale Sorcerer
 _Small humanoid (kobold), lawful evil_
 
-![[Kobold Scale Sorcerer.webp]]
+![[Kobold Scale Sorcerer.jpg]]
 
 Kobold scale sorcerers have an innate talent for arcane magic, making them highly valuable members of their communities. These sorcerers typically fill the role of advisor, and when threatened, a scale sorcerer lashes out with colorful magic.
 

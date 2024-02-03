@@ -1,7 +1,7 @@
 ### Coral
 _Large fey, chaotic good_
 
-![[Coral.webp]]
+![[Coral.jpg]]
 
 Coral lives in the ocean and in the clouds. Cookies are her favorite snack. She has the power to bolster other creatures, and she can bestow upon animals the ability to speak for a short time. When she is upset, her rainbow tail lights up. If she smacks her tail on the ground, magical force spreads outward to engulf an enemy, potentially turning it to dust. When Coral has the hiccups, bubbles shoot from her horn. These bubbles transform into tasty cookies, bursts of glitter, and protective clouds of stinky gas.
 

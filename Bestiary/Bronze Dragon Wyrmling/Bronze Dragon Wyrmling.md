@@ -1,7 +1,7 @@
 ### Bronze Dragon Wyrmling
 _Medium dragon, lawful good_
 
-![[Bronze Dragon Wyrmling.webp]]
+![[Bronze Dragon Wyrmling.jpg]]
 
 
 

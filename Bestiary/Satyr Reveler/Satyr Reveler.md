@@ -1,7 +1,7 @@
 ### Satyr Reveler
 _Medium fey, chaotic neutral_
 
-![[Satyr Reveler.webp]]
+![[Satyr Reveler.jpg]]
 
 Pursuing lives of endless reverie, satyr revelers eagerly participate in celebrations wherever they find them. Their boisterous natures go far toward tempting others to eat, drink, and carouse with them. Faced with stodgier individuals or outright rivals, satyr revelers don't balk at using the magic of their music, dance, or other performances to charm opponents into joining their festivities. In the aftermath, these satyrs' foes are more likely to suffer embarrassment and groggy mornings than any lasting harm.
 

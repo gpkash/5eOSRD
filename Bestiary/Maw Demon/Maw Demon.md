@@ -1,7 +1,7 @@
 ### Maw Demon
 _Medium fiend (demon), chaotic evil_
 
-![[Maw Demon.webp]]
+![[Maw Demon.jpg]]
 
 > _I once pulled a whole bottle of fine strawberry liquor from the belly of a maw demon. No clue where it might've devoured such a find, but I'm not complaining.
 _

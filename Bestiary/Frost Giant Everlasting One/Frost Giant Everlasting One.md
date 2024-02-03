@@ -1,7 +1,7 @@
 ### Frost Giant Everlasting One
 _Huge giant (frost giant), chaotic evil_
 
-![[Frost Giant Everlasting One.webp]]
+![[Frost Giant Everlasting One.jpg]]
 
 To hold its place or rise within the ordning, a frost giant must routinely face mighty foes in single combat. Some seek out magic that will aid them, but enchanted objects can be taken or lost. True greatness relies on personal prowess. Faced with this truth, a frost giant might seek a supernatural gift from Vaprak the Destroyer.
 

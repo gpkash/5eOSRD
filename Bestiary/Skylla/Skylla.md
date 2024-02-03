@@ -1,7 +1,7 @@
 ### Skylla
 _Medium humanoid (human, warlock), chaotic evil_
 
-![[Skylla.webp]]
+![[Skylla.jpg]]
 
 Skylla, who sometimes goes by the alias Charmay, forged a warlock's pact with Baba Yaga. It is from this powerful archfey that Skylla draws her magic.
 

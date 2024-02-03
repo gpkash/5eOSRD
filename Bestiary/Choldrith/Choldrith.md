@@ -1,7 +1,7 @@
 ### Choldrith
 _Medium monstrosity, chaotic evil_
 
-![[Choldrith.webp]]
+![[Choldrith.jpg]]
 
 Choldriths are monstrous spiderlike creatures originally created to serve Lolth. They rule colonies of chitines (in this book) and lead them into battle in Lolth's war against her enemies.
 

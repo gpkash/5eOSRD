@@ -1,7 +1,7 @@
 ### Githzerai Uniter
 _Medium aberration (gith), any alignment_
 
-![[Githzerai Uniter.webp]]
+![[Githzerai Uniter.jpg]]
 
 Githzerai uniters espouse wisdom and unity rather than violence. Many uniters are members of the Sha'sal Khou, a group of githyanki and githzerai who band together to reunify the gith people. Capable martial artists, uniters are more inclined to disarm and subdue their opponents than destroy them.
 

@@ -1,7 +1,7 @@
 ### Tromokratis
 _Gargantuan monstrosity (titan), any alignment_
 
-![[Tromokratis.webp]]
+![[Tromokratis.jpg]]
 
 Most krakens roam the seas, shattering hulls and scattering fleets, but the kraken Tromokratis notoriously vents its wrath on coastal settlements. Whether it acts at the command of the god Thassa or to sate its own hunger, Tromokratis numbers among the most feared threats in the sea, having no fixed lair and wandering where it will. In recent memory, the massive menace rose from the waves to topple the Pyrgnos, Meletis's great repository of scholarly knowledge. Since that day, the polis keeps a watch specifically for Tromokratis.
 

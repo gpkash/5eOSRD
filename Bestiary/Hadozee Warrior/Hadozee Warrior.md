@@ -1,7 +1,7 @@
 ### Hadozee Warrior
 _Medium humanoid, any alignment_
 
-![[Hadozee Warrior.webp]]
+![[Hadozee Warrior.jpg]]
 
 Hadozee warriors make their living as mercenaries, sometimes in the company of pirates. Squads of warriors often adopt colorful names, such as the Soaring Hadozees, the Jammin' Wingbats, and the Night Howlers.
 

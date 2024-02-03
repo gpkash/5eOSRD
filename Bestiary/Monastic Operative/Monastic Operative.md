@@ -1,7 +1,7 @@
 ### Monastic Operative
 _Small, Medium humanoid (monk), any alignment_
 
-![[Monastic Operative.webp]]
+![[Monastic Operative.jpg]]
 
 Operatives are agents of organizations that engage in espionage. The best among them are often considered for filling vacancies in higher positions.
 

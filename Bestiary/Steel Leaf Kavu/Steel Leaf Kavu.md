@@ -1,7 +1,7 @@
 ### Steel Leaf Kavu
 _Large beast, unaligned_
 
-![[Steel Leaf Kavu.webp]]
+![[Steel Leaf Kavu.jpg]]
 
 
 

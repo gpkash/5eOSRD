@@ -1,7 +1,7 @@
 ### Alkilith
 _Medium fiend (demon), chaotic evil_
 
-![[Alkilith.webp]]
+![[Alkilith.jpg]]
 
 An alkilith is easily mistaken for some kind of foul fungal growth that appears on doorways, windows, and other portals. These dripping infestations conceal the demonic nature of the alkilith, making what should be a dire warning appear strange but otherwise innocuous. Wherever alkiliths take root, they weaken the fabric of reality, creating a portal through which even nastier demons can invade.
 

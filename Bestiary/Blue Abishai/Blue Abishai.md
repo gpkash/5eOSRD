@@ -1,7 +1,7 @@
 ### Blue Abishai
 _Medium fiend (devil), lawful evil_
 
-![[Blue Abishai.webp]]
+![[Blue Abishai.jpg]]
 
 
 

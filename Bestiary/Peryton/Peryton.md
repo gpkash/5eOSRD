@@ -1,7 +1,7 @@
 ### Peryton
 _Medium monstrosity, chaotic evil_
 
-![[Peryton.webp]]
+![[Peryton.jpg]]
 
 Although this monstrous carnivore feeds on any creature, it prefers humanoids, especially elves, half-elves, and humans. When it kills a humanoid, a peryton rips out its prey's heart and takes it back to its nest to be devoured.
 

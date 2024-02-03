@@ -1,7 +1,7 @@
 ### Sahuagin Warlock of Uk'otoa
 _Medium humanoid (sahuagin), neutral evil_
 
-![[Sahuagin Warlock of Ukotoa.webp]]
+![[Sahuagin Warlock of Ukotoa.jpg]]
 
 The slumbering leviathan Uk'otoa preys on the fears and ambitions of humanoids that brave the depths of the Lucidian Ocean. Countless communities of sahuagin inhabit uncharted pockets of water along the Menagerie Coast, and the most ambitious among them often hear the call of the leviathan in their dreams, urging them to take his power and use it to achieve their bloodsoaked dreams.
 

@@ -1,7 +1,7 @@
 ### Pelyious Avhoste
 _Medium humanoid (human), neutral evil_
 
-![[Pelyious Avhoste.webp]]
+![[Pelyious Avhoste.jpg]]
 
 Pelyious is a Halruaan sky captain who hires out his services to those with a desperate need to get somewhere quickly. His skyship is one of the fastest in all Faerûn, designed by his uncle, Zythan Oolorius Avhoste, the famed Halruaan designer.
 

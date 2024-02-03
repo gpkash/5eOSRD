@@ -1,7 +1,7 @@
 ### Pike Trickfoot
 _Small humanoid (gnome), _
 
-![[PikeFluff.webp]]
+![[PikeFluff.jpg]]
 
 
 

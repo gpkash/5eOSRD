@@ -1,7 +1,7 @@
 ### Tomb Tapper
 _Huge construct, lawful neutral_
 
-![[Tomb Tapper.webp]]
+![[Tomb Tapper.jpg]]
 
 The Netherese arcanists who created these creatures called them "thaluud," which means "faceless." Wrought from the fusion of magic and elemental earth, each of these sexless, hairless warriors stands 15 to 21 feet tall and possesses a lust for magic, an inherited memory (composed of recollections from the souls sacrificed in their creation), and an insane hatred for nonhuman spellcasting creatures. Tomb tappers can dig through earth and rock with their claws or use their metal sledgehammers to shatter rock when needed. They absorb water through their skin and crush rock with their jaws to extract mineral sustenance. They can also digest iron from blood and marrow, if mineral-rich rock is unavailable.
 

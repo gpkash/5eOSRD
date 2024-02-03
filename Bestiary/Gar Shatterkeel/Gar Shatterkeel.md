@@ -1,7 +1,7 @@
 ### Gar Shatterkeel
 _Medium humanoid (human), neutral evil_
 
-![[Gar Shatterkeel.webp]]
+![[Gar Shatterkeel.jpg]]
 
 
 

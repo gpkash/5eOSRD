@@ -1,7 +1,7 @@
 ### Aegisaur
 _Huge beast, unaligned_
 
-![[Aegisaur.webp]]
+![[Aegisaur.jpg]]
 
 
 

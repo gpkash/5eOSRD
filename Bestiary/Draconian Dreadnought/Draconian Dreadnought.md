@@ -1,7 +1,7 @@
 ### Draconian Dreadnought
 _Large monstrosity, any alignment_
 
-![[Draconian Dreadnought.webp]]
+![[Draconian Dreadnought.jpg]]
 
 The largest of the draconians are the dreadnoughts, who are born from the eggs of silver, blue, or sapphire dragons. They fly on mighty wings over the battlefield to wherever the fighting is the thickest. Their magical ability to change their appearance to mimic those they've slain allows them to sow confusion and despair among their enemies. When dreadnoughts are killed, their bodies burst into flames, scorching everything around them.
 

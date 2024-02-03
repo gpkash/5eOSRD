@@ -1,7 +1,7 @@
 ### Oren Yogilvy
 _Small humanoid (Strongheart halfling), chaotic good_
 
-![[Oren Yogilvy.webp]]
+![[Oren Yogilvy.jpg]]
 
 Oren came to Northfurrow's End looking for easy work and found it. He sings for his supper, drinks like a fish, and wan ders the fields at night dreaming up new lyrics to entertain the inn's other guests. Oren likes to stir up trouble from time to time, but he doesn't have a mean bone in his body.
 

@@ -1,7 +1,7 @@
 ### Black Abishai
 _Medium fiend (devil), lawful evil_
 
-![[Black Abishai.webp]]
+![[Black Abishai.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Redcap
 _Small fey, chaotic evil_
 
-![[Redcap.webp]]
+![[Redcap.jpg]]
 
 A redcap is a homicidal Fey creature born of blood lust. Redcaps, although small, have formidable strength, which they use to hunt and kill without hesitation or regret.
 

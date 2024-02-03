@@ -1,7 +1,7 @@
 ### Orc Red Fang of Shargaas
 _Medium humanoid (orc), chaotic evil_
 
-![[Orc Red Fang of Shargaas.webp]]
+![[Orc Red Fang of Shargaas.jpg]]
 
 To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.
 

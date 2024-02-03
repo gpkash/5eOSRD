@@ -1,7 +1,7 @@
 ## Ankheg Broodling
 _medium monstrosity, unaligned_
 
-![[Ankheg Broodling.webp]]
+![[Ankheg Broodling.jpg]]
 
 ---
 

@@ -1,7 +1,7 @@
 ### Soul Monger
 _Medium humanoid (elf), neutral_
 
-![[Soul Monger.webp]]
+![[Soul Monger.jpg]]
 
 **Soul Monger** Wracked with despair over the loss of memories of a brighter time, soul mongers now crave the vitality of others. The aching void within a soul monger radiates outward, manifesting as an unbearable weight that drains the vigor of anyone unfortunate enough to be in its presence. Those who have escaped the onslaught of a soul monger can hardly shake the memory of the sound it makes—the moan of a tortured soul, lost in a bottomless well of tragedy.
 

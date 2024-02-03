@@ -1,7 +1,7 @@
 ### Captain N'ghathrod
 _Medium aberration, lawful evil_
 
-![[Captain N'ghathrod.webp]]
+![[Captain N'ghathrod.jpg]]
 
 Before it turned to a life of space piracy, N'ghathrod lived in a mind flayer colony on the ringed planet of Glyth, which is farther from the sun than Toril.
 

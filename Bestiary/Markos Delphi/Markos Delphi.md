@@ -1,7 +1,7 @@
 ### Markos Delphi
 _Medium humanoid (human, warlock), chaotic neutral_
 
-![[Markos Delphi.webp]]
+![[Markos Delphi.jpg]]
 
 Markos Delphi grew up with an insatiable curiosity. Eventually, he had his fill of worldly knowledge and began delving into the arcane, eager to understand the secrets of the planes of existence. Raised in a family of scholars and academics, Markos wished to make a breakthrough discovery that would propel himself and his family to new heights.
 

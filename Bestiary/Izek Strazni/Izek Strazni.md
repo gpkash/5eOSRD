@@ -1,7 +1,7 @@
 ### Izek Strazni
 _Medium humanoid (human), neutral evil_
 
-![[Izek Strazni.webp]]
+![[Izek Strazni.jpg]]
 
 Izek and his sister were born in Vallaki. One morning, their father and their uncle took them fishing on Lake Zarovich. On the way back to town, a dire wolf attacked Izek and bit off his right arm. His father carried Izek back to town while his uncle distracted the beast. His sister ran and hid in the woods and was never seen again.
 

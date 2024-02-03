@@ -1,7 +1,7 @@
 ### Don-Jon Raskin
 _Medium humanoid (human), neutral_
 
-![[Don-Jon Raskin.webp]]
+![[Don-Jon Raskin.jpg]]
 
 Adventurers who undertake the Mountain's Toe Quest meet Don-Jon Raskin, a fearless troubleshooter who has experienced more than his fair share of adventures.
 

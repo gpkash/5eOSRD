@@ -1,7 +1,7 @@
 ### Stone Guardian (Animated Armor)
 _Medium construct, unaligned_
 
-![[Stone Guardian.webp]]
+![[Stone Guardian.jpg]]
 
 Through the years in which the Sun Empire was ruled from Orazca, its priests crafted huge stone guardians to protect the empire's cities and temples. The incredible magic of the Immortal Sun gave a semblance of life to these artificial creatures, endowing them with the ability to move their stone bodies, a keen awareness of their surroundings, and a limited ability to think and reason in order to help them carry out their orders. These stone guardians were tasked with standing watch—constantly alert, vigilant to any danger, never sleeping, and unswerving in their duty.
 

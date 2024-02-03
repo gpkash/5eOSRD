@@ -1,7 +1,7 @@
 ### Merregon
 _Medium fiend (devil), lawful evil_
 
-![[Merregon.webp]]
+![[Merregon.jpg]]
 
 The souls of fallen soldiers, mercenaries, and bodyguards who served evil without reservation often find everlasting servitude in the Nine Hells as merregons. These faceless foot soldiers are the Hells' legionnaires, tasked with protecting their infernal plane and its rulers against intruders.
 

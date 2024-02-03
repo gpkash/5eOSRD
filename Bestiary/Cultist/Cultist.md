@@ -1,7 +1,7 @@
 ### Cultist
 _Medium humanoid (any race), any non-good alignment_
 
-![[Cultist.webp]]
+![[Cultist.jpg]]
 
 Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
 

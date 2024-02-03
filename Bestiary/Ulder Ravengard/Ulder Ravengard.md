@@ -1,7 +1,7 @@
 ### Ulder Ravengard
 _Medium humanoid (human), neutral_
 
-![[Ulder Ravengard.webp]]
+![[Ulder Ravengard.jpg]]
 
 Ulder Ravengard is a fearless soldier who rose up through the ranks of the Flaming Fist to become its supreme marshal. Ravengard used his military position and influence to secure for himself a seat on the Council of Four. Following the deaths of two council members amid a cloud of corruption and scandal, he persuaded the Parliament of Peers to back his election to grand duke.
 

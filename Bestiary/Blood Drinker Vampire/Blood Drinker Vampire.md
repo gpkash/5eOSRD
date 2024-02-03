@@ -1,7 +1,7 @@
 ### Blood Drinker Vampire
 _Medium undead, lawful evil_
 
-![[Blood Drinker Vampire.webp]]
+![[Blood Drinker Vampire.jpg]]
 
 Plenty of blood drinkers haunt Ravnica's alleys and sewers, preying on those who are foolish enough to leave the relative safety of the crowds.
 

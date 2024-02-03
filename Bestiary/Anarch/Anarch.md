@@ -1,7 +1,7 @@
 ### Anarch
 _Medium humanoid (any race), chaotic neutral_
 
-![[Anarch.webp]]
+![[Anarch.jpg]]
 
 The rank-and-file members of the Gruul Clans, called anarchs, despise civilization and have sworn to tear down both its physical structures and its institutions. Anarchs scavenge everything, from the hide armor they wear to the weapons they wield. As they pick through the refuse of the rubblebelts, they sometimes come across magic items and other valuable treasures.
 

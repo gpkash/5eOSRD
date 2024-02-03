@@ -1,7 +1,7 @@
 ### Orcus
 _Huge fiend (demon), chaotic evil_
 
-![[Orcus.webp]]
+![[Orcus.jpg]]
 
 Orcus is the Demon Prince of Undeath, also known as the Blood Lord. While he takes pleasure in the sufferings of the living, he far prefers the company and service of Undead. His desire is to see all life quenched and the multiverse transformed into a vast necropolis populated solely by Undead creatures under his command.
 

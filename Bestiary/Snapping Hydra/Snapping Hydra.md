@@ -1,7 +1,7 @@
 ### Snapping Hydra
 _Huge monstrosity, unaligned_
 
-![[Snapping Hydra.webp]]
+![[Snapping Hydra.jpg]]
 
 A rare variety of hydra native to the wilds of Eldraine, snapping hydras resemble giant, many-headed turtles. Snapping hydras dwell at the bottom of the wild's largest lakes, or along shorelines where the wilds meet the ocean. These monstrous creatures are aptly named; their bites are known to snap giants' arms cleanly in half.
 

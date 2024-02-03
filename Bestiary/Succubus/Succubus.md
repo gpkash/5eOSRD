@@ -1,7 +1,7 @@
 ### Succubus
 _Medium fiend (shapechanger), neutral evil_
 
-![[Succubus.webp]]
+![[Succubus.jpg]]
 
 
 

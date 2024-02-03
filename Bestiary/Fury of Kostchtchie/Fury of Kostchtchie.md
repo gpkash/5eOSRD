@@ -1,7 +1,7 @@
 ### Fury of Kostchtchie
 _Huge fiend (demon), chaotic evil_
 
-![[Fury of Kostchtchie.webp]]
+![[Fury of Kostchtchie.jpg]]
 
 Frost giants who struggle to rise in their ordning, along with those who reject Annam and his children, sometimes turn to the worship of the demon lord Kostchtchie. In the myths of these giants, Kostchtchie was once a frost giant of such tremendous might that he slew a demon lord in single combat, claimed its Abyssal realm for himself, and now waits for other frost giants to join him in conquering the rest of the Abyss.
 

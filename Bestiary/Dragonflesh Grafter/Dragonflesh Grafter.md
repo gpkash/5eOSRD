@@ -1,7 +1,7 @@
 ### Dragonflesh Grafter
 _Large monstrosity, neutral evil_
 
-![[Dragonflesh Grafter.webp]]
+![[Dragonflesh Grafter.jpg]]
 
 An ordinary dragonflesh grafter is a hulking fusion of draconic and bipedal characteristics, standing between 8 and 12 feet tall. As its original nature wanes, its draconic powers grow, giving it a thick layer of dragon scale armor that covers the grafted areas of its body. A dragonflesh grafter can belch forth a gout of corrosive acid in a mockery of dragon breath.
 

@@ -1,7 +1,7 @@
 ### Deep Dragon Wyrmling
 _Medium dragon, neutral evil_
 
-![[Deep Dragon Wyrmling.webp]]
+![[Deep Dragon Wyrmling.jpg]]
 
 Making their lairs in the depths of the Underdark, deep dragons are nightmarish cousins of chromatic dragons. The warped magical energy of their subterranean realm gives them the ability to exhale magical spores that instill fear and scar the mind.
 

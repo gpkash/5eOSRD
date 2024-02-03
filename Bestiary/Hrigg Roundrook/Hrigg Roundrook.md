@@ -1,7 +1,7 @@
 ### Hrigg Roundrook
 _Medium humanoid (dwarf), lawful good_
 
-![[Hrigg Roundrook.webp]]
+![[Hrigg Roundrook.jpg]]
 
 [[Hrigg Roundrook|DSotDQ|Hrigg]] is a gregarious dwarf who laughs heartily and lives to feast on the finest food and fight the vilest evil. He is one of five siblings, each of whom were chosen by Kiri-Jolith, the god of war, to receive his divine power. From their homeland of Kayolin, the five siblings each set out on their own path to bring Kiri-Jolith's message directly to the Dragon Armies. Hrigg's path brought him to Kalaman, where he happily finds himself on the front line of an invasion.
 

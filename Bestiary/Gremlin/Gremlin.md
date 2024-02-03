@@ -1,7 +1,7 @@
 ### Gremlin
 _Small beast, unaligned_
 
-![[Gremlin.webp]]
+![[Gremlin.jpg]]
 
 Gremlins are tenacious scavengers with an insatiable appetite for aether. They are drawn to places with abundant supplies of aether, including laboratories and workshops, where they can destroy months of careful work in a matter of hours. A small infestation of gremlins can easily end an inventor's career—and in sufficient numbers, these creatures could obliterate the aether infrastructure of a city like Ghirapur. Although the Consulate has extensive programs to prevent and control gremlin infestations, it often seems as though the city of wonders is just one gremlin away from a large-scale blackout and complete shutdown.
 

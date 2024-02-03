@@ -1,7 +1,7 @@
 ### Beledros Witherbloom
 _Gargantuan dragon (druid), neutral good_
 
-![[Beledros Witherbloom.webp]]
+![[Beledros Witherbloom.jpg]]
 
 The dragon Beledros masters the intertwined magic of life and death. Her power taps into the life force flowing through living things and the natural world. She manipulates that energy to give healing and life or to bring death and decay. Her mastery of this magic sustains her own life force even without the sustenance of food, drink, or even air.
 

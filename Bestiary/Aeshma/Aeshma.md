@@ -1,7 +1,7 @@
 ### Aeshma
 _Medium humanoid (tiefling), chaotic neutral_
 
-![[Aeshma.webp]]
+![[Aeshma.jpg]]
 
 Aeshma is a tiefling who was born into a rich and affluent family with ties to powerful families within the city of Waterdeep. Aeshma has learned that everything in life comes easy, free, and without consequence. Aeshma is a jack of no trades and master of none, he has ceremoniously failed himself out of magic studies, countless bard colleges, church studies, and military training. Aeshma excels at one thing: convincing and manipulating others to gamble. He doesn't really care for the stakes or the outcome of a bet, rather he gets enjoyment out of the consternation of others. Aeshma is a chronic gambler who always pushes the stakes to their limits.
 

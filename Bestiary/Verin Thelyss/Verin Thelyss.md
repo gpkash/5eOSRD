@@ -1,7 +1,7 @@
 ### Verin Thelyss
 _Medium humanoid (drow, elf), lawful good_
 
-![[Verin Thelyss.webp]]
+![[Verin Thelyss.jpg]]
 
 To the people of Bazzoxan, Verin is a beacon of hope amid the darkness that shrouds the town. But the weight of responsibility colors Verin's otherwise bright and youthful demeanor with melancholy. He cares about the town he has sworn to protect, but he is weary of the incessant threat posed by the denizens of the Betrayers' Rise.
 

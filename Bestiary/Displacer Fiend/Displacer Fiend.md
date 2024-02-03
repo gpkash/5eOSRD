@@ -1,7 +1,7 @@
 ### Displacer Fiend
 _Large fiend, neutral evil_
 
-![[Displacer Fiend.webp]]
+![[Displacer Fiend.jpg]]
 
 Long ago a Fey lord led his hunt into the Nine Hells to settle a score with an archfiend over mortals claimed by both. What fate the lord met is unknown, but of all his expedition, one particular faerie breed prospered in its new environment. A particularly vicious strain of displacer beast has become an entrenched new threat across many layers of the Nine Hells, prowling about the edges of fiendish communities and attacking mortal and infernal travelers alike.
 

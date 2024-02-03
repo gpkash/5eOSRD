@@ -1,7 +1,7 @@
 ### Ogre Channeler
 _Large giant, lawful evil_
 
-![[Ogre Channeler.webp]]
+![[Ogre Channeler.jpg]]
 
 The ogres of Zendikar are towering brutes driven by cruelty, greed, and savage ferocity. They favor the jagged mountains of Akoum but can be found on every continent. Their size and strength help protect them from the dangers of Zendikar, so they have little need of walls or roofs—which is good, since they have little skill at building. Ogre society, such as it is, revolves around leaders who gather small gangs (usually six to ten other ogres) to join them in pillaging, extorting, or slaving. The Monster Manual's [[ogre]] statistics work fine for Zendikar ogres.
 

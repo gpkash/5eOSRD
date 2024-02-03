@@ -1,7 +1,7 @@
 ### Deathpact Angel
 _Medium celestial, lawful evil_
 
-![[Deathpact Angel.webp]]
+![[Deathpact Angel.jpg]]
 
 Deathpact angels dwell in the grandest of Orzhov cathedrals, where they surround themselves with wealth and wretched vassals that are utterly in their thrall.
 

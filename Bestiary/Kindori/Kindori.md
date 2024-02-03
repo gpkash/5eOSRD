@@ -1,7 +1,7 @@
 ### Kindori
 _Gargantuan celestial, unaligned_
 
-![[Kindori.webp]]
+![[Kindori.jpg]]
 
 A kindori lacks a noticeable mouth. The leading edge of its body is dotted with small eyes that can emit bright beams of light, which the creature uses to blind predators before making its escape. Kindori communicate with one another over long distances by sending flashes of light from their eyes and draw their nourishment from the light of suns and stars.
 

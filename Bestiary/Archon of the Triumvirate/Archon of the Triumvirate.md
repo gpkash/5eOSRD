@@ -1,7 +1,7 @@
 ### Archon of the Triumvirate
 _Medium celestial, lawful neutral_
 
-![[Archon of the Triumvirate.webp]]
+![[Archon of the Triumvirate.jpg]]
 
 Archons are enigmatic, supernatural embodiments of the harshest aspects of law and order. They espouse a rigid sense of justice and deal ruthless punishment to those who break the law. This nature often aligns them with the Azorius Senate, and they are commonly seen circling above the Azorius guildhall astride their winged felidar mounts, soaring alongside griffon-mounted hussars.
 

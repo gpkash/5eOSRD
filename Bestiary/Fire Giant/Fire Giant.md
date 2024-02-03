@@ -1,7 +1,7 @@
 ### Fire Giant
 _Huge giant, lawful evil_
 
-![[Fire Giant.webp]]
+![[Fire Giant.jpg]]
 
 
 

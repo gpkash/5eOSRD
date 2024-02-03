@@ -1,7 +1,7 @@
 ### Korred
 _Small fey, chaotic neutral_
 
-![[Korred.webp]]
+![[Korred.jpg]]
 
 Korreds are unpredictable, secretive Fey with strong ties to earth and stone. Because of their magical hair and mystical understanding of minerals, they are sought after by treasure-hunting dwarves and others who desire wealth beneath the earth.
 

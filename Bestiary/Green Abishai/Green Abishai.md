@@ -1,7 +1,7 @@
 ### Green Abishai
 _Medium fiend (devil), lawful evil_
 
-![[Green Abishai.webp]]
+![[Green Abishai.jpg]]
 
 
 

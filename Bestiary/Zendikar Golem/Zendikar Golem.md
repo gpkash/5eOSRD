@@ -1,7 +1,7 @@
 ### Zendikar Golem
 _Large construct, unaligned_
 
-![[Hedrons.webp]]
+![[Hedrons.jpg]]
 
 With the power of magic at their disposal, mages of the ancient past and of Zendikar's present have been able to create objects bearing the semblance of life, capable of carrying out orders and even acting independently.
 

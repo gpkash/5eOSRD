@@ -1,7 +1,7 @@
 ### Skitterwidget
 _Medium construct, _
 
-![[Skitterwidget.webp]]
+![[Skitterwidget.jpg]]
 
 A skitterwidget is made of metal and bears a passing resemblance to a giant dog-headed cockroach. No two skitterwidgets look exactly alike, but all are surprisingly cute.
 

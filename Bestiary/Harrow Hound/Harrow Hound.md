@@ -1,7 +1,7 @@
 ### Harrow Hound
 _Medium undead, chaotic evil_
 
-![[Harrow Hound.webp]]
+![[Harrow Hound.jpg]]
 
 When the Grim Harrow first found the faerie realm known as the Gardens of Delight, that place was home to a large population of blink dogs. The Undead invaders slaughtered the blink dogs and settled in the gardens, transforming the demiplane forever. In time, the necrotic magic of the Grim Harrow animated the corpses of the blink dogs as the first harrow hounds.
 

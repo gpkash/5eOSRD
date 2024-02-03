@@ -1,7 +1,7 @@
 ### Thessalheart Construct
 _Tiny construct, neutral_
 
-![[Thessalheart Construct.webp]]
+![[Thessalheart Construct.jpg]]
 
 A thessalheart construct is created with a connection to the life energy of another creature, allowing that creature to regenerate back from the dead as long as the construct is not destroyed. The artificer Thessalar created this crafty construct, and uses it to imbue his greater monstrous creations with even more power.
 

@@ -1,7 +1,7 @@
 ### Githzerai Traveler
 _Medium aberration (gith), any alignment_
 
-![[Githzerai Traveler.webp]]
+![[Githzerai Traveler.jpg]]
 
 Githzerai travelers wander the multiverse to train and pursue cosmic enlightenment. These githzerai learn to manipulate planar energies to create wondrous effects.
 

@@ -1,7 +1,7 @@
 ### Gibberling
 _Small aberration, chaotic neutral_
 
-![[Gibberling.webp]]
+![[Gibberling.jpg]]
 
 > _Gibberlings are appropriately named, for they babble, or should I say gibber, incessantly. They are unpredictable and thus barely worthy of any kind of research. Thus, why I didn't include them in my book "Volo's Guide to Monsters".
 _

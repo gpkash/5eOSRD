@@ -1,7 +1,7 @@
 ### Phantom Warrior
 _Medium undead, any alignment_
 
-![[Phantom Warrior.webp]]
+![[Phantom Warrior.jpg]]
 
 A phantom warrior is the spectral remnant of a willful soldier or knight who perished on the battlefield or died performing its sworn duty. It appears like a translucent version of its living self.
 

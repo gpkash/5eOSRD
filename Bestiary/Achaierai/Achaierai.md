@@ -1,7 +1,7 @@
 ### Achaierai
 _Large monstrosity, lawful evil_
 
-![[Achaierai.webp]]
+![[Achaierai.jpg]]
 
 Dwelling mostly in the Underdark, achaierai are cunning avian quadrupeds originally from the plane of Acheron. Tribalistic and organized, they possess a strong—if skewed—sense of justice and will often band together to seek bloody vengeance against those who have wronged their kin. They are highly intelligent, with a strong streak of sadistic cruelty, compelling them to devise new and inventive strategies of torture for their victims.
 

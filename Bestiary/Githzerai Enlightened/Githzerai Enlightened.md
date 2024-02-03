@@ -1,7 +1,7 @@
 ### Githzerai Enlightened
 _Medium humanoid (gith), lawful neutral_
 
-![[Githzerai Enlightened.webp]]
+![[Githzerai Enlightened.jpg]]
 
 
 

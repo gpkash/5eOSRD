@@ -1,7 +1,7 @@
 ### Warforged Titan
 _Huge construct, lawful neutral_
 
-![[Warforged Titan.webp]]
+![[Warforged Titan.jpg]]
 
 Warforged titans are hulking constructs built to wreak paths of destruction through enemy armies. Some of the most feared combatants of the Last War, warforged titans are barely sentient, with just enough intelligence to follow commands.
 

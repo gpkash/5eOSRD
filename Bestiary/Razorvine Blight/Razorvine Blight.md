@@ -1,7 +1,7 @@
 ### Razorvine Blight
 _Medium plant, neutral evil_
 
-![[Razorvine Blight.webp]]
+![[Razorvine Blight.jpg]]
 
 Travelers of Sigil and the Lower Planes take care to avoid razorvine, a creeping plant named for its prickly stems and cutting leaves. While razorvine is normally a mere environmental nuisance or deterrent, razorvine that absorbs the blood of a vampiric passerby can awaken into a terror known as a razorvine blight.
 

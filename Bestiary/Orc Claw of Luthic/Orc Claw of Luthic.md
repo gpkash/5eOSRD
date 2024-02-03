@@ -1,7 +1,7 @@
 ### Orc Claw of Luthic
 _Medium humanoid (orc), chaotic evil_
 
-![[Orc Claw of Luthic.webp]]
+![[Orc Claw of Luthic.jpg]]
 
 To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.
 

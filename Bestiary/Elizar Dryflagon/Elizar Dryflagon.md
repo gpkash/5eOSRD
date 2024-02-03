@@ -1,7 +1,7 @@
 ### Elizar Dryflagon
 _Medium humanoid (human), neutral evil_
 
-![[Elizar Dryflagon.webp]]
+![[Elizar Dryflagon.jpg]]
 
 Elizar was a druid who claims to be a member of the Circle of the Scarlet Moon. However, Elizar is really in service to Imix, maintaining some druidic power through a connection to the elements.
 

@@ -1,7 +1,7 @@
 ### Kobold Vampire Spawn
 _Small undead, neutral evil_
 
-![[Kobold Vampire Spawn.webp]]
+![[Kobold Vampire Spawn.jpg]]
 
 The gnoll vampire Tekeli-li has a small number of kobold vampire spawn minions to keep it company in the Caves of Hunger (see chapter 6). The vampiric kobolds are terrified of the gnoll vampire and can't understand its commands, so they give Tekeli-li a wide berth. These ravenous undead kobolds thirst for blood and tend to swarm one foe at a time.
 

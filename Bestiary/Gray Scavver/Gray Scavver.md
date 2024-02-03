@@ -1,7 +1,7 @@
 ### Gray Scavver
 _Medium monstrosity, unaligned_
 
-![[Gray Scavver.webp]]
+![[Gray Scavver.jpg]]
 
 Gray scavvers are 6 feet long and travel in packs. The scent of blood sends them into a feeding frenzy, but wounding one usually weakens it enough to make it break off its attack.
 

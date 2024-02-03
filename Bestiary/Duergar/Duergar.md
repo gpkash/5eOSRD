@@ -1,7 +1,7 @@
 ### Duergar
 _Medium humanoid (dwarf), lawful evil_
 
-![[Duergar.webp]]
+![[Duergar.jpg]]
 
 The tyrannical duergar, also known as gray dwarves, dwell in fantastic cities deep in the Underdark. Using ancient dwarven knowledge and myriad slaves, they work tirelessly to expand their subterranean kingdoms.
 

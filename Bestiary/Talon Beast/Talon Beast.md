@@ -1,7 +1,7 @@
 ### Talon Beast
 _Large monstrosity, unaligned_
 
-![[Talon Beast.webp]]
+![[Talon Beast.jpg]]
 
 Talon beasts are hairless quadrupeds that have vulturelike heads and talons. They can sense the presence of magic and feed on it, absorbing spells and the power of magic items. But magic isn't enough to sustain them, so they also hunt other living things. A talon beast thrives in the wilderness, but in its search for magic, it often prowls settlements, ruins, catacombs, or the Underdark.
 

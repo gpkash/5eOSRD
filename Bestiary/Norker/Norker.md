@@ -1,7 +1,7 @@
 ### Norker
 _Small humanoid (goblinoid), chaotic evil_
 
-![[Norker.webp]]
+![[Norker.jpg]]
 
 Cruel, vicious, and lazy even by the standards of goblinoids, norkers are tough humanoids whose long, sharp fangs and thick, bony exoskeletons make them well-suited to the ranks of hobgoblin armies. Unfortunately for their would-be masters, norkers are rebellious, truculent, and prone to indolence unless watched with a keen eye and a hand that is quick to snap a whip.
 

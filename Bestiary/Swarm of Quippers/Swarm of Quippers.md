@@ -1,7 +1,7 @@
 ### Swarm of Quippers
 _Medium beast, unaligned_
 
-![[Quipper.webp]]
+![[Quipper.jpg]]
 
 
 

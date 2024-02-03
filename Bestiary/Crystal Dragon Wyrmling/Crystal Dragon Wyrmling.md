@@ -1,7 +1,7 @@
 ### Crystal Dragon Wyrmling
 _Medium dragon (gem), chaotic neutral_
 
-![[Crystal Dragon Wyrmling.webp]]
+![[Crystal Dragon Wyrmling.jpg]]
 
 Shimmering with radiant energy and brimming with life, crystal dragons enjoy an innate psionic connection to the Positive Plane that suffuses their bodies as well as their personalities with light. Though they prefer to live in desolate, frigid regions, many of them are among the friendliest of dragonkind, nurturing and optimistic.
 

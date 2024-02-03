@@ -1,7 +1,7 @@
 ### Nauk
 _Medium humanoid (half-orc), lawful evil_
 
-![[Nauk.webp]]
+![[Nauk.jpg]]
 
 Nauk is a half-orc warrior and senior member of the Flaming Fist in Baldur's Gate. He is also one of Faerûn's most notorious arms dealers. Nauk feeds the flames of civil strife in other nations, usually by providing assassins, mercenaries or magic. When outright war breaks out, the Flaming Fist is ready to offer their services for a hefty profit.
 

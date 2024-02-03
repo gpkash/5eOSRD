@@ -1,7 +1,7 @@
 ### Red Slaad
 _Large aberration, chaotic neutral_
 
-![[Red Slaad.webp]]
+![[Red Slaad.jpg]]
 
 
 

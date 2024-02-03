@@ -1,7 +1,7 @@
 ### Mountain Goat
 _Medium beast, unaligned_
 
-![[Mountain Goat.webp]]
+![[Mountain Goat.jpg]]
 
 Mountain goats are found throughout the Spine of the World and on the slopes of Kelvin's Cairn, their thick fur and layers of body fat protecting them from the extreme cold. They are expert climbers, able to leap and bound up sheer slopes.
 

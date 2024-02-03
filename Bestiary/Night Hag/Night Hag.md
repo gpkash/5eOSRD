@@ -1,7 +1,7 @@
 ### Night Hag
 _Medium fiend, neutral evil_
 
-![[Night Hag.webp]]
+![[Night Hag.jpg]]
 
 
 

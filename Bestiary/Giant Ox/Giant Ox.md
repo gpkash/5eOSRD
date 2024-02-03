@@ -1,7 +1,7 @@
 ### Giant Ox
 _Huge fey, unaligned_
 
-![[Giant Ox.webp]]
+![[Giant Ox.jpg]]
 
 Giant oxen labor as beasts of burden for giants of all kinds, pulling plows, hauling oversized carts, and performing similar tasks well suited to their tremendous strength. These cattle are covered in thick, shaggy hide, often in vibrant colors, such as sky blue or deep violet.
 

@@ -1,7 +1,7 @@
 ### Earth Elemental Myrmidon
 _Medium elemental, neutral_
 
-![[Earth Elemental Myrmidon.webp]]
+![[Earth Elemental Myrmidon.jpg]]
 
 
 

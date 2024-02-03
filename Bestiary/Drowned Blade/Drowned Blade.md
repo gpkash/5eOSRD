@@ -1,7 +1,7 @@
 ### Drowned Blade
 _Medium undead, chaotic evil_
 
-![[Drowned One.webp]]
+![[Drowned One.jpg]]
 
 Assaulting the hermitage in Tammeraut's Fate, this barnacle-encrusted undead warrior fights with surprising cunning. Starfish cling to its wispy beard, and its evil rage is visible in its bloated gray eyes.
 

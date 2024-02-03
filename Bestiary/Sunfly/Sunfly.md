@@ -1,7 +1,7 @@
 ### Sunfly
 _Tiny celestial, chaotic good_
 
-![[Sunfly.webp]]
+![[Sunfly.jpg]]
 
 Sunflies are whimsical, buzzing inhabitants of the Outer Planes. They travel widely and are important indicators of the health of the realms in which they reside; when sunflies struggle, so do the places they inhabit. Sunflies have stingers that they use to inject natural toxins into other creatures. Planar magic can alter a sunfly's toxin so that its effect is different depending on which Outer Plane the sunfly is on.
 

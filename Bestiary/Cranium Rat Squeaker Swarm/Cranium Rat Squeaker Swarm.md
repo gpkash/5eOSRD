@@ -1,7 +1,7 @@
 ### Cranium Rat Squeaker Swarm
 _Medium aberration, neutral_
 
-![[Cranium Rat Squeaker Swarm.webp]]
+![[Cranium Rat Squeaker Swarm.jpg]]
 
 The cranium rats squeakers of Sigil have no connection to the mind flayers that created their progenitors. Rather, these magical rodents cooperate with the residents of the City of Doors, whether by simply living together or by pursuing greater ambitions. When squeakers collect in large numbers, their swarms merge into a single intelligence with enhanced psionic abilities and the accumulated memories of its constituents.
 

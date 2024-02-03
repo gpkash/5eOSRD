@@ -1,7 +1,7 @@
 ### Dyrrn
 _Medium aberration, chaotic evil_
 
-![[Dyrrn.webp]]
+![[Dyrrn.jpg]]
 
 Dyrrn is known to its followers as the Corruptor, the Stealer of Thoughts, the Slithering Lord, and the Foul Labyrinth. In the lore of the Gatekeepers, it is said that Dyrrn plants thoughts in the weak minded—the seeds of terrible ideas that fester and grow. Those who are particularly brilliant often draw the attention of the Foul Labyrinth, which hungers to consume unique minds.
 

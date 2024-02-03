@@ -1,7 +1,7 @@
 ### Imp
 _Tiny fiend (devil), lawful evil_
 
-![[Imp.webp]]
+![[Imp.jpg]]
 
 
 

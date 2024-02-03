@@ -1,7 +1,7 @@
 ### Mirt
 _Medium humanoid (human), chaotic good_
 
-![[Mirt.webp]]
+![[Mirt.jpg]]
 
 Once known as Mirt the Merciless and the Old Wolf, Mirt made a fortune and carved out a reputation as an adventurer and philanderer. Today, an older and wiser Mirt serves as one of the Masked Lords, a Harper, and a close advisor to Laeral Silverhand. The years have not worn him down, and though he has grown soft in the flesh, he remains deceptively strong, vigorous, and clear of mind. Mirt has survived the passing of centuries by means of magic, and of all the Masked Lords, he is the least concerned with concealing his identity.
 

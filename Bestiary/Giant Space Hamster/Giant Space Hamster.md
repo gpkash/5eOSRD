@@ -1,7 +1,7 @@
 ### Giant Space Hamster
 _Large beast, unaligned_
 
-![[Giant Space Hamster.webp]]
+![[Giant Space Hamster.jpg]]
 
 Giant space hamsters are cute, plant-eating rodents as big as brown bears. They tend to avoid other creatures, especially threatening ones, but they can be trained to serve as mounts and beasts of burden. Gnomes have tried to build spelljamming ships powered by giant space hamster wheels, so far without success.
 

@@ -1,7 +1,7 @@
 ### Corruption Devil (Paeliryon)
 _Large fiend (devil), lawful evil_
 
-![[Corruption Devil (Paeliryon).webp]]
+![[Corruption Devil (Paeliryon).jpg]]
 
 One of the stronger greater devils, the paeliryon focus on corruption and obtaining mortal souls. While they can be found on almost every layer of the Nine Hells, paeliryons are particularly prominent in Dis and Malbolge, where they hold positions of power. Their duties include managing lesser devils, directing and manipulating the soul trade, and infernal politics. They're particularly talented at blackmailing and spying—abilities used both within and without the Nine Hells.
 

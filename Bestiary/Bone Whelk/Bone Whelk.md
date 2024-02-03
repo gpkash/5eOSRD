@@ -1,7 +1,7 @@
 ### Bone Whelk
 _Large monstrosity, unaligned_
 
-![[Bone Whelk.webp]]
+![[Bone Whelk.jpg]]
 
 Bone whelks are large mollusks that excrete an adhesive to attach skulls, bones, and other detritus to their bodies for protection.
 

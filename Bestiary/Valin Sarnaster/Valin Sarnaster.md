@@ -1,7 +1,7 @@
 ### Valin Sarnaster
 _Medium undead, lawful evil_
 
-![[Valin Sarnaster.webp]]
+![[Valin Sarnaster.jpg]]
 
 Valin Sarnaster has been thoroughly corrupted by visions of a future in which she sees herself as the immortal heir of Savras's realm.[[The Canopic Being]]came into her possession years ago, and an obsession with the dark rituals therein set the oracle on her present course.
 

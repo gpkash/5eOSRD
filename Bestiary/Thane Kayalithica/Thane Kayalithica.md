@@ -1,7 +1,7 @@
 ### Thane Kayalithica
 _Huge giant, neutral evil_
 
-![[Thane Kayalithica.webp]]
+![[Thane Kayalithica.jpg]]
 
 Stone giants are reclusive, quiet, and peaceful as long as they are left alone. Their granite-gray skin, gaunt features, and black, sunken eyes endow stone giants with a stern countenance. They are private creatures, hiding their lives and art away from the world.
 

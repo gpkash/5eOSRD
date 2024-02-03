@@ -1,7 +1,7 @@
 ### Oculorb
 _Large aberration, chaotic evil_
 
-![[Oculorb.webp]]
+![[Oculorb.jpg]]
 
 Many oculorbs are dreamed into existence by beholders. The Far Realm's strange power can pervade a beholder's dreams, resulting in the birth of an oculorb.
 

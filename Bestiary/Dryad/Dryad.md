@@ -1,7 +1,7 @@
 ### Dryad
 _Medium fey, neutral_
 
-![[Dryad.webp]]
+![[Dryad.jpg]]
 
 Travelers entering a forest might catch a glimpse of a feminine form flitting through the trees. Warm laughter hangs on the air, drawing those who hear it deeper into the emerald shadows.
 

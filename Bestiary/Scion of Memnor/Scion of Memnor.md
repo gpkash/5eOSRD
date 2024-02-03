@@ -1,7 +1,7 @@
 ### Scion of Memnor
 _Gargantuan giant (titan), chaotic neutral_
 
-![[Scion of Memnor.webp]]
+![[Scion of Memnor.jpg]]
 
 
 

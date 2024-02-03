@@ -1,7 +1,7 @@
 ### Yeth Hound
 _Large fey, neutral evil_
 
-![[Yeth Hound.webp]]
+![[Yeth Hound.jpg]]
 
 Granted by mighty Fey to individuals who please them, yeth hounds serve their masters like hunting dogs. They race in pursuit of their prey, running it down until it's too exhausted to fight back. Only the threat of dawn drives the pack back into hiding.
 

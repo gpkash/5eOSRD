@@ -1,7 +1,7 @@
 ### Orzhov Giant
 _Large giant, lawful evil_
 
-![[Orzhov Giant.webp]]
+![[Orzhov Giant.jpg]]
 
 A few giants join the ranks of the Orzhov Syndicate and serve as guards, executioners, and thugs-the muscle of the guild. The presence of Orzhov giants in markets and streets serves as an effective reminder for business owners to keep their payments up to date.
 

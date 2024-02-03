@@ -1,7 +1,7 @@
 ### Baphomet
 _Huge fiend (demon), chaotic evil_
 
-![[Baphomet.webp]]
+![[Baphomet.jpg]]
 
 Civilization is weakness and brutality is strength in the credo of Baphomet, the Horned King and the Prince of Beasts. He is worshiped by those who want to break the confines of civility and unleash their bestial natures, for Baphomet envisions a world without restraint, where creatures live out their most bloodthirsty desires.
 

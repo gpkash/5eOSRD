@@ -1,7 +1,7 @@
 ### Retriever
 _Large construct, lawful evil_
 
-![[Retriever.webp]]
+![[Retriever.jpg]]
 
 The retriever is a potent, spider-like Construct conceived and built by Underdark followers of Lolth for one original purpose—to prowl the Abyss and capture demons for these cultists to enslave or use in their rituals. The automatons proved so effective and so fearsome that they now perform many different missions.
 

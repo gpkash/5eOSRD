@@ -1,7 +1,7 @@
 ### Drow House Captain
 _Medium humanoid (elf), neutral evil_
 
-![[Drow House Captain.webp]]
+![[Drow House Captain.jpg]]
 
 > _House captains will do anything to protect their family—whether that's their birth house or their platoon of scrappy rebels. I'd do anything for my (sometimes infuriating) mother and for my chosen family, so I admire their dedication.
 _

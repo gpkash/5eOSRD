@@ -1,7 +1,7 @@
 ### Suldil Baldoriel
 _Medium humanoid (half-elf), chaotic good_
 
-![[Suldil Baldoriel.webp]]
+![[Suldil Baldoriel.jpg]]
 
 More than a thousand years ago, Suldil was born to a human boatswain and his sea-elf bride. Her innate magical prowess brought her to the attention of the fledgling order of the Knights of Bahamut. The Knights of Bahamut were an order of dragon riders that worshipped Bahamut and bonded to young metallic dragons.
 

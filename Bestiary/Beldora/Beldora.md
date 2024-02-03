@@ -1,7 +1,7 @@
 ### Beldora
 _Medium humanoid (Illuskan human), chaotic good_
 
-![[Beldora.webp]]
+![[Beldora.jpg]]
 
 Beldora is a member of the Harpers who survives using her wits and wiles. She looks like a homeless waif, but she's a survivor who shies away from material wealth.
 

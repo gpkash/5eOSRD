@@ -1,7 +1,7 @@
 ### Aerisi Kalinoth
 _Medium humanoid (elf), neutral evil_
 
-![[Aerisi Kalinoth.webp]]
+![[Aerisi Kalinoth.jpg]]
 
 Aerisi Kalinoth is the air prophet of the Elder Elemental Eye and leader of the Cult of the Howling Hatred. Tall and slender, with dark hair and (illusory) feathered wings that gently fan the air, Aerisi Kalinoth speaks to her people in a whisper that belies her violent temper, which reveals itself whenever she is denied.
 

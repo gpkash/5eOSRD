@@ -1,7 +1,7 @@
 ### Froghemoth
 _Huge monstrosity, unaligned_
 
-![[Froghemoth.webp]]
+![[Froghemoth.jpg]]
 
 A froghemoth is an amphibious predator as big as an elephant. It lairs in swamps and has four tentacles, a thick rubbery hide, a fang-filled maw with a prehensile tongue, and an extendable stalk sporting three bulbous eyes that face in different directions.
 

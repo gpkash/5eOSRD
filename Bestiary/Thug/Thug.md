@@ -1,7 +1,7 @@
 ### Thug
 _Medium humanoid (any race), any non-good alignment_
 
-![[Thug.webp]]
+![[Thug.jpg]]
 
 Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.
 

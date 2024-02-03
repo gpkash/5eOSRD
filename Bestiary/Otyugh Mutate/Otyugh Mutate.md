@@ -1,7 +1,7 @@
 ### Otyugh Mutate
 _Large aberration, neutral_
 
-![[Otyugh Mutate.webp]]
+![[Otyugh Mutate.jpg]]
 
 
 

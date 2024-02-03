@@ -1,7 +1,7 @@
 ### Geryon
 _Huge fiend (devil), lawful evil_
 
-![[Geryon.webp]]
+![[Geryon.jpg]]
 
 Geryon is locked in an endless struggle with Levistus for control of Stygia. The two have fought for centuries, each displacing the other innumerable times. Currently, Levistus claims lordship over Stygia, but he has been trapped in an enormous block of ice at the command of Asmodeus. In response, Geryon is marshaling his followers, hoping to use this opportunity to replace his hated rival.
 

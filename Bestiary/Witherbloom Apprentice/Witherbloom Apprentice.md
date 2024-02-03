@@ -1,7 +1,7 @@
 ### Witherbloom Apprentice
 _Small, Medium humanoid (druid), any alignment_
 
-![[Witherbloom Apprentice.webp]]
+![[Witherbloom Apprentice.jpg]]
 
 Deep in the fog and muck of the swamp, the students of Witherbloom College—first as apprentices and then as pledgemages—study the cycle of life and death. Their magic is fueled by what they call life essence: the ubiquitous energy that runs through living things.
 

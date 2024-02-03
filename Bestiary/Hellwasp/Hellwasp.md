@@ -1,7 +1,7 @@
 ### Hellwasp
 _Large fiend, lawful evil_
 
-![[Hellwasp.webp]]
+![[Hellwasp.jpg]]
 
 A hellwasp is an intelligent, malevolent insect native to the Nine Hells. It has a thick protective carapace, thin metallic wings, and strong legs ending in swordlike talons. It uses its stinger to inject a chemical admixture similar to alchemist's fire into its victims. This same solution carries a paralytic enzyme that renders the victim helpless long enough for the hellwasp to grab its prey and flee.
 

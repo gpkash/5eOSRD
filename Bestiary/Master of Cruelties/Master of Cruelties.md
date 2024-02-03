@@ -1,7 +1,7 @@
 ### Master of Cruelties
 _Large fiend (demon), chaotic evil_
 
-![[Master of Cruelties.webp]]
+![[Master of Cruelties.jpg]]
 
 When a master of cruelties steps up as ringleader of a Rakdos show, the audience can be assured of a performance they will remember for the rest of their lives—however brief that might be.
 

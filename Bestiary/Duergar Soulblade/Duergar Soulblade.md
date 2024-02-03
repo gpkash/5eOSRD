@@ -1,7 +1,7 @@
 ### Duergar Soulblade
 _Medium humanoid (dwarf), lawful evil_
 
-![[Duergar Soulblade.webp]]
+![[Duergar Soulblade.jpg]]
 
 
 

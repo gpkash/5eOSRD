@@ -1,7 +1,7 @@
 ### Sahuagin Baron
 _Large humanoid (sahuagin), lawful evil_
 
-![[Sahuagin Baron.webp]]
+![[Sahuagin Baron.jpg]]
 
 
 

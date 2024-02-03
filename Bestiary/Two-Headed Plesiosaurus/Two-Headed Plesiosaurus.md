@@ -1,7 +1,7 @@
 ### Two-Headed Plesiosaurus
 _Large beast, unaligned_
 
-![[Plesiosaurus.webp]]
+![[Plesiosaurus.jpg]]
 
 A two-headed plesiosaurus is a marine dinosaur whose compact body is driven by powerful flippers. Predatory and aggressive, it attacks any creature it encounters. Its flexible necks account for a third of its total length, letting it twist in any direction to deliver a powerful bite.
 

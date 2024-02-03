@@ -1,7 +1,7 @@
 ### Tempest Hart
 _Huge elemental, unaligned_
 
-![[Tempest Hart.webp]]
+![[Tempest Hart.jpg]]
 
 Storm giants live high above Eldraine in a cloudy landscape known as Stormkeld. Massive cottages, keeps, and towers dot this magical realm, scattered between expanses of cloudy wilderness marked by tangles of giant beanstalks and raging storms. Various enormous creatures dwell in these wilds, with the tempest hart being among the most majestic.
 

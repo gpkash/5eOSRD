@@ -1,7 +1,7 @@
 ### Grim Champion of Bloodshed
 _Medium undead, chaotic evil_
 
-![[Grim Champion of Bloodshed.webp]]
+![[Grim Champion of Bloodshed.jpg]]
 
 Wynemar Brack was once a farmer, but mercenaries in a local war razed her fields and sacked her village. In desperation, she yielded to the clever patter of a traveling fortune teller and drew from a Deck of Many Things. The avatar of death slew her in a flash. That was many centuries ago, and Wynemar is now a powerful and bloodthirsty Undead commander of the Grim Harrow.
 

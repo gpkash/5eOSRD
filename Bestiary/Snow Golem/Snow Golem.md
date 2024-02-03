@@ -1,7 +1,7 @@
 ### Snow Golem
 _Medium construct, unaligned_
 
-![[Snow Golem.webp]]
+![[Snow Golem.jpg]]
 
 A snow golem is a mass of snow brought to life through magic. Nonmagical weapons pass through its snowy form without dealing any appreciable damage to it, though heat is its doom.
 

@@ -1,7 +1,7 @@
 ### Morte
 _Tiny undead, chaotic good_
 
-![[Morte.webp]]
+![[Morte.jpg]]
 
 The talking skull Morte is a curmudgeonly interplanar traveler plucked from his eternal punishment in the Nine Hells. Tormented by the lies he told in life, Morte masks his pain with a morbid sense of humor and an insufferable dose of sarcasm.
 

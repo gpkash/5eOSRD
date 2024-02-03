@@ -1,7 +1,7 @@
 ### Elise
 _Medium construct, neutral_
 
-![[Elise.webp]]
+![[Elise.jpg]]
 
 Dr. Mordenheim's supposed beloved and greatest achievement, Elise is a confused, frustrated soul who never wished for her current circumstances.
 

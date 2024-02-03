@@ -1,7 +1,7 @@
 ### Wretched Sorrowsworn
 _Small monstrosity, neutral evil_
 
-![[Wretched Sorrowsworn.webp]]
+![[Wretched Sorrowsworn.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Pain Devil (Excruciarch)
 _Medium fiend (devil), lawful evil_
 
-![[Pain Devil (Excruciarch).webp]]
+![[Pain Devil (Excruciarch).jpg]]
 
 Another type of devil devoted to torture, excruciarchs are also competent fighters and mercenaries. Due to their reputation as torturers of devils, they're often looked down upon by other devils, occasionally even beaten or killed, and as a result they frequently travel together. Their cruelty is known across the Nine Hells, and their revelry in pain gives them their name. Another defining feature of pain devils is their greed: they serve no particular master, their loyalty must be purchased.
 

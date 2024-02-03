@@ -1,7 +1,7 @@
 ### Death Giant Reaper
 _Huge giant, any alignment_
 
-![[Death Giant Reaper.webp]]
+![[Death Giant Reaper.jpg]]
 
 
 

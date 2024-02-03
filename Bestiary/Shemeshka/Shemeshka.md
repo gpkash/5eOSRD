@@ -1,7 +1,7 @@
 ### Shemeshka
 _Medium fiend (yugoloth), neutral evil_
 
-![[Shemeshka.webp]]
+![[Shemeshka.jpg]]
 
 Shemeshka the arcanaloth is one of Sigil's most ambitious and notorious crime bosses. From her multiplanar casino, Fortune's Wheel, she manipulates secrets and fates across the planes. Shemeshka and her plots are further detailed in the adventure[[Turn of Fortune's Wheel]].
 

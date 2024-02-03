@@ -1,7 +1,7 @@
 ### Neh-thalggu
 _Large aberration, chaotic neutral_
 
-![[Neh-thalggu.webp]]
+![[Neh-thalggu.jpg]]
 
 Known throughout the multiverse as brain collectors, neh-thalggu consume the brains of Humanoids and use them as receptacles to enhance their magical abilities.
 

@@ -1,7 +1,7 @@
 ### Terastodon
 _Huge beast, unaligned_
 
-![[Terastodon.webp]]
+![[Terastodon.jpg]]
 
 A terastodon is an enormous elephant (use the [[mammoth]] statistics) with four tusks and armored hide. A bony plate on its head, sharply pointed on the edges, extends back to protect its neck.
 

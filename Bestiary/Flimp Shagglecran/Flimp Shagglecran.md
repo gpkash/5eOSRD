@@ -1,7 +1,7 @@
 ### Flimp Shagglecran
 _Small humanoid (gnome), lawful neutral_
 
-![[Flimp Shagglecran.webp]]
+![[Flimp Shagglecran.jpg]]
 
 Flimpius Theodore Shagglecran (known to his friends as Flimp) is a gnome artificer who hails from the island nation of Lantan. Flimp has an appearance unlike any other gnome on Faerûn. Dressed in plate armor with hooks and pouches for keeping his many inventions, Flimp is always accompanied by his ornery, but entirely mechanical, dog named Metallison.
 

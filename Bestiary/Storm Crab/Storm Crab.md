@@ -1,7 +1,7 @@
 ### Storm Crab
 _Gargantuan monstrosity, unaligned_
 
-![[Storm Crab.webp]]
+![[Storm Crab.jpg]]
 
 Storm crabs are colossal crustaceans with four monstrous claws and a poisonous stinger. Equally adept underwater or on shore, they can exhale a jet of pressurized water to crush foes.
 

@@ -1,7 +1,7 @@
 ### Adranach
 _Huge construct, _
 
-![[AdranachFluffAttack.webp]]
+![[AdranachFluffAttack.jpg]]
 
 An adranach is a winged feline construct made of raw arcane energy, fuchsia in hue and flecked with stars. It is an iconic servitor of the [[League of Miracles|2|League of Miracles]], and the exact method of their creation is a closely guarded secret known only to the [[Wonderworker|2|The Wonderworker]] who guides that organization and the spellwrights who serve them.
 

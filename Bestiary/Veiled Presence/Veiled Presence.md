@@ -1,7 +1,7 @@
 ### Veiled Presence
 _Small, Medium celestial, lawful evil_
 
-![[Veiled Presence.webp]]
+![[Veiled Presence.jpg]]
 
 The ultimate threat created by the Rogue card, the veiled presence is a Celestial for tier 4 play (levels 17 to 20). This being descends from an Outer Plane to bring cosmic wrath upon the characters.
 

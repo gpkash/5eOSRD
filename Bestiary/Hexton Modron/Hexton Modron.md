@@ -1,7 +1,7 @@
 ### Hexton Modron
 _Huge construct, lawful neutral_
 
-![[Hexton Modron.webp]]
+![[Hexton Modron.jpg]]
 
 When the armies of Mechanus mobilize against the forces of chaos, hextons are the field generals who command modron troops. These hulking hierarchs lead groups of modrons in endeavors outside Mechanus, with the most notable example being the Great Modron March. Hextons have solid frames that bristle with six shining flanges. They boast a pair of arms and tentacles, both of which end in powerful pincers.
 

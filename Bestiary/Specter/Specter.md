@@ -1,7 +1,7 @@
 ### Specter
 _Medium undead, chaotic evil_
 
-![[Specter.webp]]
+![[Specter.jpg]]
 
 A specter is the angry, unfettered spirit of a humanoid that has been prevented from passing to the afterlife. Specters no longer possess connections to who or what they were, yet are condemned to walk the world forever. Some are spawned when dark magic or the touch of a wraith rips a soul from a living body.
 

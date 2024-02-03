@@ -1,7 +1,7 @@
 ### Githyanki Gish
 _Medium humanoid (gith), lawful evil_
 
-![[Githyanki Gish.webp]]
+![[Githyanki Gish.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Giff Shock Trooper
 _Medium humanoid, any alignment_
 
-![[Giff Shock Trooper.webp]]
+![[Giff Shock Trooper.jpg]]
 
 A giff shock trooper is trained to mount assaults on enemy strongholds. Each one is adept at softening up the enemy from a distance with firearms before charging into melee to mop up the foes that remain standing.
 

@@ -1,7 +1,7 @@
 ### Lichen Lich
 _Medium undead, _
 
-![[Lichen Lich.webp]]
+![[Lichen Lich.jpg]]
 
 Lichen liches are undead remnants of powerful druids.
 

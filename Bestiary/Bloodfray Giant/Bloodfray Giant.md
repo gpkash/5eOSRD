@@ -1,7 +1,7 @@
 ### Bloodfray Giant
 _Huge giant, chaotic evil_
 
-![[Bloodfray Giant.webp]]
+![[Bloodfray Giant.jpg]]
 
 Giants in the Cult of Rakdos act as enforcers, bouncers, and sometimes even pillars, holding the mobile platforms that serve as stages for Rakdos performances. Like other members of the cult, giants thrill to the violence of those shows. Though they can seem entranced by the horror unfolding on the stage, they react quickly and brutally to any interruption of the performance.
 

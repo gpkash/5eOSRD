@@ -1,7 +1,7 @@
 ### Fiendish Auger
 _Huge construct, neutral evil_
 
-![[Fiendish Auger.webp]]
+![[Fiendish Auger.jpg]]
 
 A fiendish auger is created when a wicked spirit enters an excavation drill, causing the hulking corkscrew bore to glow brightly with hellfire.
 

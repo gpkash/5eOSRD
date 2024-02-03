@@ -1,7 +1,7 @@
 ### Arcanaloth
 _Medium fiend (yugoloth), neutral evil_
 
-![[Arcanaloth.webp]]
+![[Arcanaloth.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Plasmoid Warrior
 _Medium ooze, any alignment_
 
-![[Plasmoid Warrior.webp]]
+![[Plasmoid Warrior.jpg]]
 
 These battle-hardened plasmoids can toughen their outer surfaces, giving themselves protection comparable to light armor.
 

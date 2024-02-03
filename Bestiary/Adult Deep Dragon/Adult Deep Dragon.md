@@ -1,7 +1,7 @@
 ### Adult Deep Dragon
 _Huge dragon, neutral evil_
 
-![[Adult Deep Dragon.webp]]
+![[Adult Deep Dragon.jpg]]
 
 Making their lairs in the depths of the Underdark, deep dragons are nightmarish cousins of chromatic dragons. The warped magical energy of their subterranean realm gives them the ability to exhale magical spores that instill fear and scar the mind.
 

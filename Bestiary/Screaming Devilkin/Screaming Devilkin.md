@@ -1,7 +1,7 @@
 ### Screaming Devilkin
 _Small fey, lawful evil_
 
-![[Screaming Devilkin.webp]]
+![[Screaming Devilkin.jpg]]
 
 The ferocious screaming devilkin are bizarre fey creatures spawned by overwhelming moments of panic. Despite their diabolic appearance and name, are denizens of the Feywild. Sages believe that their appearance derives from the primal fear inspired by fiendish creatures, while bards assert that panic, being such a repulsive emotion, is embodied by an equally ugly creature.
 

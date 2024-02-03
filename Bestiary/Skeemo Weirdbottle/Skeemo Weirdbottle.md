@@ -1,7 +1,7 @@
 ### Skeemo Weirdbottle
 _Small humanoid (gnome), lawful evil_
 
-![[Skeemo Weirdbottle.webp]]
+![[Skeemo Weirdbottle.jpg]]
 
 Skeemo became the Master of Magic for the Black Network in Waterdeep, setting up a cover in the Trades Ward in the form of a cramped little shop called Weirdbottle's Concoctions. Most of his potions and elixirs are nonmagical, but he crafts magical ones for his Zhent friends.
 

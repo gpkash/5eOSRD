@@ -1,7 +1,7 @@
 ### Typhon
 _Huge monstrosity, chaotic evil_
 
-![[Typhon.webp]]
+![[Typhon.jpg]]
 
 Titanic horrors of writhing flesh and gnashing maws, typhons slither through the Underworld seeking only to consume. Once the souls of mortal warlords and cruel tyrants, typhons come into being over ages of festering bitterness and rage. Over time, these souls twist into eternally ravenous monstrosities, which rampage through the realm of the dead, consuming souls by the thousands. The Underworld remains their prison, though, and most would relish nothing more than to escape and slaughter the living once more.
 

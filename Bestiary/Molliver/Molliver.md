@@ -1,7 +1,7 @@
 ### Molliver
 _Medium humanoid (human), chaotic good_
 
-![[Molliver.webp]]
+![[Molliver.jpg]]
 
 Molliver is a thief who gives most of what they steal to the destitute, keeping a few choice items for their own use. They're always ready to put themself in harm's way to see justice triumph over tyranny and inequality.
 

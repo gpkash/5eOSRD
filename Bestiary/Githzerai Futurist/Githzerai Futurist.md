@@ -1,7 +1,7 @@
 ### Githzerai Futurist
 _Medium aberration (gith), any alignment_
 
-![[Githzerai Futurist.webp]]
+![[Githzerai Futurist.jpg]]
 
 Githzerai futurists have transcended their limits through focused meditation and can now catch glimpses of the future. They foresee the possible outcomes of battles, using those portents to tilt the balance in their favor.
 

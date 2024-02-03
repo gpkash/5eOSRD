@@ -1,7 +1,7 @@
 ### Ygorl, Lord of Entropy
 _Large aberration, chaotic neutral_
 
-![[Ygorl, Lord of Entropy.webp]]
+![[Ygorl, Lord of Entropy.jpg]]
 
 The enigmatic being known as Ygorl was one of the first slaadi created after Primus unleashed the Spawning Stone upon Limbo. A powerful being suffused with entropic power, Ygorl delights in the act of unmaking and bringing chaos to any ecosystem it visits. Lesser slaadi follow close behind the lord of entropy, delighting and furthering the destruction it brings.
 

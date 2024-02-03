@@ -1,7 +1,7 @@
 ### Kruthik Hive Lord
 _Large monstrosity, unaligned_
 
-![[Kruthik Hive Lord.webp]]
+![[Kruthik Hive Lord.jpg]]
 
 
 

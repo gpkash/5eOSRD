@@ -1,7 +1,7 @@
 ### Elder Dinosaur
 _Gargantuan monstrosity (titan), unaligned_
 
-![[Elder Dinosaur.webp]]
+![[Elder Dinosaur.jpg]]
 
 The opening of Orazca, the golden city—which marks the turn between the Ixalan set and Rivals of Ixalan—reveals the existence of six huge and ancient elder dinosaurs, apparently preserved for centuries. Compared to their smaller cousins, they have less brightly-colored plumage and more grayish scales, but their feathers are a bright gold that matches the city around them. They are strong-willed and ferocious, and thus are hard to control. But the power of the Immortal Sun gives the Sun Empire warriors who wield it the ability to bring these elder dinosaurs under their command.
 

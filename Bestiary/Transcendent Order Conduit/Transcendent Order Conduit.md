@@ -1,7 +1,7 @@
 ### Transcendent Order Conduit
 _Small, Medium humanoid, any alignment_
 
-![[Transcendent Order Conduit.webp]]
+![[Transcendent Order Conduit.jpg]]
 
 Members of the Transcendent Order train to act without thinking, eliminating thought behind action. Conduits react with the cadence of the multiverse. Their sharp reflexes border on precognition, allowing them to unconsciously act before their foes.
 

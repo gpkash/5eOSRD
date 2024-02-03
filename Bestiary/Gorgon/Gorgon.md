@@ -1,7 +1,7 @@
 ### Gorgon
 _Large monstrosity, unaligned_
 
-![[Gorgon.webp]]
+![[Gorgon.jpg]]
 
 Few creatures that encounter a gorgon live to tell about it. Its body is covered in iron plates, and its nostrils fume with green vapor.
 

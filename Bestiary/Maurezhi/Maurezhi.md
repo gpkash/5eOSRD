@@ -1,7 +1,7 @@
 ### Maurezhi
 _Medium fiend (demon), chaotic evil_
 
-![[Maurezhi.webp]]
+![[Maurezhi.jpg]]
 
 When Doresain, the King of Ghouls, corrupted a society of elves, he created a new sort of demon—the maurezhi—to lead packs of [[ghoul||ghouls]] and [[ghast||ghasts]] on the Material Plane.
 

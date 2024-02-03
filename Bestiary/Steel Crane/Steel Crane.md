@@ -1,7 +1,7 @@
 ### Steel Crane
 _Medium humanoid (human), lawful evil_
 
-![[Steel Crane.webp]]
+![[Steel Crane.jpg]]
 
 Steel Crane is tall and slender. He is exceptionally handsome, with neat silver hair and deep green eyes, and carries himself with the grace of a dancer.
 

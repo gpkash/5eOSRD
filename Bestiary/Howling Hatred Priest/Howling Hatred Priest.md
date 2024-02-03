@@ -1,7 +1,7 @@
 ### Howling Hatred Priest
 _Medium humanoid (human), neutral evil_
 
-![[Howling Hatred Priest.webp]]
+![[Howling Hatred Priest.jpg]]
 
 The most fanatical of the air cultists, the priests push their bodies to physical extremes in order to decrease their density and mass and become as light as leaves. Gaunt and sallow faced, with concave bellies, bulging eyes, and taut skin that enunciates every bone, these living skeletons sustain themselves on nothing more than air and fanatical devotion to the teachings of the cult. The wind serves them at a gesture.
 

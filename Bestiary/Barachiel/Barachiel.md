@@ -1,7 +1,7 @@
 ### Barachiel
 _Medium celestial, lawful good_
 
-![[Barachiel.webp]]
+![[Barachiel.jpg]]
 
 Barachiel is an aasimar that was born in the city of Elturel; a bastion of justice and symbol of good in the Forgotten Realms. His mother was the angel Zariel, the patron of Elturel. Barachiel grew up to become a Hellrider—the holy warriors that defend the city of Elturel. However, he gave up his freedom to become an agent of Mount Celestia so that he could try and save his mother. Zariel had been seduced and corrupted by Asmodeus. Now, as an archdevil, she rules the first layer of the Nine Hells.
 

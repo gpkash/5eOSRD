@@ -1,7 +1,7 @@
 ### Tiax
 _Small humanoid, chaotic neutral_
 
-![[Tiax.webp]]
+![[Tiax.jpg]]
 
 A long-serving cleric of Cyric, the god of lies, Tiax is absolutely certain of many things—most of them entirely untrue. After twenty years in Cyric's clergy, Tiax's mind has been twisted by the god's many tricks. Still, even so flavored by fantasy and deception, the favor of a god often proves a very powerful boon indeed. Whatever dire trouble Tiax finds himself in, even if it be the flames of the Nine Hells, his god will devise means of delivering him to safety—though often just by the skin of his teeth.
 

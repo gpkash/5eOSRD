@@ -1,7 +1,7 @@
 ### Aartuk Weedling
 _Medium plant, lawful evil_
 
-![[Aartuk Weedling.webp]]
+![[Aartuk Weedling.jpg]]
 
 Aartuks are intelligent plant creatures that live to wage war. Beholders destroyed their original home world and scattered the survivors across the Material Plane. These survivors formed small nomadic cells.
 

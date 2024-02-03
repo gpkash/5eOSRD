@@ -1,7 +1,7 @@
 ### Aspirant of the Comet
 _Medium humanoid, any alignment_
 
-![[Aspirant of the Comet.webp]]
+![[Aspirant of the Comet.jpg]]
 
 Aspirants aren't yet initiated into the mysteries of the Heralds of the Comet, but they are firmly in the group's clutches, both socially and metaphysically. If an aspirant is killed, the hapless individual is drawn into the Void and devoured, body and soul.
 

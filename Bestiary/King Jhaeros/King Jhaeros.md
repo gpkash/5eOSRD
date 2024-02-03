@@ -1,7 +1,7 @@
 ### King Jhaeros
 _Large construct, unaligned_
 
-![[King Jhaeros.webp]]
+![[King Jhaeros.jpg]]
 
 Known for its exquisite glasswork, Ghalasine was a prosperous city ruled by King Jhaeros Astolko. Governing from Castle Cinis, Jhaeros was advised by two councilors, Regine LaVerne and Charmayne Daymore, and a guard captain named Naevys Tharesso. Jhaeros's rule was compassionate, just, and kind. Over the last year, however, Naevys watched with growing concern as Jhaeros became more withdrawn and secretive, closing Ghalasine to trade and failing to honor his alliances.
 

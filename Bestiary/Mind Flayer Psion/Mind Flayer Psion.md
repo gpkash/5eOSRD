@@ -1,7 +1,7 @@
 ### Mind Flayer Psion
 _Medium aberration, lawful evil_
 
-![[Mind Flayer Psion.webp]]
+![[Mind Flayer Psion.jpg]]
 
 Mind flayers sometimes devote themselves to deeper study of psionic power, and many excel at using their innate psionic energy to duplicate the casting of spells.
 

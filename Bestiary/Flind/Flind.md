@@ -1,7 +1,7 @@
 ### Flind
 _Medium humanoid (gnoll), chaotic evil_
 
-![[Flind.webp]]
+![[Flind.jpg]]
 
 When the demon lord Yeenoghu wants to create a particularly fearsome war band leader, he transforms an excep tionally strong and vicious gnoll into a demonic warrior known as a flind.
 

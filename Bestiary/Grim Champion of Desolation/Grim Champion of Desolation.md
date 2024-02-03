@@ -1,7 +1,7 @@
 ### Grim Champion of Desolation
 _Medium undead, lawful evil_
 
-![[Grim Champion of Desolation.webp]]
+![[Grim Champion of Desolation.jpg]]
 
 Jyn Corvis, a former adventurer, might have been the first person to draw the Skull card from a Deck of Many Things and be slain by the avatar of death. Even Jyn doesn't know for sure, as that was so long ago that she's forgotten almost everything about her former life. Jyn's existence over so many centuries has left her in tortured misery, and now nihilism is all that drives her. More than any other member of the Grim Harrow, Jyn is desperate to destroy the deck and end her painful existence. If she could, she'd take the entire multiverse with her.
 

@@ -1,7 +1,7 @@
 ### Goon Balloon
 _Medium aberration, chaotic evil_
 
-![[Goon Balloon.webp]]
+![[Goon Balloon.jpg]]
 
 > _We found several of the creatures in an astral diamond mine at the edge of Greyspace. The miners wanted us to eliminate them. Our warlock, who was fluent in Deep Speech, managed to convince the bulbous creatures to relocate peacefully. They insisted we take them to a small, misshapen moon that doesn't appear on our charts. A horrible fear grips me. What if they're leading us into a trap?
 _

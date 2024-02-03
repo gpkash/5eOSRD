@@ -1,7 +1,7 @@
 ### Liondrake
 _Large monstrosity, neutral_
 
-![[Liondrake.webp]]
+![[Liondrake.jpg]]
 
 A liondrake is a solitary and territorial predator with the long neck and wings of a brass dragon and the head and body of a lion (including a luxurious mane on males). Sometimes known as dragonnes, liondrakes rely on their ferocity and their frightful roar to overcome prey and drive off rivals.
 

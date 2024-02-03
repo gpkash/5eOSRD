@@ -1,7 +1,7 @@
 ### Kivan
 _Medium humanoid (elf), chaotic good_
 
-![[Kivan.webp]]
+![[Kivan.jpg]]
 
 Kivan is a highly skilled elven ranger, equally proficient in archery and melee combat. In his youth, Kivan was driven to avenge the death of his wife, Deheriana. He channeled that anger by serving the shadow druid Faldorn in various raids against towns and villages on the borders of civilization. But this anger was quelled when he met his future husband, the druid Cernd of the Emerald Enclave. He left Faldorn and joined the Emerald Enclave.
 

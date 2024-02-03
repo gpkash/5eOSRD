@@ -1,7 +1,7 @@
 ### Shredwing
 _Medium fiend, lawful evil_
 
-![[Shredwing.webp]]
+![[Shredwing.jpg]]
 
 Tearing through the skies of the Nine Hells, shredwings aren't only a constant menace to mortal and fiendish travelers, but a reminder of the cruelties of one of Hell's worst overlords. Though Malagard was cast down from the throne of Malbolge and her bloated body shattered, her wickedness remains in the spite and cruelty of her creations.
 

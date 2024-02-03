@@ -1,7 +1,7 @@
 ### Riverine
 _Large fey, any alignment_
 
-![[Riverine.webp]]
+![[Riverine.jpg]]
 
 More than mere waterway guardians, riverines are embodiments of particular rivers. These spirits of nature take shape to defend their waters and interact with those who travel along their currents. From the waist up, riverines have skin the color of the waters they protect but are otherwise humanlike in appearance. From the waist down, they can manifest either humanlike legs or churning gouts of water. A riverine's personality reflects the nature of the river it arises from—some are lethargic while others are wild and reckless.
 

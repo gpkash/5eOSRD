@@ -1,7 +1,7 @@
 ### Young Topaz Dragon
 _Large dragon (gem), chaotic neutral_
 
-![[Young Topaz Dragon.webp]]
+![[Young Topaz Dragon.jpg]]
 
 Decay and despair are bound up in the nature of topaz dragons, thanks to the necrotic energy of the Negative Plane that suffuses them. Their psionic power manifests the fundamental entropic principle that mortal beings and their creations are ultimately doomed to death and decomposition, and the dragons' demeanor is typically morbid and curmudgeonly as a result.
 

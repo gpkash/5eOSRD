@@ -1,7 +1,7 @@
 ### Ironscale Hydra
 _Gargantuan monstrosity, unaligned_
 
-![[Ironscale Hydra.webp]]
+![[Ironscale Hydra.jpg]]
 
 Five-headed ironscale hydras lurk in the wild places of the world, being common foes for heroes seeking to test their mettle against terrors worthy of the gods' notice. Most ironscale hydras inhabit lakes and boggy caverns, from which they hunt unwary creatures that come for a drink or swim.
 

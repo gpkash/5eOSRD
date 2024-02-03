@@ -1,7 +1,7 @@
 ### Adult Kruthik
 _Medium monstrosity, unaligned_
 
-![[Adult Kruthik.webp]]
+![[Adult Kruthik.jpg]]
 
 
 

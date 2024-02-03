@@ -1,7 +1,7 @@
 ### Oddlewin
 _Small fey (goblinoid), chaotic neutral_
 
-![[Oddlewin.webp]]
+![[Oddlewin.jpg]]
 
 Oddlewin is a nilbog, a goblin possessed by a trickster spirit.
 

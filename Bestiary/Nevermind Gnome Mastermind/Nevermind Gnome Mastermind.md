@@ -1,7 +1,7 @@
 ### Nevermind Gnome Mastermind
 _Small humanoid, any alignment_
 
-![[Nevermind Gnome Mastermind.webp]]
+![[Nevermind Gnome Mastermind.jpg]]
 
 The gnome masterminds of Mount Nevermind temper their creativity with years of experience. While they still create wild inventions on a whim, these masterminds also wield at least one more stable clockwork invention—typically something that affords the mastermind more movement, extends their reach with extra appendages, or both.
 

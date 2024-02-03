@@ -1,7 +1,7 @@
 ### Demon
 _Large fiend (demon), chaotic evil_
 
-![[Demon.webp]]
+![[Demon.jpg]]
 
 Demons are artificial creatures, carefully constructed and imbued with aether according to a pattern called the Dark Schematic. Unknown artificers of the ancient past devised this blueprint—perhaps in an attempt to imitate the angels, or possibly to replicate native demons that have since been hunted to extinction. Just as angels embody white mana and the construction phase of the Aether Cycle, demons are ravenous incarnations of black mana that feast on aether. They raid night markets, pillage airships, and break into refinement plants seeking aether to slake their thirst, causing as much destruction as possible in the process. They can thus be imagined as an embodiment of the reclamation stage of the Aether Cycle.
 

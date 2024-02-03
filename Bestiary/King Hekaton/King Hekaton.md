@@ -1,7 +1,7 @@
 ### King Hekaton
 _Huge giant, chaotic good_
 
-![[King Hekaton.webp]]
+![[King Hekaton.jpg]]
 
 Storm giants are contemplative seers that live in places far removed from mortal civilization. Most have pale purple-gray skin and hair, and glittering emerald eyes.
 

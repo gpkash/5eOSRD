@@ -1,7 +1,7 @@
 ### Xill
 _Medium monstrosity, lawful evil_
 
-![[Xill.webp]]
+![[Xill.jpg]]
 
 Deep within the Ethereal Plane are the demiplanes, miniatures worlds built by powerful archmages and other mighty entities to serve as a private domain. Each demiplane is a designed realm, built for a specific purpose. Some are fortresses, designed to keep wanderers from the material world away. Others are far more sinister, dark realms where evil dreams take root and become ghastly realities. Such is the realm that spawned the xill, horrific, insectoid creatures created long ago to serve an ancient, evil master.
 

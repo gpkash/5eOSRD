@@ -1,7 +1,7 @@
 ### Air Elemental
 _Large elemental, neutral_
 
-![[Air Elemental.webp]]
+![[Air Elemental.jpg]]
 
 
 

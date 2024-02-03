@@ -1,7 +1,7 @@
 ### Eldritch Lich
 _Medium undead, neutral evil_
 
-![[Eldritch Lich.webp]]
+![[Eldritch Lich.jpg]]
 
 From beyond the stars, a Great Old One whispers promises of reality-defying knowledge and world-bending power. When a wizard or a warlock hears that whisper and listens too intently, they might set foot on the twisting path toward becoming an eldritch lich.
 

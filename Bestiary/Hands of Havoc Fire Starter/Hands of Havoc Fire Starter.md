@@ -1,7 +1,7 @@
 ### Hands of Havoc Fire Starter
 _Small, Medium humanoid, any alignment_
 
-![[Hands of Havoc Fire Starter.webp]]
+![[Hands of Havoc Fire Starter.jpg]]
 
 The pyromaniacal agents known as fire starters burn away oppressive systems through chaos and flame. They wield hammers that emit magical flames—perfect for smashing and burning.
 

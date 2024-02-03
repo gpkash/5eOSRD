@@ -1,7 +1,7 @@
 ### Nergaliid
 _Large fiend (devil), lawful evil_
 
-![[Nergaliid.webp]]
+![[Nergaliid.jpg]]
 
 Corpulent, scaled, and utterly repulsive, these vicious devils stalk the dark edges of society away from prying eyes, subsisting on the life force of unsuspecting humanoids. Creatures that die to the nergaliid's feeding leave a corrupted undead corpse behind known as a husk zombie (see earlier in this chapter).
 

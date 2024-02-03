@@ -1,7 +1,7 @@
 ### Minotaur
 _Large monstrosity, chaotic evil_
 
-![[Minotaur.webp]]
+![[Minotaur.jpg]]
 
 A minotaur's roar is a savage battle cry that most civilized creatures fear. Born into the mortal realm by demonic rites, minotaurs are savage conquerors and carnivores that live for the hunt. Their brown or black fur is stained with the blood of fallen foes, and they carry the stench of death.
 

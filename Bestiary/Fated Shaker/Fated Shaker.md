@@ -1,7 +1,7 @@
 ### Fated Shaker
 _Small, Medium humanoid, any alignment_
 
-![[Fated Shaker.webp]]
+![[Fated Shaker.jpg]]
 
 Fated shakers are bullies who shake down those indebted to the faction's tax collectors and evictors. These enforcers use their magic to intimidate and subjugate those who try to stand up to them.
 

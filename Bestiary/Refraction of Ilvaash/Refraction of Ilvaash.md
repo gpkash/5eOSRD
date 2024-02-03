@@ -1,7 +1,7 @@
 ### Refraction of Ilvaash
 _Huge aberration (mind flayer), lawful evil_
 
-![[Refraction of Ilvaash.webp]]
+![[Refraction of Ilvaash.jpg]]
 
 Ilvaash was formed from the remains of the mind flayer god Ilsensine, the God-Brain. When Ilsensine left the Far Realm to establish a divine domain elsewhere, pieces of the God-Brain sloughed away and awoke to sentience. This is Ilvaash, the Dissonant Psyche.
 

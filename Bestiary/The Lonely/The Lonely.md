@@ -1,7 +1,7 @@
 ### The Lonely
 _Medium monstrosity, lawful evil_
 
-![[The Lonely.webp]]
+![[The Lonely.jpg]]
 
 **The Lonely** The sorrow of isolation afflicts many creatures that lurk in the Shadowfell, but the need for companionship is never manifested more dramatically than in the Lonely. When these sorrowsworn spot other creatures, they feel keenly the need for interaction and so they launch their harpoon-like arms to drag their victims close.
 

@@ -1,7 +1,7 @@
 ### Duergar Xarrorn
 _Medium humanoid (dwarf), lawful evil_
 
-![[Duergar Xarrorn.webp]]
+![[Duergar Xarrorn.jpg]]
 
 
 

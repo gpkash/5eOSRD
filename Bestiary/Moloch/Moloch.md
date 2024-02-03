@@ -1,7 +1,7 @@
 ### Moloch
 _Large fiend (devil), lawful evil_
 
-![[Moloch.webp]]
+![[Moloch.jpg]]
 
 > _Moloch obsesses over the power he lost, rather than thinking of the power he could gain elsewhere in the planes. What a pity he so wastes his potential.
 _

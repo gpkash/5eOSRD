@@ -1,7 +1,7 @@
 ### War Priest
 _Medium humanoid (any race), any alignment_
 
-![[War Priest.webp]]
+![[War Priest.jpg]]
 
 War priests worship deities of war, protection, and strategy. They plan tactics, lead soldiers into battle, confront enemy spellcasters, and tend to casualties. A war priest might command an army or serve as the right hand of a [[warlord|MPMM]] (appears in [[this book|MPMM]]) on the battlefield.
 

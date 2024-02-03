@@ -1,7 +1,7 @@
 ### Illusionist Wizard
 _Medium humanoid, any alignment_
 
-![[Illusionist Wizard.webp]]
+![[Illusionist Wizard.jpg]]
 
 
 

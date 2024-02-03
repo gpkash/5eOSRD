@@ -1,7 +1,7 @@
 ### Arrant Quill
 _Medium humanoid (human), neutral evil_
 
-![[Arrant Quill.webp]]
+![[Arrant Quill.jpg]]
 
 Quill is a charismatic bard who carries himself with a quiet confidence that doesn't hint at the full extent of his skills or powers. His handsome features are marred by a scar that curves from the top of his left cheekbone down to his jaw, though he doesn't consider the scar disfiguring. If asked about the scar, he explains that he got it years ago when the man who burned down his home village slashed his face with a dagger. It serves as a grim reminder of his past.
 

@@ -1,7 +1,7 @@
 ### Turntimber Giant
 _Huge giant, neutral good, neutral evil_
 
-![[Turntimber Giant.webp]]
+![[Turntimber Giant.jpg]]
 
 Zendikar's giants are enormous humanoids that live in tight-knit tribes as far as possible from the settlements of other races. Compared to ogres and minotaurs, they are civilized and intelligent, though they are wilder than the smaller humanoid races.
 

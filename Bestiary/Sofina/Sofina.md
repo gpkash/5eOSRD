@@ -1,7 +1,7 @@
 ### Sofina
 _Medium humanoid (wizard), neutral evil_
 
-![[Sofina.webp]]
+![[Sofina.jpg]]
 
 Sofina is a Red Wizard of Thay, an elite practitioner of magic with ties to Thay's tyrannical magocracy. Sofina specializes in necromancy. Death magic and fear are both tools in her arsenal.
 

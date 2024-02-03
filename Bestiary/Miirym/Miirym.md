@@ -1,7 +1,7 @@
 ### Miirym
 _Large undead, _
 
-![[Miirym.webp]]
+![[Miirym.jpg]]
 
 Well over 1,500 years ago, the silver dragon Miirym broke into Candlekeep, intent on adding its riches to her hoard. She devoured scholars and destroyed a score of irreplaceable books before she was confronted by an archmage and bound into service to protect Candlekeep as penance for her misdeeds. The wizard passed away before Miirym's sentence had been served, and other spellcasters were unable to break the enchantment that bound her.
 

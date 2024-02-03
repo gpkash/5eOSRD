@@ -1,7 +1,7 @@
 ### Black Pudding
 _Large ooze, unaligned_
 
-![[Black Pudding.webp]]
+![[Black Pudding.jpg]]
 
 
 

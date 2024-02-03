@@ -1,7 +1,7 @@
 ### Warlord
 _Medium humanoid (any race), any alignment_
 
-![[Warlord.webp]]
+![[Warlord.jpg]]
 
 Warlords are legendary battlefield commanders, whose names are spoken with awe. After a string of decisive victories, a warlord could easily take on the role of monarch or general and attract followers willing to die for the warlord's banner.
 

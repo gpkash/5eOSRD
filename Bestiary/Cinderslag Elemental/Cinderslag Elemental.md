@@ -1,7 +1,7 @@
 ### Cinderslag Elemental
 _Large elemental, _
 
-![[CinderslagElementalFluff.webp]]
+![[CinderslagElementalFluff.jpg]]
 
 Cinderslag elementals are pure manifestations of the hatred and furore of the deceased [[Cinder King, Thordak|1|Thordak, the Cinder King]]. Even after his death, the fires of that great red dragon continue to ravage [[Emon|3|Emon, the City of Fellowship]], as places scorched by his corrupting flames are transformed into vitriolic pits of slag and ash that spawn mindless creatures of elemental destruction. Though [[Thordak's Crater|3|7. Thordak's Crater]] in [[Emon|3|Emon, the City of Fellowship]] has mostly been healed by the Fire Ashari of Pyrah, the terrible fires still churning beneath the city give rise to [[cinderslag elemental|cinderslag elementals]], as do other areas where the [[Cinder King's|1|Thordak, the Cinder King]] elemental devastation has left an indelible mark, including the ruins of [[Serpent's Head|3|Serpent's Head]] in the [[Cliffkeep Mountains|3|Cliffkeep Mountains]] and the [[Ashen Gorge|3|Ashen Gorge]] in the [[Stormcrest Mountains|3|Stormcrest Mountains]].
 

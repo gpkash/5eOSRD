@@ -1,7 +1,7 @@
 ### Undying Soldier
 _Medium undead, neutral good_
 
-![[Undying Soldier.webp]]
+![[Undying Soldier.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Frost Giant Ice Shaper
 _Huge giant (cleric), any alignment_
 
-![[Frost Giant Ice Shaper.webp]]
+![[Frost Giant Ice Shaper.jpg]]
 
 Frost giants who master rune magic are known as ice shapers, and their sheer power typically contributes to a meteoric rise in the giants' ordning. Many of them end up as jarls, leading their communities, or as advisers to jarls—often the true power behind the throne. They are usually devoted to Thrym.
 

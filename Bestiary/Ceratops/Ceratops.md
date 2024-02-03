@@ -1,7 +1,7 @@
 ### Ceratops
 _Huge beast, unaligned_
 
-![[Ceratops.webp]]
+![[Ceratops.jpg]]
 
 
 

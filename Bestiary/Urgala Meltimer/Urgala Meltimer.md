@@ -1,7 +1,7 @@
 ### Urgala Meltimer
 _Medium humanoid (Turami human), lawful good_
 
-![[Urgala Meltimer.webp]]
+![[Urgala Meltimer.jpg]]
 
 A retired adventurer, Urgala owns a respectable inn, the Northshield House, and she doesn't want to see it or her neighbors' homes destroyed. She has no tolerance for monsters or bullies.
 

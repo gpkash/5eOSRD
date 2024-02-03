@@ -1,7 +1,7 @@
 ### Durnan
 _Medium humanoid (human), neutral_
 
-![[Durnan.webp]]
+![[Durnan.jpg]]
 
 Durnan is the owner and proprietor of the Yawning Portal. Although he looks like a middle-aged man whose best days are behind him, Durnan has a sharp mind and can still swing a sword when he must. He doesn't like talking about his past, and he won't reveal anything about his time as an adventurer.
 

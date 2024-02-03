@@ -1,7 +1,7 @@
 ### Shoosuva
 _Large fiend (demon), chaotic evil_
 
-![[Shoosuva.webp]]
+![[Shoosuva.jpg]]
 
 > _What? Are you expecting me to comment on these creatures? Fine, how's this: a loyal pet deserves a loyal pet.
 _

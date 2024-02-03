@@ -1,7 +1,7 @@
 ### Spectral Cloud
 _Huge undead, neutral_
 
-![[Spectral Cloud.webp]]
+![[Spectral Cloud.jpg]]
 
 A cloud giant that dies through an act of betrayal or an ill-fated wager sometimes returns as a spectral cloud. While this Undead seems to be merely a thick cloud or fog bank, observers can sometimes spot a shadowy bipedal figure lurking within. At the heart of the cloud, the figure's appearance becomes clear: a skeletal cloud giant corpse.
 

@@ -1,7 +1,7 @@
 ### Cloud Giant Destiny Gambler
 _Huge giant (bard), any alignment_
 
-![[Cloud Giant Destiny Gambler.webp]]
+![[Cloud Giant Destiny Gambler.jpg]]
 
 Cloud giants rise in the ordning by amassing valuable and beautiful treasures—often by gambling. While many cloud giants are content with risking their wealth in games with each other, those who aim for the top of their ordning challenge all manner of beings in games of chance and wit. A destiny gambler is a cloud giant who has won increasingly high-stakes wagers against other giants, smaller folk, and even beings from the Outer Planes.
 

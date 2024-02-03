@@ -1,7 +1,7 @@
 ### Vecna the Archlich
 _Medium undead (Wizard), lawful evil_
 
-![[Vecna Profile.webp]]
+![[Vecna Profile.jpg]]
 
 On countless worlds, his name evokes tales of terror and cruelty. Vecna the Undying King. Vecna the Whispered One. Vecna the Lord of the Rotted Tower. Over more than a hundred thousand years, incandescent hatred carried him from the humblest of origins to a conqueror's throne, then to the realms that lie beyond life and death, and finally to godhood. Many have suffered his terrible wrath, but few can recount how a lowly scribe left an aeon-deep scar on the multiverse before ascending beyond the material altogether. Only a few fragments of Vecna's story have ever been unearthed.
 

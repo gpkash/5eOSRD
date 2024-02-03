@@ -1,7 +1,7 @@
 ### Diviner Wizard
 _Medium humanoid, any alignment_
 
-![[Diviner Wizard.webp]]
+![[Diviner Wizard.jpg]]
 
 
 

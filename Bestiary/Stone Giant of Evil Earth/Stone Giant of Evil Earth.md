@@ -1,7 +1,7 @@
 ### Stone Giant of Evil Earth
 _Huge giant, neutral evil_
 
-![[Stone Giant of Evil Earth.webp]]
+![[Stone Giant of Evil Earth.jpg]]
 
 Stone giants with a bent toward cruelty and destruction might reject the gods of the Ordning and turn to the worship of Ogrémoch, the Prince of Evil Earth. These giants view the surface world not as a realm of dream but as a nightmare worthy only of destruction, so they lend their strength to cults that plan to reduce the world to rubble.
 

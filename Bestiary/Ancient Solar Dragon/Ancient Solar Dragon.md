@@ -1,7 +1,7 @@
 ### Ancient Solar Dragon
 _Gargantuan dragon, neutral_
 
-![[Ancient Solar Dragon.webp]]
+![[Ancient Solar Dragon.jpg]]
 
 
 

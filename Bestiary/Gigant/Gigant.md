@@ -1,7 +1,7 @@
 ### Gigant
 _Gargantuan monstrosity, unaligned_
 
-![[Gigant.webp]]
+![[Gigant.jpg]]
 
 A gigant is a towering insectile creature variously regarded as a harbinger of doom, a defender of nature, and a divine messenger of mysterious purpose. Giants regard them as a plague, since gigants prefer giants over other food. Some giants claim gigants are created by the weird magical aura that surrounds a gargantua.
 

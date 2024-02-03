@@ -1,7 +1,7 @@
 ### Constructed Commoner
 _Medium construct, _
 
-![[Constructed Commoner.webp]]
+![[Constructed Commoner.jpg]]
 
 To populate the demiplane without endangering any innocents, the Harpers created constructs out of wooden mannequins to act as villagers. Magic makes them look like flesh-and-blood people, and the constructs conduct themselves as convincingly real humanoids who are simply living their lives in Wisteria Vale. [[Detect magic]] spells do not reveal their true nature, as each construct is shielded by a spell that makes it seem nonmagical.
 

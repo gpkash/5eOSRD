@@ -1,7 +1,7 @@
 ### Asteroid Spider
 _Gargantuan monstrosity, neutral evil_
 
-![[Asteroid Spider.webp]]
+![[Asteroid Spider.jpg]]
 
 An asteroid spider is a menace native to Wildspace and the Astral Sea. A full-grown specimen has a body 30 feet in diameter and legs that are at least 30 feet long. When it wraps its legs tightly around its body and closes its eyes, the asteroid spider resembles nothing so much as a giant, lifeless rock in space—hence its name.
 

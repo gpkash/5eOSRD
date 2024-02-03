@@ -1,7 +1,7 @@
 ### Baernaloth
 _Large fiend (yugoloth), neutral evil_
 
-![[Baernaloth.webp]]
+![[Baernaloth.jpg]]
 
 Baernaloths are tall, gaunt yugoloths who keep to the Gray Wastes of Hades. Their gray, desiccated skin stretches over their bones, and their heads resemble horned equine skulls with ember-like eyes. Sages endlessly debate the nature of baernaloths, and the[[Books of Keeping]]—ancient tomes detailing the true names of the first yugoloths—report no mention of baernaloths within. Some posit that these enigmatic yugoloths were created by a primal evil power before other yugoloths or that they come from an epoch before the current manifestation of the planes. Baernaloths refuse to say, but most obsess over secrets and obscene lore regarding the far-flung past and inscrutable future of the multiverse. Many of these rare scholars of the profane seek to manipulate reality on a grand scale, while others unleash horrific experiments on the planes. It's said the first demodands of Carceri were created by baernaloths.
 

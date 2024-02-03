@@ -1,7 +1,7 @@
 ### Great Cat
 _Large beast, unaligned_
 
-![[Great Cat.webp]]
+![[Great Cat.jpg]]
 
 At least two varieties of great cat (similar to the [[saber-toothed tiger]]) sport enormous blades jutting back from the forelegs, which help them cut through heavy undergrowth and take down much larger prey.
 

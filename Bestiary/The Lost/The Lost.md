@@ -1,7 +1,7 @@
 ### The Lost
 _Medium monstrosity, lawful evil_
 
-![[The Lost.webp]]
+![[The Lost.jpg]]
 
 **The Lost** The Shadowfell turns visitors around until they become marooned in its twisted landscape. The Lost are representations of the anxiety and fear that people experience when they can't find their way. These sorrowsworn appear as desperate and panicked things.
 

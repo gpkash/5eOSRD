@@ -1,7 +1,7 @@
 ### Frost Giant Zombie
 _Huge undead, neutral evil_
 
-![[Frost Giant Zombie.webp]]
+![[Frost Giant Zombie.jpg]]
 
 An unknown Aeorian object of immense power and mystery was uncovered and brought to the Fortress of the Dead Jarl in Eiselcross to please the ruling frost giant, Conessa Berg. The object's unstable nature unleashed a burst of corroding arcane power, ravaging the denizens of the stronghold with twisting necromantic energies, transforming them into monstrous, rime-infused undead. These hulking brutes now wander the ruined landscape surrounding their cursed home, hunting and destroying all living things with a frightening ferocity.
 

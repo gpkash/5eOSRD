@@ -1,7 +1,7 @@
 ### Tasloi
 _Small humanoid (goblinoid), chaotic evil_
 
-![[Tasloi.webp]]
+![[Tasloi.jpg]]
 
 Lanky but small goblin-like creatures, tasloi largely dwell in the dense tropical forests of southern Faerûn. However, groups of tasloi have made their way northwards to the Sword Coast, with a notable enclave within the Cloakwood. With vibrant green skin covered by a thin layer of coarse black hair, tasloi can perfectly blend in with their surroundings with only the faint glow of their golden, almost feline eyes betraying their presence. Although generally less intelligent than humans, tasloi can be quite clever, using superior numbers and pack tactics to make them surprisingly formidable foes.
 

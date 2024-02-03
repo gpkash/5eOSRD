@@ -1,7 +1,7 @@
 ### Giant Lynx
 _Medium fey, neutral_
 
-![[Giant Lynx.webp]]
+![[Giant Lynx.jpg]]
 
 Though they're often mistaken for mundane cats, giant lynxes are magical creatures with origins in the snowy woodlands of the Feywild. Their coats grow lighter in winter, helping to camouflage them in their favored habitats even when the landscape is draped in snow.
 

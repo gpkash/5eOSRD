@@ -1,7 +1,7 @@
 ### Hurda
 _Huge giant, chaotic evil_
 
-![[Hurda.webp]]
+![[Hurda.jpg]]
 
 Hurdas are huge, semi-humanoid creatures thought to be distantly related to giants. They are primarily employed as heavy labor—hauling stone, shifting earth, and drawing the huge carts of the Goma Fada caravan, for example. They are essentially beasts of burden, no more intelligent than a [[baloth|PSZ]] or [[terastodon|PSZ]]—but significantly more pliable. Murasan hurdas are more aggressive than their calmer Onduan kin, serving as protection for the caravans instead of drawing its carts.
 

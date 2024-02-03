@@ -1,7 +1,7 @@
 ### Living Blade of Disaster
 _Small construct, chaotic evil_
 
-![[Living Blade of Disaster.webp]]
+![[Living Blade of Disaster.jpg]]
 
 A living blade of disaster is a [[blade of disaster]] spell (see appendix D) with a wicked will of its own. It looks like a floating, black planar rift in the shape of a sword. Like a demon, it craves destruction.
 

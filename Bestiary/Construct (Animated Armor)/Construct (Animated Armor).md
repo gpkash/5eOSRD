@@ -1,7 +1,7 @@
 ### Construct (Animated Armor)
 _Medium construct, unaligned_
 
-![[Construct.webp]]
+![[Construct.jpg]]
 
 
 

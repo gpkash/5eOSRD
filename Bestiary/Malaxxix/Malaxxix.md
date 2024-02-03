@@ -1,7 +1,7 @@
 ### Malaxxix
 _Huge fiend (yugoloth), neutral evil_
 
-![[Malaxxix.webp]]
+![[Malaxxix.jpg]]
 
 Legends describe the dread being Malaxxix as the child of one of the night hags who created the first yugoloths. Malaxxix is often lumped in with such Fiends, perhaps because it too has a grand intellect and self-centered agenda.
 

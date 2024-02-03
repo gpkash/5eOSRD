@@ -1,7 +1,7 @@
 ### Dagryn
 _Medium humanoid (dwarf), neutral evil_
 
-![[Dagryn.webp]]
+![[Dagryn.jpg]]
 
 > _I've long pursued the story of the dwarf who could change into a dragon. That Minsc and his ridiculous pet could track him down first is infuriating!
 _

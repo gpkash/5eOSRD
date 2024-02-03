@@ -1,7 +1,7 @@
 ### Bearded Devil
 _Medium fiend (devil), lawful evil_
 
-![[Bearded Devil.webp]]
+![[Bearded Devil.jpg]]
 
 
 

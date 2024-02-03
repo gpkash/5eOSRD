@@ -1,7 +1,7 @@
 ### Sacred Stone Monk
 _Medium humanoid (human), lawful evil_
 
-![[Sacred Stone Monk.webp]]
+![[Sacred Stone Monk.jpg]]
 
 Sacred Stone monks are followers of a martial philosophy that seeks to emulate the strength of rock and stone. They don gargoyle masks and use a finely honed sense of touch to measure their surroundings by contact with the ground. They avoid speaking, or extraneous thought for that matter. They live only to test themselves with deprivation and to punish those who doubt the strength of elemental earth.
 

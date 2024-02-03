@@ -1,7 +1,7 @@
 ### Vampire Spawn
 _Medium undead, neutral evil_
 
-![[Vampire Spawn.webp]]
+![[Vampire Spawn.jpg]]
 
 
 

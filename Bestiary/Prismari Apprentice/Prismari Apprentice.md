@@ -1,7 +1,7 @@
 ### Prismari Apprentice
 _Small, Medium humanoid (sorcerer), any alignment_
 
-![[Prismari Apprentice.webp]]
+![[Prismari Apprentice.jpg]]
 
 The students of Prismari College—first as apprentices and then as pledgemages—see no distinction between magic and art. No two Prismari students have the same style of spellcasting; each wields the elemental magic taught by the college in a way that expresses their personality. In the hands of Prismari students, spells that conjure fire or bend water to one's will become vibrant and expressive showcases, thrumming with creative energy.
 

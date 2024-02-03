@@ -1,7 +1,7 @@
 ### Vampiric Mist
 _Medium undead, chaotic evil_
 
-![[Vampiric Mist.webp]]
+![[Vampiric Mist.jpg]]
 
 In billowing clouds of fog lurk vampiric mists, the wretched remnants of [[vampire||vampires]] that were prevented from finding rest. Indistinguishable from the mists they lurk within, they strike unseen and undetected to bleed their victims dry.
 

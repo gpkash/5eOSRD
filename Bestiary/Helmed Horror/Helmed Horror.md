@@ -1,7 +1,7 @@
 ### Helmed Horror
 _Medium construct, unaligned_
 
-![[Helmed Horror.webp]]
+![[Helmed Horror.jpg]]
 
 This construct possesses intelligence, the ability to reason and adjust its tactics, and an unswerving devotion to its maker that persists even after its maker's demise. Resembling an animated suit of empty plate armor, a helmed horror serves without ambition or emotion.
 

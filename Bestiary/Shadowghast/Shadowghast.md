@@ -1,7 +1,7 @@
 ### Shadowghast
 _Medium undead, chaotic evil_
 
-![[Shadowghast.webp]]
+![[Shadowghast.jpg]]
 
 A shadowghast is an undead assassin. Leaping out from the shadows and trailing tendrils of darkness, it closes in on its prey with nary a sound, then tears into a victim with its paralyzing claws and furious bite.
 

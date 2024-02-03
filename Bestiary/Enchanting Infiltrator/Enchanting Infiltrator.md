@@ -1,7 +1,7 @@
 ### Enchanting Infiltrator
 _Small, Medium fey, neutral evil_
 
-![[Enchanting Infiltrator.webp]]
+![[Enchanting Infiltrator.jpg]]
 
 An antagonist for tier 2 play (levels 5 to 10), the enchanting infiltrator is a Fey that beguiles and misdirects.
 

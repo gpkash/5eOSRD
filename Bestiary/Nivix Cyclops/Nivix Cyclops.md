@@ -1,7 +1,7 @@
 ### Nivix Cyclops
 _Large giant, unaligned_
 
-![[Nivix Cyclops.webp]]
+![[Nivix Cyclops.jpg]]
 
 Cyclopes like those described in the Monster Manual are found primarily among the Gruul Clans. They are forces of nature, and even though they have occasionally been recruited into the Boros Legion, they can never truly be tamed.
 

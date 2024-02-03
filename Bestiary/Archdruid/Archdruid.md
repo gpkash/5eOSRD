@@ -1,7 +1,7 @@
 ### Archdruid
 _Medium humanoid (any race), any alignment_
 
-![[Archdruid.webp]]
+![[Archdruid.jpg]]
 
 Archdruids watch over the natural wonders of their domains. They seldom interact with folk away from their druid groves and shrines, unless there is a great threat to the natural order or to a nearby community. An archdruid typically has one or more pupils who are [[druid||druids]], and the archdruid's lair is usually guarded by loyal Beasts and Fey creatures.
 

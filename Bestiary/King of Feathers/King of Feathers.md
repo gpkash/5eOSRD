@@ -1,7 +1,7 @@
 ### King of Feathers
 _Huge monstrosity, unaligned_
 
-![[King of Feathers.webp]]
+![[King of Feathers.jpg]]
 
 The monstrous tyrannosaurus known as the King of Feathers is the undisputed lord of Omu. Most other dwellers of the Forbidden City live in fear of its thunderous approach and steer well clear of the amphitheater, its lair.
 

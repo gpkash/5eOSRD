@@ -1,7 +1,7 @@
 ### Foresworn
 _Medium undead, lawful good_
 
-![[Foresworn.webp]]
+![[Foresworn.jpg]]
 
 Foresworn are the spirits of fallen Solamnic knights who attend to their duty long after death. Armed with spectral armor and weaponry, a foresworn maintains the martial prowess it had in life and can call on magic and its fallen brethren for aid.
 

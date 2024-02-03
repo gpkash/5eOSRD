@@ -1,7 +1,7 @@
 ### Transcendent Order Instinct
 _Small, Medium humanoid, any alignment_
 
-![[Transcendent Order Instinct.webp]]
+![[Transcendent Order Instinct.jpg]]
 
 Elite martial artists, instincts have learned to fight unburdened by thought, deflecting the blows of their enemies in rapid succession.
 

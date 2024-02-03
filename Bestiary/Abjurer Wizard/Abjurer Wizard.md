@@ -1,7 +1,7 @@
 ### Abjurer Wizard
 _Medium humanoid, any alignment_
 
-![[Abjurer Wizard.webp]]
+![[Abjurer Wizard.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Fomorian Warlock of the Dark
 _Huge giant, any alignment_
 
-![[Fomorian Warlock of the Dark.webp]]
+![[Fomorian Warlock of the Dark.jpg]]
 
 
 

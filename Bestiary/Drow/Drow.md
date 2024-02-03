@@ -1,7 +1,7 @@
 ### Drow
 _Medium humanoid (elf), neutral evil_
 
-![[Drow.webp]]
+![[Drow.jpg]]
 
 **Drow** Tens of thousands of years ago, the elves were divided, with those of benevolent disposition battling those that were selfish and cruel. The war among elvenkind ended when the good elves banished their malevolent kin to the subterranean depths. Here, in the lightless caverns and endless warrens of twisting passages, the dark elves-the drow-found refuge. They also found leadership in the only elven deity who had not forsaken them. At her command, the dark elves built an empire in the underworld.
 

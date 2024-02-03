@@ -1,7 +1,7 @@
 ### Nightwalker
 _Huge undead, chaotic evil_
 
-![[Nightwalker.webp]]
+![[Nightwalker.jpg]]
 
 The Negative Plane is a place of death, anathema to all living things. Yet there are some who would tap into its fell power and use its energy for sinister ends. Most individuals prove unequal to the task. Those not destroyed outright are sometimes drawn inside the plane and replaced by nightwalkers—terrifying Undead creatures that devour all life they encounter.
 

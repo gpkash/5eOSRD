@@ -1,7 +1,7 @@
 ### Astral Elf Commander
 _Medium humanoid, any alignment_
 
-![[Astral Elf Commander.webp]]
+![[Astral Elf Commander.jpg]]
 
 An astral elf commander leads warriors into battle and usually has one or more spelljamming ships under their command. A commander channels the radiant energy of starlight through their weapons, and they can rescue warriors from a perilous situation by using their gods-given power of teleportation.
 

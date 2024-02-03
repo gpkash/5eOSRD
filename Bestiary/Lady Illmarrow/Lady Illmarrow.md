@@ -1,7 +1,7 @@
 ### Lady Illmarrow
 _Medium undead, neutral evil_
 
-![[Lady Illmarrow.webp]]
+![[Lady Illmarrow.jpg]]
 
 Lady Illmarrow is a legend—an ancient lich said to dwell in a castle of bone and ice in the coldest regions of the Lhazaar Principalities. Some stories say that she is served by a legion of undead and that she maintains a court of vampires and ghosts in her palace of ice. Other tales claim that when anyone dies in Lhazaar, Illmarrow chooses whether to take their soul before it passes on to the Keeper and Dolurrh.
 

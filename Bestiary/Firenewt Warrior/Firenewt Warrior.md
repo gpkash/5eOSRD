@@ -1,7 +1,7 @@
 ### Firenewt Warrior
 _Medium humanoid (firenewt), neutral evil_
 
-![[Firenewt Warrior.webp]]
+![[Firenewt Warrior.jpg]]
 
 
 

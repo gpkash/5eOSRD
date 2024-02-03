@@ -1,7 +1,7 @@
 ### Water Elemental Myrmidon
 _Medium elemental, neutral_
 
-![[Water Elemental Myrmidon.webp]]
+![[Water Elemental Myrmidon.jpg]]
 
 
 

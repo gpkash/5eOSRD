@@ -1,7 +1,7 @@
 ### Grinning Cat
 _Large fey, chaotic neutral_
 
-![[Grinning Cat.webp]]
+![[Grinning Cat.jpg]]
 
 Grinning cats are mischievous Fey who delight in pestering and misleading travelers. They resemble oversized domestic cats with long, needlelike claws, but they're distinguished by the wide, toothy smiles that give them their name.
 

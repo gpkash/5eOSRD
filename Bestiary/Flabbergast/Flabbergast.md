@@ -1,7 +1,7 @@
 ### Flabbergast
 _Medium humanoid (human), lawful neutral_
 
-![[Flabbergast.webp]]
+![[Flabbergast.jpg]]
 
 Not much is known of the mysterious and aloof majordomo of Acquisitions Incorporated Head Office, the mage known as Flabbergast. It's said that he hails from Neverwinter, and that his wealthy family helped erect and carve the famous Dolphin Bridge in that city. Although he detests physical labor, Flabbergast is a bit of a bridge builder in his own way, always striving to bring people together and flexing his diplomatic muscles. A pacifist bureaucrat, he abhors violence, and rarely puts his magical prowess on display.
 

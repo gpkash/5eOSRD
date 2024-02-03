@@ -1,7 +1,7 @@
 ### Sul Khatesh
 _Large fiend, lawful evil_
 
-![[Sul Khatesh.webp]]
+![[Sul Khatesh.jpg]]
 
 
 

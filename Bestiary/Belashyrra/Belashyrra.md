@@ -1,7 +1,7 @@
 ### Belashyrra
 _Medium aberration, chaotic evil_
 
-![[Belashyrra.webp]]
+![[Belashyrra.jpg]]
 
 Belashyrra is the Lord of Eyes, also known to its cultists as the All-Seer or the Glorious Eye. Stories told of Belashyrra in the Shadow Marches whisper that the Lord of Eyes can see every evil deed a person commits, and that those touched by this daelkyr suffer terrible hallucinations that inevitably drive them to violence or death.
 

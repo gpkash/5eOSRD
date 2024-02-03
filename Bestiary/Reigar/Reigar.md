@@ -1,7 +1,7 @@
 ### Reigar
 _Medium celestial, chaotic neutral_
 
-![[Reigar.webp]]
+![[Reigar.jpg]]
 
 Reigar were once cephalopods similar to octopi. They inhabited the stormy seas of Ysgard until the gods of that plane transformed them. Reigar have bioluminescent freckles and the ability to change the coloration of their skin. A glory (or halo) surrounds each of them. This magical display is a cloud of twinkling, glittering motes that changes color randomly and repels attacks.
 

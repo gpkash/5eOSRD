@@ -1,7 +1,7 @@
 ### Cornelius Watson
 _Medium humanoid (human), neutral good_
 
-![[Cornelius Watson.webp]]
+![[Cornelius Watson.jpg]]
 
 Doc Watson (only his mother calls him Cornelius) is the consummate academic. He has an eclectic collection of interests and rarely stays focused on a single subject for longer than a few months. He calls himself a doctor, though strangely, medicine has never been one of his interests. Supposedly the term comes from his time with a man who claimed the highest accolade one could achieve in the study of a single subject was called a "doctorate". The one interest that Doc Watson has consistently kept up with is magic and that is mainly because it remains the best tool to help him continue to learn.
 

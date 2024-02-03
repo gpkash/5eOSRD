@@ -1,7 +1,7 @@
 ### Devourer
 _Large fiend, chaotic evil_
 
-![[Devourer.webp]]
+![[Devourer.jpg]]
 
 Of all the abominations unleashed by [[Orcus|MPMM]], devourers are among the most feared. These tall, mummy-like Undead wander the planes, consuming souls and spreading Orcus's creed of replacing all life with everlasting death.
 

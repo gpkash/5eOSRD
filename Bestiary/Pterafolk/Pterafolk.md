@@ -1,7 +1,7 @@
 ### Pterafolk
 _Large monstrosity, neutral evil_
 
-![[Pterafolk.webp]]
+![[Pterafolk.jpg]]
 
 Pterafolk (pronounced TAIR-eh-folk) are 10-foot-tall, winged, reptilian bipeds native to Chult. Malevolent isolationists, they regard most other creatures as their enemies. In Chultan culture, pterafolk are often referred to as "terror folk" for their habit of swooping down from the sky to snatch whatever and whomever they can, then transporting treasure and food back to their roosts.
 

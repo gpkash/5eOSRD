@@ -1,7 +1,7 @@
 ### Hew Hackinstone
 _Medium humanoid (dwarf), chaotic neutral_
 
-![[Hew Hackinstone.webp]]
+![[Hew Hackinstone.jpg]]
 
 Hailing from uncivilized lands, unpredictable berserkers come together in war parties and seek conflict wherever they can find it.
 

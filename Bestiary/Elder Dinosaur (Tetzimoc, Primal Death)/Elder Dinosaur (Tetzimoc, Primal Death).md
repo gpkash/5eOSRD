@@ -1,7 +1,7 @@
 ### Elder Dinosaur (Tetzimoc, Primal Death)
 _Gargantuan monstrosity (titan), unaligned_
 
-![[Elder Dinosaur (Tetzimoc, Primal Death).webp]]
+![[Elder Dinosaur (Tetzimoc, Primal Death).jpg]]
 
 
 

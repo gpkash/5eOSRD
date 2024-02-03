@@ -1,7 +1,7 @@
 ### Zuggtmoy
 _Large fiend (demon), chaotic evil_
 
-![[Zuggtmoy.webp]]
+![[Zuggtmoy.jpg]]
 
 The Demon Queen of Fungi, Lady of Rot and Decay, Zuggtmoy is an alien creature whose only desire is to infect the living with spores, transforming them into her mindless servants and, eventually, into decomposing hosts for the mushrooms, molds, and other fungi that she spawns.
 

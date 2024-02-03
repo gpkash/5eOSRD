@@ -1,7 +1,7 @@
 ### Lifferlas
 _Huge plant, unaligned_
 
-![[Lifferlas.webp]]
+![[Lifferlas.jpg]]
 
 A druid of the Emerald Enclave awakened the tree Lifferlas with a spell. Goldenfields is his home, its people his friends. Children like to carve their names and initials into his body and hang from his boughs, and he's happy with that.
 

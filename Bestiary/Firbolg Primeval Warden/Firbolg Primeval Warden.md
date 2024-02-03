@@ -1,7 +1,7 @@
 ### Firbolg Primeval Warden
 _Medium humanoid (druid), any alignment_
 
-![[Firbolg Primeval Warden.webp]]
+![[Firbolg Primeval Warden.jpg]]
 
 
 

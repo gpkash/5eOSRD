@@ -1,7 +1,7 @@
 ### Vorvolaka
 _Medium undead, neutral evil_
 
-![[Vorvolaka.webp]]
+![[Vorvolaka.jpg]]
 
 There are always mortals who believe they can outwit the powers of the Nine Hells. One strategy is for a powerful evil creature to pledge its soul to the inferno, then seek the eternal unlife of a vampire to cheat the devils of their prize. The devils, of course, have seen it all before. Specialist teams hunt down the offenders and haul them to the Nine Hells where they're reshaped into vorvolakas, forever hungry for mortal blood in an underworld where such a commodity is vanishingly rare.
 

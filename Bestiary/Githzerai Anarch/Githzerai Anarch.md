@@ -1,7 +1,7 @@
 ### Githzerai Anarch
 _Medium humanoid (gith), lawful neutral_
 
-![[Githzerai Anarch.webp]]
+![[Githzerai Anarch.jpg]]
 
 
 

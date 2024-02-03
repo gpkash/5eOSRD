@@ -1,7 +1,7 @@
 ### Jarlaxle Baenre
 _Medium humanoid (elf), chaotic neutral_
 
-![[Jarlaxle Baenre.webp]]
+![[Jarlaxle Baenre.jpg]]
 
 Jarlaxle is a flamboyant, swashbuckling drow iconoclast. He leads a renegade drow faction called Bregan D'aerthe, made up of disenfranchised male drow, most of them culled from destroyed or disgraced houses. Gifted with a sharp mind, a sense of humor, puissant skill with a blade, and a wealth of useful magic items, Jarlaxle infiltrated the city of Luskan, brought a kind of order to its lawlessness, and declared himself its secret lord.
 

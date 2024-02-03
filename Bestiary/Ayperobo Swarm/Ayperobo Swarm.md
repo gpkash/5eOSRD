@@ -1,7 +1,7 @@
 ### Ayperobo Swarm
 _Medium fiend (devil), lawful evil_
 
-![[Ayperobo Swarm.webp]]
+![[Ayperobo Swarm.jpg]]
 
 An individual ayperobo is practically harmless, and often eaten by larger devils as a delicacy. Recognizing their weakness, ayperobos gather together and create colonies that communicate using telepathy. These swarms are much stronger, capable of holding their own even against some of the greater devils.
 

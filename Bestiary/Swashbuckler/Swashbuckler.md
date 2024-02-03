@@ -1,7 +1,7 @@
 ### Swashbuckler
 _Medium humanoid (any race), chaotic good evil_
 
-![[Swashbuckler.webp]]
+![[Swashbuckler.jpg]]
 
 Swashbucklers are charming ne'er-do-wells who live by their own codes of honor. They crave notoriety, often indulge in romantic trysts, and eke out livings as pirates and corsairs, rarely staying in one place for too long.
 

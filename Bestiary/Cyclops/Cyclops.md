@@ -1,7 +1,7 @@
 ### Cyclops
 _Huge giant, chaotic neutral_
 
-![[Cyclops.webp]]
+![[Cyclops.jpg]]
 
 Cyclopes are one-eyed giants that eke out a meagre existence in wild lands. Isolationists by nature, they avoid contact with other races and try to drive away strangers in their territory.
 

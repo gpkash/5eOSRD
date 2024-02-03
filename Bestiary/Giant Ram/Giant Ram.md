@@ -1,7 +1,7 @@
 ### Giant Ram
 _Large fey, unaligned_
 
-![[Giant Ram.webp]]
+![[Giant Ram.jpg]]
 
 Giant rams are prized livestock among giants. The rams' fleece stores magical energy by absorbing ambient magic and drawing power from spells. While a ram is alive and unshorn, it uses its fleece's magic for self-defense, channeling the power it absorbs into a magical blast to drive off predators.
 

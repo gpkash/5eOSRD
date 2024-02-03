@@ -1,7 +1,7 @@
 ### Corrupted Avatar of Lurue
 _Large monstrosity, _
 
-![[Corrupted Avatar of Lurue.webp]]
+![[Corrupted Avatar of Lurue.jpg]]
 
 In normal circumstances, the avatar of Lurue is a breathtaking sight; her silver, stardust-like mane, her shimmering hooves, and her perfectly formed spiral horn elicit awe from even the most hardened souls. As powerful and striking as she is in her true form, she's just as wicked in her alternative state. With necrotic energy twisting and dancing at the tip of her black horn, this corrupted avatar of Lurue is instead a nightmare come to life.
 

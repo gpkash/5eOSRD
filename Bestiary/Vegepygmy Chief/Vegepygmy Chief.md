@@ -1,7 +1,7 @@
 ### Vegepygmy Chief
 _Small plant, neutral_
 
-![[Vegepygmy Chief.webp]]
+![[Vegepygmy Chief.jpg]]
 
 
 

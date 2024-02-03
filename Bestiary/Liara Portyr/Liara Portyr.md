@@ -1,7 +1,7 @@
 ### Liara Portyr
 _Medium humanoid (human), lawful evil_
 
-![[Liara Portyr.webp]]
+![[Liara Portyr.jpg]]
 
 As the commander of Fort Beluarian, Liara spends most of her time worrying about the security of her stronghold while cutting deals with pirates. In general, she has no problem with adventurers and will do her utmost to help them deal with the myriad threats lurking in the jungle.
 

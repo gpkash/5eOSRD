@@ -1,7 +1,7 @@
 ### Flying Snake
 _Tiny beast, unaligned_
 
-![[Flying Snake.webp]]
+![[Flying Snake.jpg]]
 
 A flying snake is a brightly colored, winged serpent found in remote jungles. Tribespeople and cultists sometimes domesticate flying snakes to serve as messengers that deliver scrolls wrapped in their coils.
 

@@ -1,7 +1,7 @@
 ### Anhkolox
 _Huge undead, neutral evil_
 
-![[Anhkolox.webp]]
+![[Anhkolox.jpg]]
 
 Anhkoloxes are vicious undead creatures created from the bones of bears and other beasts. Their barbed bones grind and crack, often moving in seemingly impossible ways. Anhkoloxes are driven by territorial instinct and a predatory urge to hunt and devour living prey. They run on all fours and rear up onto their hind legs when they corner their quarry. When they strike, they wallop foes about with their claws—they delight in knocking foes into pits full of jagged bones—and their barbed rib cage cracks open like a hunting trap to snap closed around a victim.
 

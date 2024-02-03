@@ -1,7 +1,7 @@
 ### Behir
 _Huge monstrosity, neutral evil_
 
-![[Behir.webp]]
+![[Behir.jpg]]
 
 The serpentine behir crawls along floors and clambers up walls to reach its prey. Its lightning breath can incinerate most creatures, even as more powerful foes are constricted in its coils and eaten alive.
 

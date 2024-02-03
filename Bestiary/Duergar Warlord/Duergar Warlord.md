@@ -1,7 +1,7 @@
 ### Duergar Warlord
 _Medium humanoid (dwarf), lawful evil_
 
-![[Duergar Warlord.webp]]
+![[Duergar Warlord.jpg]]
 
 
 

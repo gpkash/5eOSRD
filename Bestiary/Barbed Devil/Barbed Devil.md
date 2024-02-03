@@ -1,7 +1,7 @@
 ### Barbed Devil
 _Medium fiend (devil), lawful evil_
 
-![[Barbed Devil.webp]]
+![[Barbed Devil.jpg]]
 
 
 

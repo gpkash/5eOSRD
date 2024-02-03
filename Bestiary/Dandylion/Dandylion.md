@@ -1,7 +1,7 @@
 ### Dandylion
 _Large fey, chaotic neutral_
 
-![[Dandylion.webp]]
+![[Dandylion.jpg]]
 
 Dandylions are herbivorous farmers who cultivate beautiful gardens of flowers and fields of crops in the Feywild. If treated with respect, dandylions are glad to share their wealth of knowledge about farming with those who show interest in the subject. They give great gardening advice, and their fruits and vegetables are healthy and delicious. Some of their crops also have magical properties, making them valuable as potion ingredients and spell components. Dandylions protect their farms ferociously, and anyone who tramples on or steals from a dandylion's bounty is likely to incur the creature's fury. The surest way to entice a dandylion to give up some of its beloved produce or flowers is to flatter it.
 

@@ -1,7 +1,7 @@
 ### Udaak
 _Gargantuan fiend, neutral evil_
 
-![[Udaak.webp]]
+![[Udaak.jpg]]
 
 Known commonly as the brutes of Xhorhas, these enormous creatures resemble an immense, demonic cross between ox and gorilla. Udaaks are solitary wanderers, found most commonly along the edges of settled lands in the barrens of Eastern Wynandir. Though they often scavenge for food, a hungry udaak will attack almost any prey, its four sets of red eyes and its tangle of teeth and tusks striking fear into the heart of any creature.
 

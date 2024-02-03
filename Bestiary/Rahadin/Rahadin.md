@@ -1,7 +1,7 @@
 ### Rahadin
 _Medium humanoid (elf), lawful evil_
 
-![[Rahadin.webp]]
+![[Rahadin.jpg]]
 
 Rahadin, the dusk elf chamberlain of Castle Ravenloft, has served Strahd's family faithfully for nearly five hundred years. He is Strahd's eternal servant, a longtime comrade-in-arms, and a ruthless warrior who has killed thousands in his lifetime.
 

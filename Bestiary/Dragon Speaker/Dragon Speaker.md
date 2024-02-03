@@ -1,7 +1,7 @@
 ### Dragon Speaker
 _Small humanoid, any alignment_
 
-![[Dragon Speaker.webp]]
+![[Dragon Speaker.jpg]]
 
 Dragon speakers are charismatic and persuasive orators who serve as a dragon's ambassadors among other folk. Dragon speakers have loud and authoritative voices, which they use to gain valuable resources, diplomatic connections, and donations of treasure and magic for their dragons—as well as to weave magic both subtle and thundering. They use their commanding presence to instill awe and fear into the hearts of friends and foes alike.
 

@@ -1,7 +1,7 @@
 ### Ancient Lunar Dragon
 _Gargantuan dragon, neutral evil_
 
-![[Ancient Lunar Dragon.webp]]
+![[Ancient Lunar Dragon.jpg]]
 
 Lunar dragons (also known as moon dragons or phase dragons) are capricious, xenophobic creatures that make their lairs inside desolate moons by burrowing through the rock.
 

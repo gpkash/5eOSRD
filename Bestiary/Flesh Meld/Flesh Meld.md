@@ -1,7 +1,7 @@
 ### Flesh Meld
 _Huge aberration, chaotic evil_
 
-![[Flesh Meld.webp]]
+![[Flesh Meld.jpg]]
 
 Squelching and quivering with insatiable hunger, a flesh meld is a hulking amalgamation of teeth, blood, and body parts. Sinuous appendages of gore, each ending in a gnashing mouth, bite at prey before yanking the piteous creatures into the flesh meld's core. The stench of death surrounds a flesh meld.
 

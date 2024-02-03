@@ -1,7 +1,7 @@
 ### Farastu Demodand
 _Medium fiend, neutral evil_
 
-![[Farastu Demodand.webp]]
+![[Farastu Demodand.jpg]]
 
 Farastus, also known as tarry demodands, are the least of the demodands. These violent Fiends ooze thick, sticky tar that sticks to anything it touches. Arrogant and cruel, farastus delight in tormenting those weaker than themselves. Due to their sharp senses and vicious streaks, farastus sometimes work as hunters that track down those who escape Carceri.
 

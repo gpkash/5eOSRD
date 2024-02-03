@@ -1,7 +1,7 @@
 ### Flapjack
 _Small aberration, lawful good_
 
-![[Flapjack the Flumph.webp]]
+![[Flapjack the Flumph.jpg]]
 
 One crew member stayed aboard the Moondancer while it was in port: a flumph named Flapjack, who serves as the ship's spelljammer.
 

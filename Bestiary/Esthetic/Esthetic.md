@@ -1,7 +1,7 @@
 ### Esthetic
 _Gargantuan aberration, unaligned_
 
-![[Esthetic.webp]]
+![[Esthetic.jpg]]
 
 An esthetic is a biological, symbiotic creation of a reigar. It is essentially an organic ship with only the barest hint of awareness. Without its reigar to guide it, an esthetic becomes a nearly mindless entity with an instinct for self-preservation.
 

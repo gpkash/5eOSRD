@@ -1,7 +1,7 @@
 ### Goblin Psi Brawler
 _Small aberration (goblinoid), any alignment_
 
-![[Goblin Psi Brawler.webp]]
+![[Goblin Psi Brawler.jpg]]
 
 
 

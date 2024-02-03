@@ -1,7 +1,7 @@
 ### Archon of Falling Stars
 _Medium celestial, lawful good_
 
-![[Archon of Falling Stars.webp]]
+![[Archon of Falling Stars.jpg]]
 
 The epic accounting of the world's earliest histories called [[The Cosmogony]] recounts the battle between a group of the gods' champions and a mighty archon, which took place at the mysterious eastern edge of the world. Defeated, the falling archon is said to have met the rising sun. But Heliod showed mercy to the penitent archon, who swore to uphold justice and righteousness in the world's wildest places. As a sign of his mercy, Heliod gave the archon a spear that rivaled his own in its brilliance. This was the first archon of falling stars.
 

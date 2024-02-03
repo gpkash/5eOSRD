@@ -1,7 +1,7 @@
 ### Eater of Hope
 _Large fiend, lawful evil_
 
-![[Eater of Hope.webp]]
+![[Eater of Hope.jpg]]
 
 An eater of hope is bitter to the core, resentful of all forms of life and joy. Although these demons can strike down most foes, they prefer to let terror and despair overtake their victims first, letting their victims marinate in fear before the fiend devours them.
 

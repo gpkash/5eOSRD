@@ -1,7 +1,7 @@
 ### Elder Dinosaur (Nezahal, Primal Tide)
 _Gargantuan monstrosity (titan), unaligned_
 
-![[Elder Dinosaur (Nezahal, Primal Tide).webp]]
+![[Elder Dinosaur (Nezahal, Primal Tide).jpg]]
 
 
 

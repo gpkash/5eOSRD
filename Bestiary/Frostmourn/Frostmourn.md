@@ -1,7 +1,7 @@
 ### Frostmourn
 _Huge undead, neutral evil_
 
-![[Frostmourn.webp]]
+![[Frostmourn.jpg]]
 
 When a frost giant is murdered in a dishonorable manner—perhaps poisoned, stabbed in the back, or killed while sleeping—the slain giant can rise as a frostmourn. Driven by its desire for vengeance, the frostmourn can turn the living into frozen statues with a touch or blast enemies with frigid wind. Achieving vengeance is not always enough to grant these creatures rest; often, their hatred and loathing of the living is sufficient to keep them roaming the wilds for years after their murderers are slain.
 

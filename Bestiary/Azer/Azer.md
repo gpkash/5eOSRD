@@ -1,7 +1,7 @@
 ### Azer
 _Medium elemental, lawful neutral_
 
-![[Azer.webp]]
+![[Azer.jpg]]
 
 Natives of the Elemental Plane of Fire, azers are master crafters, expert miners, and sworn foes of the efreet. In appearance and manner, an azer resembles a male dwarf, but this is a facade. Beneath its metallic looking skin, an azer is a being of fire, which outwardly manifests in its fiery hair and beard.
 

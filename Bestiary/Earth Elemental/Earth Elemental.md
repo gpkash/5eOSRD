@@ -1,7 +1,7 @@
 ### Earth Elemental
 _Large elemental, neutral_
 
-![[Earth Elemental.webp]]
+![[Earth Elemental.jpg]]
 
 
 

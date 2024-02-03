@@ -1,7 +1,7 @@
 ### Ayik Ur
 _Medium humanoid (human), neutral good_
 
-![[Ayik Ur.webp]]
+![[Ayik Ur.jpg]]
 
 The youthful archer [[Ayik Ur|DSotDQ|Ayik]] is the consummate survivor. As the Dragon Armies swarmed over his homeland of Khur, he became a refugee, but not before his leg was injured by a charging warhorse. Even as he fled, he swore to lend his bow in the fight against the Dragon Armies. He is defiant and cocky to the point of recklessness, challenging his enemies to finish what the Dragon Armies started back in Khur.
 

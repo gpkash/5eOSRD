@@ -1,7 +1,7 @@
 ### Firbolg Wanderer
 _Medium humanoid (cleric), any alignment_
 
-![[Firbolg Wanderer.webp]]
+![[Firbolg Wanderer.jpg]]
 
 
 

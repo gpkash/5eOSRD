@@ -1,7 +1,7 @@
 ### Cryonax
 _Huge elemental, neutral evil_
 
-![[Cryonax.webp]]
+![[Cryonax.jpg]]
 
 > _By all the gods! How the ranger hasn't gotten himself killed is beyond my understanding.
 _

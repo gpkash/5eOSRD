@@ -1,7 +1,7 @@
 ### Jiangshi
 _Medium undead, _
 
-![[Jiangshi.webp]]
+![[Jiangshi.jpg]]
 
 When a soul becomes trapped within its corpse, its bitterness can reanimate its body, creating a jiangshi. These vengeful dead stalk their descendants and the communities they knew in life, sowing terror and taking retribution for the slights or neglected burial rites that led to their cursed resurrections. Rigor mortis notoriously afflicts the limbs of jiangshi, causing them to hold their arms rigidly and to walk with a stiff gait. This, along with their flight, lead many to call them hopping vampires.
 

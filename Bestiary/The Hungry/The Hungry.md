@@ -1,7 +1,7 @@
 ### The Hungry
 _Medium monstrosity, lawful evil_
 
-![[The Hungry.webp]]
+![[The Hungry.jpg]]
 
 **The Hungry** Horrid beasts with grasping claws and yawning mouths, the Hungry do whatever is necessary to sate their appetites. These greedy devourers consume all life and energy they encounter, stuffing their maws with flesh and drinking in their victims' screams. When they finish, they lurch away while their bright eyes resume the search for something else to consume.
 

@@ -1,7 +1,7 @@
 ### Clockwork Oaken Bolter
 _Medium construct, unaligned_
 
-![[Clockwork Oaken Bolter.webp]]
+![[Clockwork Oaken Bolter.jpg]]
 
 
 

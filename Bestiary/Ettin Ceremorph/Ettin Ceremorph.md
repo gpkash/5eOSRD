@@ -1,7 +1,7 @@
 ### Ettin Ceremorph
 _Large aberration, lawful evil_
 
-![[Ettin Ceremorph.webp]]
+![[Ettin Ceremorph.jpg]]
 
 Mind flayers, which are described in the[[Monster Manual]], are created through ceremorphosis, a process that begins with the implantation of an illithid tadpole in the brain of a Humanoid host. Mind flayers have subjected giants to this process in an effort to create larger, stronger mind flayers, but those experiments all ended in failure: a giant's body is simply too large for a single tadpole to take over. Ettins, however, proved to be perfect subjects. An ettin's two brains provide sufficient food for two tadpoles, and the two tadpoles are able to transform the entirety of the ettin's body, creating an ettin ceremorph. As part of the transformation process, one of the ettin's heads sinks into the body, with that brain focused on controlling the body. The other head focuses on cogitation and psionic power, though its power is not as great as a mind flayer's.
 

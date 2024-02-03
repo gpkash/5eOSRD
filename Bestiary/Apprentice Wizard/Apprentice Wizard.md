@@ -1,7 +1,7 @@
 ### Apprentice Wizard
 _Medium humanoid (any race), any alignment_
 
-![[Apprentice Wizard.webp]]
+![[Apprentice Wizard.jpg]]
 
 
 

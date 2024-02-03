@@ -1,7 +1,7 @@
 ### Duvessa Shane
 _Medium humanoid (Illuskan human), lawful good_
 
-![[Duvessa Shane.webp]]
+![[Duvessa Shane.jpg]]
 
 The daughter of a Waterdhavian trader and a tavern server, Duvessa has her mother's talent for negotiation and her father's charm. As the first woman to serve as Town Speaker of Bryn Shander, and a young one at that, she has much to prove.
 

@@ -1,7 +1,7 @@
 ### Yagnoloth
 _Large fiend (yugoloth), neutral evil_
 
-![[Yagnoloth.webp]]
+![[Yagnoloth.jpg]]
 
 Anyone who would contract yugoloths for a task usually ends up dealing with a yagnoloth. Cunning negotiators, these strange Fiends handle the writing of contracts for their fellow yugoloths. Once a yagnoloth is hired, it communicates its employer's desires to the yugoloths it commands.
 

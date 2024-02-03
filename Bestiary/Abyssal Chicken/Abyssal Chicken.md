@@ -1,7 +1,7 @@
 ### Abyssal Chicken
 _Tiny fiend (demon), chaotic evil_
 
-![[Abyssal Chicken.webp]]
+![[Abyssal Chicken.jpg]]
 
 Abyssal chickens are carnivorous, temperamental, tasty bottom-feeders native to the Abyss. They beat their leathery wings to scare predators and to help them run faster, and they taste like fatty chicken.
 

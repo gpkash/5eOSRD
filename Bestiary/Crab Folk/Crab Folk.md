@@ -1,7 +1,7 @@
 ### Crab Folk
 _Large giant, neutral_
 
-![[Crab Folk.webp]]
+![[Crab Folk.jpg]]
 
 The crab folk are the result of a magical ritual used long ago by a mighty green hag to transform her ogre minions into more useful servants. All crab folk that now exist are descended from those original creations, with most living in small, isolated clutches. Though they are content to lead peaceful lives as hunters and gatherers, the magic that created the crab folk sometimes compels them to lash out in fearsome raids when the conditions are right.
 

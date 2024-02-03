@@ -1,7 +1,7 @@
 ### Montaron and the Laughing Skull
 _Small humanoid (halfling), neutral evil_
 
-![[Montaron and the Laughing Skull.webp]]
+![[Montaron and the Laughing Skull.jpg]]
 
 Possibly the most ornery halfling in all of Toril, Montaron is aggressive, bloodthirsty, and absolutely ruthless. He puts his natural nimbleness to use as a skilled assassin working for the Shadow Thieves. He used to work for a rival criminal organization known as the Zhentarim until he was killed during a mission. He despises his old organization, but not nearly as much as he does socalled "goody-goodies." He was eventually brought back to life by the Shadow Thieves because of his relationship with his old partner, a necromancer named Xzar.
 

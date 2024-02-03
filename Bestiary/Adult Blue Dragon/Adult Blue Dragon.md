@@ -1,7 +1,7 @@
 ### Adult Blue Dragon
 _Huge dragon, lawful evil_
 
-![[Adult Blue Dragon.webp]]
+![[Adult Blue Dragon.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Dragon Blessed
 _Medium humanoid, any alignment_
 
-![[Dragon Blessed.webp]]
+![[Dragon Blessed.jpg]]
 
 Dragon blessed are the acolytes of dragons, whom they revere as gods. They wield magic to heal and support those who have earned their dragon masters' favor—and scourge those who incur the dragons' wrath. Dragon blessed view their lives and magical abilities as gifts bestowed by their dragon, and they give life energy to save those they deem important to their masters' work.
 

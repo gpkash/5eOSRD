@@ -1,7 +1,7 @@
 ### Mouth of Grolantor
 _Huge giant (hill giant), chaotic evil_
 
-![[Mouth of Grolantor.webp]]
+![[Mouth of Grolantor.jpg]]
 
 Hill giants consume spoiled food and diseased carcasses with as much enthusiasm as children eating dessert and rarely suffer for such eating habits. When one of their kind becomes incapable of keeping down food, that giant is seen, among hill giant worshipers of the god Grolantor, as the vessel of a message from the deity.
 

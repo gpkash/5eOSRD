@@ -1,7 +1,7 @@
 ### Ogre Zombie
 _Large undead, neutral evil_
 
-![[Ogre Zombie.webp]]
+![[Ogre Zombie.jpg]]
 
 
 

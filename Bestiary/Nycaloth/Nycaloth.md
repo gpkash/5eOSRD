@@ -1,7 +1,7 @@
 ### Nycaloth
 _Large fiend (yugoloth), neutral evil_
 
-![[Nycaloth.webp]]
+![[Nycaloth.jpg]]
 
 
 

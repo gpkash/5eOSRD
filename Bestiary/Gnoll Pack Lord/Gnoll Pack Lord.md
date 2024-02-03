@@ -1,7 +1,7 @@
 ### Gnoll Pack Lord
 _Medium humanoid (gnoll), chaotic evil_
 
-![[Gnoll.webp]]
+![[Gnoll.jpg]]
 
 The alpha of a gnoll pack is the pack lord, ruling by might and cunning. A pack lord earns the best of a gnoll pack's spoils, food, valuable trinkets, and magic items. It ornaments its body with brutal piercings and grotesque trophies, dyeing its fur with demonic sigils, hoping Yeenoghu will make it invulnerable.
 

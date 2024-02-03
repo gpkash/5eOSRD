@@ -1,7 +1,7 @@
 ### Dragon Chosen
 _Medium humanoid, any alignment_
 
-![[Dragon Chosen.webp]]
+![[Dragon Chosen.jpg]]
 
 Dragon chosen are mighty warriors who offer their bodies as vessels for a dragon's might. They serve as enforcers of their masters' will; they often accompany dragon speakers—and are quick to defend them if they sense any ill intent. Dragon chosen are skilled in close combat, using two weapons to tear at their foes.
 

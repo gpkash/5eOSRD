@@ -1,7 +1,7 @@
 ### Bavlorna Blightstraw
 _Medium fey (hag), neutral evil_
 
-![[Bavlorna Blightstraw.webp]]
+![[Bavlorna Blightstraw.jpg]]
 
 Younger than Skabatha and older than Endelyn, Bavlorna is called Slack-jawed Lorna because her wide mouth is prone to hang agape. Flies flit in and out of it. She is the hag of the present, the here and now, the moment to moment. Those desperate individuals who seek her out do so to find a remedy for a nagging problem or anxiety. Though she despises unannounced visitors, a tragic tale of woe and misery puts her in a bargaining mood. If these visitors enter into an agreement with Bavlorna, she'll use her powers to resolve their pressing problem in exchange for something of use to her.
 

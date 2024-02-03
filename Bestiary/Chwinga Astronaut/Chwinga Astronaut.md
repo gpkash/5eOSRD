@@ -1,7 +1,7 @@
 ### Chwinga Astronaut
 _Tiny elemental, neutral_
 
-![[Chwinga Astronaut.webp]]
+![[Chwinga Astronaut.jpg]]
 
 Chwingas that live in Wildspace usually dwell on habitable moons and asteroids, though they occasionally stow away on spelljamming ships or ride around on space guppies. Using its Magical Gift ability, a chwinga astronaut can bestow one of the following charms in place of those described in the [[chapter 7|DMG|7|Other Rewards]].
 

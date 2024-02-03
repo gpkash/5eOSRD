@@ -1,7 +1,7 @@
 ### Pegasus
 _Large celestial, chaotic good_
 
-![[Pegasus.webp]]
+![[Pegasus.jpg]]
 
 The white winged horses known as pegasi soar through the skies, a vision of grace and majesty. When they touch down on solid ground, they linger only for a moment, drinking from mountain springs and pristine lakes. Any sound or sign of another creature startles them, sending them off to fly once more among the clouds.
 

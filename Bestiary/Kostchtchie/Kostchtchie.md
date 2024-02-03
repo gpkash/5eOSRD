@@ -1,7 +1,7 @@
 ### Kostchtchie
 _Large fiend (demon), chaotic evil_
 
-![[Kostchtchie.webp]]
+![[Kostchtchie.jpg]]
 
 The demon lord Kostchtchie resembles a squat hill giant with short, bandy legs and a grossly shaped head.
 

@@ -1,7 +1,7 @@
 ### Flying Monkey
 _Small beast, unaligned_
 
-![[Flying Monkey.webp]]
+![[Flying Monkey.jpg]]
 
 Flying monkeys are slightly more clever and curious than common monkeys, and they can be domesticated and taught to obey simple commands. They come in many colors and varieties, with feathered wings that have a span of about 5 feet. With the DM's permission, the [[find familiar]] spell can summon a flying monkey.
 

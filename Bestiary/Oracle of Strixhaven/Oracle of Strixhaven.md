@@ -1,7 +1,7 @@
 ### Oracle of Strixhaven
 _Medium humanoid (human, wizard), neutral good_
 
-![[Oracle of Strixhaven.webp]]
+![[Oracle of Strixhaven.jpg]]
 
 Somewhere in the lands beyond Strixhaven's borders lives the Oracle: a wise and accomplished mage, tasked by the Founder Dragons to ensure that the magic of Strixhaven is used to help others and not twisted to evil ends. The one who holds the mantle of the Oracle must not only understand the fundamental truths of magic, but also possess impeccable wisdom and unshakable virtue.
 

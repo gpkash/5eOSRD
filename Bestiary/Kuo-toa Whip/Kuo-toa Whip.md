@@ -1,7 +1,7 @@
 ### Kuo-toa Whip
 _Medium humanoid (kuo-toa), neutral evil_
 
-![[Kuo-toa Whip.webp]]
+![[Kuo-toa Whip.jpg]]
 
 
 

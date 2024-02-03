@@ -1,7 +1,7 @@
 ### Kuo-toa Archpriest
 _Medium humanoid (kuo-toa), neutral evil_
 
-![[Kuo-toa Archpriest.webp]]
+![[Kuo-toa Archpriest.jpg]]
 
 
 

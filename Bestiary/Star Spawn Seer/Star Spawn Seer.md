@@ -1,7 +1,7 @@
 ### Star Spawn Seer
 _Medium aberration, lawful evil_
 
-![[Star Spawn Seer.webp]]
+![[Star Spawn Seer.jpg]]
 
 
 

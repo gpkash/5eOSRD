@@ -1,7 +1,7 @@
 ### Yan-C-Bin
 _Huge elemental, neutral evil_
 
-![[Yan-C-Bin.webp]]
+![[Yan-C-Bin.jpg]]
 
 Yan-C-Bin (pronounced yan-see-bin) is the Prince of Evil Air. A being of great wisdom and malice, Yan-C-Bin's plots began at the forging of the worlds. Subtler than the other elemental princes, Yan-C-Bin operates unseen, studying his enemies from afar, ambushing them swiftly, and vanishing before his foes can retaliate.
 

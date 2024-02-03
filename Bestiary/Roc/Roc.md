@@ -1,7 +1,7 @@
 ### Roc
 _Gargantuan monstrosity, unaligned_
 
-![[Roc.webp]]
+![[Roc.jpg]]
 
 At first sight, a roc's silhouette looks much like any other bird of prey. As it descends, however, its unearthly size becomes terrifyingly clear. In flight, a roc's wingspan spreads two hundred feet or more. At rest, perched upon the mountain peaks that are its home, this monstrous bird rivals the oldest dragons in size.
 

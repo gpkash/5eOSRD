@@ -1,7 +1,7 @@
 ### Magewright
 _Medium humanoid (any race), any alignment_
 
-![[Magewright.webp]]
+![[Magewright.jpg]]
 
 In Khorvaire, magic is part of everyday life. A chef might use [[prestidigitation]] to heat and season food, while a blacksmith uses [[mending]] to perform minor repairs and [[guidance]] to help inspire their work. Those who work minor magic into their labors are called magewrights.
 

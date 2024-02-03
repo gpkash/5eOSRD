@@ -1,7 +1,7 @@
 ### Bandit Captain
 _Medium humanoid (any race), chaotic good evil_
 
-![[Bandit Captain.webp]]
+![[Bandit Captain.jpg]]
 
 It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The bandit captain has these qualities in spades.
 

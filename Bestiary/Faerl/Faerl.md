@@ -1,7 +1,7 @@
 ### Faerl
 _Medium humanoid (elf), neutral evil_
 
-![[Faerl.webp]]
+![[Faerl.jpg]]
 
 Faerl, a neutral evil wood elf, is proud and cruel. He believes that he must be in control at all times. He dresses in pompous finery and an oversized red hat. He speaks precisely, but in a volume so low that it forces people to pay close attention to him.
 

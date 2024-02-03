@@ -1,7 +1,7 @@
 ### Stone Giant
 _Huge giant, neutral_
 
-![[Stone Giant.webp]]
+![[Stone Giant.jpg]]
 
 
 

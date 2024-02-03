@@ -1,7 +1,7 @@
 ### Initiate of the Comet
 _Medium humanoid (warlock), any alignment_
 
-![[Initiate of the Comet.webp]]
+![[Initiate of the Comet.jpg]]
 
 Once initiated into the Heralds of the Comet, members learn magical divination practices that give them glimpses into the future.
 

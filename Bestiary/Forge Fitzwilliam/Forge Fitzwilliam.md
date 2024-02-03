@@ -1,7 +1,7 @@
 ### Forge Fitzwilliam
 _Medium humanoid, neutral evil_
 
-![[Forge Fitzwilliam.webp]]
+![[Forge Fitzwilliam.jpg]]
 
 Forge Fitzwilliam is a con artist who manipulates others with lies and flattery. The audacious criminal has left a trail of broken promises and false identities along the Sword Coast. He conceals flexible morals and a ready dagger behind his winning smile.
 

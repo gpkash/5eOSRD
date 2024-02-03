@@ -1,7 +1,7 @@
 ### Cloaker
 _Large aberration, chaotic neutral_
 
-![[Cloaker.webp]]
+![[Cloaker.jpg]]
 
 Cloakers earned their names for the resemblance they bear to dark leathery cloaks. Lurking in remote dungeons and caves, these stealthy predators wait to slay lone or injured prey stumbling through the darkness.
 

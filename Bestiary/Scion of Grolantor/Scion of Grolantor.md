@@ -1,7 +1,7 @@
 ### Scion of Grolantor
 _Gargantuan giant (titan), chaotic evil_
 
-![[Scion of Grolantor.webp]]
+![[Scion of Grolantor.jpg]]
 
 
 

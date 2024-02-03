@@ -1,7 +1,7 @@
 ### Lampad
 _Medium fey, neutral evil_
 
-![[Lampad.webp]]
+![[Lampad.jpg]]
 
 Lampads guard the shadowed paths of the world, depths typically trod by souls destined for the Underworld. These rarely seen nymphs assist Athreos in guiding the dead, moving among the spirits that collect along the Tartyx River and reclaiming wayward souls that try to slip back to the mortal world. This means lampads are most often spotted in graveyards, crumbling crypts, and tunnels that bore deep into the earth, and near portals to the Underworld.
 

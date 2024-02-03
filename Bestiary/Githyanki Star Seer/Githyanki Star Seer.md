@@ -1,7 +1,7 @@
 ### Githyanki Star Seer
 _Medium humanoid (gith, warlock), any alignment_
 
-![[Githyanki Star Seer.webp]]
+![[Githyanki Star Seer.jpg]]
 
 Githyanki star seers believe that the stars are the eyes of the multiverse. They use their magic to contact ancient stellar entities such as Acamar, Caiphon, and Hadar, hoping to learn their secrets, then record these secrets in journals. They scour Wildspace in search of new entities as well, hoping to be the first to contact them.
 

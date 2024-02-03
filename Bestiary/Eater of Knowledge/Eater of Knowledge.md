@@ -1,7 +1,7 @@
 ### Eater of Knowledge
 _Large aberration, neutral evil_
 
-![[Eater of Knowledge.webp]]
+![[Eater of Knowledge.jpg]]
 
 Originally created by the mind flayer god-brain Ilsensine and now produced by some of that god's followers, eaters of knowledge are lumbering, bipedal masses of squelching muscles and exposed brain matter. These rugose hulks collect information from others by devouring brains before returning to their masters with delicious secrets. Unlike illithids, which overwhelm their foes with psionic power, eaters of knowledge use their physical strength to hold prey while burly feeding tentacles crack free their victims' brains. Consuming brains fuels these brutes' psionic power, making eaters of knowledge deadlier with each brain devoured.
 

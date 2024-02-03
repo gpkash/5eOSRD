@@ -1,7 +1,7 @@
 ### Ghost
 _Medium undead, any alignment_
 
-![[Ghost.webp]]
+![[Ghost.jpg]]
 
 A ghost is the soul of a once-living creature, bound to haunt a specific location, creature, or object that held significance to it in its life.
 

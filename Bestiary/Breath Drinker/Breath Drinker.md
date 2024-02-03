@@ -1,7 +1,7 @@
 ### Breath Drinker
 _Medium aberration, chaotic evil_
 
-![[Breath Drinker.webp]]
+![[Breath Drinker.jpg]]
 
 Breath drinkers are Aberrations that invade the multiverse from the Far Realm. They drift through reality like living voids, remaining unseen while searching for souls to consume. When they strike, breath drinkers consume a victim's personality and identity, ultimately drawing out and devouring the unfortunate being's soul. Breath drinkers avoid necrotic energy because it amplifies the void at the core of their existence, rapidly causing the creatures to devour themselves.
 

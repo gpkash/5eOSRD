@@ -1,7 +1,7 @@
 ### Spirit Troll
 _Large giant, chaotic evil_
 
-![[Spirit Troll.webp]]
+![[Spirit Troll.jpg]]
 
 
 

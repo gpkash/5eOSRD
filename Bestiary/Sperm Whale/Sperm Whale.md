@@ -1,7 +1,7 @@
 ### Sperm Whale
 _Gargantuan beast, unaligned_
 
-![[Sperm Whale.webp]]
+![[Sperm Whale.jpg]]
 
 Sperm whales are toothed aquatic mammals that can grow to be up to 70 feet long. Their natural predators include whalers and fellow leviathans, such as dragon turtles and krakens.
 

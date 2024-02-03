@@ -1,7 +1,7 @@
 ### Cloud Giant of Evil Air
 _Huge giant, neutral evil_
 
-![[Cloud Giant of Evil Air.webp]]
+![[Cloud Giant of Evil Air.jpg]]
 
 Given their inherent link to elemental air, cloud giants who turn from the gods of the Ordning often gravitate to the service of Yan-C-Bin, Prince of Evil Air. These giants' cunning, charisma, and sheer physical and magical might make them well suited to leadership positions in the cults of Elemental Evil. A cult with a cloud giant at its head can be a formidable force of corruption and destruction in the world. As if that weren't enough, cloud giants often bring tremendous wealth with them, swelling the cult's coffers to finance more far-reaching operations.
 

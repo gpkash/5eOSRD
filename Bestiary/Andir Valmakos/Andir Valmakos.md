@@ -1,7 +1,7 @@
 ### Andir Valmakos
 _Medium humanoid (human), chaotic good_
 
-![[Andir Valmakos.webp]]
+![[Andir Valmakos.jpg]]
 
 Despite his aptitude for magic and his parents' being wizards themselves, [[Andir Valmakos|DSotDQ|Andir]] completed his apprenticeship and chose not to immediately seek out other Mages of High Sorcery. Instead, he took to the life of an adventuring wizard, seeking to see the world and what magic exists beyond dusty tomes. Although his travels have only just begun, Andir knows that one day his road will lead him to the Tower of High Sorcery at Wayreth, where he hopes to be tested and learn what his future holds.
 

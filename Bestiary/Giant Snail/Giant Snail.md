@@ -1,7 +1,7 @@
 ### Giant Snail
 _Large beast, unaligned_
 
-![[Giant Snail.webp]]
+![[Giant Snail.jpg]]
 
 These large mollusks retreat into their hardy shells when threatened, and they're particularly susceptible to being injured by contact with salt.
 

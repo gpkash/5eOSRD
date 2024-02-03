@@ -1,7 +1,7 @@
 ### Insight Acuere
 _Medium humanoid (wizard), lawful good_
 
-![[Insight Acuere.webp]]
+![[Insight Acuere.jpg]]
 
 Insight is the primary archivist for the Cael Morrow archaeological project and would put her life on the line to ensure its success. She is willing to share the results of her research with fellow Allegiance members.
 

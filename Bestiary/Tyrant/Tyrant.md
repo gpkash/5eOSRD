@@ -1,7 +1,7 @@
 ### Tyrant
 _Huge beast, unaligned_
 
-![[Tyrant.webp]]
+![[Tyrant.jpg]]
 
 
 

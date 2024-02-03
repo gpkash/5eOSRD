@@ -1,7 +1,7 @@
 ### Irvan Wastewalker (Tier 3)
 _Medium humanoid (human), chaotic neutral_
 
-![[Irvan Wastewalker (Tier 3).webp]]
+![[Irvan Wastewalker (Tier 3).jpg]]
 
 The name "Wastewalker" conjures fear on the plains of Xhorhas, as the name of a clan of Xhorhasian nomads. Irvan—Irv to his friends—was born into that clan, but he hates the name. He left his family when he was a teenager, struck out on his own across the wastes, and made his way to the city of Asarius. Even though the "City of Beasts" is renowned for danger, Irv felt at home there in a way he'd never felt with his clan.
 

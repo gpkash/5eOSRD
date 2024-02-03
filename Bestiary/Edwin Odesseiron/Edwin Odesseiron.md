@@ -1,7 +1,7 @@
 ### Edwin Odesseiron
 _Medium humanoid (human), lawful evil_
 
-![[Edwin Odesseiron.webp]]
+![[Edwin Odesseiron.jpg]]
 
 In many ways an archetypal Red Wizard, Edwin Odesseiron is an exceedingly arrogant conjuration mage hailing from the eastern nation of Thay. He originally traveled west to the Sword Coast on a mission to kill the Rashemi Wychlaran Dynaheir, both as part of a personal rivalry and under orders from his superior Red Wizards. Once his mission was accomplished, and Dynaheir was dead, Edwin remained on the Sword Coast in order to build up his own personal power without the oversight of the Zulkirs of Thay.
 

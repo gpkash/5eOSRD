@@ -1,7 +1,7 @@
 ### Olhydra
 _Huge elemental, neutral evil_
 
-![[Olhydra.webp]]
+![[Olhydra.jpg]]
 
 Olhydra is the Princess of Evil Water. Sometimes known as the Crushing Wave, the Dark Tide, or the Well of Endless Anguish, she takes the form of a great wave, 20 feet high and 15 feet wide, with opalescent eyes. She prefers to remain in or near large bodies of water-seas, lakes, rivers, or sometimes great subterranean pools. When she needs to, she can surge onto dry land, moving much like a wave rushing up onto the shore, but only great anger or desperation would drive Olhydra to move more than a few hundred feet from her native element.
 

@@ -1,7 +1,7 @@
 ### Inquisitor of the Tome
 _Medium humanoid, _
 
-![[Inquisitor of the Tome.webp]]
+![[Inquisitor of the Tome.jpg]]
 
 "Evil lurks everywhere. With our minds, we will unearth it, we will plumb its depths, and we will annihilate it." With those words, the psychically gifted priest Ulmed founded the Ulmist Inquisition, an order of psionic inquisitors that seeks to discover the wickedness hiding in people's souls.
 

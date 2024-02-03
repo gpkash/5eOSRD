@@ -1,7 +1,7 @@
 ### Aurelia
 _Medium celestial (angel), lawful good_
 
-![[Aurelia.webp]]
+![[Aurelia.jpg]]
 
 The angel Aurelia leads the Boros Legion. During the years of her leadership, she has shown a strong appreciation for the ordinary citizens who are often caught in the middle of interguild violence.
 

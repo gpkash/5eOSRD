@@ -1,7 +1,7 @@
 ### Oread
 _Medium fey, chaotic evil_
 
-![[Oread.webp]]
+![[Oread.jpg]]
 
 Aggressive oreads number among the most dangerous nymphs, as they embody the wild might of flames, volcanism, and the hidden forces of the earth. These creatures typically dwell in remote mountain crags and near volcanoes, where they caper among the forces of dissolution and rebirth. During avalanches and volcanic eruptions, groups of oreads might race ahead of the destruction, dancing, singing, and doing what they can to maximize the impending devastation.
 

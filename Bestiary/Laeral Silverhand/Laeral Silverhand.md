@@ -1,7 +1,7 @@
 ### Laeral Silverhand
 _Medium humanoid (human), chaotic good_
 
-![[Laeral Silverhand.webp]]
+![[Laeral Silverhand.jpg]]
 
 Anamanué Laeral Silverhand was born in the Year of the Cowl (765 DR), the fifth of seven daughters of the goddess Mystra. Each of the Seven Sisters is a powerful and ageless beauty with a penchant for arcane magic.
 

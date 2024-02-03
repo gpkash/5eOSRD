@@ -1,7 +1,7 @@
 ### Blue Slaad
 _Large aberration, chaotic neutral_
 
-![[Blue Slaad.webp]]
+![[Blue Slaad.jpg]]
 
 
 

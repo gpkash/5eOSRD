@@ -1,7 +1,7 @@
 ### Baaz Draconian
 _Medium monstrosity, lawful evil_
 
-![[Baaz Draconian.webp]]
+![[Baaz Draconian.jpg]]
 
 Baaz draconians are fanatical foot soldiers that emerge from the eggs of brass dragons. They are the smallest of the draconians, and their slight wings are incapable of flight, though they do afford the draconians some control when falling. These wings are small enough to be hidden beneath a cloak or robe, and baaz draconians disguise themselves to spy for the Dragon Armies. The sight of dragons drives baaz draconians into a deadly furor. When baaz draconians die, their bodies turn to stone and unleash clouds of petrifying gas that turn their corpses and any nearby creatures into stone.
 

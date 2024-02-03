@@ -1,7 +1,7 @@
 ### Draconian Mastermind
 _Medium monstrosity, any alignment_
 
-![[Draconian Mastermind.webp]]
+![[Draconian Mastermind.jpg]]
 
 The rarest and most powerful of the draconians are the masterminds—spellcasters and strategists who most often serve as military commanders or as advisors to those who created them. They emerge from gold, red, or amethyst dragon eggs, wingless but possessed of an arsenal of eldritch power. Like their dragon progenitors, masterminds have a breath weapon—a billowing cloud of poisonous gas. They also have formidable claws and teeth they use to rend foes in close combat.
 

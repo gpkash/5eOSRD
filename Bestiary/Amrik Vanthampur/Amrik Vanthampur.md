@@ -1,7 +1,7 @@
 ### Amrik Vanthampur
 _Medium humanoid (human), lawful evil_
 
-![[Amrik Vanthampur.webp]]
+![[Amrik Vanthampur.jpg]]
 
 Second son of Duke Thalamra Vanthampur of Baldur's Gate. Amrik loves to exchange pleasantries over drinks before conducting business. He has trained Laraelra's staff to recognize a variety of innocuous hand gestures that signal them to deliver drinks to the table. If he wants poison added to his clients' drinks, he has a secret sign for that. Hidden behind the bar is a small bottle containing four doses of torpor (see "Poisons" in chapter 8 of the Dungeon Master's Guide), which the kenku bartender can use to spike drinks when Amrik gives the signal.
 

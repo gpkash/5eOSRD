@@ -1,7 +1,7 @@
 ### Hadozee Explorer
 _Medium humanoid, any alignment_
 
-![[Hadozee Explorer.webp]]
+![[Hadozee Explorer.jpg]]
 
 Hadozee explorers scour Wildspace systems for riches and adventure. They often serve as navigators aboard spelljamming ships. To them, the Astral Plane is a mostly uncharted expanse worthy of further exploration.
 

@@ -1,7 +1,7 @@
 ### Kraul Warrior
 _Medium humanoid (kraul), neutral evil_
 
-![[Kraul Warrior.webp]]
+![[Kraul Warrior.jpg]]
 
 Kraul society is organized into well-defined roles and castes. The vast majority of the kraul occupy various tiers of soldiery, from commanders and elite troops down to the lowliest infantry.
 

@@ -1,7 +1,7 @@
 ### Maelephant
 _Large fiend, lawful evil_
 
-![[Maelephant.webp]]
+![[Maelephant.jpg]]
 
 Respected as guardians by villains across the multiverse, maelephants are Fiends with pachyderm-like heads. They can exhale toxic fumes that cause foes to temporarily forget their combat training, spellcasting abilities, and other skills.
 

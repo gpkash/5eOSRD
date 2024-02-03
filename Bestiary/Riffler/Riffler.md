@@ -1,7 +1,7 @@
 ### Riffler
 _Small fey, chaotic neutral_
 
-![[Riffler.webp]]
+![[Riffler.jpg]]
 
 Rifflers are diminutive Fey reminiscent of gnomes and obsessed with destiny and fate. The oldest stories of rifflers suggest these dangerously curious spirits manifested as physical beings when the Deck of Many Things was shuffled for the first time. The rifflers were so enraptured with the soft sound made by the whispering cards that they made physical bodies for themselves in order to possess and understand this new instrument of destiny.
 

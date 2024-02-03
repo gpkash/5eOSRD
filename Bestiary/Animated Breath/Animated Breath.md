@@ -1,7 +1,7 @@
 ### Animated Breath
 _Large elemental, neutral evil_
 
-![[Animated Breath.webp]]
+![[Animated Breath.jpg]]
 
 A chromatic dragon's breath weapon is a manifestation of the energy that suffuses the dragon. With sufficient practice, dragons can learn to draw on magic from the Elemental Planes to shape their breath weapons into bipedal form, creating Elemental creatures called animated breaths. Chromatic dragons often use these creatures as guardians for their hoards or send them out to gather treasure from the territory around their lairs.
 

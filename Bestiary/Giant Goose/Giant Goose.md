@@ -1,7 +1,7 @@
 ### Giant Goose
 _Large fey, neutral_
 
-![[Giant Goose.webp]]
+![[Giant Goose.jpg]]
 
 Giants keep geese as livestock for eggs and because geese make excellent sentries, protecting the giants' property with their keen senses and loud voices. Not only are giant geese from fey stock significantly larger than ordinary geese, but they also have two magical properties that make them even more valuable: their honk is a powerful defense against intruders, and they can lay eggs with shells of pure gold.
 

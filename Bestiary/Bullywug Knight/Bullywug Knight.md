@@ -1,7 +1,7 @@
 ### Bullywug Knight
 _Medium humanoid, lawful good_
 
-![[Bullywug Knight.webp]]
+![[Bullywug Knight.jpg]]
 
 Bullywug knights adhere to a code of chivalry. Their sense of honor compels these noble bullywugs to fight fairly and to insist that others do so as well.
 

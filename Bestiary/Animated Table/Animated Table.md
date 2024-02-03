@@ -1,7 +1,7 @@
 ### Animated Table
 _Large construct, unaligned_
 
-![[Animated Table.webp]]
+![[Animated Table.jpg]]
 
 **Arundil's Animated Objects** A century ago, the dwarf mage Arundil animated a number of objects to defend the Foundry against intruders other than dwarves. Many of these creations remain in place today.
 

@@ -1,7 +1,7 @@
 ### Gold-Forged Sentinel
 _Large construct, unaligned_
 
-![[Gold-Forged Sentinel.webp]]
+![[Gold-Forged Sentinel.jpg]]
 
 The original purpose of gold-forged sentinels is a mystery, and of all Purphoros's original anvilwroughts, this construct is the most difficult to control. A sentinel often operates without a master, stalking the high places of the mortal world or waiting, still as a statue, for what could be decades before reanimating to carry out their mysterious purpose.
 

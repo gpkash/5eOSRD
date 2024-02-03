@@ -1,7 +1,7 @@
 ### Young Emerald Dragon
 _Large dragon (gem), lawful neutral_
 
-![[Young Emerald Dragon.webp]]
+![[Young Emerald Dragon.jpg]]
 
 Emerald dragons are the most curious, cunning, and manipulative of the gem dragons, wielding psionic power to weave illusions to deceive and disorient. They cloak their own presence so they can observe other creatures without being discovered as they collect information on everything from local cultural practices to supernatural occurrences.
 

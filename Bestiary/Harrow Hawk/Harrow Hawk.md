@@ -1,7 +1,7 @@
 ### Harrow Hawk
 _Tiny undead, unaligned_
 
-![[Harrow Hawk.webp]]
+![[Harrow Hawk.jpg]]
 
 When a beloved animal companion dies traumatically alongside its master, the beast might rise again as an Undead. Falcons, ravens, and other birds of prey that suffer this fate are known as harrow hawks, and they prowl abandoned battlefields and cemeteries, looking for corpses to eat and living creatures to hunt. A harrow hawk can even travel the multiverse, flying magically from one world to another.
 

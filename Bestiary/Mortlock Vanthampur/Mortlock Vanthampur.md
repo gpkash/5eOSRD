@@ -1,7 +1,7 @@
 ### Mortlock Vanthampur
 _Medium humanoid (human), lawful evil_
 
-![[Mortlock Vanthampur.webp]]
+![[Mortlock Vanthampur.jpg]]
 
 Mortlock is tolerated by his mother, Duke Thalamra Vanthampur, and despised by his older brothers, Thurstwell and Amrik, who view him as a simpleton and an abomination. Half of Mortlock's face was scarred by fire when he was a child, and his disfigurement gives him a fearsome countenance.
 

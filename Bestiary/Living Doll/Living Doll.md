@@ -1,7 +1,7 @@
 ### Living Doll
 _Tiny construct, neutral evil_
 
-![[Living Doll.webp]]
+![[Living Doll.jpg]]
 
 A living doll is easily mistaken for an inanimate doll or a stuffed animal until it moves. Trapped within each living doll is a mean spirit that encourages those around it to behave badly toward others. The doll takes pleasure in tormenting the guilt-ridden and despondent, hastening their descent into depression or paranoia. Because it fears its own destruction, the doll rarely causes direct harm to others. When forced to defend itself, it debilitates opponents with its maniacal cackle and assaults the minds of its enemies by turning their worst fears against them.
 

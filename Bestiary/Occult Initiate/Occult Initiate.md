@@ -1,7 +1,7 @@
 ### Occult Initiate
 _Small, Medium humanoid (sorcerer), any alignment_
 
-![[Occult Initiate.webp]]
+![[Occult Initiate.jpg]]
 
 Occult initiates are the most recent inductees into their organization and the members of the organization most often encountered by outsiders.
 

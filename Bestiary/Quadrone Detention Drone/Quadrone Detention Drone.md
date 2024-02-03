@@ -1,7 +1,7 @@
 ### Quadrone Detention Drone
 _Medium construct, lawful neutral_
 
-![[Quadrone Detention Drone.webp]]
+![[Quadrone Detention Drone.jpg]]
 
 Detention drones vary in size, strength, and shape, though most are shaped like some kind of mechanical animal or plant.
 

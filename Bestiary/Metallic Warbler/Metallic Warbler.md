@@ -1,7 +1,7 @@
 ### Metallic Warbler
 _Tiny construct, neutral good_
 
-![[Metallic Warbler.webp]]
+![[Metallic Warbler.jpg]]
 
 Metallic warblers resemble songbirds and serve as clandestine agents of their creators, keeping watch over communities without directly intervening. Their telepathic bond lets them summon their dragon creators in case of dire need.
 

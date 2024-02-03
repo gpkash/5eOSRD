@@ -1,7 +1,7 @@
 ### Griffon Cavalry Rider
 _Medium humanoid (any race), any alignment_
 
-![[Griffon Cavalry Rider.webp]]
+![[Griffon Cavalry Rider.jpg]]
 
 The City Guard is Waterdeep's army, charged with protecting the city's walls and gates, government buildings, harbor, and officials. The City Guard also patrols the roads to Amphail, Goldenfields, and Daggerford.
 

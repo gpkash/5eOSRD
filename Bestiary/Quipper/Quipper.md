@@ -1,7 +1,7 @@
 ### Quipper
 _Tiny beast, unaligned_
 
-![[Quipper.webp]]
+![[Quipper.jpg]]
 
 A quipper is a carnivorous fish with sharp teeth.
 

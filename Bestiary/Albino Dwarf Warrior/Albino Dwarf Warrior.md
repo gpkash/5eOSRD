@@ -1,7 +1,7 @@
 ### Albino Dwarf Warrior
 _Medium humanoid (dwarf), any alignment_
 
-![[Albino Dwarf.webp]]
+![[Albino Dwarf.jpg]]
 
 The albino dwarves of Chult were driven from their subterranean homes by volcanic activity, and those who didn't seek refuge in Port Nyanzaru adapted to living in the jungle. They make armor out of dinosaur hide; shape weapons out of dinosaur bones, flint, and wood; and craft ornate jewelry out of bones, feathers, tusks, and stone beads. Albino dwarves haven't forgotten how to forge metal, but they seldom have the means to do so.
 

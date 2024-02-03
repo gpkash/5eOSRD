@@ -1,7 +1,7 @@
 ### Deep Gnome (Svirfneblin)
 _Small humanoid (gnome), neutral good_
 
-![[Deep Gnome (Svirfneblin).webp]]
+![[Deep Gnome (Svirfneblin).jpg]]
 
 Deep gnomes, or svirfneblin, live far below the world's surface in twisting warrens and sculpted caverns. They survive by virtue of their stealth, cleverness, and tenacity. Their gray skin allows them to blend in with surrounding stonework. They are also surprisingly heavy and strong for their size. An average adult weighs 100 to 120 pounds and stands 3 feet tall.
 

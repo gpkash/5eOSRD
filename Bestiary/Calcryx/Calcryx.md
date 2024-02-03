@@ -1,7 +1,7 @@
 ### Calcryx
 _Medium dragon, chaotic evil_
 
-![[006-totyp-01-07.webp]]
+![[006-totyp-01-07.jpg]]
 
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
 

@@ -1,7 +1,7 @@
 ### Hybrid Flier
 _Medium humanoid (Simic hybrid), neutral good_
 
-![[Hybrid Flier.webp]]
+![[Hybrid Flier.jpg]]
 
 **Simic Hybrids** The Guardian Project is a consequence of increasing tension within the Simic Combine as the threat of interguild conflict looms. Believing that the Simic must be prepared to fight for their lives when that conflict comes to a head, biomancers have created soldiers to help defend the guild. These hybrids (also called guardians, after the name of the project) are created from human, vedalken, and elf guild members who volunteer to be transformed.
 

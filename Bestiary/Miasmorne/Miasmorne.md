@@ -1,7 +1,7 @@
 ### Miasmorne
 _Huge monstrosity, unaligned_
 
-![[Miasmorne.webp]]
+![[Miasmorne.jpg]]
 
 Avernus is a bleak wasteland of jagged mountains and metal-studded hills, but the true ugliness to a devil's eyes is in the scars of war where demonic corpses, arms, and armor pile, infecting the plane with their chaotic ichor and breeding fresh monsters to trouble the order of the Nine Hells. The miasmorne were bred to clean up after Abyssal invasion: great lumbering Monstrosities able to devour demonic flesh, armor, weapons, and ruined war engines and return the plane to its pristine starkness. The monsters prospered beyond anyone's reckoning and now drag their bellies across many layers of the Nine Hells.
 

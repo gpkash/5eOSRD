@@ -1,7 +1,7 @@
 ### Fractal Mascot
 _Small construct, neutral_
 
-![[Fractal Mascot.webp]]
+![[Fractal Mascot.jpg]]
 
 To an untrained eye, a fractal mascot looks like a creature made from facets of hard light. But arithmancers know that these fractals are actually living equations: artificial life forms created by extrapolating magic from the mathematical patterns in nature.
 

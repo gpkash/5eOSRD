@@ -1,7 +1,7 @@
 ### Arkhan the Cruel
 _Medium humanoid (dragonborn), lawful evil_
 
-![[Arkhan the Cruel.webp]]
+![[Arkhan the Cruel.jpg]]
 
 Arkhan the Cruel is an evil dragonborn champion of Tiamat. Arkhan believes he can use the Hand of Vecna to unlock the means of freeing Tiamat from her prison in the Nine Hells, but only if the hand doesn't kill him first. The hand is slowly corrupting Arkhan's flesh and decomposing his body on one side.
 

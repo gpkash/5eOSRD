@@ -1,7 +1,7 @@
 ### Mage Hunter Golem
 _Large construct, _
 
-![[MageHunterGolemFluff.webp]]
+![[MageHunterGolemFluff.jpg]]
 
 
 

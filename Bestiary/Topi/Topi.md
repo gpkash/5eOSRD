@@ -1,7 +1,7 @@
 ### Topi
 _Small undead, chaotic evil_
 
-![[Topi.webp]]
+![[Topi.jpg]]
 
 Topis are similar to zombies. Before a topi is animated, its corpse is shrunk until it stands only 2 feet tall, and its heart is cut out and replaced with a leather bag that contains a live poisonous snake. The snake requires neither air nor sustenance, and it magically renders the topi's claws venomous. When a topi dies, the snake inside it dies too. The process of creating a topi is known only to a handful of evil priests and necromancers.
 

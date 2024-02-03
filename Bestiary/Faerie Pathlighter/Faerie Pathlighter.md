@@ -1,7 +1,7 @@
 ### Faerie Pathlighter
 _Medium fey, chaotic good_
 
-![[Faerie Pathlighter.webp]]
+![[Faerie Pathlighter.jpg]]
 
 
 

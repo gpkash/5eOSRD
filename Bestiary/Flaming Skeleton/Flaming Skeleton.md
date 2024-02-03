@@ -1,7 +1,7 @@
 ### Flaming Skeleton
 _Medium undead, lawful evil_
 
-![[FlamingSkeletonFluff.webp]]
+![[FlamingSkeletonFluff.jpg]]
 
 
 

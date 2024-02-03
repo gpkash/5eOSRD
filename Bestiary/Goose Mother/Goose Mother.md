@@ -1,7 +1,7 @@
 ### Goose Mother
 _Huge fey, unaligned_
 
-![[Goose Mother.webp]]
+![[Goose Mother.jpg]]
 
 Astonishingly aggressive geese populate the marshes of Eldraine. Legends tell that these geese descend from a monstrous many-headed bird that dwells deep within the wilds. Though the knights of Eldraine consider its existence a myth, the folk of the wilds know that the Goose Mother is real.
 

@@ -1,7 +1,7 @@
 ### Spirit Statue Mascot
 _Medium construct, any alignment_
 
-![[Spirit Statue Mascot.webp]]
+![[Spirit Statue Mascot.jpg]]
 
 To enhance their studies of the past, Lorehold students often call upon the spirits of dead creatures. Mages seeking longer-term assistance from ancient spirits have learned to house these spirits in statues, giving them a more permanent residence from which to assist the living.
 

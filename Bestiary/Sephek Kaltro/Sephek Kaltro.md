@@ -1,7 +1,7 @@
 ### Sephek Kaltro
 _Medium undead, neutral evil_
 
-![[Sephek Kaltro.webp]]
+![[Sephek Kaltro.jpg]]
 
 Sephek Kaltro is a well-built man in his thirties. He has an olive complexion, dark hair pulled back in a ponytail, and no facial or body hair. He is dressed in a stylish vest with matching pants and boots, similar in style to those worn by mariners of the southern Sword Coast, but wears no armor or cold weather clothing and doesn't appear to be armed. His most striking feature is his eyes, which are as blue as a frozen lake.
 

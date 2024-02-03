@@ -1,7 +1,7 @@
 ### Aerosaur
 _Gargantuan monstrosity (dinosaur), unaligned_
 
-![[Aerosaur.webp]]
+![[Aerosaur.jpg]]
 
 
 

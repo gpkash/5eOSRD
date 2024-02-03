@@ -1,7 +1,7 @@
 ### Drowned Ascetic
 _Medium undead, chaotic evil_
 
-![[Drowned One.webp]]
+![[Drowned One.jpg]]
 
 Dressed in tattered robes, its fists wrapped in long rib bons of rotting cloth, the drowned ascetic moves with alarming speed for an undead creature. This martial artist, rising from the ocean in Tammeraut's Fate, retains its fighting reflexes despite its rotting flesh.
 

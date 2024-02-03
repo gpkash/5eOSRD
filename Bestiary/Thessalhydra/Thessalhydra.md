@@ -1,7 +1,7 @@
 ### Thessalhydra
 _Huge monstrosity, unaligned_
 
-![[Thessalhydra.webp]]
+![[Thessalhydra.jpg]]
 
 The thessalhydra is a strange and terrible creature with eight heads surrounding a large, circular mouth rimmed with jagged teeth. Its maw drips with acid, and its tail ends with a pair of sharp pincers. The thessalhydra is gluttonous and damaging to any environment.
 

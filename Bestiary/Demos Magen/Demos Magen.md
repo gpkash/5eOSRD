@@ -1,7 +1,7 @@
 ### Demos Magen
 _Medium construct, unaligned_
 
-![[Demos Magen.webp]]
+![[Demos Magen.jpg]]
 
 Demos magen wear armor, wield weapons, and typically serve as guards.
 

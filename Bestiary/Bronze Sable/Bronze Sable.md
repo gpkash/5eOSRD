@@ -1,7 +1,7 @@
 ### Bronze Sable
 _Medium construct, unaligned_
 
-![[Bronze Sable.webp]]
+![[Bronze Sable.jpg]]
 
 The first bronze sables were presented to Karametra as a gift by Purphoros to serve primarily as guardians in Karametra's temples. But as others have been created, some have been used as nimble scouts, always on alert for danger.
 

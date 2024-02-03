@@ -1,7 +1,7 @@
 ### Augrek Brighthelm
 _Medium humanoid (Shield dwarf), lawful good_
 
-![[Augrek Brighthelm.webp]]
+![[Augrek Brighthelm.jpg]]
 
 Sheriff's deputy Augrek guards the southwest gate of Bryn Shander and welcomes visitors to town. She has a good heart.
 

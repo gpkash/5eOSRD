@@ -1,7 +1,7 @@
 ### Ssurran Defiler
 _Medium monstrosity (lizardfolk), any alignment_
 
-![[Ssurran Defiler.webp]]
+![[Ssurran Defiler.jpg]]
 
 Ssurran defilers can lay waste to the plant life around them and draw vital energy at the same time from other creatures that are caught in the area.
 

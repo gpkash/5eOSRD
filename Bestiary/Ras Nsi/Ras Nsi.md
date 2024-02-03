@@ -1,7 +1,7 @@
 ### Ras Nsi
 _Medium monstrosity (shapechanger, yuan-ti), neutral evil_
 
-![[Ras Nsi.webp]]
+![[Ras Nsi.jpg]]
 
 The word "ras" is a noble title akin to "duke." Ras Nsi was once a Chultan paladin, a Chosen of Ubtao and sworn protector of the city of Mezro. He betrayed his oaths and was banished from the city. Becoming a vengeful warlord, Ras Nsi attempted to conquer Mezro with an undead army but was defeated. Rather than seek redemption, he sought revenge and was stripped of his god-given powers. The undead horde, no longer under his control, spread throughout the jungles of Chult.
 

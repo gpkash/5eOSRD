@@ -1,7 +1,7 @@
 ### Worg
 _Large monstrosity, neutral evil_
 
-![[Worg.webp]]
+![[Worg.jpg]]
 
 A worg is an evil predator that delights in hunting and devouring creatures weaker than itself. Cunning and malevolent, worgs roam across the remote wilderness or are raised by goblins and hobgoblins. Those creatures use worgs as mounts, but a worg will turn on its rider if it feels mistreated or malnourished. Worgs speak in their own language and Goblin, and a few learn to speak Common as well.
 

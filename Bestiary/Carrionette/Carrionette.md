@@ -1,7 +1,7 @@
 ### Carrionette
 _Small construct, _
 
-![[Carrionette.webp]]
+![[Carrionette.jpg]]
 
 Carrionettes arise from innocent intentions. Heartfelt wishes breathe life into a beloved toy and, for a time, a creator might feel blessed by their new companion. But carrionettes aren't content to live as toys and seek to escape the confines of their diminutive bodies.
 

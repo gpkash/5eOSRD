@@ -1,7 +1,7 @@
 ### Gingerbrute
 _Tiny construct, chaotic neutral_
 
-![[Gingerbrute.webp]]
+![[Gingerbrute.jpg]]
 
 Gingerbread cookies baked in the wilds of Eldraine—or made from ingredients grown there—have a habit of developing a life of their own. Known as gingerbrutes, these cookie Constructs are notoriously difficult to pin down.
 

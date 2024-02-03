@@ -1,7 +1,7 @@
 ### Ettin
 _Large giant, chaotic evil_
 
-![[Ettin.webp]]
+![[Ettin.jpg]]
 
 An ettin is a foul, two-headed giant with the crude characteristics of an orc. It never bathes if it can help it, and its thick skin is usually encrusted with a thick layer of dirt and grime beneath the stinking hides it wears. Its long stringy hair hangs in an unkempt mess about its faces, and its breath reeks from mouths filled with crooked teeth and tusks.
 

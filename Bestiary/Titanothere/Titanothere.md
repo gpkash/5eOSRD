@@ -1,7 +1,7 @@
 ### Titanothere
 _Huge beast, unaligned_
 
-![[Titanothere.webp]]
+![[Titanothere.jpg]]
 
 Titanotheres are a family of enormous mammals related to rhinoceroses. Some of them lack any horns on the face, while others have one, two, or more horns of various shapes and sizes. Some have rough, almost stony skin; some have horny plates; and some have thick, shaggy fur. These creatures are united by their tremendous stature, their herding behavior, and their irritable disposition.
 

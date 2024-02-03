@@ -1,7 +1,7 @@
 ### Leonin Iconoclast
 _Medium humanoid (leonin), any alignment_
 
-![[Leonin Iconoclast.webp]]
+![[Leonin Iconoclast.jpg]]
 
 While leonin don't deny the existence of the gods, most denounce them, believing the deities are more likely to spread doom than peace and bounty. Some leonin, known as iconoclasts, devote themselves to thwarting the gods by hunting down their followers and all things born of Nyx that impede on Oreskos and the safety of the leonin prides.
 

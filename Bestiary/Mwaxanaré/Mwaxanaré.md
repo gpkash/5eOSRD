@@ -1,7 +1,7 @@
 ### Mwaxanaré
 _Medium humanoid (human), lawful neutral_
 
-![[Mwaxanaré.webp]]
+![[Mwaxanaré.jpg]]
 
 At the tender age of seventeen, Princess Mwaxanaré ("Naré" for short) is the oldest living descendant of the royal families of Omu and the natural inheritor of their fallen kingdom. She and her six-year-old brother, Na, are guests of the aarakocra in Kir Sabal. The aarakocra aim to protect the young royals until such time as the evil in Omu has been vanquished.
 

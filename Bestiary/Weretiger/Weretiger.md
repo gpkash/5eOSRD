@@ -1,7 +1,7 @@
 ### Weretiger
 _Medium humanoid (human, shapechanger), neutral_
 
-![[Weretiger.webp]]
+![[Weretiger.jpg]]
 
 
 

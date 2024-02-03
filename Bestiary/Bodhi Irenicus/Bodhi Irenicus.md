@@ -1,7 +1,7 @@
 ### Bodhi Irenicus
 _Medium undead (shapechanger), chaotic evil_
 
-![[Bodhi Irenicus.webp]]
+![[Bodhi Irenicus.jpg]]
 
 > _Van Richten might think he has the market cornered on books about the undead, but he'd be wrong. I've done a great deal of research on vampires, which you can read about in my upcoming book "Volo's Guide to Spirits and Specters". Then you can judge who is the expert about undead.
 _

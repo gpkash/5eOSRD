@@ -1,7 +1,7 @@
 ### Elder Dinosaur (Zetalpa, Primal Dawn)
 _Gargantuan monstrosity (titan), unaligned_
 
-![[Elder Dinosaur (Zetalpa, Primal Dawn).webp]]
+![[Elder Dinosaur (Zetalpa, Primal Dawn).jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Fire Giant of Evil Fire
 _Huge giant, lawful evil_
 
-![[Fire Giant of Evil Fire.webp]]
+![[Fire Giant of Evil Fire.jpg]]
 
 A fire giant is born around flame, works with flame, and lives among flames, but a fire giant who gazes into flames too deeply may see the Prince of Evil Fire, Imix, gazing back. Giants who fall to Imix's corruption might leave their homes to join with likeminded cultists, but others remain within their communities to pursue Imix's destructive agenda.
 

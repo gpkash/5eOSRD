@@ -1,7 +1,7 @@
 ### Nyx-Fleece Ram
 _Medium monstrosity, unaligned_
 
-![[Nyx-Fleece Ram.webp]]
+![[Nyx-Fleece Ram.jpg]]
 
 Touched by the gods, Nyx-fleece rams grow remarkable magical wool. This makes the beasts valuable to heroes and scoundrels alike, who would use their wool for either protection or profit. Divine servants guard the few herds of Nyx-fleece rams dwelling among Theros's loftiest peaks, assuring they don't fall into unworthy hands.
 

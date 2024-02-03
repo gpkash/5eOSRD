@@ -1,7 +1,7 @@
 ### Deep Crow
 _Large monstrosity, unaligned_
 
-![[Deep Crow.webp]]
+![[Deep Crow.jpg]]
 
 The only warning you'll get is that fearsome, far-off caw, echoing from the darkness like a death knell. For by the time those glowing red eyes fix on you, it's far too late to run...
 

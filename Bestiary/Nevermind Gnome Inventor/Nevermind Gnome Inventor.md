@@ -1,7 +1,7 @@
 ### Nevermind Gnome Inventor
 _Small humanoid, any alignment_
 
-![[Nevermind Gnome Inventor.webp]]
+![[Nevermind Gnome Inventor.jpg]]
 
 Who among us hasn't marveled at a majestic bird soaring high above and thought, "I can do better"?
 

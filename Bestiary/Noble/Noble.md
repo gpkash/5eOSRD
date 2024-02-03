@@ -1,7 +1,7 @@
 ### Noble
 _Medium humanoid (any race), any alignment_
 
-![[Noble.webp]]
+![[Noble.jpg]]
 
 Nobles wield great authority and influence as members of the upper class, possessing wealth and connections that can make them as powerful as monarchs and generals. A noble often travels in the company of guards, as well as servants who are commoners.
 

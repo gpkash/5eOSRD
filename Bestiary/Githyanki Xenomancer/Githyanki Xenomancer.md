@@ -1,7 +1,7 @@
 ### Githyanki Xenomancer
 _Medium humanoid (druid, gith), any alignment_
 
-![[Githyanki Xenomancer.webp]]
+![[Githyanki Xenomancer.jpg]]
 
 A githyanki xenomancer travels to the farthest reaches of Wildspace and the Astral Sea, even visiting worlds of the Material Plane from time to time, to study and catalog creatures it has never encountered before. Friendly contact with sapient creatures can bring the xenomancer's diplomatic skills to the forefront, while hostile contact becomes a test of the xenomancer's survival skills.
 

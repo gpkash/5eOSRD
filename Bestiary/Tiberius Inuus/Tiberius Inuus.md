@@ -1,7 +1,7 @@
 ### Tiberius Inuus
 _Medium humanoid (human), lawful good_
 
-![[Tiberius Inuus.webp]]
+![[Tiberius Inuus.jpg]]
 
 > _The Inuus brothers have agreed to be patrons for a new book that I intend to title "Volo's Guide to Faerûn's Faiths". The Church of Sune is to have the largest chapter of course.
 _

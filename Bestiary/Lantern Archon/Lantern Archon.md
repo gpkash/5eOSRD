@@ -1,7 +1,7 @@
 ### Lantern Archon
 _Small celestial, lawful good_
 
-![[Lantern Archon.webp]]
+![[Lantern Archon.jpg]]
 
 The lowest-ranked archons, lantern archons greet newly arrived souls to Mount Celestia and light the path for those who traverse the plane with reverence and respect. They appear as glowing, winged balls of vaporous light wrapped in a gleaming metal lattice, although they have no more physical substance than smoke.
 

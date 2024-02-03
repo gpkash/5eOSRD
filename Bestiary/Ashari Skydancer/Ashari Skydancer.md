@@ -1,7 +1,7 @@
 ### Ashari Skydancer
 _Medium humanoid (any), _
 
-![[AshariSkydancerFluff.webp]]
+![[AshariSkydancerFluff.jpg]]
 
 
 

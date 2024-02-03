@@ -1,7 +1,7 @@
 ### Septon Modron
 _Large construct, lawful neutral_
 
-![[Septon Modron.webp]]
+![[Septon Modron.jpg]]
 
 Septons are auditors of base modrons in Mechanus, recording the activities in each of the plane's sectors to ensure operations are in perfect order. They are easily identified by their seven flexible limbs.
 

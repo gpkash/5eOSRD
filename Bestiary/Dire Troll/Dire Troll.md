@@ -1,7 +1,7 @@
 ### Dire Troll
 _Huge giant, chaotic evil_
 
-![[Dire Troll.webp]]
+![[Dire Troll.jpg]]
 
 
 

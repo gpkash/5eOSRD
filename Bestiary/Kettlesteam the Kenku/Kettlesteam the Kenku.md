@@ -1,7 +1,7 @@
 ### Kettlesteam the Kenku
 _Medium humanoid (kenku, warlock), chaotic neutral_
 
-![[Kettlesteam the Kenku.webp]]
+![[Kettlesteam the Kenku.jpg]]
 
 Kettlesteam the kenku snoops around the carnival under the cover of a [[disguise self]] spell, looking to cause trouble. The kenku has stolen the voice of a human mime named Candlefoot (see "Hall of Illusions "earlier in the chapter). While this prize remains in her possession, Kettlesteam can speak clearly in Candlefoot's soft, silky voice.
 

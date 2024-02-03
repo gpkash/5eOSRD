@@ -1,7 +1,7 @@
 ### Purple Worm
 _Gargantuan monstrosity, unaligned_
 
-![[Purple Worm.webp]]
+![[Purple Worm.jpg]]
 
 The massive burrowing monster known as the purple worm terrorizes the creatures of the Underdark as it chews through solid rock in pursuit of prey. A dimwitted, ravenous force of nature, this creature regards anything it encounters as food.
 
@@ -13,11 +13,6 @@ Though most common in the Underdark, purple worms are frequently seen on the sur
 **Boons of the Worm** When a purple worm burrows through the ground, it consumes earth and rock, which it breaks down and constantly excretes. Precious metals and gems can thus be found within the bodies of purple worms, which are targeted by particularly brave and foolhardy treasure hunters.
 
 A burrowing purple worm constantly creates new tunnels throughout the Underdark, which are quickly made use of by other creatures as corridors and highways. Because a purple worm rarely returns to its own tunnels, such passageways are a good place to avoid these monsters. Areas rich in prey quickly become interlaced with complex tunnel systems resulting from several worms hunting together.
-
-
-
-
-
 
 ---
 

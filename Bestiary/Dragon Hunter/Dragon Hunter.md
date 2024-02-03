@@ -1,7 +1,7 @@
 ### Dragon Hunter
 _Medium humanoid (any race), any alignment_
 
-![[Dragon Hunter.webp]]
+![[Dragon Hunter.jpg]]
 
 They were raised together and share conviction that they must slay the bakunawa as vengeance for wrongs done to their clan.
 

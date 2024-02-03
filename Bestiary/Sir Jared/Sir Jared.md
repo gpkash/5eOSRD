@@ -1,7 +1,7 @@
 ### Sir Jared
 _Medium humanoid, neutral good_
 
-![[Sir Jared.webp]]
+![[Sir Jared.jpg]]
 
 Jared is a wandering knight who makes an excellent contact for groups that have Solar Bastion patronage. A former mercenary, Jared credits Hilarion with helping him change his ways and use his skills for good instead of gold, but he feels unworthy of the organization and has grown lonely after so long away from the Solar Bastion.
 

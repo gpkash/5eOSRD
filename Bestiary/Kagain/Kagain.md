@@ -1,7 +1,7 @@
 ### Kagain
 _Medium humanoid (dwarf), neutral evil_
 
-![[Kagain.webp]]
+![[Kagain.jpg]]
 
 > _The dwarf knew how to live by the axe, but Boo always thought that he needed a swift kick in the morals!
 _

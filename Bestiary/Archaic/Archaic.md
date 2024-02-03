@@ -1,7 +1,7 @@
 ### Archaic
 _Gargantuan celestial, neutral_
 
-![[Archaic.webp]]
+![[Archaic.jpg]]
 
 Archaics are towering, multi-armed creatures overflowing with magic. Despite their solitude, archaics carry vast understanding of magic and the world's history, as well as the ability to warp the fabric of the world around them. Sages who seek out archaics for their knowledge receive confusing and often contradictory answers to questions. If a supplicant successfully unwinds the tangle, the answer they seek is revealed.
 

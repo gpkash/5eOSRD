@@ -1,7 +1,7 @@
 ### Dire Corby
 _Medium humanoid (dire corby), neutral evil_
 
-![[Dire Corby.webp]]
+![[Dire Corby.jpg]]
 
 Heralded by the ominous, deep rumbling of their strange song, great packs of dire corbies range across the Underdark, stripping the tunnels and caverns they traverse of all living things. Even the mightiest creatures of the Underdark hide within fortified lairs or step aside from a dire corby flock, knowing of how these creatures' bizarre song disrupts, disorients, and ultimately overwhelms their prey.
 

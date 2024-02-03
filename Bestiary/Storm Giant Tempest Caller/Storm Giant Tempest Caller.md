@@ -1,7 +1,7 @@
 ### Storm Giant Tempest Caller
 _Huge giant (sorcerer), any alignment_
 
-![[Storm Giant Tempest Caller.webp]]
+![[Storm Giant Tempest Caller.jpg]]
 
 While most storm giants care little for the intricate details of ranking in the ordning, tempest callers proudly claim a position at the pinnacle of that ranking—and few dare to challenge them. Wielding the power of rune magic in addition to the innate magic that courses through them, these storm giants are highly respected. If any giant can draw Annam's attention to the world, it would likely be a tempest caller.
 

@@ -1,7 +1,7 @@
 ### Thurstwell Vanthampur
 _Medium humanoid (human), lawful evil_
 
-![[Thurstwell Vanthampur.webp]]
+![[Thurstwell Vanthampur.jpg]]
 
 Thurstwell is a pale and sullen recluse in his forties. A veritable shut-in, he uses imps to spy on his brothers, Amrik and Mortlock. Thurstwell resents both of them—Amrik for being their mother's favorite, and Mortlock for being a monstrous dolt.
 

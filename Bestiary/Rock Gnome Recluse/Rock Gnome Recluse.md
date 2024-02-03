@@ -1,7 +1,7 @@
 ### Rock Gnome Recluse
 _Small humanoid (gnome), chaotic neutral_
 
-![[Rock Gnome Recluse.webp]]
+![[Rock Gnome Recluse.jpg]]
 
 Rock gnome recluses are skilled in the arcane arts. They use their magical talents to create all kinds of wondrous inventions, very few of which work as intended.
 

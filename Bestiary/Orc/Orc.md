@@ -1,7 +1,7 @@
 ### Orc
 _Medium humanoid (orc), chaotic evil_
 
-![[Orc.webp]]
+![[Orc.jpg]]
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 

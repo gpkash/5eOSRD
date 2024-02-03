@@ -1,7 +1,7 @@
 ### Living Cloudkill
 _Large construct, unaligned_
 
-![[Living Cloudkill.webp]]
+![[Living Cloudkill.jpg]]
 
 
 

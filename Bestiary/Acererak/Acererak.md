@@ -1,7 +1,7 @@
 ### Acererak
 _Medium undead, neutral evil_
 
-![[Acererak.webp]]
+![[Acererak.jpg]]
 
 Acererak is an archlich who travels between worlds and is known to take sick pleasure in devouring the souls of adventurers, whom he lures into trap-ridden dungeons where they suffer horrible deaths. One such dungeon lies under the lost city of Omu. This dungeon is called the Tomb of the Nine Gods, for Acererak slew nine false gods and sealed them within it. More recently, he built a necromantic device called the Soulmonger, then hid it in the heart of the tomb.
 

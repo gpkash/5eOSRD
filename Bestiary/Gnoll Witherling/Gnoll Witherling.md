@@ -1,7 +1,7 @@
 ### Gnoll Witherling
 _Medium undead, chaotic evil_
 
-![[Gnoll Witherling.webp]]
+![[Gnoll Witherling.jpg]]
 
 > _The life cycle of Yeenoghu's gnolls begins and ends with eating. They eat their enemies, they eat one another, and they're freed from their hunger only in death.
 _

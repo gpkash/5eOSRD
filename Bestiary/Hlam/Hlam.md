@@ -1,7 +1,7 @@
 ### Hlam
 _Medium humanoid (human), lawful good_
 
-![[Hlam.webp]]
+![[Hlam.jpg]]
 
 This venerable human monk lives in a cave halfway up the side of Mount Waterdeep. Hlam is the grand master of the Order of the Even-Handed, a small monastic group devoted to Tyr. Would-be students periodically visit him to learn the Way of the Sacred Fists, which combines cleric magic and monk training. They usually return to the city confused, bruised, and not inclined to visit again.
 

@@ -1,7 +1,7 @@
 ### Dragon
 _Huge dragon, chaotic evil_
 
-![[Dragon.webp]]
+![[Dragon.jpg]]
 
 Dragons are the apex predators of the skies. They are usually found in rural areas, avoiding the crowds of air ships and thopters found above the cities of Kaladesh. Their favorite prey are the sky whales that drift through the aethersphere, but they also hunt leviathans, wurms, hydras, drakes, giants—and airships.
 

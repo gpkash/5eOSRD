@@ -1,7 +1,7 @@
 ### Balor
 _Huge fiend (demon), chaotic evil_
 
-![[Balor.webp]]
+![[Balor.jpg]]
 
 
 

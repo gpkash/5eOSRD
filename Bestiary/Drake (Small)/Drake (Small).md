@@ -1,7 +1,7 @@
 ### Drake (Small)
 _Medium beast, unaligned_
 
-![[Drake.webp]]
+![[Drake.jpg]]
 
 Drakes are skittish, opportunistic predators that hunt the skies of Kaladesh in units called rushes, made up of as many as a dozen drakes. Though they prey mostly on birds, they can also be seen clinging to the hides of leviathans and whales, picking off winged leeches and other parasites and scavengers that attach themselves to the huge sky beasts. Occasionally, a rush of drakes will descend on a herd of mountain goats or other game found at high elevations.
 

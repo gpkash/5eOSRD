@@ -1,7 +1,7 @@
 ### Witchkite
 _Huge dragon (warlock), chaotic evil_
 
-![[Witchkite.webp]]
+![[Witchkite.jpg]]
 
 While many dragons of Eldraine hoard wealth and material goods, witchkites prefer hoarding forbidden and dangerous magical secrets. The arcane nature of a witchkite's hoard seeps into the dragon's core, granting it spellcasting abilities and twisting its fiery breath into malevolent motes of magical flame.
 

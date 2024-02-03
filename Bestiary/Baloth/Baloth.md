@@ -1,7 +1,7 @@
 ### Baloth
 _Huge beast, unaligned_
 
-![[Baloth.webp]]
+![[Baloth.jpg]]
 
 Baloths are perhaps the most distinctive of Zendikar's beasts. They are muscular, omnivorous hunters covered in horns, spines, and plates of various shapes. The woodcrasher baloths of the Turntimber forest are surprisingly agile, leaping from tree to tree by using their great claws to clutch each spiraling trunk. The leatherback baloths of Ora Ondar are heavier and keep to the ground, where their thick, plated hide protects them from danger. Baloth herds occasionally stampede across the Onduan plains—and do so more frequently since the rise of the Eldrazi, as if sharing in Zendikar's anger. Use the [[triceratops]] statistics for baloths, but woodcrasher baloths have a climbing speed of 30 feet in addition to their normal walking speed.
 

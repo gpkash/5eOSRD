@@ -1,7 +1,7 @@
 ### Omin Dran
 _Medium humanoid (half-elf), lawful neutral_
 
-![[Omin Dran.webp]]
+![[Omin Dran.jpg]]
 
 My duty, first and foremost, is to my shareholders. And I am the only shareholder.
 

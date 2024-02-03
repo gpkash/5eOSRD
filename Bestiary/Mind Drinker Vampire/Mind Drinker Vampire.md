@@ -1,7 +1,7 @@
 ### Mind Drinker Vampire
 _Medium undead, neutral evil_
 
-![[Mind Drinker Vampire.webp]]
+![[Mind Drinker Vampire.jpg]]
 
 When vampires join House Dimir, they can learn to siphon mental energy and memories along with the blood of their victims. They also study the magic favored by Dimir mind mages, giving them a powerful combination of abilities ideal for espionage and infiltration.
 

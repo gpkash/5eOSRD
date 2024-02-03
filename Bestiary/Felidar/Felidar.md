@@ -1,7 +1,7 @@
 ### Felidar
 _Large celestial, lawful good_
 
-![[Felidar.webp]]
+![[Felidar.jpg]]
 
 A felidar is a celestial creature whose nature reflects an inherent devotion to law and order. It resembles an enormous cat with two pairs of downward-sloping horns and prominent teeth. Its blue-gray hide has a silvery, geometric pattern, and its thick white mane falls in an orderly fashion around its shoulders.
 

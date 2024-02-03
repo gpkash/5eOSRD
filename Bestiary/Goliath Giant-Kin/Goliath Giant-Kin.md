@@ -1,7 +1,7 @@
 ### Goliath Giant-Kin
 _Medium humanoid, any alignment_
 
-![[Goliath Giant-Kin.webp]]
+![[Goliath Giant-Kin.jpg]]
 
 Goliaths are Humanoids distantly related to giants. Infused with the supernatural essence of their ancestors' mountainous home, goliaths have the strength and fortitude to garner a giant's respect. Communities of goliaths who live in close relationship with giants emulate them and are recognized by the giants as kin. These goliath giant-kin often act as liaisons between giant clans and other Humanoids.
 

@@ -1,7 +1,7 @@
 ### Cosmic Horror
 _Gargantuan aberration, neutral evil_
 
-![[Cosmic Horror.webp]]
+![[Cosmic Horror.jpg]]
 
 Cosmic horrors are colossal, malevolent entities that occasionally slip the bonds of the Far Realm and find themselves adrift on the Astral Plane. Drawn to the light of distant stars, these creatures invade Wildspace systems and lay waste to worlds. After feeding on the minds and bodies of a world's inhabitants until it is sated, a cosmic horror usually returns to the void, where it falls into a deep sleep, drifting aimlessly until hunger or some other stimulus awakens it.
 

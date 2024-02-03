@@ -1,7 +1,7 @@
 ### Elder Oblex
 _Huge ooze, lawful evil_
 
-![[Elder Oblex.webp]]
+![[Elder Oblex.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Owlbear
 _Large monstrosity, unaligned_
 
-![[Owlbear.webp]]
+![[Owlbear.jpg]]
 
 An owlbear's screech echoes through dark valleys and benighted forests, piercing the quiet night to announce the death of its prey. Feathers cover the thick, shaggy coat of its bearlike body, and the limpid pupils of its great round eyes stare furiously from its owlish head.
 

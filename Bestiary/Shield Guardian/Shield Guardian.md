@@ -1,7 +1,7 @@
 ### Shield Guardian
 _Large construct, unaligned_
 
-![[Shield Guardian.webp]]
+![[Shield Guardian.jpg]]
 
 Wizards and other spellcasters create shield guardians for protection. A shield guardian treads beside its master, absorbing damage to keep its master alive as long as possible.
 

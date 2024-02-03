@@ -1,7 +1,7 @@
 ### Rosie Beestinger
 _Small humanoid (halfling), chaotic good_
 
-![[Rosie Beestinger.webp]]
+![[Rosie Beestinger.jpg]]
 
 Well, I have this jar of eyeballs...
 

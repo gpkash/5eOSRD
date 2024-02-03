@@ -1,7 +1,7 @@
 ### Yuan-ti Pit Master
 _Medium monstrosity (shapechanger, yuan-ti), neutral evil_
 
-![[Yuan-ti Pit Master.webp]]
+![[Yuan-ti Pit Master.jpg]]
 
 With snakes for arms, pit masters are yuan-ti malison priests who have made a pact with the god Merrshaulk and seek to rouse him from his slumber by sacrificing Humanoids to him. They are the most traditionalist yuan-ti and believe that they are best equipped to achieve the goals of their people.
 

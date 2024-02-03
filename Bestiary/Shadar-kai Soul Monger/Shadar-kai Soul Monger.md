@@ -1,7 +1,7 @@
 ### Shadar-kai Soul Monger
 _Medium humanoid (elf), neutral evil_
 
-![[Shadar-kai Soul Monger.webp]]
+![[Shadar-kai Soul Monger.jpg]]
 
 
 

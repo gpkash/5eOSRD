@@ -1,7 +1,7 @@
 ### Duodrone
 _Medium construct, lawful neutral_
 
-![[Duodrone.webp]]
+![[Duodrone.jpg]]
 
 
 

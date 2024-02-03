@@ -1,7 +1,7 @@
 ### Archon of Redemption
 _Large celestial, lawful neutral_
 
-![[Archon of Redemption.webp]]
+![[Archon of Redemption.jpg]]
 
 Like angels, archons are incarnations of white mana. They serve the archangels as embodiments of white mana's harsher aspects: a rigid sense of justice and a ruthless execution of punishment for those who defy the law. The appearance of the archons is deceptive: they look like hooded humans riding winged lions, but they are single creatures with just one mind and will.
 

@@ -1,7 +1,7 @@
 ### Griffin
 _Large monstrosity, unaligned_
 
-![[Griffin.webp]]
+![[Griffin.jpg]]
 
 Colorful griffins combine the heads and plumage of jungle parrots with the sleek bodies of jaguars. They are intelligent and noble, and they share the River Heralds' desire to ensure that the power of the Immortal Sun is never again unleashed on the world.
 

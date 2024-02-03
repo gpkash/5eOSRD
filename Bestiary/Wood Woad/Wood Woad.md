@@ -1,7 +1,7 @@
 ### Wood Woad
 _Medium plant, lawful neutral_
 
-![[Wood Woad.webp]]
+![[Wood Woad.jpg]]
 
 A wood woad is a powerful bipedal Plant invested with the soul of someone who gave up life to become an everlasting guardian.
 

@@ -1,7 +1,7 @@
 ### Satyr Thornbearer
 _Medium fey, chaotic neutral_
 
-![[Satyr Thornbearer.webp]]
+![[Satyr Thornbearer.jpg]]
 
 Not all satyrs live lives of pure whimsy. When forced to defend their friends and homes, satyr thornbearers are quick to take up their bows and strike against danger. Particularly amid the dense trees of the Skola Vale, these satyr skirmishers cooperate in loose teams, using guerrilla tactics to harass foes then melt back into the forest. The blessings of Nylea aid the satyrs in protecting their home, and a single arrow from a thornbearer's bow might rain down like a volley from a whole army.
 

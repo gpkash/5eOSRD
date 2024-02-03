@@ -1,7 +1,7 @@
 ### Great Kroom, Purple Worm
 _Gargantuan monstrosity, unaligned_
 
-![[Great Kroom, Purple Worm.webp]]
+![[Great Kroom, Purple Worm.jpg]]
 
  Great Kroom is a purple worm that comes to the Dankwood every twenty years to feed on all kinds of stuff that grows under the forest.
 

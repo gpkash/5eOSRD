@@ -1,7 +1,7 @@
 ### Hollyphant
 _Small celestial, lawful good_
 
-![[Hollyphant.webp]]
+![[Hollyphant.jpg]]
 
 Hollyphants are gentle, stalwart creatures native to the Upper Planes. Good-aligned deities and angels use them as messengers and helpers. Hollyphants treasure friendship and honesty.
 

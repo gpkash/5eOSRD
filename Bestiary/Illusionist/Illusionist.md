@@ -1,7 +1,7 @@
 ### Illusionist
 _Medium humanoid (any race), any alignment_
 
-![[Illusionist.webp]]
+![[Illusionist.jpg]]
 
 Illusionists are specialist wizards who twist light, sound, shadow, and even minds to create false and quasi-real effects. They can be flamboyant and use their powers in spectacular and obvious ways, or quiet and subtle, using their magic to conceal the truth.
 

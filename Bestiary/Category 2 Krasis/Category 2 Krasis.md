@@ -1,7 +1,7 @@
 ### Category 2 Krasis
 _Large monstrosity, unaligned_
 
-![[Category 2 Krasis.webp]]
+![[Category 2 Krasis.jpg]]
 
 **Krasis** In the deep sinkholes that serve as laboratories and guildhalls for the Simic Combine, biomancers employ a combination of magic and scientific method to create novel life forms. They coax new morphologies from existing creatures or combine traits from multiple organisms into one, producing the creatures known as krasis. Some krasis are unique creatures that can't reproduce. A few multiply and become part of the guild's standard menagerie.
 

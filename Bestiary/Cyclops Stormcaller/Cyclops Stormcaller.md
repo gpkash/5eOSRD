@@ -1,7 +1,7 @@
 ### Cyclops Stormcaller
 _Large giant, _
 
-![[CyclopsStormcallerFluff.webp]]
+![[CyclopsStormcallerFluff.jpg]]
 
 When [[cyclops|cyclopes]] are born beneath a raging storm, they sometimes grow up different—smaller than the rest, sickly and weak. Most of these stormborn [[cyclops|cyclopes]] are relentlessly bullied and beaten for their tiny stature, and many die before adulthood. Those who survive do so because of the magic the [[ The Stormlord|Exandria|Stormlord]] has bestowed upon them—intentionally or otherwise. As [[cyclops|cyclopes]] are generally unfamiliar with magic, the power of a stormcaller awes and terrifies them, and many see stormcallers as nothing short of the manifestation of a god.
 

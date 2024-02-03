@@ -1,7 +1,7 @@
 ### Avarice
 _Medium humanoid (tiefling), lawful evil_
 
-![[Avarice.webp]]
+![[Avarice.jpg]]
 
 Avarice is a cruel and vindictive tiefling trained in the arcane tradition of evocation. She likes using her magic to destroy things, and her hunger for magic items knows no bounds. Her supreme confidence means that she never backs down from a challenge, even when the odds are clearly stacked against her. Seeing other wizards as a threat, paranoia rules her life.
 

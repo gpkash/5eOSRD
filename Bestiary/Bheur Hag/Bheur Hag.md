@@ -1,7 +1,7 @@
 ### Bheur Hag
 _Medium fey, chaotic evil_
 
-![[Bheur Hag.webp]]
+![[Bheur Hag.jpg]]
 
 Bheur hags live in wintry lands, favoring snowy mountains. These hags become more active during winter, using their ice and weather magic to make life miserable for nearby settlements.
 

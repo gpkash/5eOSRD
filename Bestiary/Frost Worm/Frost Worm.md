@@ -1,7 +1,7 @@
 ### Frost Worm
 _Gargantuan monstrosity, unaligned_
 
-![[Frost Worm.webp]]
+![[Frost Worm.jpg]]
 
 Frost worms burrow through the snow, dirt, ice, and rock of Wildemount's Biting North. These enormous monstrosities eagerly consume any living creature they can wrap their jaws around.
 

@@ -1,7 +1,7 @@
 ### Treant
 _Huge plant, chaotic good_
 
-![[Treant.webp]]
+![[Treant.jpg]]
 
 Treants are awakened trees that dwell in ancient forests. Although treants prefer to while away the days, months, and years in quiet contemplation, they fiercely protect their woodland demesnes from outside threats.
 

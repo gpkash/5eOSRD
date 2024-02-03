@@ -1,7 +1,7 @@
 ### Dabus
 _Medium celestial, lawful neutral_
 
-![[Dabus.webp]]
+![[Dabus.jpg]]
 
 Among the bustling throngs of Sigil's streets float gray-skinned, vaguely humanlike figures with curled horns. Where they travel, cracks in the mortar seal shut, stray bricks float back into place, and ruined city blocks are restored. These are dabus, the silent caretakers of Sigil and loyal servants of the Lady of Pain.
 

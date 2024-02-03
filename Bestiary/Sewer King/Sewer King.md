@@ -1,7 +1,7 @@
 ### Sewer King
 _Medium fiend, lawful evil_
 
-![[Sewer King.webp]]
+![[Sewer King.jpg]]
 
 Sewer kings are hulking, monstrous rats empowered by fiendish blood. This unholy influence gives sewer kings their enormous size, supernatural strength, wicked cunning, and ability to speak.
 

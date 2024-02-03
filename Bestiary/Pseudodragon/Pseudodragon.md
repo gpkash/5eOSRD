@@ -1,7 +1,7 @@
 ### Pseudodragon
 _Tiny dragon, neutral good_
 
-![[Pseudodragon.webp]]
+![[Pseudodragon.jpg]]
 
 The elusive pseudodragon dwells in the quiet places of the world, making its home in the hollows of trees and small caves. With its red-brown scales, horns, and a maw filled with sharp teeth, a pseudodragon resembles a tiny red dragon but its disposition is playful.
 

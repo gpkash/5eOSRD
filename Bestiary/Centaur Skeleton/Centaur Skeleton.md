@@ -1,7 +1,7 @@
 ### Centaur Skeleton
 _Large undead, neutral evil_
 
-![[CentaurSkeletonFluff.webp]]
+![[CentaurSkeletonFluff.jpg]]
 
 
 

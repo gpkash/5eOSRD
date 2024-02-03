@@ -1,7 +1,7 @@
 ### Assassin Bug
 _Medium monstrosity, neutral_
 
-![[Assassin Bug.webp]]
+![[Assassin Bug.jpg]]
 
 Assassin bugs plague the frontier and the wilderness, where they seek to hatch their voracious maggots within [[incapacitated]] hosts. Resembling giant bluebottle flies, these insectile terrors bear stunted humanoid limbs hinting at the bizarre ceremonies that created them.
 

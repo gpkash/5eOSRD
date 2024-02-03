@@ -1,7 +1,7 @@
 ### Gem Stalker
 _Large monstrosity, neutral_
 
-![[Gem Stalker.webp]]
+![[Gem Stalker.jpg]]
 
 When a gem dragon kills an aberrant creature from the Far Realm, the dragon sometimes reshapes the alien corpse into a gem stalker—a cunning predator capable of traversing the Underdark, hunting Aberrations, and guarding its creator's lair. A gem stalker is imbued with life, sapience, and purpose by the mystical energy of the gem dragon's breath, and it is dedicated to its mission.
 

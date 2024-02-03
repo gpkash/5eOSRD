@@ -1,7 +1,7 @@
 ### Viconia DeVir
 _Medium humanoid (drow), neutral evil_
 
-![[Viconia DeVir.webp]]
+![[Viconia DeVir.jpg]]
 
 > _Me and Boo can attest that Viconia never helped us write the chapter about Ust Natha.
 _

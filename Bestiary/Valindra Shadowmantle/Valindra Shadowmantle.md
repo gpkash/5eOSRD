@@ -1,7 +1,7 @@
 ### Valindra Shadowmantle
 _Medium undead, neutral evil_
 
-![[Valindra Shadowmantle.webp]]
+![[Valindra Shadowmantle.jpg]]
 
 Liches are the remains of great wizards who embrace undeath as a means of preserving themselves. They further their own power at any cost, having no interest in the affairs of the living except where those affairs interfere with their own. Scheming and insane, they hunger for long-forgotten knowledge and the most terrible secrets. Because the shadow of death doesn't hang over them, they can conceive plans that take years, decades, or centuries to come to fruition.
 

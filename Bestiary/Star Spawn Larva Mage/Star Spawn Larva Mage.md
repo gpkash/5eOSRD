@@ -1,7 +1,7 @@
 ### Star Spawn Larva Mage
 _Medium aberration, chaotic evil_
 
-![[Star Spawn Larva Mage.webp]]
+![[Star Spawn Larva Mage.jpg]]
 
 
 

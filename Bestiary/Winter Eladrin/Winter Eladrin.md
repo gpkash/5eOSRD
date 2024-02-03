@@ -1,7 +1,7 @@
 ### Winter Eladrin
 _Medium fey (elf), chaotic neutral_
 
-![[Winter Eladrin.webp]]
+![[Winter Eladrin.jpg]]
 
 
 

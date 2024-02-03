@@ -1,7 +1,7 @@
 ### Baba Lysaga
 _Medium humanoid (human, shapechanger), chaotic evil_
 
-![[Baba Lysaga.webp]]
+![[Baba Lysaga.jpg]]
 
 Two women gave life to Strahd von Zarovich. The first was Queen Ravenovia van Roeyen, Strahd's biological mother. The second was the queen's midwife, a devout follower of Mother Night named Baba Lysaga. Although it was the former who raised Strahd and enabled him to follow in his father's footsteps, it was the latter who sensed a potential for greatness and darkness in Strahd surpassing that of any other mortal. Lysaga believed then, as she believes now, that she is Strahd's true mother.
 

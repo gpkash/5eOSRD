@@ -1,7 +1,7 @@
 ### Relic Sloth
 _Huge beast, unaligned_
 
-![[Relic Sloth.webp]]
+![[Relic Sloth.jpg]]
 
 For long expeditions, Lorehold mages often employ relic sloths to haul adventuring equipment and excavated artifacts—so long as their study isn't in any particular hurry. Relic sloths travel at an excruciatingly slow pace, deliberating every step and moving only when necessary. But this caution makes these hulking creatures perfect for traversing treacherous and crumbling ruins, where other beasts of burden would falter. The distinctive sickle-shaped claws on a relic sloth's forelimbs are primarily used for climbing, though they can fend off a hungry predator in a pinch.
 

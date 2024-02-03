@@ -1,7 +1,7 @@
 ### Dohwar
 _Small fey, any alignment_
 
-![[Dohwar.webp]]
+![[Dohwar.jpg]]
 
 Dohwars are short, pudgy, flightless avians that look and move like penguins. Dohwars migrate from the Feywild to Wildspace, where they are typically encountered. They conduct their affairs in secrecy, preferring to meet in dark alleys and out-of-the-way places even when their business isn't illegal or dangerous. They tend to dress in a garish mishmash of clothing, but many of them also shroud themselves in hooded cloaks.
 

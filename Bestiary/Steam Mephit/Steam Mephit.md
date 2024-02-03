@@ -1,7 +1,7 @@
 ### Steam Mephit
 _Small elemental, neutral evil_
 
-![[Steam Mephit.webp]]
+![[Steam Mephit.jpg]]
 
 
 

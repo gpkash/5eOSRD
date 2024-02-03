@@ -1,7 +1,7 @@
 ### Shadow Dancer
 _Medium humanoid (elf), neutral_
 
-![[Shadow Dancer.webp]]
+![[Shadow Dancer.jpg]]
 
 **Shadow Dancer** Those who have fought shadow dancers describe the experience as similar to fighting a living darkness. Every dim alcove and darkened nook is a place from where the lithe and acrobatic shadow dancers can emerge to ambush their prey. Using this tactic, they attack their enemies from all angles with a flurry of entangling chains that hold fast and corrupt the flesh. When their quarry is helpless, others move in to help dispatch the prey. Then they loot the corpse for trinkets, anything colorful and lively to gaze at after they return to the gloom of the Shadowfell.
 

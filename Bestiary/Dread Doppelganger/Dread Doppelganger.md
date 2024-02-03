@@ -1,7 +1,7 @@
 ### Dread Doppelganger
 _Medium monstrosity (shapechanger), neutral evil_
 
-![[Dread Doppelganger.webp]]
+![[Dread Doppelganger.jpg]]
 
 > _Let me borrow your face... You won't be needing it anymore.
 _

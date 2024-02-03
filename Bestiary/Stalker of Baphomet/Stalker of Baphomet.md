@@ -1,7 +1,7 @@
 ### Stalker of Baphomet
 _Huge fiend (demon), chaotic evil_
 
-![[Stalker of Baphomet.webp]]
+![[Stalker of Baphomet.jpg]]
 
 Demon worship is rare among stone giants; the destructive tendency of demons is the antithesis of the artistry that drives the stone giant's ordning. The Horned King, Baphomet, is an exception. Though he is a merciless hunter, the Prince of Beasts also crafts complex mazes as his hunting grounds. Stone giants can become mesmerized by the demon lord's mazes and enter his service. These giants can continue pursuing art by crafting mazes, while satiating their bloodlust by hunting in them.
 

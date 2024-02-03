@@ -1,7 +1,7 @@
 ### Echo of Demogorgon
 _Large fiend (demon), chaotic evil_
 
-![[Echo of Demogorgon.webp]]
+![[Echo of Demogorgon.jpg]]
 
 > _No transformation wrought by the hand (or tentacle, whatever) of a demon lord is rightly understood as a "blessing."
 _

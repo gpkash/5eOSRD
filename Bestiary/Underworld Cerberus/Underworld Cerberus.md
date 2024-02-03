@@ -1,7 +1,7 @@
 ### Underworld Cerberus
 _Large monstrosity, lawful evil_
 
-![[Underworld Cerberus.webp]]
+![[Underworld Cerberus.jpg]]
 
 Three-headed cerberi dwell deep in the Underworld. Terrifying and cunning, they guard portals between the wards of the Underworld, Erebos's greatest treasures, and noteworthy souls who might attempt to escape the realm of the dead. Three-headed cerberi commonly serve demons, but if left to their own devices, they often herd wily souls into labyrinthine Underworld wildernesses, then hunt them for sport.
 

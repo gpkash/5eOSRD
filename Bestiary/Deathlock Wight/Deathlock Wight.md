@@ -1,7 +1,7 @@
 ### Deathlock Wight
 _Medium undead, lawful evil_
 
-![[Deathlock Wight.webp]]
+![[Deathlock Wight.jpg]]
 
 
 

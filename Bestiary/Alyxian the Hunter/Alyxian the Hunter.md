@@ -1,7 +1,7 @@
 ### Alyxian the Hunter
 _Medium construct, unaligned_
 
-![[Alyxian the Hunter.webp]]
+![[Alyxian the Hunter.jpg]]
 
 This ruidium golem resembles Alyxian the Apotheon. It remains as rigid as a statue until the characters attack it or until Theo vanishes from the Netherdeep.
 

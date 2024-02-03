@@ -1,7 +1,7 @@
 ### Fluxcharger
 _Large elemental, chaotic neutral_
 
-![[Fluxcharger.webp]]
+![[Fluxcharger.jpg]]
 
 In an effort to create a weird that could be more easily controlled, Izzet mages tried binding elemental lightning, fire, and smoke into a framework made of the magical alloy mizzium. The experiment was partly successful: the resulting weird, a fluxcharger, doesn't explode like some other weirds do, but it is more intelligent and more headstrong than other weirds.
 

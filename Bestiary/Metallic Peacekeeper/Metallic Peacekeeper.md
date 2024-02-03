@@ -1,7 +1,7 @@
 ### Metallic Peacekeeper
 _Medium construct, neutral good_
 
-![[Metallic Peacekeeper.webp]]
+![[Metallic Peacekeeper.jpg]]
 
 When a metallic dragon grows attached to a settlement of smaller folk—often after dwelling there for a time in Humanoid form—the dragon might decide to create a metallic peacekeeper to protect the place. The peacekeeper can ward a community for centuries, standing in the place of its dragon creator and maintaining peace and order.
 

@@ -1,7 +1,7 @@
 ### Sire of Insanity
 _Huge fiend (demon), chaotic evil_
 
-![[Sire of Insanity.webp]]
+![[Sire of Insanity.jpg]]
 
 Rakdos nightclubs, where visitors can indulge any dark desire and revel in sadistic spectacle, are the favored haunts of the demons known as sires of insanity. Lurking in an underground vault beneath a Rakdos operation, a sire of insanity feasts on the violence, torment, and depravity unfolding above. Occasionally, cultists bring would-be recruits to the demon's presence, and—true to its name—the sire of insanity breaks the new cultist's mind.
 

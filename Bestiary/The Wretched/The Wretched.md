@@ -1,7 +1,7 @@
 ### The Wretched
 _Small monstrosity, lawful evil_
 
-![[The Wretched.webp]]
+![[The Wretched.jpg]]
 
 **The Wretched** Horrid little monsters, the Wretched gather in large packs to scour the Shadowfell for prey. These pitiful entities subsist on life force, so when they find a creature, they surge forward to sink their fangs into their victims and drink deep of their life energy and their fear.
 

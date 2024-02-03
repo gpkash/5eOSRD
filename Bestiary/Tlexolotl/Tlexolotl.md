@@ -1,7 +1,7 @@
 ### Tlexolotl
 _Huge elemental, neutral_
 
-![[Tlexolotl.webp]]
+![[Tlexolotl.jpg]]
 
 Tlexolotls are gigantic, salamander-like creatures that slumber deep in the magma of dormant volcanoes. A tlexolotl drowses amid the molten depths for centuries, rising only rarely to gorge itself on massive amounts of animal and plant life before returning to its slumber. Should a tlexolotl's sleep be disturbed—whether by intruders in its volcanic lair or the eruption of its molten home—the lava-drenched brute emerges in a rage, rampaging forth until its belly is full and its volcano is quiet once more.
 

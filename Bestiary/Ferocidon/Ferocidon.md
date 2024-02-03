@@ -1,7 +1,7 @@
 ### Ferocidon
 _Large beast, unaligned_
 
-![[Ferocidon.webp]]
+![[Ferocidon.jpg]]
 
 
 

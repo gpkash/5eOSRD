@@ -1,7 +1,7 @@
 ### Grandolpha Muzgardt
 _Medium humanoid (dwarf), lawful evil_
 
-![[Grandolpha Muzgardt.webp]]
+![[Grandolpha Muzgardt.jpg]]
 
 Grandolpha Muzgardt, the grand dame of the Muzgardt duergar clan, has recently arrived at the fortress after being invited here by Xardorok. The Muzgardts are based in Gracklstugh, a duergar city in the Underdark. They mass-produce and distribute a filthy duergar ale made from mushrooms. Xardorok has been eager to take a fourth wife and has had his eye on Grandolpha Muzgardt for many years. He asked Grandolpha to his fortress to give her a gift—a pseudodragon made of chardalyn (a pseudo-pseudodragon, if you will)—and make her an offer she can't refuse. Once he conquers Icewind Dale, he wants the Muzgardts to control the ale trade throughout his sunless surface kingdom.
 

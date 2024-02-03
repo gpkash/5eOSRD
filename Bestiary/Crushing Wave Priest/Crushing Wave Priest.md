@@ -1,7 +1,7 @@
 ### Crushing Wave Priest
 _Medium humanoid (human), neutral evil_
 
-![[Crushing Wave Priest.webp]]
+![[Crushing Wave Priest.jpg]]
 
 Crushing Wave priests are the fanatical core of the cult. Gathering in secretive cabals, they perform dark rituals to glorify Olhydra as the embodiment of water's destructiveness. They believe that using water to kill their enemies, such as through ritual drowning, earns them Olhydra's favor.
 

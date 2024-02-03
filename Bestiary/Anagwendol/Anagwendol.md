@@ -1,7 +1,7 @@
 ### Anagwendol
 _Medium celestial, lawful good_
 
-![[Anagwendol.webp]]
+![[Anagwendol.jpg]]
 
 A fierce warrior of the Heavens, Anagwendol's career is a trail of slain Fiends. She has never turned from a fight against evil, and though she has taken countless wounds in the fray, she has never lost. And now she is in the Nine Hells.
 

@@ -1,7 +1,7 @@
 ### Bleak Cabal Void Soother
 _Small, Medium humanoid, any alignment_
 
-![[Bleak Cabal Void Soother.webp]]
+![[Bleak Cabal Void Soother.jpg]]
 
 A void soother cares for creatures struck by curses and the negative effects of the planes. These warriors go to dangerous planes and areas torn by conflict to provide relief to those they find there.
 

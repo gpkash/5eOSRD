@@ -1,7 +1,7 @@
 ### Goblin
 _Small humanoid (goblinoid), neutral evil_
 
-![[Goblin.webp]]
+![[Goblin.jpg]]
 
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
 

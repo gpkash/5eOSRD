@@ -1,7 +1,7 @@
 ### Irda Seeker
 _Medium giant, any alignment_
 
-![[Irda Seeker.webp]]
+![[Irda Seeker.jpg]]
 
 Irda seekers are skilled spies who use their magic to disguise themselves and gather intelligence for their allies. In combat, irda seekers can momentarily cloak themselves as they dart around the battlefield.
 

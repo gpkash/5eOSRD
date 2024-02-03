@@ -1,7 +1,7 @@
 ### Mummy
 _Medium undead, lawful evil_
 
-![[Mummy.webp]]
+![[Mummy.jpg]]
 
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
 

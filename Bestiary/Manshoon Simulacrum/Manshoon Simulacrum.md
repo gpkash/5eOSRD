@@ -1,7 +1,7 @@
 ### Manshoon Simulacrum
 _Medium humanoid (human), lawful evil_
 
-![[Manshoon Simulacrum.webp]]
+![[Manshoon Simulacrum.jpg]]
 
 Manshoon uses the [[simulacrum]] spell to create a magical duplicate of himself as needed. He has customized the spell to increase his simulacrum's hit points at the expense of its spellcasting ability.
 

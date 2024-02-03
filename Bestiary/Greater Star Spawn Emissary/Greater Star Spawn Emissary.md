@@ -1,7 +1,7 @@
 ### Greater Star Spawn Emissary
 _Huge aberration, _
 
-![[Greater Star Spawn Emissary.webp]]
+![[Greater Star Spawn Emissary.jpg]]
 
 An emissary's greater form sheds all pretense of being part of a plane's reality and openly mocks it. A destructive titan, this form rises in a 25-foot-tall pillar of violent flesh amalgamating the meat and voices of every form the emissary has ever mimicked. Manifestations of alien hunger erupt from this horror in waves of ravenous organs and mind-breaking psychic assaults.
 

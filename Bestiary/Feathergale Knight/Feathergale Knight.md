@@ -1,7 +1,7 @@
 ### Feathergale Knight
 _Medium humanoid (human), lawful evil_
 
-![[Feathergale Knight.webp]]
+![[Feathergale Knight.jpg]]
 
 The Feathergale Knights are ambitious, wealthy folk from cities such as Waterdeep seduced by the air cult's promises of power. From the backs of hippogriffs or giant vultures, they survey the land around Feathergale Spire, guarding the entrance to the air cult's hidden temple.
 

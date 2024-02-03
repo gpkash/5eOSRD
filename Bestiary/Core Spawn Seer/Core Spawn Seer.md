@@ -1,7 +1,7 @@
 ### Core Spawn Seer
 _Medium aberration, chaotic evil_
 
-![[Core Spawn Seer.webp]]
+![[Core Spawn Seer.jpg]]
 
 Core spawn seers are humanoid arcanists corrupted by the eldritch power of the Elder Evils through blasphemous rites or accursed encounters. Ravaged by otherworldly radiation and disease, their bodies are covered in horrible protrusions of fluorescent crystals, which emit a psychedelic glow from beneath the tattered folds of their robes.
 

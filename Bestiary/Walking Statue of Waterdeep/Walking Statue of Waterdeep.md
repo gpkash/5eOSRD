@@ -1,7 +1,7 @@
 ### Walking Statue of Waterdeep
 _Gargantuan construct, unaligned_
 
-![[Walking Statue of Waterdeep.webp]]
+![[Walking Statue of Waterdeep.jpg]]
 
 Scattered throughout Waterdeep are eight enormous statues that can defend the city in times of great peril. Because they are so destructive, the walking statues are used only to fend off armies and seemingly insurmountable foes.
 

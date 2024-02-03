@@ -1,7 +1,7 @@
 ### Duke Zalto
 _Huge giant, lawful evil_
 
-![[Duke Zalto.webp]]
+![[Duke Zalto.jpg]]
 
 Master crafters and organized warriors, fire giants dwell among volcanoes, lava floes, and rocky mountains. They are ruthless militaristic brutes whose mastery of metalwork is legendary.
 

@@ -1,7 +1,7 @@
 ### Triton Shorestalker
 _Medium humanoid (triton), neutral evil_
 
-![[Triton Shorestalker.webp]]
+![[Triton Shorestalker.jpg]]
 
 Some insults don't wash away with the tides. When surface dwellers threaten the safety of triton communities, impede upon Thassa's holiest depths, or steal the treasures of the deep, triton shorestalkers seek vengeance. Using speed and poison harvested from deadly sea beasts, these triton assassins slip into shallow waters and strike when least expected. Often, surface dwellers don't even realize they've been attacked by shorestalkers, chalking disappearances and deaths up to the innumerable dangers of the sea.
 

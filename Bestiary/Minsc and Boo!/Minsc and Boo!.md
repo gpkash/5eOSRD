@@ -1,7 +1,7 @@
 ### Minsc and Boo!
 _Medium humanoid (human), neutral good_
 
-![[Minsc and Boo!.webp]]
+![[Minsc and Boo!.jpg]]
 
 Minsc is a berserker warrior from the nation of Rasheman in the utter east, though his affinity for animals speaks to his skill as a hunter and tracker as well. He originally came to the Sword Coast on a dejemma, a ritual journey to manhood, as the bodyguard of a young Wychalarn of Rasheman named Dynaheir. But Dynaheir was killed while Minsc was adventuring with the Bhaalspawn known as Abdel Adrian.
 

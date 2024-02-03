@@ -1,7 +1,7 @@
 ### Transmuter Wizard
 _Medium humanoid, any alignment_
 
-![[Transmuter Wizard.webp]]
+![[Transmuter Wizard.jpg]]
 
 
 

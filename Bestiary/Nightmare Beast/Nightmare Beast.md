@@ -1,7 +1,7 @@
 ### Nightmare Beast
 _Gargantuan monstrosity, chaotic evil_
 
-![[Nightmare Beast.webp]]
+![[Nightmare Beast.jpg]]
 
 Nightmare beasts are enormous quadrupeds that stand 20 feet tall, or 40 feet tall when rearing on their hind legs.
 

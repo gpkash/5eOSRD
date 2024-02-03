@@ -1,7 +1,7 @@
 ### Guardian Naga
 _Large monstrosity, lawful good_
 
-![[Guardian Naga.webp]]
+![[Guardian Naga.jpg]]
 
 
 

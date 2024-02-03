@@ -1,7 +1,7 @@
 ### High Fae Mage
 _Medium fey (sorcerer), any alignment_
 
-![[High Fae Mage.webp]]
+![[High Fae Mage.jpg]]
 
 
 

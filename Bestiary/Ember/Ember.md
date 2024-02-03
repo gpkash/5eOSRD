@@ -1,7 +1,7 @@
 ### Ember
 _Huge dragon (adult chromatic), chaotic evil_
 
-![[Ember.webp]]
+![[Ember.jpg]]
 
 Emperor Ariakas,
 

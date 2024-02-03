@@ -1,7 +1,7 @@
 ### Gadabout
 _Medium plant, unaligned_
 
-![[Gadabout.webp]]
+![[Gadabout.jpg]]
 
 Gadabouts are gentle, winged creatures that can be used as personal conveyances for short-distance travel across the airless void of Wildspace. A gadabout wraps its branches around a Humanoid creature, spreads its butterfly wings, and allows its wearer to fly through space in a continuously refreshed air envelope. The gadabout's leaves even provide a nourishing syrup that its wearer can consume in the absence of other food and water. One Humanoid can survive on these leaves for up to sixty days.
 

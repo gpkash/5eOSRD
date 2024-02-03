@@ -1,7 +1,7 @@
 ### Coldlight Walker
 _Medium undead, chaotic evil_
 
-![[Coldlight Walker.webp]]
+![[Coldlight Walker.jpg]]
 
 Some humanoids who died from extreme cold but whose spirits languish in the mortal world become coldlight walkers, burning with frigid fury at the meaninglessness of life. Their frostbitten corpses emit a spectral light so intense that mortal eyes can barely stand to look at them. They typically wear the clothing in which they died.
 

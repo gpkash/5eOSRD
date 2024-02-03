@@ -1,7 +1,7 @@
 ### Champion
 _Medium humanoid (any race), any alignment_
 
-![[Champion.webp]]
+![[Champion.jpg]]
 
 > _Bountiful and overrated. You can't spit in this realm without hitting one. I have witnessed the birth, death, and unlife of more champions than I dare recount. Few are worth remembering.
 _

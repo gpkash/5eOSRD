@@ -1,7 +1,7 @@
 ### Ezmerelda d'Avenir
 _Medium humanoid (human), chaotic good_
 
-![[Ezmerelda d'Avenir.webp]]
+![[Ezmerelda d'Avenir.jpg]]
 
 Ezmerelda d'Avenir, a Vistana, is the protégé of Rudolph van Richten - despite the fact that her first encounter with the vampire hunter was anything but pleasant.
 

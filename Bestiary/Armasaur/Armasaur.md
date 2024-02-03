@@ -1,7 +1,7 @@
 ### Armasaur
 _Huge beast (dinosaur), unaligned_
 
-![[Armasaur.webp]]
+![[Armasaur.jpg]]
 
 
 

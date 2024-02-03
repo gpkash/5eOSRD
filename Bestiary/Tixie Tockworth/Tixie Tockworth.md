@@ -1,7 +1,7 @@
 ### Tixie Tockworth
 _Small humanoid (gnome), chaotic evil_
 
-![[Tixie Tockworth.webp]]
+![[Tixie Tockworth.jpg]]
 
 Using magic and mechanical know-how, Tixie Tockworth has transformed most of herself into a machine. What was once her torso is now a steel carapace that can discharge jets of scalding steam. Her left arm ends in a humming blade. Her right arm ends in a metal shield. Her eyes are shiny, metallic red orbs that can see through illusions.
 

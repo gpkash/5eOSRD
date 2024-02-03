@@ -1,7 +1,7 @@
 ### Shifter
 _Medium humanoid (shifter), any alignment_
 
-![[Shifter.webp]]
+![[Shifter.jpg]]
 
 Shifters are tied to primal spirits, which most of them refer to as the beast within. They are lithe of form and have bestial features: large eyes, flat noses, pointed ears, and light fur over much of their bodies. When a shifter fully embraces the beast within by "shifting," these features become even more pronounced.
 

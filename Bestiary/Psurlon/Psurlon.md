@@ -1,7 +1,7 @@
 ### Psurlon
 _Medium aberration, lawful evil_
 
-![[Psurlon.webp]]
+![[Psurlon.jpg]]
 
 Psurlons are malevolent, wormlike creatures that live on the Astral Plane. A fully grown specimen is 7 feet long. They have legs that end in hooves and arms that end in hands with three long fingers. A psurlon's eyeless head resembles that of an earthworm, capped by a maw ringed with teeth. Psurlons adorn themselves in richly colored robes and rarely wear armor or carry weapons.
 

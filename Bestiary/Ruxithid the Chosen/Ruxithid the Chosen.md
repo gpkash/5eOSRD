@@ -1,7 +1,7 @@
 ### Ruxithid the Chosen
 _Medium aberration (goblinoid), neutral evil_
 
-![[Ruxithid the Chosen.webp]]
+![[Ruxithid the Chosen.jpg]]
 
 Centuries ago, an abandoned duergar mining outpost called Zorzula's Rest was conquered by mind flayers, and the goblins there were exposed to the illithids' strange powers, leading a subset of the goblins to develop unusual psionic powers. The mind flayers eventually left, but the goblins remained, sequestered from the rest of the world until recently when the mind flayer fanatics called on them. Some of these goblins' descendants possess psionic powers, as evidenced by the goblin psi commanders and goblin psi brawlers (see appendix A for descriptions of both) that make up their ranks. Collectively, the goblins call themselves the Sawplees: a simplification of the word for "goblin" in the illithids' dialect of Deep Speech.
 

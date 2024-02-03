@@ -1,7 +1,7 @@
 ### Razerblast
 _Medium humanoid (human), chaotic evil_
 
-![[Razerblast.webp]]
+![[Razerblast.jpg]]
 
 A razerblast seethes with hate for the enemies of the fire cult. The razerblast's elemental overlords have replaced its heart with a flaming orb that detonates if the razerblast dies.
 

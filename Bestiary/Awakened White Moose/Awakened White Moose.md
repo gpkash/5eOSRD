@@ -1,7 +1,7 @@
 ### Awakened White Moose
 _Large beast, neutral evil_
 
-![[Awakened White Moose.webp]]
+![[Awakened White Moose.jpg]]
 
 A white moose is attacking loggers in the forest near Lonelywood. The town's logging industry is essential to the growth and survival of Ten-Towns, and Speaker Nimsy Huddle has assured the other speakers that Lonelywood's "moose problem" will be dealt with in short order. Hunters have been dispatched to kill the moose, but it has eluded them so far. From what the hunters have seen, their prey is smarter than the average moose, and its white hide makes it hard to spot in the snow. What they don't know is that the moose is using a magic mirror as a scrying device to show it where its enemies are.
 

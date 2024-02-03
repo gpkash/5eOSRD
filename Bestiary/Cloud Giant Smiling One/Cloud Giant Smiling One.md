@@ -1,7 +1,7 @@
 ### Cloud Giant Smiling One
 _Huge giant (cloud giant), chaotic neutral_
 
-![[Cloud Giant Smiling One.webp]]
+![[Cloud Giant Smiling One.jpg]]
 
 Smiling ones are cloud giants who honor and emulate the craftiness and deceit of the deity Memnor above all else. They are tricksters supreme who use sleight of hand, deception, misdirection, and magic in their pursuit of wealth. They also possess a flair for unpredictability and a wicked sense of humor. Smiling ones overstep all bounds of decorum with their behavior, doing and saying things that even other knavish folk consider beneath their dignity.
 

@@ -1,7 +1,7 @@
 ### Decapus
 _Large monstrosity, unaligned_
 
-![[Decapus.webp]]
+![[Decapus.jpg]]
 
 Decapuses are carnivorous, solitary hunters that swing through trees, scooping up prey with their 10-foot-long, suckered tentacles. Decapuses also use their tentacles to climb walls and ceilings.
 

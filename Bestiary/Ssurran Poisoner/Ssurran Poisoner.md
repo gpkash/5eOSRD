@@ -1,7 +1,7 @@
 ### Ssurran Poisoner
 _Medium monstrosity (lizardfolk), any alignment_
 
-![[Ssurran Poisoner.webp]]
+![[Ssurran Poisoner.jpg]]
 
 Ssurran poisoners coat their weapons with toxin and hurl bombs that release poisonous gas.
 

@@ -1,7 +1,7 @@
 ### Boss Delour
 _Small monstrosity, lawful evil_
 
-![[Boss Delour.webp]]
+![[Boss Delour.jpg]]
 
 Delour the wererat is a sly trickster and consummate thief who rules the Moonstalkers alongside his friend Augustus. Delour's honeyed words and calculating mind make him dangerous. He can smile and shake someone's hand while simultaneously plotting to ruin that person.
 

@@ -1,7 +1,7 @@
 ### The Bagman
 _Large giant, chaotic evil_
 
-![[The Bagman.webp]]
+![[The Bagman.jpg]]
 
 **Beware the Bagman** The Bagman is an urban legend about an adventurer who sought to escape doom by abandoning his party and hiding inside a [[5eOSRD/Equipment/Items/Magic/Bag of Holding/Bag of Holding]]. When he tried to leave, though, he became lost amid a constantly increasing number of extradimensional storage spaces. Over time, the strange forces of this magical in-between place transformed the adventurer into a monstrous creature. Now, every night, the Bagman slips out from a random [[5eOSRD/Equipment/Items/Magic/Bag of Holding/Bag of Holding]]. If he doesn't find his home, he drags someone back into the bag with him and leaves behind some trinket from his hidden kingdom of lost junk. Some say that if you speak too loudly over an open [[5eOSRD/Equipment/Items/Magic/Bag of Holding/Bag of Holding]] or whisper "follow my voice" into a magical storage space three times, the Bagman will come for you.
 

@@ -1,7 +1,7 @@
 ### Darz Helgar
 _Medium humanoid (Illuskan human), neutral_
 
-![[Darz Helgar.webp]]
+![[Darz Helgar.jpg]]
 
 In his youth, Darz was a member of the Xanathar Thieves' Guild in Waterdeep. After serving ten years in prison for his crimes, he cut all ties to the city and moved north to be a campground caretaker.
 

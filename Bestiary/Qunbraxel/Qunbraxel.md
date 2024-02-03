@@ -1,7 +1,7 @@
 ### Qunbraxel
 _Medium aberration (mind flayer, warlock), lawful evil_
 
-![[Qunbraxel.webp]]
+![[Qunbraxel.jpg]]
 
 Qunbraxel is an arrogant mind flayer warlock. Qunbraxel is always attended by four loyal grimlocks. They swap this duty with other grimlocks nearby, although Qunbraxel can hardly be bothered to tell one grimlock minion from another.
 

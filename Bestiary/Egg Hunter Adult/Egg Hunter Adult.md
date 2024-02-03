@@ -1,7 +1,7 @@
 ### Egg Hunter Adult
 _Small monstrosity, unaligned_
 
-![[Egg Hunter Adult.webp]]
+![[Egg Hunter Adult.jpg]]
 
 The salamander-like adult of the species can inflate its bulbous tail so that it takes on the shape and texture of a dragon egg. It uses this mimicry to establish itself in a nest tended by a dragon or other creatures. If an egg hunter is discovered, it releases spores that make other creatures lethargic, allowing it to scurry to safety. If things turn dire, the egg hunter's physical form can magically harden, reducing the harm it suffers from even a dragon's wrath.
 

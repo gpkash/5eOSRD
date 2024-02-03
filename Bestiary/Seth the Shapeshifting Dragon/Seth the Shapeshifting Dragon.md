@@ -1,7 +1,7 @@
 ### Seth the Shapeshifting Dragon
 _Medium dragon, neutral_
 
-![[Seth the Shapeshifting Dragon.webp]]
+![[Seth the Shapeshifting Dragon.jpg]]
 
 Seth the Shapeshifting Dragon is a vegetarian who likes to hide in the brush near waterfalls, rivers, and lakes. Invisible while immersed in water, Seth is capable of great bursts of speed, and his breath weapon is a blast of frigid water.
 

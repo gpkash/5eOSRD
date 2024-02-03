@@ -1,7 +1,7 @@
 ### Spirit
 _Medium undead, any alignment_
 
-![[Spirit.webp]]
+![[Spirit.jpg]]
 
 Magic fueled by black mana can alter the natural cycle of life and death. Whether wielded by mortal wizards or demons, or simply an environmental manifestation of black mana's flow through the land, such magic can trap spirits between the realm of the living and the mysterious fate of the dead. These ghostly undead are as destructive and hateful as the magic that calls them into being. Zendikar's shades and wraiths can be represented by the [[shadow||shadows]] and [[wraith||wraiths]] in the Monster Manual.
 

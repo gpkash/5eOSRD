@@ -1,7 +1,7 @@
 ### Dragon Turtle
 _Gargantuan dragon, neutral_
 
-![[Dragon Turtle.webp]]
+![[Dragon Turtle.jpg]]
 
 Dragon turtles are among the most fearsome creatures of the oceans. As large and voracious as the oldest of its land-based dragon kin, a dragon turtle strikes with its deadly jaws, steaming breath, and crushing tail.
 

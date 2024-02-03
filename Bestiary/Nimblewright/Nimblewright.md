@@ -1,7 +1,7 @@
 ### Nimblewright
 _Medium construct, unaligned_
 
-![[Nimblewright.webp]]
+![[Nimblewright.jpg]]
 
 A nimblewright is a magical construct created to serve as a guard or assassin. Composed predominantly of lightweight wood and powered by magic, it can pass for humanoid while wearing clothing. Some nimblewrights wear plain clothing, while others are clad in flashier attire. A nimblewright is emotionless, its face frozen in whatever expression was given to it by its creator.
 

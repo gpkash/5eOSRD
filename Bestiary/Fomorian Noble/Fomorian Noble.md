@@ -1,7 +1,7 @@
 ### Fomorian Noble
 _Huge giant (wizard), chaotic evil_
 
-![[Fomorian Noble.webp]]
+![[Fomorian Noble.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Spectator
 _Medium aberration, lawful neutral_
 
-![[Spectator.webp]]
+![[Spectator.jpg]]
 
 A spectator is a lesser beholder that is summoned from another plane of existence by a magical ritual, the components of which include four beholder eyestalks that are consumed by the ritual's magic. Appropriately, a spectator has four eyestalks, two on each side of the wide eye at the center of its four-foot diameter body.
 

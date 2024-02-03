@@ -1,7 +1,7 @@
 ### Dankwood Grung
 _Small humanoid (Grung), _
 
-![[Dankwood Grung.webp]]
+![[Dankwood Grung.jpg]]
 
 Dankwood grungs come in a variety of colors and play different roles in their community:
 

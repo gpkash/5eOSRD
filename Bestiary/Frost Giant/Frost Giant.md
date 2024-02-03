@@ -1,7 +1,7 @@
 ### Frost Giant
 _Huge giant, neutral evil_
 
-![[Frost Giant.webp]]
+![[Frost Giant.jpg]]
 
 
 

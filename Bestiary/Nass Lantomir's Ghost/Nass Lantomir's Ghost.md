@@ -1,7 +1,7 @@
 ### Nass Lantomir's Ghost
 _Medium undead, neutral evil_
 
-![[Nass Lantomirs Ghost.webp]]
+![[Nass Lantomirs Ghost.jpg]]
 
 Nass Lantomir was an apprentice of Zelenn the White, one of five archmages who oversee the Arcane Brotherhood. Nass and Zelenn's relationship started off well, but in recent years it has become painfully obvious to Zelenn that Nass has been slow to master the arcane tradition of divination. Zelenn's suggestion that Nass leave the Hosttower of the Arcane and gain experience abroad left Nass feeling unwanted. After much thought, however, Nass came around to the idea. She could put her magic to the test and carve out a name for herself.
 

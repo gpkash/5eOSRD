@@ -1,7 +1,7 @@
 ### Wraith
 _Medium undead, neutral evil_
 
-![[Wraith.webp]]
+![[Wraith.jpg]]
 
 A wraith is malice incarnate, concentrated into an incorporeal form that seeks to quench all life. The creature is suffused with negative energy, and its mere passage through the world leaves nearby plants blackened and withered. Animals flee from its presence. Even small fires can be extinguished by the sucking oblivion of the wraith's horrifying existence.
 

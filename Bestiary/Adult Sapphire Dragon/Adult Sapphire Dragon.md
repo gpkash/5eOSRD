@@ -1,7 +1,7 @@
 ### Adult Sapphire Dragon
 _Huge dragon, lawful neutral_
 
-![[Adult Sapphire Dragon.webp]]
+![[Adult Sapphire Dragon.jpg]]
 
 The thunderous clash of conflict is part of the very nature of sapphire dragons. Militant and territorial, they defend their lairs fiercely, ambushing intruders and plotting assaults against their rivals. The sonic pulse of their breath weapon sows weakness, leaving the victims unable to fight back.
 

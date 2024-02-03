@@ -1,7 +1,7 @@
 ### Slithering Bloodfin
 _Large aberration, unaligned_
 
-![[Slithering Bloodfin.webp]]
+![[Slithering Bloodfin.jpg]]
 
 Covered in vicious-looking crimson spines and sleek scales, the slithering bloodfin flashes through the lightless waters of the Netherdeep. As it swims closer, its toothed maw comes into view—just before it unhinges its jaw, clamps down on its prey, and swallows it whole.
 

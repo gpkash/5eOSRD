@@ -1,7 +1,7 @@
 ### Sword Wraith Warrior
 _Medium undead, lawful evil_
 
-![[Sword Wraith Warrior.webp]]
+![[Sword Wraith Warrior.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Young Blue Dragon
 _Large dragon, lawful evil_
 
-![[Young Blue Dragon.webp]]
+![[Young Blue Dragon.jpg]]
 
 
 

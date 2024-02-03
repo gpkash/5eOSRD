@@ -1,7 +1,7 @@
 ### White Abishai
 _Medium fiend (devil), lawful evil_
 
-![[White Abishai.webp]]
+![[White Abishai.jpg]]
 
 
 

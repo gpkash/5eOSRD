@@ -1,7 +1,7 @@
 ### Ruidium Elephant
 _Huge construct, unaligned_
 
-![[Ruidium Elephant.webp]]
+![[Ruidium Elephant.jpg]]
 
 Unknown to anyone who has come into contact with it, the elephant figurine was infected with ruidium during its time in Cael Morrow, and that substance has warped its magical properties.
 

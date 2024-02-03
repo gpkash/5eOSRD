@@ -1,7 +1,7 @@
 ### Forlarren
 _Medium fey, chaotic neutral_
 
-![[Forlarren.webp]]
+![[Forlarren.jpg]]
 
 The descendants of satyrs corrupted by infernal power, forlarren are miserable creatures—an unhappy union between the rigid demands of the Nine Hells and the impulsive hedonism of the Feywild. Driven by dramatic and unpredictable emotions, these feral creatures wreak havoc wherever they go.
 

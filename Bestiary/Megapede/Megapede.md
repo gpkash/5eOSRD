@@ -1,7 +1,7 @@
 ### Megapede
 _Gargantuan monstrosity, unaligned_
 
-![[Megapede.webp]]
+![[Megapede.jpg]]
 
 Megapedes are enormous centipedes that can be as much as 150 feet long, though most specimens top out at between 100 and 120 feet. Their dozens of legs are each 5 feet long and tipped with flexible claws, and they have fur-covered carapaces. A megapede that lives in a sandy environment often buries itself in the sand and waits for prey to wander nearby, but megapedes also nest in cavernous underground chambers.
 

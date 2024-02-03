@@ -1,7 +1,7 @@
 ### Lorehold Apprentice
 _Small, Medium humanoid (wizard), any alignment_
 
-![[Lorehold Apprentice.webp]]
+![[Lorehold Apprentice.jpg]]
 
 Deep in crumbling ruins and piles of dusty scrolls, Lorehold students—first as apprentices and then as pledgemages—study the magic of the past, searching for arcane artifacts and speaking with long-dead adventurers to uncover secrets lost to time.
 

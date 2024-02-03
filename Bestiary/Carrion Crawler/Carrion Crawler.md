@@ -1,7 +1,7 @@
 ### Carrion Crawler
 _Large monstrosity, unaligned_
 
-![[Carrion Crawler.webp]]
+![[Carrion Crawler.jpg]]
 
 Carrion crawlers scour putrid flesh from carcasses and gobble the slimy bones that remain. They aggressively attack any creature that trespasses on their territory or disturbs their feasting.
 

@@ -1,7 +1,7 @@
 ### Doric
 _Medium humanoid (druid), neutral good_
 
-![[Doric.webp]]
+![[Doric.jpg]]
 
 The tiefling Doric was taken in by a wood elf enclave in Neverwinter Wood after being abandoned as a child, and she guards her adoptive community with nature's ferocity. The Circle of the Moon has taught her to heed her primal instincts, which rarely lead her astray. She can be brusque, but she will fight tooth and nail for a cause she believes in.
 

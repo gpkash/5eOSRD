@@ -1,7 +1,7 @@
 ### Zikran
 _Medium humanoid (any race), any alignment_
 
-![[Zikran.webp]]
+![[Zikran.jpg]]
 
 Genasi have strong ties to the Inner Planes and the blood of genies flowing through their veins. Like the marids of the Elemental Plane of Water, Zikran is turbulent and unpredictable.
 

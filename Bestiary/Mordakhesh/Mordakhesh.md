@@ -1,7 +1,7 @@
 ### Mordakhesh
 _Medium fiend, lawful evil_
 
-![[Mordakhesh.webp]]
+![[Mordakhesh.jpg]]
 
 In the age when fiends and dragons waged war across Eberron, rakshasas served the fiendish lords as strategists and generals. A rakshasa named Mordakhesh rose up through the ranks to become one of the greatest commanders of his age, and a dragon-slaying specialist. For this, he earned the nickname Shadowsword, along with a legendary reputation for leaving death in his wake.
 

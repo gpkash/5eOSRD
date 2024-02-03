@@ -1,7 +1,7 @@
 ### Magma Landshark
 _Huge elemental, _
 
-![[MagmaLandsharkFluff.webp]]
+![[MagmaLandsharkFluff.jpg]]
 
 Lurking inside volcanoes, subterranean magma pits, and the endless seas of flame within the Elemental Plane of Fire, magma landsharks live only to eat. These creatures are physically similar to [[Bulette|bulettes]], the common landshark of the [[Dividing Plains|3|Dividing Plains]], but are filled with churning elemental power.
 

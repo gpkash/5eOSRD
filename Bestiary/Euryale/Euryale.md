@@ -1,7 +1,7 @@
 ### Euryale
 _Medium monstrosity (druid, medusa), neutral good_
 
-![[Euryale.webp]]
+![[Euryale.jpg]]
 
 When she retired from adventuring, Euryale relocated to Cair Ophidian, a small hideaway in the Outlands detailed later in chapter 22. There, Euryale embraced the quiet life of a gardener, and she spends her time tending to the plants she's cultivated around her home. However, should Asteria call for her aid, Euryale would venture across the multiverse without hesitation, battling tooth and nail to protect her sister.
 

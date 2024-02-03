@@ -1,7 +1,7 @@
 ### Needle Blight
 _Medium plant, neutral evil_
 
-![[Needle Blight.webp]]
+![[Needle Blight.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Marilith
 _Large fiend (demon), chaotic evil_
 
-![[Marilith.webp]]
+![[Marilith.jpg]]
 
 
 

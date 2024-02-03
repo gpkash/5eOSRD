@@ -1,7 +1,7 @@
 ### Warlock of the Great Old One
 _Medium humanoid (any race), any alignment_
 
-![[Warlock of the Great Old One.webp]]
+![[Warlock of the Great Old One.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Lifecraft Elephant
 _Huge beast, unaligned_
 
-![[Lifecraft.webp]]
+![[Lifecraft.jpg]]
 
 Many inventors—particularly elves, but members of the other races as well—view nature as the greatest artificer and strive to imitate it as closely as possible. The Greenwheel Lifecrafters are an inventor society dedicated to this kind of work, and they are responsible for coining the term "lifecrafting" to describe it. Lifecraft creatures are automatons that mimic the forms of natural animals in intricate detail. More than merely artistic endeavors, these creatures often serve practical purposes, just as domesticated animals would. A lifecraft elephant hauling a cart or carrying passengers through the streets of Ghirapur is just as effective in that work as a natural elephant, but it can't be spooked and it leaves no messy waste in its path.
 

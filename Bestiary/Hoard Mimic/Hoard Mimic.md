@@ -1,7 +1,7 @@
 ### Hoard Mimic
 _Huge monstrosity, neutral_
 
-![[Hoard Mimic.webp]]
+![[Hoard Mimic.jpg]]
 
 Kin to the common mimic described in the [[Monster Manual]], hoard mimics are among the oldest and most cunning of their kind. A hoard mimic's massive, amorphous form and shape-shifting prowess allow it to take on the semblance of a vast trove of treasures, not just a single object. Like smaller mimics, hoard mimics exude adhesive goo to trap prey. They can also vent a fine, caustic mist from their pores that burns and blinds creatures caught in it.
 

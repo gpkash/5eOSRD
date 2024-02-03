@@ -1,7 +1,7 @@
 ### Brahma Lutier
 _Medium humanoid (elf), neutral_
 
-![[The B Team.webp]]
+![[The B Team.jpg]]
 
 Formally a former member of the "B" Team, Brahma Lutier is a gifted cartographer, spy, and troubadour. Tutored in at least the latter of those vocations by Audra Courtier (wife of Propha Dran and co-owner of the Dran & Courtier inn of Red Larch), Brahma's specialty is a song of domination that is legendarily difficult to resist.
 

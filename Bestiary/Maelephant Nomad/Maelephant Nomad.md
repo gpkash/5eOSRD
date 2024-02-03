@@ -1,7 +1,7 @@
 ### Maelephant Nomad
 _Large fiend, lawful evil_
 
-![[Maelephant Nomad.webp]]
+![[Maelephant Nomad.jpg]]
 
 Created with the sole purpose of protection, maelephants are the most loyal of the devils. They eschew personal possessions, dreams, and goals, and find happiness in the completion of their duty. While other devils may view them as simple and unintelligent, many recognize the importance and utility of maelephants. Infernal and common are often spoken languages, but maelephants also maintain their own unique language, which they use exclusively in communication with others of their kind.
 

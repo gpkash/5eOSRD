@@ -1,7 +1,7 @@
 ### Grell
 _Medium aberration, neutral evil_
 
-![[Grell.webp]]
+![[Grell.jpg]]
 
 A grell resembles a bulbous floating brain with a wide, sharp beak. Its ten long tentacles are made of hundreds of ring-shaped muscles sheathed in tough fibrous hide. Sharp barbs line the tip each tentacle and inject paralytic venom. The grell can partially retract its barbs into its tentacles to handle or manipulate objects it doesn't want to pierce or tear.
 

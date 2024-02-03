@@ -1,7 +1,7 @@
 ### Aphemia
 _Medium monstrosity, chaotic evil_
 
-![[Aphemia.webp]]
+![[Aphemia.jpg]]
 
 The notorious Nyxborn harpy Aphemia prowls the marshy wastes around the necropolis of Asphodel. Her shrill songs enthrall the necropolis's undead inhabitants, which she leads on raids to waylay unsuspecting travelers and settlements.
 

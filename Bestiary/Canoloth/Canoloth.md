@@ -1,7 +1,7 @@
 ### Canoloth
 _Medium fiend (yugoloth), neutral evil_
 
-![[Canoloth.webp]]
+![[Canoloth.jpg]]
 
 > _Canoloths are glorified guard dogs. If you must engage one, just find out exactly what it's been assigned to do. I've often found I can waltz right past them by taking advantage of a relevant loophole.
 _

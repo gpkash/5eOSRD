@@ -1,7 +1,7 @@
 ### Shambling Mound
 _Large plant, unaligned_
 
-![[Shambling Mound.webp]]
+![[Shambling Mound.jpg]]
 
 A shambling mound, sometimes called a shambler, trudges ponderously through bleak swamps, dismal marshes, and rain forests, consuming any organic matter in its path. This rotting heap of animated vegetation looms up half again as tall as a human, tapering into a faceless "head" at its top.
 

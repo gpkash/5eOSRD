@@ -1,7 +1,7 @@
 ### Black Viper
 _Medium humanoid (human), chaotic neutral_
 
-![[Black Viper.webp]]
+![[Black Viper.jpg]]
 
 The Black Viper was a notorious burglar, pickpocket, mugger, and assassin who died a century ago, after a long and nefarious career. Esvele Rosznar, a brash young noble, has recently adopted the Black Viper's persona to lead a secret life of crime. Like many other nobles, Esvele gossips about the Black Viper's exploits to lend credence to the villain's mystique.
 

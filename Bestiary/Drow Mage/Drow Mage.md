@@ -1,7 +1,7 @@
 ### Drow Mage
 _Medium humanoid (elf), neutral evil_
 
-![[Drow Mage.webp]]
+![[Drow Mage.jpg]]
 
 
 

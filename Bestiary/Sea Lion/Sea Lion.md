@@ -1,7 +1,7 @@
 ### Sea Lion
 _Large monstrosity, unaligned_
 
-![[Sea Lion.webp]]
+![[Sea Lion.jpg]]
 
 These large marine mammals live along coastal regions and around islands at sea
 

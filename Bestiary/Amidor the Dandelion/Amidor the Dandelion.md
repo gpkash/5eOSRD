@@ -1,7 +1,7 @@
 ### Amidor the Dandelion
 _Small plant, neutral good_
 
-![[Amidor the Dandelion.webp]]
+![[Amidor the Dandelion.jpg]]
 
 **Roleplaying Notes** This 3-foot-tall talking dandelion finds poetry in everything and is quick to fall head over heels in love. A humble idealist, Amidor never puts its own needs above the needs of others.
 

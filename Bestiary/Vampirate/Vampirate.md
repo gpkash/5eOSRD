@@ -1,7 +1,7 @@
 ### Vampirate
 _Medium undead, lawful evil_
 
-![[Vampirate.webp]]
+![[Vampirate.jpg]]
 
 Vampirates are the walking, talking husks of dead pirates who refused to go quietly into the afterlife. They ply the void in their ships, plundering unsuspecting vessels and feeding on the life energy of those unlucky enough to cross their path.
 

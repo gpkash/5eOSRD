@@ -1,7 +1,7 @@
 ### Werevulture
 _Medium fiend, chaotic evil_
 
-![[Werevulture.webp]]
+![[Werevulture.jpg]]
 
 Scholars believe the curse of the werevulture is related to vrocks, vulturelike demons known for their covetousness and their capricious violence. According to these scholars, a flock of vrocks descended on a Material Plane world through a planar rupture, leaving plagues and other afflictions in their wake. Many of those who were injured by the demons survived, and the survivors gratefully thanked their gods for their apparent good fortune. But during the next full moon, they transformed into the first werevultures: hideous, birdlike creatures who hungered for the flesh of the dead. In the years since, the curse has spread far and wide.
 

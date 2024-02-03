@@ -1,7 +1,7 @@
 ### Nagpa
 _Medium humanoid (nagpa), lawful evil_
 
-![[Nagpa.webp]]
+![[Nagpa.jpg]]
 
 Long ago, the Raven Queen cursed a cabal of powerful wizards for meddling in a ritual that would have helped avert a war between the gods. She transformed them into the scabrous, birdlike creatures known as nagpas and rendered them able to acquire new lore and magical power only from the ruins of fallen civilizations and great calamities.
 

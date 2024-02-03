@@ -1,7 +1,7 @@
 ### Hell Hound
 _Medium fiend, lawful evil_
 
-![[Hell Hound.webp]]
+![[Hell Hound.jpg]]
 
 Monstrous, fire-breathing fiends that take the form of powerful dogs, hell hounds are found on the battlefields of Acheron and throughout the Lower Planes. On the Material Plane, hell hounds are most commonly seen in service to devils, fire giants, and other evil creatures that use them as guard animals and companions.
 

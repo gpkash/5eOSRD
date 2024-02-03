@@ -1,7 +1,7 @@
 ### Crag Cat
 _Large monstrosity, unaligned_
 
-![[Crag Cat.webp]]
+![[Crag Cat.jpg]]
 
 The creature referred to in Northlander lore as the Hunter of Men is a sure-footed predator that can be found anywhere except deep forest, preferring ledges and cliffs in the mountains. Its cry resembles a human scream of terror. It often elicits such sounds from its victims, for it prefers human flesh to all other prey.
 

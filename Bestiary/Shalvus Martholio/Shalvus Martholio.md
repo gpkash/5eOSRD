@@ -1,7 +1,7 @@
 ### Shalvus Martholio
 _Medium humanoid (Turami human), neutral_
 
-![[Shalvus Martholio.webp]]
+![[Shalvus Martholio.jpg]]
 
 Nalaskur Thaelond of Bargewright Inn has entrusted the shepherd Shalvus with an important assignment: to figure out the best way by which Goldenfields can be brought under the Black Network's control. Shalvus believes that success will ensure his swift rise through the Zhentarim ranks.
 

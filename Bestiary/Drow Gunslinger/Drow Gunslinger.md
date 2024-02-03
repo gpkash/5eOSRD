@@ -1,7 +1,7 @@
 ### Drow Gunslinger
 _Medium humanoid (elf), any alignment_
 
-![[Drow Gunslinger.webp]]
+![[Drow Gunslinger.jpg]]
 
 Firearms aren't widely available in the North, but some members of Bregan D'aerthe are equipped with Lantanese pistols, bullets, and packets of smokepowder. These drow gunslingers are expert pistoleers, as skilled with their guns as the best archers are with their bows.
 

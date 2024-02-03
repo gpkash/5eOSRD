@@ -1,7 +1,7 @@
 ### Sir Baric Nylef
 _Medium humanoid (Illuskan human), lawful good_
 
-![[Sir Baric Nylef.webp]]
+![[Sir Baric Nylef.jpg]]
 
 As a knight of the Order of the Gauntlet, Sir Baric has sworn oaths to catch evildoers and bring them to justice. His current quarry is a dwarf brigand, Worvil "the Weevil" Forkbeard, who is rumored to be hiding in Icewind Dale. In addition to his gear, Sir Baric has an unarmored warhorse, Henry.
 

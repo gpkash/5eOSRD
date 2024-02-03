@@ -1,7 +1,7 @@
 ### Kelek
 _Medium humanoid (human, sorcerer), chaotic evil_
 
-![[Kelek.webp]]
+![[Kelek.jpg]]
 
 Kelek is a greedy, narcissistic sociopath who revels in chaos but is a coward at heart. The fact that he's highly intelligent makes him even more dangerous. More than anything, he wants the staff of power in the possession of his most hated foe, Ringlerun (described later in this appendix).
 

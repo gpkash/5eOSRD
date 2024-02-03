@@ -1,7 +1,7 @@
 ### Amnizu
 _Medium fiend (devil), lawful evil_
 
-![[Amnizu.webp]]
+![[Amnizu.jpg]]
 
 Amnizus lead infernal legions into battle and command guardians at the gateways to the Hells. Amnizus are arrogant, bullying, and ruthless, but they're also highly intelligent tacticians and unfailingly loyal—qualities the hellish archdukes value.
 

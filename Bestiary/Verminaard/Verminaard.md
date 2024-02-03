@@ -1,7 +1,7 @@
 ### Verminaard
 _Medium humanoid (cleric, human), lawful evil_
 
-![[Verminaard.webp]]
+![[Verminaard.jpg]]
 
 >Ariakas,
 >

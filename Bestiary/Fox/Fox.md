@@ -1,7 +1,7 @@
 ### Fox
 _Tiny beast, unaligned_
 
-![[Fox.webp]]
+![[Fox.jpg]]
 
 The white arctic foxes of Icewind Dale live in burrows and are acclimated to cold weather. They prowl the outskirts of Ten-Towns and nearby forests for food, hunting hares or stealing fish. These timid creatures avoid contact with humanoids, but they are sometimes used as mounts by [[Chwinga|ToA|chwingas]].
 

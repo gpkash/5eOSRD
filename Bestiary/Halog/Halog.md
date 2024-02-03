@@ -1,7 +1,7 @@
 ### Halog
 _Small aberration, unaligned_
 
-![[Halog.webp]]
+![[Halog.jpg]]
 
 There are few places more inhospitable than the Nine Hells, yet denizens from other places make a home even here. Not only the evil whose philosophy aligns with the devils, but simple creatures whose endurance and appetites permit them to survive the infernal realms. Often this means huge monsters strong enough to fight the native denizens, but some intruders pose a different kind of problem to the devils. Halogs seem small and weak compared to almost everything in the Nine Hells, yet they're becoming a serious nuisance across all the lower planes.
 

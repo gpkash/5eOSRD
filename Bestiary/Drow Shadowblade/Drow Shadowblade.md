@@ -1,7 +1,7 @@
 ### Drow Shadowblade
 _Medium humanoid (elf), neutral evil_
 
-![[Drow Shadowblade.webp]]
+![[Drow Shadowblade.jpg]]
 
 Drow shadowblades steal down the dim passages of the Underdark, bound on errands of mayhem. They protect enclaves and Underdark cities from enemies and track down thieves who make off with prized treasures. In the city of Menzoberranzan in the Forgotten Realms, noble houses often employ shadowblades to eliminate rivals from other houses. In communities free of Lolth's sway, they serve as spies tasked with foiling the plots of that demon lord's cult. In any role they take on, they move undetected until the moment they attack—and then they are the last thing their victims see.
 

@@ -1,7 +1,7 @@
 ### Druid of the Old Ways
 _Medium humanoid (any race), chaotic neutral_
 
-![[Druid of the Old Ways.webp]]
+![[Druid of the Old Ways.jpg]]
 
 The druids of the Old Ways are the keepers of ancient Gruul traditions devoted to the primal ferocity of animal gods such as Ilharg the Raze-Boar and Kashath the Stalker.
 

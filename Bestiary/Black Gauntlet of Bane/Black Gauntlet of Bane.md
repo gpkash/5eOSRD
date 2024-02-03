@@ -1,7 +1,7 @@
 ### Black Gauntlet of Bane
 _Medium humanoid (human), lawful evil_
 
-![[Black Gauntlet of Bane.webp]]
+![[Black Gauntlet of Bane.jpg]]
 
 Bane's devoted followers are warriors who seek to rule through martial strength and intimidation, cruel tyrants who use threats and gifts as needed to ensure loyalty. They enslave those too weak to resist them and shower the strong with gifts and promises of power to turn them into loyal vassals.
 

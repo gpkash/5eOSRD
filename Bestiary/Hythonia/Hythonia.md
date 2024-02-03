@@ -1,7 +1,7 @@
 ### Hythonia
 _Large monstrosity, lawful evil_
 
-![[Hythonia.webp]]
+![[Hythonia.jpg]]
 
 Theros's reclusive medusas often delight in collecting and expanding their galleries of petrified victims. Unlike other medusas, Hythonia isn't merely a collector; she's an artist.
 

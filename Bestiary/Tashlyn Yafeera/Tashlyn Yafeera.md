@@ -1,7 +1,7 @@
 ### Tashlyn Yafeera
 _Medium humanoid (human), neutral_
 
-![[Tashlyn Yafeera.webp]]
+![[Tashlyn Yafeera.jpg]]
 
 Tashlyn is Master of Arms and Mercenaries for the Waterdeep Zhentarim. In this role, she provides armor, weapons, and training to sellswords on the Black Network's payroll.
 

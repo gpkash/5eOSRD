@@ -1,7 +1,7 @@
 ### Kolyarut
 _Medium construct (inevitable), lawful neutral_
 
-![[Kolyarut.webp]]
+![[Kolyarut.jpg]]
 
 Created by Primus, the leader of the modrons, the Kolyarut is a wondrous machine capable of forging binding contracts between parties. From the Hall of Concordance in Sigil, the Kolyarut judges the needs of planar beings seeking uniquely binding terms and forges ironclad agreements. Those who break these contracts are pursued by maruts (detailed in[[Mordenkainen Presents: Monsters of the Multiverse]]) and punished in brutally decisive fashion.
 

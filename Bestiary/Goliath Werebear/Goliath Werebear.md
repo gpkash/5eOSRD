@@ -1,7 +1,7 @@
 ### Goliath Werebear
 _Medium humanoid (goliath, shapechanger), neutral good_
 
-![[Goliath Werebear.webp]]
+![[Goliath Werebear.jpg]]
 
 Goliath legends speak of a creature that prowls the far reaches of Icewind Dale, known as Oyaminartok the Winter Walker. She can take the form of either a polar bear or a hulking, bipedal shape obscured by wind and blowing snow. Elders invoke her name to keep young goliaths from wandering too far from home before they're ready. Adult goliaths sometimes encounter this legendary individual in their travels to the far-flung corners of the dale. If they flee like cowards, Oyaminartok laughs and lets them go to wander in obscurity. If they challenge Oyaminartok to a fight, the Winter Walker smiles and tests their mettle. Those who impress her with their fighting skills are bitten and become goliath werebears themselves—goliaths who carry Oyaminartok's curse of lycanthropy. Contrary to myth, Oyaminartok is not a monster but a force of good in the region, and she passes her curse only to goliaths whose hearts are pure.
 

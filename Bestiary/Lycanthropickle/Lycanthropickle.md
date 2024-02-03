@@ -1,7 +1,7 @@
 ### Lycanthropickle
 _Small plant, neutral evil_
 
-![[Lycanthropickle.webp]]
+![[Lycanthropickle.jpg]]
 
 **Curse of Lycanthropickling** A humanoid creature has a 20% chance to be afflicted with the curse of lycanthropickling after being wounded by a lycanthropickle. The curse lasts for 3 days. Each long rest the creature spends in a vat or jar of pickling brine prolongs the curse by 1 day.
 

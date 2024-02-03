@@ -1,7 +1,7 @@
 ### Husk Zombie
 _Medium undead, neutral evil_
 
-![[Husk Zombie.webp]]
+![[Husk Zombie.jpg]]
 
 The wastes of Eastern Wynandir retain many curses and corruptions from the time of the Calamity, the worst of which pervert the sanctity of death. One such curse manifests as a terrible roving fog that draws the corpses of the fallen to rise as husk zombies—resilient undead of frightening speed and bloodlust. As well, some of the more heinous fiends that walk these scarred lands feed on the life force of the living, leaving these terrible undead in their wake.
 

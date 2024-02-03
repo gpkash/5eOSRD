@@ -1,7 +1,7 @@
 ### Horncaller
 _Medium humanoid (any race), lawful good_
 
-![[Horncaller.webp]]
+![[Horncaller.jpg]]
 
 Specialized shamans called horncallers use their magic to call wild beasts to fight alongside Selesnya troops. In quieter times, they tend the animals associated with Selesnya enclaves and parks.
 

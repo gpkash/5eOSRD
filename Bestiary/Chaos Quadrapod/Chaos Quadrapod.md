@@ -1,7 +1,7 @@
 ### Chaos Quadrapod
 _Large aberration, chaotic evil_
 
-![[Chaos Quadrapod.webp]]
+![[Chaos Quadrapod.jpg]]
 
 A cluster of four suckered tentacles with a pulsing mass of ethereal light as its central body, the chaos quadrapod is a creature of the Far Realm, and it channels the anarchic power of that plane as it destroys all in its path. The quadrapod ambulates by flinging its mucus-covered tentacles out and dragging itself along, creating a horrid slurping sound as it advances relentlessly toward its prey.
 

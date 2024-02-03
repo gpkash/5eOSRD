@@ -1,7 +1,7 @@
 ### Verbeeg Marauder
 _Large giant, neutral evil_
 
-![[Verbeeg Marauder.webp]]
+![[Verbeeg Marauder.jpg]]
 
 Verbeeg are giants that resemble oversized humans with gangly limbs and elongated faces. Some have other features that give them a fearsome aspect.
 

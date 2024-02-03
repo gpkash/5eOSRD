@@ -1,7 +1,7 @@
 ### Cold Snap Spirit
 _Medium elemental, _
 
-![[ColdSnapSpiritFluff.webp]]
+![[ColdSnapSpiritFluff.jpg]]
 
 A number of [[elves|4|elves]] and archmagi still live who remember the [[Icelost Years|1|The Icelost Years]]—a dark time in Tal'Dorei's history, when legions of ice-rimed warriors spilled forth from the Elemental Planes, intent on turning the world into a gelid wasteland. Cold snap spirits are a surviving echo of the vast armies of the cruel elemental [[Errevon the Rimelord|1|The Icelost Years]], who nearly claimed Tal'Dorei for his own. They linger in the ever-frozen forests of the [[Frostweald|3|The Frostweald]], atop the snow-capped peaks of the [[Cliffkeep Mountains|3|Cliffkeep Mountains]], and amid the arctic plains of the [[Neverfields|3|The Neverfields]].
 

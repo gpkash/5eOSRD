@@ -1,7 +1,7 @@
 ### Arclight Phoenix
 _Medium elemental, chaotic neutral_
 
-![[Arclight Phoenix.webp]]
+![[Arclight Phoenix.jpg]]
 
 An arclight phoenix is variously said to be a byproduct of a lightning strike on an aviary, a mishap in an effort to create a translocation device, or a successful attempt to create an elemental creature in the form of a majestic bird.
 

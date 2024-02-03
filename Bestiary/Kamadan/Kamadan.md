@@ -1,7 +1,7 @@
 ### Kamadan
 _Large monstrosity, unaligned_
 
-![[Kamadan.webp]]
+![[Kamadan.jpg]]
 
 A kamadan (pronounced KAM-ah-dan) is a feline predator that resembles a leopard with six snakes sprouting from its shoulders. Although it bears a passing resemblance to a displacer beast, the two creatures are unrelated (though some sages claim otherwise).
 

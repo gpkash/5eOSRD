@@ -1,7 +1,7 @@
 ### Vladimir Horngaard
 _Medium undead, lawful evil_
 
-![[Vladimir Horngaard.webp]]
+![[Vladimir Horngaard.jpg]]
 
 Vladimir Horngaard joined the Order of the Silver Dragon at a young age and quickly earned the friendship of its founder, the silver dragon Argynvost. When he became a knight of the order, he traveled to distant lands to wage war against the forces of evil. The dragon stayed home and, in the guise of a human noble named Lord Argynvost, brought new initiates into the order.
 

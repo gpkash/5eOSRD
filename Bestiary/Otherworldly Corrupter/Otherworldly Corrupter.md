@@ -1,7 +1,7 @@
 ### Otherworldly Corrupter
 _Small, Medium aberration, chaotic evil_
 
-![[Otherworldly Corrupter.webp]]
+![[Otherworldly Corrupter.jpg]]
 
 A challenge for tier 3 play (levels 11 to 16), the otherworldly corrupter is a horrific Aberration that infects or impersonates a host.
 

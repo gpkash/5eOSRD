@@ -1,7 +1,7 @@
 ### Ashen Rider
 _Medium celestial, lawful evil_
 
-![[Ashen Rider.webp]]
+![[Ashen Rider.jpg]]
 
 The fall of the ancient archon empires left some archons bitter and resentful. Seeking to avoid the spread of human civilization, these archons made their way to the Underworld. The horrors of the place broke their minds, bodies, and spirits and twisted them into the terrifying archons known as ashen riders. When they ride forth upon the mortal world, terrified mortals make offerings in a desperate attempt to appease them, but the ashen riders aren't merciful, and they delight in reducing the paragons of the mortal world to ash.
 

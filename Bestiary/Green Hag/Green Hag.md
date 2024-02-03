@@ -1,7 +1,7 @@
 ### Green Hag
 _Medium fey, neutral evil_
 
-![[Green Hag.webp]]
+![[Green Hag.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Bakunawa
 _Gargantuan dragon, neutral_
 
-![[Bakunawa.webp]]
+![[Bakunawa.jpg]]
 
 Worshiped as draconic avatars of storm and tide, bakunawa soar over the archipelagos they call home. Iridescent scales crackling with lightning cover a bakunawa's fearsome serpentine body, and the sharp movements of its mighty wings echo with thunderous winds. Known for their mercilessness in battle, bakunawa swallow whole any who challenge them.
 

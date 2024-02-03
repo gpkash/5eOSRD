@@ -1,7 +1,7 @@
 ### Yggdrasti
 _Gargantuan plant, unaligned_
 
-![[Yggdrasti.webp]]
+![[Yggdrasti.jpg]]
 
 Thought to be cast-off splinters of Yggdrasil, the World Tree, yggdrasti look like gigantic, dead trees covered with barnacles. They fly through Wildspace and the Astral Sea with their topmost branches leading the way and their withered roots trailing behind them. Each one has its own gravity plane and air envelope.
 

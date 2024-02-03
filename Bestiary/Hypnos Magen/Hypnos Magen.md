@@ -1,7 +1,7 @@
 ### Hypnos Magen
 _Medium construct, unaligned_
 
-![[Hypnos Magen.webp]]
+![[Hypnos Magen.jpg]]
 
 Hypnos magen are telepathic and use their power of suggestion to control others. Their creators use them to force enemies to withdraw or surrender.
 

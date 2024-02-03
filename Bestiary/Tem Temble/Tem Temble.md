@@ -1,7 +1,7 @@
 ### Tem Temble
 _Small humanoid (kender), chaotic good_
 
-![[Tem Temble.webp]]
+![[Tem Temble.jpg]]
 
 [[Tem Temble|DSotDQ|Tem]] has the soul of a wanderer, though her feet most often take her deep into the wild and forgotten places of the world. Early in her travels, she befriended a winged lizard she named Melon, and the two have become inseparable. She fights the Dragon Armies' advance, channeling the rejuvenating magic of nature through her trusty hoopak to bolster her allies. Tem's mannerisms are similar to a cat's, as she disregards personal space and forever seeks to curl up in warm spots.
 

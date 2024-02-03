@@ -1,7 +1,7 @@
 ### Slithering Tracker
 _Medium ooze, chaotic evil_
 
-![[Slithering Tracker.webp]]
+![[Slithering Tracker.jpg]]
 
 The quest for revenge sometimes leads those terribly aggrieved to undergo a ritual whereby they transform into bodies of semiliquid sentience known as slithering trackers. Innocuous and insidious at the same time, a slithering tracker flows into places where a normal creature can't go and brings its own brand of watery death down on its quarry.
 

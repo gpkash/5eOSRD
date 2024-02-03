@@ -1,7 +1,7 @@
 ### Nalfeshnee
 _Large fiend (demon), chaotic evil_
 
-![[Nalfeshnee.webp]]
+![[Nalfeshnee.jpg]]
 
 
 

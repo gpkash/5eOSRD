@@ -1,7 +1,7 @@
 ### Snowy Owlbear
 _Large monstrosity, unaligned_
 
-![[Snowy Owlbear.webp]]
+![[Snowy Owlbear.jpg]]
 
 A snowy owlbear combines the physical features of a snowy owl and a polar bear. When not asleep or hibernating, it galumphs across the icy tundra in search of food.
 

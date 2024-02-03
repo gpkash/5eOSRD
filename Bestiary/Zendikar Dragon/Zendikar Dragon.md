@@ -1,7 +1,7 @@
 ### Zendikar Dragon
 _Large dragon, chaotic evil_
 
-![[Zendikar Dragon.webp]]
+![[Zendikar Dragon.jpg]]
 
 Dragons are the ultimate representation of the chaos, ferocity, and reckless independence of red mana. They are found across Zendikar in mountainous regions where red mana is plentiful, particularly in Akoum, though never in great numbers.
 

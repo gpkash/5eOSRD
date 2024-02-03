@@ -1,7 +1,7 @@
 ### Squirt the Oilcan
 _Tiny construct, chaotic neutral_
 
-![[Squirt the Oilcan.webp]]
+![[Squirt the Oilcan.jpg]]
 
 **Roleplaying Notes** Originally a nonsentient oilcan, Squirt was carried to the Feywild by dwarves hoping to harvest boggle oil. Though the expedition was a success, the dwarves were put to sleep by pixie magic. During a celebration that erupted around them, an elf used her magic to animate the oilcan in jest. Having come alive at a party, Squirt was imbued with the urge to seek out fun wherever it can be found.
 

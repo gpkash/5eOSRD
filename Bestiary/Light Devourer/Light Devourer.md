@@ -1,7 +1,7 @@
 ### Light Devourer
 _Medium aberration, unaligned_
 
-![[Light Devourer.webp]]
+![[Light Devourer.jpg]]
 
 The light devourer gets its name from its ability to absorb bright light, whether natural or magical, in its immediate environment. After doing so, the creature begins to glow, the spines lining its back and the numerous needle-like teeth in its maw burning brightly as it converts that stolen light into searing energy, which rips into its prey.
 

@@ -1,7 +1,7 @@
 ### Sunbird
 _Gargantuan monstrosity, unaligned_
 
-![[Sunbird.webp]]
+![[Sunbird.jpg]]
 
 The people of the Sun Empire revere certain dinosaurs as incarnations of the Threefold Sun. But the fiery phoenixes, also called sunbirds, are thought to be messengers of Tilonalli, embodying the destructive aspect of the sun but also the rebirth that follows. Legends hold that somewhere within the mountains sleeps Xuatl—a scaled bird formed from the sun's fire. Xuatl molts its skin and feathers during the summer months, often setting the trees and slopes ablaze.
 

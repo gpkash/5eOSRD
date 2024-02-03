@@ -1,7 +1,7 @@
 ### Sea Hag
 _Medium fey, chaotic evil_
 
-![[Sea Hag.webp]]
+![[Sea Hag.jpg]]
 
 
 

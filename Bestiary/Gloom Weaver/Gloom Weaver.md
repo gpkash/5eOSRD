@@ -1,7 +1,7 @@
 ### Gloom Weaver
 _Medium humanoid (elf), neutral_
 
-![[Gloom Weaver.webp]]
+![[Gloom Weaver.jpg]]
 
 **Gloom Weaver** Although a formidable fighter, a gloom weaver is often content to remain hidden in the shadows, watching with rapt attention as its very presence affects its victims. Its dark energy weighs down the heart, causing those within its oppressive aura to feel the approach of death. This torment alone is enough to please its master, the Raven Queen, but should it be detected, a gloom weaver uses its shadow magic to reduce its enemies to ghastly corpses.
 

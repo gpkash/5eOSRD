@@ -1,7 +1,7 @@
 ### Strahd's Animated Armor
 _Medium construct, lawful evil_
 
-![[Strahd's Animated Armor.webp]]
+![[Strahd's Animated Armor.jpg]]
 
 The armor that Strahd wore into battle when he was alive lives on today as a headless, animated suit of plate armor. The armor is painted burgundy and adorned with golden angelic motifs.
 

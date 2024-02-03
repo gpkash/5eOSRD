@@ -1,7 +1,7 @@
 ### Forge Guardian
 _Gargantuan construct, _
 
-![[ForgeGuardianFluff.webp]]
+![[ForgeGuardianFluff.jpg]]
 
 
 

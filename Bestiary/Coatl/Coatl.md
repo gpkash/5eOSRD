@@ -1,7 +1,7 @@
 ### Coatl
 _Medium celestial, lawful good_
 
-![[Coatl.webp]]
+![[Coatl.jpg]]
 
 The River Heralds believe that the waters of the world are divided into two spheres: the river and the sea are the lower half, with the jungle and the sky above. They believe that the sea possesses an unfathomable wisdom, the deep musings of the unspeakably ancient world. But the wisdom of the sky and the rivers is embodied in the coatls—winged serpents that twist through the air to reflect the course of rivers along the ground.
 

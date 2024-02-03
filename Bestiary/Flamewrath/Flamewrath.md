@@ -1,7 +1,7 @@
 ### Flamewrath
 _Medium humanoid (human), chaotic evil_
 
-![[Flamewrath.webp]]
+![[Flamewrath.jpg]]
 
 A flamewrath is a spellcaster that has earned the favor of Imix, the Prince of Elemental Fire, through a series of painful rites. A flamewrath's skin is burned and scarred. Inured to pain, the flamewrath revels in battle, using an array of fire spells to incinerate enemies who would try to douse the power of elemental fire. Melee combatants who draw too close face fires that can dance across the flamewrath's skin and burn attackers.
 

@@ -1,7 +1,7 @@
 ### Chimera
 _Large monstrosity, chaotic evil_
 
-![[Chimera.webp]]
+![[Chimera.jpg]]
 
 Chimeras were created after mortals summoned Demogorgon to the world. The Prince of Demons, unimpressed with the creatures that surrounded it, transformed them into horrific, multi-headed monstrosities. This act gave rise to the first chimeras.
 

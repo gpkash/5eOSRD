@@ -1,7 +1,7 @@
 ### Black Earth Guard
 _Medium humanoid (human), neutral evil_
 
-![[Black Earth Guard.webp]]
+![[Black Earth Guard.jpg]]
 
 Black Earth guards are the warriors of the earth cult. They are brutal, heavily armored thugs devoted to Ogrémoch. That devotion has granted them an uncanny ability to hold their ground against the buffeting assaults. It has also earned them the right to wear special plate armor of elemental stone, which breaks down when the guard is slain.
 

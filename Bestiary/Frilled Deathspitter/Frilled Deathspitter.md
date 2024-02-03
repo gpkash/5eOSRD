@@ -1,7 +1,7 @@
 ### Frilled Deathspitter
 _Small beast, unaligned_
 
-![[Frilled Deathspitter.webp]]
+![[Frilled Deathspitter.jpg]]
 
 
 

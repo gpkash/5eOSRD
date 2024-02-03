@@ -1,7 +1,7 @@
 ### Strahd von Zarovich
 _Medium undead (shapechanger), lawful evil_
 
-![[153-636988936829621698.webp]]
+![[153-636988936829621698.jpg]]
 
 With his mind sharp and his heart dark, Strahd von Zarovich is a formidable foe. Courage and lives beyond measure have been lost to him. Reread chapter 1, "Into the Mists," to understand his personality and goals.
 

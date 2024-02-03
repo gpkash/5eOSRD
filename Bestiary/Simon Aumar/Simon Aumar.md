@@ -1,7 +1,7 @@
 ### Simon Aumar
 _Medium humanoid (sorcerer), chaotic good_
 
-![[Simon Aumar.webp]]
+![[Simon Aumar.jpg]]
 
 Simon Aumar suffers under the weight of his family name. Though he is a descendent of an elf and the legendary wizard Elminster Aumar, Simon's own sorcerous wild magic runs uncontrolled through his veins. Simon has not yet developed the ability to harness his power, and his spells explode or fizzle seemingly at random.
 

@@ -1,7 +1,7 @@
 ### Vos'skyriss Serpentfolk
 _Large monstrosity, neutral evil_
 
-![[SerpentfolkFluff.webp]]
+![[SerpentfolkFluff.jpg]]
 
 The Vos'skyriss serpentfolk are the people of an ancient elite empire of humanoid-snake hybrids, who seek the ultimate detachment that comes from destroying all of reality.
 

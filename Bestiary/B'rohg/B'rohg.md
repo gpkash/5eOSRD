@@ -1,7 +1,7 @@
 ### B'rohg
 _Huge giant, any alignment_
 
-![[Brohg.webp]]
+![[Brohg.jpg]]
 
 B'rohgs are broad-shouldered, four-armed Giants, 15 feet tall, with burnt-orange skin. They have flat noses, pointed ears, and long hair that grows down the backs and sides of their otherwise bald heads. They wear simple garb and like to hurl heavy rocks. A b'rohg can wield a weapon with each of its four arms, but it prefers to pound enemies with its fists and rip smaller creatures apart with its bare hands.
 

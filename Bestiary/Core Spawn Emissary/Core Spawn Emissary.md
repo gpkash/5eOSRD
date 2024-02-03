@@ -1,7 +1,7 @@
 ### Core Spawn Emissary
 _Medium aberration, chaotic evil_
 
-![[Core Spawn Emissary.webp]]
+![[Core Spawn Emissary.jpg]]
 
 These airborne predators serve as assassins and sentinels for the core spawn. The terrible thrum of its insectoid wings and a chittering of mandibles announces an emissary's arrival.
 

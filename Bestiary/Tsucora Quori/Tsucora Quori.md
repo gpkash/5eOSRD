@@ -1,7 +1,7 @@
 ### Tsucora Quori
 _Medium aberration, lawful evil_
 
-![[Tsucora Quori.webp]]
+![[Tsucora Quori.jpg]]
 
 
 

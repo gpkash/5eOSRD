@@ -1,7 +1,7 @@
 ### Mercion
 _Medium humanoid (cleric, human), lawful good_
 
-![[Mercion.webp]]
+![[Mercion.jpg]]
 
 Mercion strikes the balance of a natural leader and a protective caregiver. She has a direct manner that reassures and inspires those around her.
 

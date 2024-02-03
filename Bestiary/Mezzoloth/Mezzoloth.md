@@ -1,7 +1,7 @@
 ### Mezzoloth
 _Medium fiend (yugoloth), neutral evil_
 
-![[Mezzoloth.webp]]
+![[Mezzoloth.jpg]]
 
 
 

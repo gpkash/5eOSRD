@@ -1,7 +1,7 @@
 ### Elder Dinosaur (Ghalta, Primal Hunger)
 _Gargantuan monstrosity (titan), unaligned_
 
-![[Elder Dinosaur (Ghalta, Primal Hunger).webp]]
+![[Elder Dinosaur (Ghalta, Primal Hunger).jpg]]
 
 
 

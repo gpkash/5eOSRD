@@ -1,7 +1,7 @@
 ### Dispater
 _Large fiend (devil), lawful evil_
 
-![[Dispater.webp]]
+![[Dispater.jpg]]
 
 Despite frequent shifts in leadership among other archdevils, Dispater has maintained his position as the ruler of Dis since its creation. Known for his vigilance and caution, he rarely leaves his tower, and even less frequently leaves the Iron City. Those who know his plans, including Asmodeus, know that he hopes to one day rule each layer of the Nine Hells.
 

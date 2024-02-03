@@ -1,7 +1,7 @@
 ### Dunbarrow Witch
 _Medium humanoid (human), neutral evil_
 
-![[Dunbarrow Witch.webp]]
+![[Dunbarrow Witch.jpg]]
 
 > _"Taste the sweetness, breath for breath.
 

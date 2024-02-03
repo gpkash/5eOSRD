@@ -1,7 +1,7 @@
 ### Radiant Idol
 _Large celestial, lawful evil_
 
-![[Radiant Idol.webp]]
+![[Radiant Idol.jpg]]
 
 A radiant idol was an angel that was banished from the celestial realm of Syrania and cast down to the Material Plane. One sin led to their fall: the desire to be worshiped by mortals. Now in the mortal realm, most radiant idols gather cults of devoted followers.
 

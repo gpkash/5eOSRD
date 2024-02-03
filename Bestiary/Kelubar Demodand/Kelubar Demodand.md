@@ -1,7 +1,7 @@
 ### Kelubar Demodand
 _Medium fiend, neutral evil_
 
-![[Kelubar Demodand.webp]]
+![[Kelubar Demodand.jpg]]
 
 Kelubars, sometimes called slimy demodands, are the bureaucrats of Carceri, existing as intermediaries between farastus and shators. They are squat, and their skin drips with a foul-smelling, acidic slime. Kelubars revel in the subservience of others, and they prefer to do battle with words—or at least to send in their farastu minions—rather than fight directly.
 

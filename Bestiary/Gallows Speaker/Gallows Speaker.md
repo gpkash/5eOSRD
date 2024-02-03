@@ -1,7 +1,7 @@
 ### Gallows Speaker
 _Medium undead, _
 
-![[Gallows Speaker.webp]]
+![[Gallows Speaker.jpg]]
 
 Gallows speakers arise from places of mass death or sites where creatures regularly meet their doom. Over time, pain-wracked phantoms and lingering souls combine into an entity that knows death in myriad forms. Such amalgamated spirits are tormented by their collective pain, endlessly moaning disjointed final thoughts as they lash out at the living. Having known untold deaths, gallows speakers can predict suffering, foreseeing dooms leveled against them and overwhelming their foes with visions of innumerable violent deaths.
 

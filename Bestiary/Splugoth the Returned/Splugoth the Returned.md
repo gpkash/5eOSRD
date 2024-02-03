@@ -1,7 +1,7 @@
 ### Splugoth the Returned
 _Small humanoid (goblinoid), neutral evil_
 
-![[Splugoth the Returned.webp]]
+![[Splugoth the Returned.jpg]]
 
 I'm going to give you a piece of advice. Don't trust Acquisitions Incorporated. And never, ever, ever trust Omin Dran. Wait, that's two pieces of advice. You owe me.
 

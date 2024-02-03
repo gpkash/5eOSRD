@@ -1,7 +1,7 @@
 ### Giant Four-Armed Gargoyle
 _Large elemental, chaotic evil_
 
-![[Giant Four-Armed Gargoyle.webp]]
+![[Giant Four-Armed Gargoyle.jpg]]
 
 Only Acererak knows the secret of creating these creatures. A giant four-armed gargoyle stands 8 to 9 feet tall and weighs roughly five thousand pounds. It is typically employed as a tomb guardian, rending intruders with its fangs and deadly claws. For more information on gargoyles, see the Monster Manual.
 

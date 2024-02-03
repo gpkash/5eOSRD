@@ -1,7 +1,7 @@
 ### Phaerimm
 _Large aberration, neutral evil_
 
-![[Phaerimm.webp]]
+![[Phaerimm.jpg]]
 
 Highly intelligent, phaerimms are malevolent aberrations that dwell deep beneath the surface of the world. Natural spellcasters, they delight in bringing pain and suffering to others. It is said phaerimms would willingly wipe every other being from existence, save for the fact they would then lack slaves to torture for sport.
 

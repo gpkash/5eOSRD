@@ -1,7 +1,7 @@
 ### Merrenoloth
 _Medium fiend (yugoloth), neutral evil_
 
-![[Merrenoloth.webp]]
+![[Merrenoloth.jpg]]
 
 The grim captains of the ferries on the River Styx, merrenoloths can navigate safely through the worst storms and always stay on course. Wielding fiery oars, merrenoloths strike fear into anyone who forcefully boards their vessels.
 

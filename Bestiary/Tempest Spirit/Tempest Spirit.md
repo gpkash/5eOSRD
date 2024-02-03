@@ -1,7 +1,7 @@
 ### Tempest Spirit
 _Huge undead, chaotic evil_
 
-![[Tempest Spirit.webp]]
+![[Tempest Spirit.jpg]]
 
 A storm giant can escape death through a mystical ritual that transforms the giant into a semiconscious storm. However, if the giant performs the ritual in a place where the barrier between the Material Plane and the Shadowfell is thin, the seeping negative energy drastically alters the ritual's outcome. The giant's soul becomes infused with negative energy and doesn't disperse into the elements. Rather, it absorbs the elemental energy around it, and its lower body becomes a storm cloud. The resulting tempest spirit is similar in appearance to a djinni and is sometimes mistaken for one by adventurers.
 

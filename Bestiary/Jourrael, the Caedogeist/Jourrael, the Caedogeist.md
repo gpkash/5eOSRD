@@ -1,7 +1,7 @@
 ### Jourrael, the Caedogeist
 _Medium fiend (drow), chaotic evil_
 
-![[JourraelFluff.webp]]
+![[JourraelFluff.jpg]]
 
 Of the great, terrible legends born in the blood and fire of the Calamity, few managed to defy mortality and endure the ages as deftly as the assassin queen Jourrael. Blessed by shadow and death, they walk between realms, relishing the hunt and stalking their target tirelessly, unburdened by wall, gate, or door. Whatever poor soul finds the ire of the Caedogeist can only accept their 'Inevitable End.'
 

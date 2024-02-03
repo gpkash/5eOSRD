@@ -1,7 +1,7 @@
 ### Davil Starsong
 _Medium humanoid (elf), neutral_
 
-![[Davil Starsong.webp]]
+![[Davil Starsong.jpg]]
 
 Within the Waterdeep division of the Black Network, Davil is accorded the title of Master of Opportunities and Negotiations because he's good at sniffing out lucrative business deals, and he makes friends easily.
 

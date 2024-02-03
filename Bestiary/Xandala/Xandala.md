@@ -1,7 +1,7 @@
 ### Xandala
 _Medium humanoid (half-elf), neutral evil_
 
-![[Xandala.webp]]
+![[Xandala.jpg]]
 
 The half-elf sorcerer Xandala has come to Chult in search of the Ring of Winter, an artifact in Artus Cimber's possession. Xandala knows that the ring has kept Artus alive for over a century, and she craves its power. If she meets the characters, Xandala pretends to be Artus's daughter and tries to convince them to help her find him. Her plan is to cast [[dominate person]] on Artus and force him to give her the ring, then escape using her [[fly]] spell.
 

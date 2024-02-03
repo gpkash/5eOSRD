@@ -1,7 +1,7 @@
 ### Drow Favored Consort
 _Medium humanoid (elf), neutral evil_
 
-![[Drow Favored Consort.webp]]
+![[Drow Favored Consort.jpg]]
 
 Nearly every priestess of [[ Lolth|Drow|MTF]], including the powerful [[drow matron mother|MPMM]] in this book, takes an attractive drow as consort. Chosen as much for beauty as for magical might, a drow favored consort can hold their own in both conversation and combat. Combining the roles of advisor, protector, and beloved, some favored consorts are content with a supporting role, while more ambitious consorts aspire to be the power behind the throne—or even to claim the throne themselves.
 

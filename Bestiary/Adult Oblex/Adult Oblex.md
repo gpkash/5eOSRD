@@ -1,7 +1,7 @@
 ### Adult Oblex
 _Medium ooze, lawful evil_
 
-![[Adult Oblex.webp]]
+![[Adult Oblex.jpg]]
 
 
 

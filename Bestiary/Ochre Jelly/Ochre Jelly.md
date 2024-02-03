@@ -1,7 +1,7 @@
 ### Ochre Jelly
 _Large ooze, unaligned_
 
-![[Ochre Jelly.webp]]
+![[Ochre Jelly.jpg]]
 
 
 

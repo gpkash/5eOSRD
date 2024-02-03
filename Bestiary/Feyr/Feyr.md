@@ -1,7 +1,7 @@
 ### Feyr
 _Large aberration, chaotic evil_
 
-![[Feyr.webp]]
+![[Feyr.jpg]]
 
 A feyr (pronounced "fear") is a tentacled horror that feeds quietly on strong emotions. To minimize the chance of harm to itself, it prefers to devour the nightmares of other creatures while they sleep.
 

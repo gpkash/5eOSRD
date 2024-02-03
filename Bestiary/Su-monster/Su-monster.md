@@ -1,7 +1,7 @@
 ### Su-monster
 _Medium monstrosity, chaotic evil_
 
-![[Su-monster.webp]]
+![[Su-monster.jpg]]
 
 Su-monsters are cunning, wicked primates that inhabit forsaken wilderness areas and caves. Adults stand 5 feet tall and have long prehensile tails. Although they can grasp tools and weapons with their tails or clawed feet, su-monsters prefer to rend prey with their claws. Adult su-monsters can also project blasts of psionic energy that leave enemies [[stunned]] and unable to flee or defend themselves.
 

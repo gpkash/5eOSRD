@@ -1,7 +1,7 @@
 ### Runic Colossus
 _Gargantuan construct, unaligned_
 
-![[Runic Colossus.webp]]
+![[Runic Colossus.jpg]]
 
 According to[[The Saga of the Dragon Queller]], told by giants on some worlds, a disparate group of giants combined their efforts to protect their ancient empire from a particularly vicious dragon. Stone and hill giants hewed a mighty form from living stone. Cloud and frost giants gathered rare metals, and fire giants shaped them into flexible joints and plated armor. Storm giants inscribed runes into the inert form to give it the semblance of life. The fruit of these labors was an everlasting guardian: the first runic colossus.
 

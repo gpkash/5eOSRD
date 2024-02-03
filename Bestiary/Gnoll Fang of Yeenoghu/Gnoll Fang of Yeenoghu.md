@@ -1,7 +1,7 @@
 ### Gnoll Fang of Yeenoghu
 _Medium fiend (gnoll), chaotic evil_
 
-![[Gnoll Fang of Yeenoghu.webp]]
+![[Gnoll Fang of Yeenoghu.jpg]]
 
 Gnolls celebrate their victories by performing demonic rituals and making blood offerings to Yeenoghu.
 

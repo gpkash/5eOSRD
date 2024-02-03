@@ -1,7 +1,7 @@
 ### Demonfeed Spider
 _Large fiend, chaotic evil_
 
-![[DemonfeedSpiderFluff.webp]]
+![[DemonfeedSpiderFluff.jpg]]
 
 > _It was poor guidance that left us wandering through that sulfurous nest of web and ash, but it was cruel fate that woke the matron beast and her brood of burning blood. The only reason I stand before you today is because I had the wisdom to run.
 _

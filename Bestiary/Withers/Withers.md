@@ -1,7 +1,7 @@
 ### Withers
 _Medium undead, neutral evil_
 
-![[Withers.webp]]
+![[Withers.jpg]]
 
 Before he was turned into an undead creature, Withers was an Omuan engineer named Gorra. Like all of Omu's citizens, Gorra was enslaved and put to work constructing the tomb. When Acererak sacrificed his workers to their own dungeon, Gorra's traps performed the best.
 

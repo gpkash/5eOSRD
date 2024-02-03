@@ -1,7 +1,7 @@
 ### Yuan-ti Mind Whisperer
 _Medium monstrosity (shapechanger, yuan-ti), neutral evil_
 
-![[Yuan-ti Mind Whisperer.webp]]
+![[Yuan-ti Mind Whisperer.jpg]]
 
 Mind whisperers are yuan-ti malison spellcasters who enter into a pact with the serpent god Sseth, the Sibilant Death. They use their abilities to convert others to their faith, increase their personal power, and befuddle the minds of their enemies.
 

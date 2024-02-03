@@ -1,7 +1,7 @@
 ### Monstrous Peryton
 _Large monstrosity, chaotic evil_
 
-![[Monstrous Peryton.webp]]
+![[Monstrous Peryton.jpg]]
 
 The terror of the coast and the recent scourge of Firewatch Island in Tammeraut's Fate, this large peryton preys on ships and coastal communities alike. It has built numerous nests to mark its territory.
 

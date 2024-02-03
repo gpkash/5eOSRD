@@ -1,7 +1,7 @@
 ### Dragonborn of Bahamut
 _Medium humanoid, lawful good_
 
-![[Dragonborn of Bahamut.webp]]
+![[Dragonborn of Bahamut.jpg]]
 
 Often called platinum knights, dragonborn champions of Bahamut might belong to an order that exists to protect the world from evil—and especially from evil dragons. A champion of Bahamut has a distinctive pair of platinum wings and a breath weapon suffused with radiant energy.
 

@@ -1,7 +1,7 @@
 ### Musteval Guardinal
 _Small celestial, neutral good_
 
-![[Musteval Guardinal.webp]]
+![[Musteval Guardinal.jpg]]
 
 Mustevals are small, mousy guardinals skilled at evading danger. Their speed, stealthy nature, and illusion magic make them adept spies, scurrying through the multiverse to serve greater forces of good.
 

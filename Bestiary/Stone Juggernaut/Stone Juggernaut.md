@@ -1,7 +1,7 @@
 ### Stone Juggernaut
 _Large construct, unaligned_
 
-![[Stone Juggernaut.webp]]
+![[Stone Juggernaut.jpg]]
 
 A stone juggernaut is a rolling construct imbued with enough awareness to avoid obvious dangers such as open pits and chasms. It trundles across open battlefields or rolls down dungeon corridors, crushing anyone in its path. Every stone juggernaut has a unique shape and appearance. One might resemble an elephant with bejeweled tusks, while another might look like a scowling demon with flaming eyes and obsidian teeth.
 

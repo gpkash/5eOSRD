@@ -1,7 +1,7 @@
 ### Campestri
 _Tiny plant, unaligned_
 
-![[Campestri.webp]]
+![[Campestri.jpg]]
 
 Campestris are happy-go-lucky mushroom-like creatures with few cares or worries. They are captivated by music, though they can't distinguish a well-played performance from a bad one. If anyone plays an instrument or sings in the campestris' vicinity, the little creatures will happily sing along, each in an obnoxiously nasal falsetto, as they dance and caper around whoever is making the music.
 

@@ -1,7 +1,7 @@
 ### Necromite of Myrkul
 _Medium humanoid (human), neutral evil_
 
-![[Necromite of Myrkul.webp]]
+![[Necromite of Myrkul.jpg]]
 
 Those who follow Myrkul are either wizards or those who seek to master the necromantic arts.
 

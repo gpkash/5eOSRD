@@ -1,7 +1,7 @@
 ### Thopter (Bat)
 _Tiny beast, unaligned_
 
-![[Thopter.webp]]
+![[Thopter.jpg]]
 
 
 

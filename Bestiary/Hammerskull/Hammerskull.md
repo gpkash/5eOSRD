@@ -1,7 +1,7 @@
 ### Hammerskull
 _Large beast, unaligned_
 
-![[Hammerskull.webp]]
+![[Hammerskull.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Swarm of Rot Grubs
 _Medium beast, unaligned_
 
-![[Swarm of Rot Grubs.webp]]
+![[Swarm of Rot Grubs.jpg]]
 
 Rot grubs are finger-sized maggots that eat living and dead creatures, although they can survive on vegetation. They infest corpses and piles of decaying matter and attack anyone that disturbs them. After burrowing into a creature, rot grubs instinctively chew their way toward vital parts.
 

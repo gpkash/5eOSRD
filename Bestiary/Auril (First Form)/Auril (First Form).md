@@ -1,7 +1,7 @@
 ### Auril (First Form)
 _Medium monstrosity, neutral evil_
 
-![[Auril (First Form).webp]]
+![[Auril (First Form).jpg]]
 
 
 

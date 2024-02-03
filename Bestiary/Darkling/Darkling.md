@@ -1,7 +1,7 @@
 ### Darkling
 _Small fey, chaotic neutral_
 
-![[Darkling.webp]]
+![[Darkling.jpg]]
 
 
 

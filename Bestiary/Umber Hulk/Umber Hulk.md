@@ -1,7 +1,7 @@
 ### Umber Hulk
 _Large monstrosity, chaotic evil_
 
-![[Umber Hulk.webp]]
+![[Umber Hulk.jpg]]
 
 An abominable horror from deep beneath the earth, an umber hulk burrows into cave complexes, dungeons, or Underdark settlements in search of food. Those lucky enough to survive an umber hulk attack often remember precious little of the incident, thanks to the umber hulk's mind-scrambling gaze.
 

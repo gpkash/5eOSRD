@@ -1,7 +1,7 @@
 ### Astral Elf Honor Guard
 _Medium humanoid, any alignment_
 
-![[Astral Elf Honor Guard.webp]]
+![[Astral Elf Honor Guard.jpg]]
 
 The safety of important individuals and locations is entrusted to astral elf honor guards, highly trained warriors who are more than capable of holding their own in combat.
 

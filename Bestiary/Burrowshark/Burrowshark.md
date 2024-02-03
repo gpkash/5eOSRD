@@ -1,7 +1,7 @@
 ### Burrowshark
 _Medium humanoid (human), neutral evil_
 
-![[Burrowshark.webp]]
+![[Burrowshark.jpg]]
 
 Elite warriors of the earth cult, burrowsharks are fierce champions who ride trained bulettes into battle. While their powerful mounts rend and tear foes to pieces, burrowsharks leap to the ground and cut down their foes without mercy.
 

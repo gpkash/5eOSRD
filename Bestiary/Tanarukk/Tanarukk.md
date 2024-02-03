@@ -1,7 +1,7 @@
 ### Tanarukk
 _Medium fiend (demon, orc), chaotic evil_
 
-![[Tanarukk.webp]]
+![[Tanarukk.jpg]]
 
 > _I believe spite can be an excellent motivator. But unchecked fury? That rarely leads to anything more than a big mess.
 _

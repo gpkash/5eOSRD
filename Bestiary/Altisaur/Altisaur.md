@@ -1,7 +1,7 @@
 ### Altisaur
 _Gargantuan beast (dinosaur), unaligned_
 
-![[Altisaur.webp]]
+![[Altisaur.jpg]]
 
 
 

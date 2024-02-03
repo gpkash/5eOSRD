@@ -1,7 +1,7 @@
 ### Yuan-ti Malison (Type 4)
 _Medium monstrosity (shapechanger, yuan-ti), neutral evil_
 
-![[Yuan-ti Malison Type 4 and 5.webp]]
+![[Yuan-ti Malison Type 4 and 5.jpg]]
 
 
 

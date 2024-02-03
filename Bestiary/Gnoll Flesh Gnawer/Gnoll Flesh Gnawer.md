@@ -1,7 +1,7 @@
 ### Gnoll Flesh Gnawer
 _Medium humanoid (gnoll), chaotic evil_
 
-![[Gnoll Flesh Gnawer.webp]]
+![[Gnoll Flesh Gnawer.jpg]]
 
 
 

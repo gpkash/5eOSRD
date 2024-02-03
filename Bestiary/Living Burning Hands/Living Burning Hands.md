@@ -1,7 +1,7 @@
 ### Living Burning Hands
 _Medium construct, unaligned_
 
-![[Living Burning Hands.webp]]
+![[Living Burning Hands.jpg]]
 
 
 

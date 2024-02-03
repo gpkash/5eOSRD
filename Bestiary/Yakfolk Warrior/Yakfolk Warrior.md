@@ -1,7 +1,7 @@
 ### Yakfolk Warrior
 _Large monstrosity, neutral evil_
 
-![[Yakfolk Warrior.webp]]
+![[Yakfolk Warrior.jpg]]
 
 Yakfolk, known among themselves as Yikaria ("the Lucky Chosen" in their language), are ogre-sized humanoids. Their heads resemble disgruntled yaks, complete with curved horns and dour expressions. Their hulking bodies are coated with thick fur and hair, and many outsiders can't tell the males and females apart.
 

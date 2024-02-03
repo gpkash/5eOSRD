@@ -1,7 +1,7 @@
 ### Oreioth
 _Medium humanoid (human), chaotic evil_
 
-![[Oreioth.webp]]
+![[Oreioth.jpg]]
 
 A lean, black-bearded young noble from Baldur's Gate, Oreioth is more at home among the dead than the living. He was cruel almost from the time he could talk, catching small creatures and killing them in hideously inventive ways to savor the power of life and death. He grew to be an embarrassment to his well-off family, who paid a tutor to channel his undeniable intelligence and curiosity into more positive outlets. They didn't know they had apprenticed the young Oreioth to a necromancer in need of an assistant for his researches.
 

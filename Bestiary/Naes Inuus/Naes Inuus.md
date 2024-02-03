@@ -1,7 +1,7 @@
 ### Naes Inuus
 _Medium humanoid (human), lawful good_
 
-![[Naes Inuus.webp]]
+![[Naes Inuus.jpg]]
 
 Naes Inuus is the high priest of Sune and also known as the First Heartwarder. He believes that Sune is a goddess for all beings of the realms, and his ultimate dream is to have a temple devoted to Sune in every city and village from the Sword Coast to the Sea of Fallen Stars and beyond.
 

@@ -1,7 +1,7 @@
 ### Onyx
 _Tiny beast, unaligned_
 
-![[Onyx.webp]]
+![[Onyx.jpg]]
 
 Onyx cannot be overcome or killed by combat. Any weapon attack against her that hits AC 12 makes contact but deals no lasting damage. However, if the attack would deal 10 or more damage, Onyx has disadvantage on attack rolls until the end of her next turn. If Onyx would take 10 or more damage from spells or other effects, it yields the same result. Spells that impose conditions function normally against Onyx, but those conditions end automatically at the end of the cat's next turn.
 

@@ -1,7 +1,7 @@
 ### Hezrou
 _Large fiend (demon), chaotic evil_
 
-![[Hezrou.webp]]
+![[Hezrou.jpg]]
 
 
 

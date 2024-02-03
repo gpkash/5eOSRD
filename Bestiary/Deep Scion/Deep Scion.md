@@ -1,7 +1,7 @@
 ### Deep Scion
 _Medium humanoid (shapechanger), neutral evil_
 
-![[Deep Scion.webp]]
+![[Deep Scion.jpg]]
 
 Deep scions began life as people who were stolen from shore or saved from sinking ships and offered a terrible bargain by an undersea power: surrender, body and soul, or drown. Those who submit are subjected to an ancient ritual widespread among evil aquatic creatures. Its methods are painful and the result never certain, but when it works, the magic transforms an air-breathing person into a shapeshifter that can take on an aquatic form.
 

@@ -1,7 +1,7 @@
 ### Envy
 _Large monstrosity, unaligned_
 
-![[Envy.webp]]
+![[Envy.jpg]]
 
 The iron lion, Envy, is one of two guardians that Zybilna created to watch over her garden in her absence. When Zybilna became frozen in time, her guardians appeared from their respective demiplanes to perform their duty.
 

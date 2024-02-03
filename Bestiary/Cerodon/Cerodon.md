@@ -1,7 +1,7 @@
 ### Cerodon
 _Huge beast, unaligned_
 
-![[Cerodon.webp]]
+![[Cerodon.jpg]]
 
 
 

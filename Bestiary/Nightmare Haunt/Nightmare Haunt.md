@@ -1,7 +1,7 @@
 ### Nightmare Haunt
 _Medium aberration, neutral evil_
 
-![[Nightmare Haunt.webp]]
+![[Nightmare Haunt.jpg]]
 
 Nightmare haunts are terrors from the minds of Eldraine's sleeping citizens, made tangible by the planeswalker Ashiok. These creatures can hurt the body and also attack the minds of dreamers afflicted by the Wicked Slumber.
 

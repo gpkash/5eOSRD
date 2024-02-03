@@ -1,7 +1,7 @@
 ### Phoenix Anvil
 _Medium humanoid (human), lawful neutral_
 
-![[The B Team.webp]]
+![[The B Team.jpg]]
 
 The "B" Team hoards person, Phoenix Anvil is a servant of Waukeen and a soft-spoken sort. Really soft. Like, he talks so infrequently that even he might not recognize his own voice. Phoenix comes from the streets, where he grew up a fighter until a job sweeping the steps of a small temple of Waukeen showed him a new path. His hunger for coin as an adventurer is thus guided by his knowledge of what it is to do without.
 

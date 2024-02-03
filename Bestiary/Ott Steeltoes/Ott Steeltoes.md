@@ -1,7 +1,7 @@
 ### Ott Steeltoes
 _Medium humanoid (dwarf), chaotic evil_
 
-![[Ott Steeltoes.webp]]
+![[Ott Steeltoes.jpg]]
 
 The dwarf Ott Steeltoes has the nerve-wracking task of tending to Xanathar's pet fish, Sylgar. In his spare time, he worships Zuggtmoy, the demon queen of fungi, and cultivates mushrooms, spores, and molds. He wears a leather skullcap stitched with fake beholder eyestalks.
 

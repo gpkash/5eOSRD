@@ -1,7 +1,7 @@
 ### Living Lightning Bolt
 _Large construct, unaligned_
 
-![[Living Lightning Bolt.webp]]
+![[Living Lightning Bolt.jpg]]
 
 
 

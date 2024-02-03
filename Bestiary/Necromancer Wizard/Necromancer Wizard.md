@@ -1,7 +1,7 @@
 ### Necromancer Wizard
 _Medium humanoid, any alignment_
 
-![[Necromancer Wizard.webp]]
+![[Necromancer Wizard.jpg]]
 
 
 

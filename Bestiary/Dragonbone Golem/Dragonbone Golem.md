@@ -1,7 +1,7 @@
 ### Dragonbone Golem
 _Large construct, unaligned_
 
-![[Dragonbone Golem.webp]]
+![[Dragonbone Golem.jpg]]
 
 A dragonbone golem is composed of dragon bones linked together with adamantine wire into the form of a dragon, animated by drawing on the bones' inherent magic. Most dragon bone golems are created by powerful dragons from the bones of vanquished rivals. Each bone is etched with intricate glyphs that allow animating power to flow through the golem's form.
 

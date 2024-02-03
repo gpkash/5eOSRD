@@ -1,7 +1,7 @@
 ### Imoen
 _Medium humanoid (human), neutral good_
 
-![[Imoen.webp]]
+![[Imoen.jpg]]
 
 > _Boo has always liked Imoen. She's like his big sister. Though not as furry and a lot smaller.
 _

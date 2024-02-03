@@ -1,7 +1,7 @@
 ### Smiler the Defiler
 _Medium fey (elf), chaotic evil_
 
-![[Smiler the Defiler.webp]]
+![[Smiler the Defiler.jpg]]
 
 Smiler has an unnerving smile—hence his name.
 

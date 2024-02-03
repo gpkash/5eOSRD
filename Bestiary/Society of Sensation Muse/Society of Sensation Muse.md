@@ -1,7 +1,7 @@
 ### Society of Sensation Muse
 _Small, Medium humanoid, any alignment_
 
-![[Society of Sensation Muse.webp]]
+![[Society of Sensation Muse.jpg]]
 
 The muses of the Society of Sensation are performers who enthrall crowds with spectacle and minor sensory experiences. When threatened, they beguile their foes, placating their enemies with magical displays.
 

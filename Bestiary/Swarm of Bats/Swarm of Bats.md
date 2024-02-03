@@ -1,7 +1,7 @@
 ### Swarm of Bats
 _Medium beast, unaligned_
 
-![[Swarm of Bats.webp]]
+![[Swarm of Bats.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Traag Draconian
 _Large monstrosity, chaotic evil_
 
-![[Traag Draconian.webp]]
+![[Traag Draconian.jpg]]
 
 In their experimentation with corrupting dragon eggs, the Dragon Armies created traag draconians, the precursor to what would become baaz draconian foot soldiers. Unlike their draconian brethren, traag draconians are little more than bloodthirsty engines of carnage. Few commanders have successfully used a traag draconian's reckless violence to their advantage in battle; for most, a traag draconian is as much of a danger to its allies as it is to its enemies. Even magic cannot tame a traag draconian's thirst for violence.
 

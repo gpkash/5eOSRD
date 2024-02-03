@@ -1,7 +1,7 @@
 ### Auspicia Dran
 _Medium humanoid (half-elf), neutral good_
 
-![[House Dran.webp]]
+![[House Dran.jpg]]
 
 The youngest sister of Omin Dran, the half-elf Auspicia Dran had her life torn apart as a child when she was seized by a mysterious creature called the Wandering Crypt. Having spent long years in a kind of dark dream within the crypt, she was saved in the end by her brother Omin's tireless efforts and the valor of his handpicked "C" Team. Now returned safely to the world-and with the false Auspicia of the crypt's creation slain-she focuses on trying to discover her own identity and to work through the ongoing complications arising from her ordeal.
 

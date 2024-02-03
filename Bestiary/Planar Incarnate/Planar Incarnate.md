@@ -1,7 +1,7 @@
 ### Planar Incarnate
 _Gargantuan , any alignment_
 
-![[Planar Incarnate (Celestial Form).webp]]
+![[Planar Incarnate (Celestial Form).jpg]]
 
 The Upper and Lower Planes are fundamental manifestations of good and evil, law and chaos. In the most dire and fateful circumstances, these planes can manifest primal embodiments of their might. These expressions of a plane's power are called planar incarnates, and they appear as roiling energies with features distinct to the plane that created it. They protect their home from destructive or otherwise antithetical forces, then merge back into their plane of origin.
 

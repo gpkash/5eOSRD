@@ -1,7 +1,7 @@
 ### Merrow
 _Large monstrosity, chaotic evil_
 
-![[Merrow.webp]]
+![[Merrow.jpg]]
 
 Merrow haunt coastal waters, preying on fisherfolk, merfolk, and any other edible creature that crosses their path. These savage monsters snatch and devour unwary prey, hauling drowned corpses back to their underwater grottoes to feed.
 

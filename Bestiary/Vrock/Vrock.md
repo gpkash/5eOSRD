@@ -1,7 +1,7 @@
 ### Vrock
 _Large fiend (demon), chaotic evil_
 
-![[Vrock.webp]]
+![[Vrock.jpg]]
 
 
 

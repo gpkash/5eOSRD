@@ -1,7 +1,7 @@
 ### Isperia
 _Gargantuan monstrosity, lawful neutral_
 
-![[Isperia.webp]]
+![[Isperia.jpg]]
 
 Isperia is the current guildmaster of the Azorius Senate. As a sphinx, she is aloof and values solitude above all. However, she has been forced to give up her privacy to deal with the increased crime and chaos on Ravnica.
 

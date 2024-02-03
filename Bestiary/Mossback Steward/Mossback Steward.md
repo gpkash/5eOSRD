@@ -1,7 +1,7 @@
 ### Mossback Steward
 _Gargantuan monstrosity, unaligned_
 
-![[Mossback Steward.webp]]
+![[Mossback Steward.jpg]]
 
 Desolate badlands and soggy marshes are home to the ancient and massive horizonback tortoises of Eastern Wynandir. Nearly fifty feet from nose to tail, and with a habit of remaining stationary for long periods, a horizonback tortoise is easy to mistake for a low hill at a distance. But when these impressive creatures rise to begin their march, the sight inspires fear and awe in equal parts. An omnivore of incredible size, these scavengers prefer to feed on dead vegetation, but make use of whatever edible matter they come across.
 

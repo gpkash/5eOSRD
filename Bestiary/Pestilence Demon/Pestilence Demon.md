@@ -1,7 +1,7 @@
 ### Pestilence Demon
 _Large fiend (demon), chaotic evil_
 
-![[Pestilence Demon.webp]]
+![[Pestilence Demon.jpg]]
 
 The dark reflections of angels, demons are the incarnation of black mana and all it represents—selfish desire and lust for power. Their forms are roughly humanoid, but distorted and bestial. Their grotesque heads feature elongated ears, spiky protrusions, and large horns. (The size and number of a demon's horns are an indication of its age and power.) Spikes protrude from their backs and arms, and their hands are warped into large, sharp claws. Most demons have large, leathery wings, and a few have long tails. Their skin has an inhuman texture—dry and leathery for some; stony and cold for others. Their eyes are small points of red or blue light that glow as if revealing an inner inferno.
 

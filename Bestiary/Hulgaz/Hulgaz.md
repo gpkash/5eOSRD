@@ -1,7 +1,7 @@
 ### Hulgaz
 _Large fiend (devil), lawful evil_
 
-![[Hulgaz.webp]]
+![[Hulgaz.jpg]]
 
 Hulgaz is a devil who hails from the stinking swamps of Minauros, the third layer of the Nine Hells. The self-styled Tempter corrupts mortals' souls by offering them tantalizing but ruinous boons. To do so, she directs her entourage of loyal succubi and incubi to the Material Plane in search of vulnerable mortals. When they find a particularly pitiful soul, Hulgaz might visit herself, offering even greater "gifts" to her victims.
 

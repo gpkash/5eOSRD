@@ -1,7 +1,7 @@
 ### Lothar
 _Medium humanoid (human), lawful neutral_
 
-![[Lothar.webp]]
+![[Lothar.jpg]]
 
 Lothar is an Uthgardt barbarian and priest of the Raven Queen. He was born to the Uthgardt tribe of the Black Raven. His mother left him to be raised by her Uthgardt husband when Lothar was still young. Lothar was struck with wanderlust an early age, both because of a desire to see the world and a chance to escape the superstition of his people. Lothar can sense paths that are [[invisible]] to mortal senses. He can walk into a forest glade and emerge in the Feywild or track a stag through the snow to appear on the glacial fields of Elysium.
 

@@ -1,7 +1,7 @@
 ### Sword Spider
 _Large beast, unaligned_
 
-![[Sword Spider.webp]]
+![[Sword Spider.jpg]]
 
 Sword spiders are a type of giant arachnid that stalk the forests and caverns of Faerûn, walking on legs that resemble razor-sharp blades. These solitary predators move incredibly fast and with great stealth for their large size. The sword spider's sleek, 12-foot-long body is encased in a durable black exoskeleton covered in fine dark hairs. Although their eyesight is poor, sword spiders locate their prey using [[ tremorsense]] to feel for minute vibrations in the ground.
 

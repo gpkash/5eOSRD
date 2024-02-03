@@ -1,7 +1,7 @@
 ### Beholder Zombie
 _Large undead, neutral evil_
 
-![[Beholder Zombie.webp]]
+![[Beholder Zombie.jpg]]
 
 
 

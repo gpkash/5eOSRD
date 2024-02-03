@@ -1,7 +1,7 @@
 ### Homunculus
 _Tiny construct, neutral_
 
-![[Homunculus.webp]]
+![[Homunculus.jpg]]
 
 Shaping a mixture of clay, ash, mandrake root, and blood, one can channel rare ritual magic to create a faithful, squirrel-sized companion.
 

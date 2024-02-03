@@ -1,7 +1,7 @@
 ### Edgin Darvis
 _Medium humanoid (bard), chaotic good_
 
-![[Edgin Darvis.webp]]
+![[Edgin Darvis.jpg]]
 
 Edgin Darvis has a talent for improvisation and strategy. He's a musician and tale-teller who relies on charisma first—rather than magic or muscle—to escape trouble. Once a member of the Harpers, a spy organization dedicated to protecting Faerûn's common folk, Edgin has forsworn his oath and turned to thievery to support his family. Edgin's strong moral compass compels him to steal only from people he believes deserve to lose both coin and face.
 

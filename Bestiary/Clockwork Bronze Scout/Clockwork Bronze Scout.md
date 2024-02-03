@@ -1,7 +1,7 @@
 ### Clockwork Bronze Scout
 _Medium construct, unaligned_
 
-![[Clockwork Bronze Scout.webp]]
+![[Clockwork Bronze Scout.jpg]]
 
 
 

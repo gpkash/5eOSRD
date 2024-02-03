@@ -1,7 +1,7 @@
 ### Lemure
 _Medium fiend (devil), lawful evil_
 
-![[Lemure.webp]]
+![[Lemure.jpg]]
 
 
 

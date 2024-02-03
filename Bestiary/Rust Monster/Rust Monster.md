@@ -1,7 +1,7 @@
 ### Rust Monster
 _Medium monstrosity, unaligned_
 
-![[Rust Monster.webp]]
+![[Rust Monster.jpg]]
 
 Most dwarves would rather face a squad of orcs than confront a single rust monster. These strange, normally docile creatures corrode ferrous metals, then gobble up the rust they create. In doing so, they have ruined the armor, shields, and weapons of countless adventurers.
 

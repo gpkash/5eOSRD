@@ -1,7 +1,7 @@
 ### Equinal Guardinal
 _Large celestial, neutral good_
 
-![[Equinal Guardinal.webp]]
+![[Equinal Guardinal.jpg]]
 
 The horselike equinals are among the strongest of the guardinals. Equinals have long faces and crested manes, and their powerful, hocked legs carry them over great distances. These good-natured, boisterous Celestials boast their might in contests of strength and rarely back down from a challenge. Tough and courageous, they use their iron-hard fists to pound evil to a pulp. Equinals can also bellow a mighty shout that stops their foes in their tracks.
 

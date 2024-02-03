@@ -1,7 +1,7 @@
 ### Skittering Horror
 _Huge aberration, neutral evil_
 
-![[Skittering Horror.webp]]
+![[Skittering Horror.jpg]]
 
 **Horrors and Madness** Horrors on Ravnica are terror and madness personified. You can represent this reality by using the madness rules in the Dungeon Master's Guide.
 

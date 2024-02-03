@@ -1,7 +1,7 @@
 ### Zombie Cat
 _Tiny beast, unaligned_
 
-![[Zombies.webp]]
+![[Zombies.jpg]]
 
 Ghoulcallers are necromancers—mages who use black mana to call forth the dead from graveyards. These risen dead are called ghouls, or the unhallowed. The ghoulcaller fills the fragile mind of his or her creation with a single driving purpose, which the ghoul carries out to the best of its ability using whatever skills it has. The result is a grotesque parody of life: risen blacksmiths attempting to "reforge" their opponents, fallen warriors rasping incoherent battle cries, undead murderers reawakening their deadly slyness, and fallen mages trying to weave spells that often result in some horrible distortion of their original purpose.
 

@@ -1,7 +1,7 @@
 ### Quandrix Apprentice
 _Small, Medium humanoid (wizard), any alignment_
 
-![[Quandrix Apprentice.webp]]
+![[Quandrix Apprentice.jpg]]
 
 The students of Quandrix College—first as apprentices and then as pledgemages—immerse themselves in the magic of geometry and metaphysics. Their ultimate goal isn't mastery, however. Rather, in their projects they explore and expand knowledge without expecting concrete answers. Whether students are extrapolating mathematical patterns in nature or engaging in speculative dives into topological formulas that bend reality, their studies blur the line between abstract numerical theory and natural reality.
 

@@ -1,7 +1,7 @@
 ### Oriq Blood Mage
 _Medium humanoid (warlock), neutral evil_
 
-![[Oriq Blood Mage.webp]]
+![[Oriq Blood Mage.jpg]]
 
 Oriq blood mages create deadly weapons formed of their own blood. They can also sense the life energy within nearby creatures, making the blood mages almost impossible to ambush.
 

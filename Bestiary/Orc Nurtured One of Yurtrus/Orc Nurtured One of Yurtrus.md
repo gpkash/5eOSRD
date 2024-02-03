@@ -1,7 +1,7 @@
 ### Orc Nurtured One of Yurtrus
 _Medium humanoid (orc), chaotic evil_
 
-![[Orc Nurtured One of Yurtrus.webp]]
+![[Orc Nurtured One of Yurtrus.jpg]]
 
 To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.
 

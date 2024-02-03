@@ -1,7 +1,7 @@
 ### Brigganock
 _Tiny fey, neutral good_
 
-![[Brigganock.webp]]
+![[Brigganock.jpg]]
 
 Brigganocks are frantic, mouse-sized creatures that live in mines. Whenever a mortal makes a nonmagical wish, perhaps while blowing out the candles on a birthday cake or tossing a coin down a well, an echo of that wish becomes lodged in a stone buried deep in the earth of the Feywild. Brigganocks seek out these wish stones, discarding the ones that contain wishes of ill intent and keeping those that hold good wishes. Brigganocks refine wish stones into gems and use them to decorate their architecture and crafts, or they trade them to other Fey for food and favors. A more powerful Fey creature can use a wish stone to scry on the maker of the wish, empower a supernatural charm, or provide the spark needed to create an animated object. Other uses are possible as well.
 

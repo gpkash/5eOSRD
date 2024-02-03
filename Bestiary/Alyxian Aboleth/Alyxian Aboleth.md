@@ -1,7 +1,7 @@
 ### Alyxian Aboleth
 _Large aberration, lawful evil_
 
-![[Alyxian Aboleth.webp]]
+![[Alyxian Aboleth.jpg]]
 
 The Alyxian Aboleth is a unique creature that believes it carries the soul of the Apotheon within its body, trapped in this aberrant form as divine punishment for his failure to save the world during the Calamity. Veins of ruidium crisscross the aboleth's body, and a secondary face has emerged from its pale green hide. The second face is a mutation that has no effect on the creature's game statistics.
 

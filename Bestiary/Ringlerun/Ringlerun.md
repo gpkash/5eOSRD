@@ -1,7 +1,7 @@
 ### Ringlerun
 _Medium humanoid (human, wizard), lawful good_
 
-![[Ringlerun.webp]]
+![[Ringlerun.jpg]]
 
 Ringlerun became an adventurer to better satisfy his craving for arcane knowledge. One of his adventures took him into an underwater tomb, where he tricked a marid into surrendering a staff of power. This staff greatly increased Ringlerun's capabilities and made him the envy of many rival spellcasters.
 

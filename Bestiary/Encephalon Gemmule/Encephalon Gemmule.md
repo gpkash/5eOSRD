@@ -1,7 +1,7 @@
 ### Encephalon Gemmule
 _Tiny aberration, unaligned_
 
-![[Encephalon Gemmule.webp]]
+![[Encephalon Gemmule.jpg]]
 
 Due to the influence of the Far Realm, the eggs within an encephalon cluster no longer hatch into illithid tadpoles. Instead, when one of an encephalon cluster's eggs reaches maturity, it is ejected from the mass as an encephalon gemmule.
 

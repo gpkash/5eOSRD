@@ -1,7 +1,7 @@
 ### Regisaur
 _Gargantuan monstrosity (dinosaur), unaligned_
 
-![[Regisaur.webp]]
+![[Regisaur.jpg]]
 
 
 

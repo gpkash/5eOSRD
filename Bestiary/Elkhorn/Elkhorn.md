@@ -1,7 +1,7 @@
 ### Elkhorn
 _Medium humanoid (dwarf), lawful good_
 
-![[Elkhorn.webp]]
+![[Elkhorn.jpg]]
 
 Elkhorn has been Strongheart's most stalwart companion over the years—unflinchingly loyal, tirelessly optimistic, and fiercely devoted to the destruction of evil in all its forms. He's not especially bright, so he fights with his heart rather than his wits.
 

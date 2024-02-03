@@ -1,7 +1,7 @@
 ### Nightmare
 _Large fiend, neutral evil_
 
-![[Nightmare.webp]]
+![[Nightmare.jpg]]
 
 A nightmare appears in a cloud of roiling smoke, its mane, tail, and hooves wreathed in flame. The creature's unearthly black form moves with supernatural speed, vanishing in a cloud of brimstone as quickly as it appeared.
 

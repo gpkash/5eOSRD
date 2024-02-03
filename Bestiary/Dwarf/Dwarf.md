@@ -1,7 +1,7 @@
 ### Dwarf
 _Medium humanoid (Dwarf), lawful good_
 
-![[Dwarf.webp]]
+![[Dwarf.jpg]]
 
 Although there are no dwarves that live in the actual Dankwood, they will sometime pass through in travel or explore the forest for coveted materials and magical stones. They pride themselves in their skills and can create beautiful artifacts from the objects they find in nature.
 

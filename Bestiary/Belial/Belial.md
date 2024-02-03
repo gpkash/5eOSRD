@@ -1,7 +1,7 @@
 ### Belial
 _Medium fiend (devil), lawful evil_
 
-![[Belial.webp]]
+![[Belial.jpg]]
 
 Belial maintains his image as the most carnal of all archdevils, and enjoys inflicting pain as much as experiencing pleasure. Despite his indulgences, Belial demonstrates charisma, passion, and intelligence, and is almost always scheming. He is confident to a fault, with vanity and desire being his greatest weaknesses.
 

@@ -1,7 +1,7 @@
 ### Blood Hunter
 _Medium humanoid (any race), any alignment_
 
-![[Blood Hunter.webp]]
+![[Blood Hunter.jpg]]
 
 To mortals and monsters alike, the blood hunter is a legendary figure—a humanoid stalker said to embrace monstrous power. Long years ago, a group of mortals undertook dark rituals and alchemical experiments to gain the power of the deadliest monsters, allowing them to better hunt those monsters.
 

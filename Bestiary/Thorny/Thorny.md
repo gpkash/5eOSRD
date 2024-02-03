@@ -1,7 +1,7 @@
 ### Thorny
 _Medium plant, neutral_
 
-![[Vegepygmy.webp]]
+![[Vegepygmy.jpg]]
 
 Vegepygmies are fungus creatures that live in simple tribal units, hunting for sustenance and spreading the spores from which they reproduce.
 

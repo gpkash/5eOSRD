@@ -1,7 +1,7 @@
 ### Scaladar
 _Huge construct, unaligned_
 
-![[Scaladar.webp]]
+![[Scaladar.jpg]]
 
 Scaladar are constructs created by Trobriand, one of Halaster's apprentices. They move and attack like giant scorpions, grabbing prey with two large pincer claws and delivering a deadly pulse of lightning with their metal stinger tails.
 

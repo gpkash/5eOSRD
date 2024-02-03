@@ -1,7 +1,7 @@
 ### Chief Guh
 _Huge giant, chaotic evil_
 
-![[Chief Guh.webp]]
+![[Chief Guh.jpg]]
 
 Hill giants are selfish, dimwitted brutes that hunt, forage, and raid in constant search of food. They blunder through hills and forests devouring what they can,bullying smaller creatures into feeding them. Their laziness and dullness would long ago have spelled their end if not for their formidable size and strength.
 

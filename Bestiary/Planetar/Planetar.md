@@ -1,7 +1,7 @@
 ### Planetar
 _Large celestial, lawful good_
 
-![[Planetar.webp]]
+![[Planetar.jpg]]
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
 

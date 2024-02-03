@@ -1,7 +1,7 @@
 ### Harmonium Peacekeeper
 _Small, Medium humanoid, any alignment_
 
-![[Harmonium Peacekeeper.webp]]
+![[Harmonium Peacekeeper.jpg]]
 
 Peacekeepers wear distinctive red plate armor and wield planar mancatchers, polearms whose metal pincers prevent criminals clamped in their grasp from teleporting away, making them excellent at catching wrongdoers in Sigil.
 

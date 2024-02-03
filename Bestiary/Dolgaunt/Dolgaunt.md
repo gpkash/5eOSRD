@@ -1,7 +1,7 @@
 ### Dolgaunt
 _Medium aberration, lawful evil_
 
-![[Dolgaunt.webp]]
+![[Dolgaunt.jpg]]
 
 Dolgaunts are emaciated hobgoblins with disease-hued flesh. Their eye sockets gape open and empty above a mouth with a wormlike tongue. Writhing cilia cover their bodies, with longer tendrils around their heads and two wiry tentacles protruding from their bare shoulders. A dolgaunt is blind but can perceive its surroundings through the sensitive cilia that cover its skin. It can also absorb life through its tentacles, allowing it to drain the vitality out of any creature it touches.
 

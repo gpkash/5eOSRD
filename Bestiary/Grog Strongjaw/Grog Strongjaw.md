@@ -1,7 +1,7 @@
 ### Grog Strongjaw
 _Medium humanoid (half-giant), _
 
-![[GrogStrongjawFluffPortrait.webp]]
+![[GrogStrongjawFluffPortrait.jpg]]
 
 
 

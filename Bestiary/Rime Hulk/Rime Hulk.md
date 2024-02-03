@@ -1,7 +1,7 @@
 ### Rime Hulk
 _Large elemental, neutral evil_
 
-![[Rime Hulk.webp]]
+![[Rime Hulk.jpg]]
 
 Rime hulks are a withered branch of the frost giant family tree, descended from ancient giants who withdrew from the world and succumbed to their elemental nature. Most rime hulks dwell in the Frostfell, the "plane of ice" that forms the border between the Elemental Planes of Air and Water. Others lurk in isolated rifts in enormous polar glaciers.
 

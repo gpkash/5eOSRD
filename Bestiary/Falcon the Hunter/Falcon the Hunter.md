@@ -1,7 +1,7 @@
 ### Falcon the Hunter
 _Medium humanoid (human), neutral good_
 
-![[Falcon the Hunter.webp]]
+![[Falcon the Hunter.jpg]]
 
 Adventurers encounter Falcon the Hunter if they visit his hunting lodge in Neverwinter Wood.
 

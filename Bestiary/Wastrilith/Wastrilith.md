@@ -1,7 +1,7 @@
 ### Wastrilith
 _Large fiend (demon), chaotic evil_
 
-![[Wastrilith.webp]]
+![[Wastrilith.jpg]]
 
 Found in the waters of the Abyss and other bodies of water contaminated by that plane's fell influence, wastriliths establish themselves as lords of the deep and rule their dominions with cruelty.
 

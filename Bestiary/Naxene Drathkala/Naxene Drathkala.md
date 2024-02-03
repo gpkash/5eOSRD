@@ -1,7 +1,7 @@
 ### Naxene Drathkala
 _Medium humanoid (Turami human), neutral good_
 
-![[Naxene Drathkala.webp]]
+![[Naxene Drathkala.jpg]]
 
 Goldenfields' crops are vital to Waterdeep's survival, which is why the Watchful Order of Magists and Protectors sent Naxene to make sure the temple-farm is adequately defended. At first she regarded the task as a punishment, but now she appreciates the peace and quiet.
 

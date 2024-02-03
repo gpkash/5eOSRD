@@ -1,7 +1,7 @@
 ### Giant Walrus
 _Huge beast, unaligned_
 
-![[Giant Walrus.webp]]
+![[Giant Walrus.jpg]]
 
 Giant walruses are enormous, ill-tempered creatures as big as elephants. A typical adult specimen weighs at least 12,000 pounds.
 

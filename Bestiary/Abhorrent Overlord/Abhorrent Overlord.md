@@ -1,7 +1,7 @@
 ### Abhorrent Overlord
 _Large fiend, lawful evil_
 
-![[Abhorrent Overlord.webp]]
+![[Abhorrent Overlord.jpg]]
 
 Abhorrent overlords are gaunt, bipedal creatures whose gray, leathery skin is in stark contrast to the gleaming jewelry made of Underworld gold that they adorn themselves with. Their appetite for pain and death is eclipsed only by their greed; these fiends delight in searching out treasure and slaughtering all who stand in their way.
 

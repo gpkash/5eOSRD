@@ -1,7 +1,7 @@
 ### Air Elemental Myrmidon
 _Medium elemental, neutral_
 
-![[Air Elemental Myrmidon.webp]]
+![[Air Elemental Myrmidon.jpg]]
 
 
 

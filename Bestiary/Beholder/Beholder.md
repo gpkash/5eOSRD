@@ -1,7 +1,7 @@
 ### Beholder
 _Large aberration, lawful evil_
 
-![[Beholder.webp]]
+![[Beholder.jpg]]
 
 One glance at a beholder is enough to assess its foul and otherworldly nature. Aggressive, hateful, and greedy, these aberrations dismiss all other creatures as lesser beings, toying with them or destroying them as they choose.
 

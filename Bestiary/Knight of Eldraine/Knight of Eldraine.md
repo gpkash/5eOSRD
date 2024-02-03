@@ -1,7 +1,7 @@
 ### Knight of Eldraine
 _Medium humanoid (human), any alignment_
 
-![[Knight of Eldraine.webp]]
+![[Knight of Eldraine.jpg]]
 
 The realm of Eldraine once consisted of five knightly courts: Ardenvale, Embereth, Garenbrig, Locthwain, and Vantress. In ancient times, the courts were established around five relics of tremendous magical power and unknown origin. Each relic is a magical embodiment of one of the five virtues the knights of the realm hold as standards of excellence.
 

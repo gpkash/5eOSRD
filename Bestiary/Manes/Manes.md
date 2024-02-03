@@ -1,7 +1,7 @@
 ### Manes
 _Small fiend (demon), chaotic evil_
 
-![[Manes.webp]]
+![[Manes.jpg]]
 
 
 

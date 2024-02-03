@@ -1,7 +1,7 @@
 ### Sirac of Suzail
 _Medium humanoid (Chondathan human), lawful good_
 
-![[Sirac of Suzail.webp]]
+![[Sirac of Suzail.jpg]]
 
 An acolyte of Torm, Sirac grew up on the streets of Suzail, the capital of Cormyr. He came to Icewind Dale to become a knucklehead trout fisher but instead found religion. The misbegotten son of Artus Cimber, a renowned human adventurer, Sirac hasn't seen his father since he was a baby.
 

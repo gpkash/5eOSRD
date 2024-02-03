@@ -1,7 +1,7 @@
 ### Yusdrayl
 _Small humanoid (kobold), lawful evil_
 
-![[Yusdrayl.webp]]
+![[Yusdrayl.jpg]]
 
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
 

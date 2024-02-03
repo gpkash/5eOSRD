@@ -1,7 +1,7 @@
 ### Drow Inquisitor
 _Medium humanoid (elf), neutral evil_
 
-![[Drow Inquisitor.webp]]
+![[Drow Inquisitor.jpg]]
 
 Lolth's worshipers expect treachery—the Spider Queen encourages it, after all. A certain amount of backstabbing and double-crossing can be managed, but too much can undermine an entire community. To keep some semblance of order and to root out traitors, priestesses of Lolth employ inquisitors. Inquisitors are chosen from the ranks of the priesthood, and their authority is equaled only by that of the [[drow matron mother|MPMM|drow matron mothers]] (also in this book) of the noble houses. Anyone they decide is at odds with the hierarchy faces painful interrogation and usually an excruciating death.
 

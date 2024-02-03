@@ -1,7 +1,7 @@
 ### Clay Golem
 _Large construct, unaligned_
 
-![[Clay Golem.webp]]
+![[Clay Golem.jpg]]
 
 
 

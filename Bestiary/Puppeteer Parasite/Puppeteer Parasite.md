@@ -1,7 +1,7 @@
 ### Puppeteer Parasite
 _Tiny aberration, neutral evil_
 
-![[Puppeteer Parasite.webp]]
+![[Puppeteer Parasite.jpg]]
 
 A puppeteer parasite looks like a rubbery amoeba the size of a dinner plate. Its dorsal surface is soft and glossy, while its ventral surface is lined with bony hooks. The parasite uses its hooks to attach to a wall or ceiling until suitable prey passes nearby.
 

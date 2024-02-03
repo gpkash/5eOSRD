@@ -1,7 +1,7 @@
 ### Sweettooth Horror
 _Large fiend, neutral evil_
 
-![[Sweettooth Horror.webp]]
+![[Sweettooth Horror.jpg]]
 
 No one is certain of the true origin of Sweettooth Village. This eerie, abandoned town constructed of gingerbread and frosting lies deep in the wilds of Eldraine. Some say the fiendish candy monsters that prowl its butterscotch-lined streets were once servants of a powerful witch, and the entire place was a trap created to lure hungry travelers. But if the sugary horrors of Sweettooth Village were ever under someone's control, that time has long since passed.
 

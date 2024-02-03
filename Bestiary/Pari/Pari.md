@@ -1,7 +1,7 @@
 ### Pari
 _Medium celestial, lawful good_
 
-![[Pari.webp]]
+![[Pari.jpg]]
 
 A pari is an angelic harbinger gifted with foresight. A visit from a pari is often a prophetic warning or portent of an event yet to come. Pari have pastel blue skin, wear robes and armor, and have two sets of wings with vivid red feathers sprouting from their back.
 

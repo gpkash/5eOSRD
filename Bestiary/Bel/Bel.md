@@ -1,7 +1,7 @@
 ### Bel
 _Large fiend (devil), lawful evil_
 
-![[Bel.webp]]
+![[Bel.jpg]]
 
 From his bastion, Zariel's second-in-command and the former lord of Avernus oversees the forges that furnish weapons and armor for the Blood War. Though Asmodeus has instructed Zariel to accept Bel as her advisor, Bel and Zariel loathe each other and invent distractions to keep them apart.
 

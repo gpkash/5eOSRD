@@ -1,7 +1,7 @@
 ### Barlgura
 _Large fiend (demon), chaotic evil_
 
-![[Barlgura.webp]]
+![[Barlgura.jpg]]
 
 
 

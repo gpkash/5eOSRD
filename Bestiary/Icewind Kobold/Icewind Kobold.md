@@ -1,7 +1,7 @@
 ### Icewind Kobold
 _Small humanoid (kobold), any alignment_
 
-![[Icewind Kobold.webp]]
+![[Icewind Kobold.jpg]]
 
 Kobolds can be found anywhere dragons are known to dwell, and those that live in the mountains and hills of Icewind Dale are among the hardiest of their kind. Drawn to the north by a desire to find and serve white dragons, these kobolds adapted as best they can to the hostile climate. Their sensitive eyes appreciate sunless days and long, dark nights. They use wooden javelins as tools to test the snow ahead of them.
 

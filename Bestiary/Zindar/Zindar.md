@@ -1,7 +1,7 @@
 ### Zindar
 _Medium humanoid (half-dragon), lawful good_
 
-![[Zindar.webp]]
+![[Zindar.jpg]]
 
 This half-gold dragon runs Port Nyanzaru's docks and keeps track of ship manifests. A sorcerer of impressive ability, Zindar is well paid by the merchant princes for his work. He is also a key member of the Ytepka Society and a great source of information about the city. Zindar has a soft spot for adventurers, but he knows the dangers of Chult well enough to understand that most of those who embark on expeditions to explore the jungle never return.
 

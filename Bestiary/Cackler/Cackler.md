@@ -1,7 +1,7 @@
 ### Cackler
 _Small fiend (demon), chaotic evil_
 
-![[Cackler.webp]]
+![[Cackler.jpg]]
 
 Cacklers are small, jabbering jesters that spice up Rakdos performances with their chaotic antics. Their incessant cackling can inspire uncontrollable laughter by making everything—even the most horrifying spectacles—seem hilarious. Some cacklers excel at vocal mimicry and perform as impressionists; others put their sadistic bent to use by lurking in shadows and terrifying passersby. Rakdos performers enjoy dressing cacklers in a variety of masks, hats, and costumes to lampoon public figures.
 

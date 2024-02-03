@@ -1,7 +1,7 @@
 ### Erinyes
 _Medium fiend (devil), lawful evil_
 
-![[Erinyes.webp]]
+![[Erinyes.jpg]]
 
 
 

@@ -1,7 +1,7 @@
 ### Piercer
 _Medium monstrosity, unaligned_
 
-![[Piercer.webp]]
+![[Piercer.jpg]]
 
 Clinging to the ceilings of caverns and large subterranean passages, piercers blend in perfectly with natural rock, dropping in silence to impale unsuspecting foes on the ground below.
 

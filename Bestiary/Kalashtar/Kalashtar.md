@@ -1,7 +1,7 @@
 ### Kalashtar
 _Medium humanoid (kalashtar), any alignment_
 
-![[Kalashtar.webp]]
+![[Kalashtar.jpg]]
 
 The kalashtar have bonded with good-aligned quori spirits, which communicate with their hosts through dreams and visions. Descended from monks who offered their bodies as sanctuaries to those quori escaping the evil of Dal Quor, the kalashtar now fight to herald in a new age of light and balance.
 

@@ -1,7 +1,7 @@
 ### Infected Elder Brain
 _Large aberration (mind flayer), lawful evil_
 
-![[Infected Elder Brain.webp]]
+![[Infected Elder Brain.jpg]]
 
 The Far Realm has tainted the elder brain that fuels Illithinoch's mind flayers.
 

@@ -1,7 +1,7 @@
 ### Styx Dragon
 _Gargantuan dragon, chaotic evil_
 
-![[Styx Dragon.webp]]
+![[Styx Dragon.jpg]]
 
 One of the only draconic beings that makes its home in the Nine Hells, the Styx dragon is an aquatic creature that lives within the River Styx. The waters of the Styx have no effect on its mental faculties or memories, and their breath weapon replicates the effects of the Styx. Their diet consists mostly of devils foolish enough to wander close to the banks of the Styx, though they prefer mortals and corpses over Fiends. Occasional Styx dragons have been spotted in non-infernal planes, possibly by traveling the Styx to their destination.
 

@@ -1,7 +1,7 @@
 ### Valenar Steed
 _Large fey, neutral_
 
-![[Valenar Steed.webp]]
+![[Valenar Steed.jpg]]
 
 
 

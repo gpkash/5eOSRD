@@ -1,7 +1,7 @@
 ### Art Elemental Mascot
 _Small elemental, neutral_
 
-![[Art Elemental Mascot.webp]]
+![[Art Elemental Mascot.jpg]]
 
 Often referred to as a "living expression," an art elemental is an aspect of creativity and emotion given physical form—making it the perfect mascot for Prismari College.
 

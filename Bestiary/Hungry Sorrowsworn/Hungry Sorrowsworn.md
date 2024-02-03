@@ -1,7 +1,7 @@
 ### Hungry Sorrowsworn
 _Medium monstrosity, neutral evil_
 
-![[Hungry Sorrowsworn.webp]]
+![[Hungry Sorrowsworn.jpg]]
 
 
 

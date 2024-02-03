@@ -1,7 +1,7 @@
 ### Hoard Scarab
 _Tiny monstrosity, unaligned_
 
-![[Hoard Scarab.webp]]
+![[Hoard Scarab.jpg]]
 
 Hoard scarabs are beetle-like creatures that, through some feat of natural adaptation or alchemical ingenuity, blend in perfectly among piles of gold coins. They feed on tiny mites that infest a dragon's scales and lair, and their painful bite can be a strong deterrent to would-be treasure thieves.
 

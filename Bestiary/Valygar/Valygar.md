@@ -1,7 +1,7 @@
 ### Valygar
 _Medium humanoid (human), neutral good_
 
-![[Valygar.webp]]
+![[Valygar.jpg]]
 
 > _Valygar is a grumpy one, but me and him agree on most things, including that Red Wizards need to have their big, stupid brains kicked right up their backsides.
 _

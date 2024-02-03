@@ -1,7 +1,7 @@
 ### Endelyn Moongrave
 _Medium fey (hag), neutral evil_
 
-![[Endelyn Moongrave.webp]]
+![[Endelyn Moongrave.jpg]]
 
 Endelyn, also known by the names Creeping Lyn and Bitter End, is the youngest member of the Hourglass Coven. People come to her to learn about their futures, which she spells out through grotesque theatrical pageants. As payment, she snatches away a portion of each client's free will, preventing them from taking certain courses of action in their lives. Her petitioners often learn of a dreadful fate that awaits them but find themselves unable to prevent it due to the cursed terms of their deal.
 

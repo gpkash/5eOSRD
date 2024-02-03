@@ -1,7 +1,7 @@
 ### Hound Archon
 _Medium celestial, lawful good_
 
-![[Hound Archon.webp]]
+![[Hound Archon.jpg]]
 
 Hound archons are the foot soldiers of Mount Celestia, tasked with protecting the innocent and helpless. Loyal defenders, these bipedal warriors wield blades of shining radiance and can assume canine forms, allowing them to inconspicuously guard peaceable communities as dogs and wolves.
 

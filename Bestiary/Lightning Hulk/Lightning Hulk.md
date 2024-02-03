@@ -1,7 +1,7 @@
 ### Lightning Hulk
 _Large elemental, chaotic neutral_
 
-![[Lightning Hulk.webp]]
+![[Lightning Hulk.jpg]]
 
 > _At least the lightning hulk and the dust hulk seem satisfied with their lot in life. There's a grace to their existence, as fractured as it seems.
 _

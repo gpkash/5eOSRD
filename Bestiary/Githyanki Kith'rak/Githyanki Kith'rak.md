@@ -1,7 +1,7 @@
 ### Githyanki Kith'rak
 _Medium humanoid (gith), lawful evil_
 
-![[Githyanki Kithrak.webp]]
+![[Githyanki Kithrak.jpg]]
 
 
 

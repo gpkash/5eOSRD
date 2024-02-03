@@ -1,7 +1,7 @@
 ### Fraz-Urb'luu
 _Large fiend (demon), chaotic evil_
 
-![[Fraz-Urbluu.webp]]
+![[Fraz-Urbluu.jpg]]
 
 Fraz-Urb'luu is the Prince of [[Deception]] and Demon Lord of Illusions. He uses every trick, every ounce of demonic cunning, to manipulate his enemies—mortal and Fiend alike—to do his will. Fraz-Urb'luu can create dreamlands and mind-bending fantasies able to deceive the most discerning foes.
 

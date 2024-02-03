@@ -1,7 +1,7 @@
 ### Iggwilv the Witch Queen
 _Medium fey (wizard), chaotic neutral_
 
-![[Iggwilv the Witch Queen.webp]]
+![[Iggwilv the Witch Queen.jpg]]
 
 Iggwilv has a long and storied history throughout the multiverse. This adventure presents the legendary figure in her current form.
 

@@ -1,7 +1,7 @@
 ### Derro
 _Small humanoid (derro), chaotic evil_
 
-![[Derro Savant.webp]]
+![[Derro Savant.jpg]]
 
 > _Mind flayers must be stopped. They have visited horrors on countless worlds, and entire groups of people have been mutated by illithid experiments. Such are the derro.
 

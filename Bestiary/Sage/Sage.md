@@ -1,7 +1,7 @@
 ### Sage
 _Medium humanoid (any race), _
 
-![[Sage.webp]]
+![[Sage.jpg]]
 
 Candlekeep's resident lore experts are master sages and sages who dedicate themselves to scholarship above all.
 

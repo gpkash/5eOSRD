@@ -1,7 +1,7 @@
 ### Brown Scavver
 _Large monstrosity, unaligned_
 
-![[Brown Scavver.webp]]
+![[Brown Scavver.jpg]]
 
 Brown scavvers are 10 feet long and range in color from sun-dappled brownish gold to dark umber. It takes them days to digest a meal, during which time they attack only in self-defense.
 

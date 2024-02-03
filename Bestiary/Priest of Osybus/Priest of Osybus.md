@@ -1,7 +1,7 @@
 ### Priest of Osybus
 _Medium humanoid, _
 
-![[Priest of Osybus.webp]]
+![[Priest of Osybus.jpg]]
 
 Necromancers of deep evil, the priests of Osybus steal the souls of others to fuel the priests' malevolent magic. Using this soul power, each priest can defy death and become an undead creature, potentially cheating the grave over and over.
 

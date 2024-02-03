@@ -1,7 +1,7 @@
 ### Shator Demodand
 _Large fiend, neutral evil_
 
-![[Shator Demodand.webp]]
+![[Shator Demodand.jpg]]
 
 Shators, known as shaggy demodands, dominate demodand society, ruthlessly commanding their lesser kin. They are hulking creatures covered in fungal growths. Shators are the self-appointed wardens of Carceri, and they keep meticulous records of their subordinates and the prisoners they claim. On the rare occasions that shators find themselves on the Material Plane, they manipulate mortal leaders and philosophers, using them as mouthpieces to spread poisoned words and tempt souls toward Carceri's waiting chains.
 

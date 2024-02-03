@@ -1,7 +1,7 @@
 ### Autognome
 _Small construct, any alignment_
 
-![[Autognome.webp]]
+![[Autognome.jpg]]
 
 An autognome is a mechanical gnome that resembles the rock gnome who created it, though it could never be mistaken for a gnome. Regardless of what its insides are made of, it has a metallic outer casing painted with gnomish features. It walks with a stiff gait, clanking, wheezing, whirring, and buzzing wherever it goes.
 

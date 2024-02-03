@@ -1,7 +1,7 @@
 ### Crushing Wave Reaver
 _Medium humanoid (human), neutral evil_
 
-![[Crushing Wave Cultists.webp]]
+![[Crushing Wave Cultists.jpg]]
 
 The foot soldiers of the Crushing Wave cult are vicious sea reavers. Many of them were pirates before they fell in with the cult, and they remain eager for blood and plunder. Crushing Wave reavers appreciate the value of stealth and surprise, and look for chances to launch sudden attacks from positions of concealment whenever possible. The soldiers of the Crushing Wave cult are highly loyal to the cult priests, but they rarely fight to the death if an avenue of retreat is open to them.
 

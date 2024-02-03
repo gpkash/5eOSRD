@@ -1,7 +1,7 @@
 ### Aboleth
 _Large aberration, lawful evil_
 
-![[Aboleth.webp]]
+![[Aboleth.jpg]]
 
 Before the coming of the gods, aboleths lurked in primordial oceans and underground lakes. They reached out with their minds and seized control of the burgeoning life-forms of the mortal realm, making those creatures their slaves. Their dominance made them like gods. Then the true gods appeared, smashing the aboleths' empire and freeing their slaves. Aboleths have never forgotten.
 

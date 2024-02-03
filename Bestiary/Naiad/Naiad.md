@@ -1,7 +1,7 @@
 ### Naiad
 _Medium fey, chaotic neutral_
 
-![[Naiad.webp]]
+![[Naiad.jpg]]
 
 
 

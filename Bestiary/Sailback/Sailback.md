@@ -1,7 +1,7 @@
 ### Sailback
 _Huge beast, unaligned_
 
-![[Sailback.webp]]
+![[Sailback.jpg]]
 
 
 

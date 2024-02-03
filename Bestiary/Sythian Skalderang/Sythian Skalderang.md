@@ -1,7 +1,7 @@
 ### Sythian Skalderang
 _Medium humanoid (bard, tiefling), chaotic evil_
 
-![[Sythian Skalderang.webp]]
+![[Sythian Skalderang.jpg]]
 
 Sythian Skalderang has been blessed by the demon lord Graz'zt. Graz'zt's gift to Sythian manifests in several ways, including Sythian's ability to conjure demonic whispers that can fray enemy minds.
 

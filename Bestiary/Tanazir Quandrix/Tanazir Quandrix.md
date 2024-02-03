@@ -1,7 +1,7 @@
 ### Tanazir Quandrix
 _Gargantuan dragon (wizard), lawful neutral_
 
-![[Tanazir Quandrix.webp]]
+![[Tanazir Quandrix.jpg]]
 
 The dragon Tanazir Quandrix is one of the most potent masters of the magic that governs physical reality and theoretical abstraction. Through this knowledge, she can alter the physical properties of existence, gain fundamental understanding, and manipulate the flow of thought.
 

@@ -1,7 +1,7 @@
 ### Glabbagool
 _Large ooze, unaligned_
 
-![[Glabbagool.webp]]
+![[Glabbagool.jpg]]
 
 Juiblex's arrival in the Underdark has granted Glabbagool sentience and awareness. The ooze is genuinely curious about other creatures and wants to learn more about the world. It defends itself if attacked, but doesn't otherwise try to harm the characters, instead asking who they are, where they come from, and why they have come to the temple.
 

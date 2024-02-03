@@ -1,7 +1,7 @@
 ### Mist Hulk
 _Large elemental, chaotic neutral_
 
-![[Mist Hulk.webp]]
+![[Mist Hulk.jpg]]
 
 > _I mourn for the hulks, all of them. The sight of a mist hulk, in particular, fills me with a melancholy that is hard to shake off.
 _

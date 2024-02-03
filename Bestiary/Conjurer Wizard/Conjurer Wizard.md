@@ -1,7 +1,7 @@
 ### Conjurer Wizard
 _Medium humanoid, any alignment_
 
-![[Conjurer Wizard.webp]]
+![[Conjurer Wizard.jpg]]
 
 
 

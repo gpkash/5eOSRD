@@ -1,7 +1,7 @@
 ### Skyjek Roc
 _Large monstrosity, unaligned_
 
-![[Skyjek Roc.webp]]
+![[Skyjek Roc.jpg]]
 
 The aerial forces of the Boros Legion-skyknights who fly alongside the angels-take to the air mounted on Skyjek rocs. These avians are named for the skyknights who are also part of the Wojek League, called Skyjeks. From the backs of their rocs, these mounted soldiers carry out reconnaissance missions, bombard enemies on the ground, and engage flying foes.
 

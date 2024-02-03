@@ -1,7 +1,7 @@
 ### Girallon
 _Large monstrosity, unaligned_
 
-![[Girallon.webp]]
+![[Girallon.jpg]]
 
 A girallon looks like an oversized, four-armed ape with grayish-tan skin and white fur. Its vicious fangs and claws reveal it to be a monstrous predator.
 

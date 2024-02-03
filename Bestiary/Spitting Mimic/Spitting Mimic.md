@@ -1,7 +1,7 @@
 ### Spitting Mimic
 _Large monstrosity (shapechanger), neutral_
 
-![[Spitting Mimic.webp]]
+![[Spitting Mimic.jpg]]
 
 Mimics are shape-shifting monsters described in the [[Monster Manual]]. The variant presented here is a particularly large and voracious specimen—the result of Netherese experiments on ordinary mimics—that spits acid.
 

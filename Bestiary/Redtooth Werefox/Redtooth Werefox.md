@@ -1,7 +1,7 @@
 ### Redtooth Werefox
 _Medium monstrosity (elf), any alignment_
 
-![[Redtooth Werefox.webp]]
+![[Redtooth Werefox.jpg]]
 
 By day, the elves of Redtooth Keep are agile and adept rangers, expertly patrolling the lands around one of the last elven citadels in Eldraine. But at night, terrifying howls echo from the keep's halls as its inhabitants transform into ruthless werefoxes.
 

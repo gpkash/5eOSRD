@@ -1,7 +1,7 @@
 ### Moorbounder
 _Large beast, unaligned_
 
-![[Moorbounder.webp]]
+![[Moorbounder.jpg]]
 
 One of the many predators to stalk the marshlands and muddy foothills of Xhorhas, moorbounders are known as dangerous killers to those who try to avoid them on their travels—and as prized mounts for those willing to capture and train them. Though the process of domesticating a moorbounder is fraught with peril, these creatures can become favored hunting companions and powerful war mounts.
 

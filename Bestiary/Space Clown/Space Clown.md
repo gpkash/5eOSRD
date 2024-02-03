@@ -1,7 +1,7 @@
 ### Space Clown
 _Medium fiend, chaotic evil_
 
-![[Space Clown.webp]]
+![[Space Clown.jpg]]
 
 Space clowns are the inhabitants of a Wildspace system known as Clownspace. The humans who once inhabited the system's three ring-shaped worlds placed their faith in a god of revelry. Their worship ceremonies were centered on festivals and frivolity. Over time, the people's happiness hinged on the ever-increasing consumption of an elixir called Thrill Joy. Only after they became addicted did they discover that the priests of their faith had distilled the elixir from demonic ichor and the nectar of the bozo flower. Eventually, Thrill Joy transformed the faithful into fiendish creatures and "blessed" them with clown-like appearances.
 

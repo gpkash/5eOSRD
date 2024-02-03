@@ -1,7 +1,7 @@
 ### Hutijin
 _Large fiend (devil), lawful evil_
 
-![[Hutijin.webp]]
+![[Hutijin.jpg]]
 
 Politics in the Nine Hells are anything but predictable. Alliances form all the time, but most wind up unraveling due to treachery. Nevertheless, for all their backbiting and betrayal, devils do occasionally display loyalty, offering unwavering service to their masters. One such example is Hutijin, a duke of Cania and loyal servant of Mephistopheles.
 

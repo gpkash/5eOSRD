@@ -1,7 +1,7 @@
 ### Draconian Mage
 _Medium monstrosity, any alignment_
 
-![[Draconian Mage.webp]]
+![[Draconian Mage.jpg]]
 
 Draconians born from the eggs of bronze, green, and emerald dragons have some ability to wield magic. They often lead small groups of draconian foot soldiers, using their magic to snipe across the battlefield or aid their allies' incursions and attacks. They have wings that allow them to glide during a fall.
 

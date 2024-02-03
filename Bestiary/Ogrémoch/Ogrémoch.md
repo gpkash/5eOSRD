@@ -1,7 +1,7 @@
 ### Ogrémoch
 _Gargantuan elemental, neutral evil_
 
-![[Ogrémoch.webp]]
+![[Ogrémoch.jpg]]
 
 The Prince of Evil Earth is Ogrémoch (pronounced oh-gray-mock), the Mountain that Walks. His natural form is a shambling, 50-foot-tall colossus of rock, with crystal growths embedded throughout his body. When he bothers to speak, his voice sounds like grinding stones.
 

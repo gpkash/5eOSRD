@@ -1,7 +1,7 @@
 ### Mind's Eye Matter Smith
 _Small, Medium humanoid, any alignment_
 
-![[Minds Eye Matter Smith.webp]]
+![[Minds Eye Matter Smith.jpg]]
 
 Members of the Mind's Eye believe the power to transcend the multiverse lies in every individual. Matter smiths harness this innate power to reshape reality in Sigil's Great Foundry, manifesting useful tools from nothing.
 
