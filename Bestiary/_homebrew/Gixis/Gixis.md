@@ -1,7 +1,7 @@
 # Gixis, Tasloi Rogue Poisoner
 _Small humanoid (tasloi), neutral evil_
 
-![[Gixis.jpeg]]
+![[Gixis.jpg]]
 
 ---
 
