@@ -35,7 +35,7 @@ Transmuters are specialist wizards who embrace change, rail against the status q
 Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mending]], [[prestidigitation]], [[ray of frost]]
 1st level (4 slots): [[chromatic orb]], [[expeditious retreat]]*, [[mage armor]]
 2nd level (3 slots): [[alter self]]*, [[hold person]], [[knock]]*
-3rd level (3 slots): [[blink]]*, [[fireball]], [[slow]]*
+3rd level (3 slots): [[blink]]*, [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[slow]]*
 4th level (3 slots): [[polymorph]]*, [[stoneskin]]
 5th level (1 slots): [[telekinesis]]*
 

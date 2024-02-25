@@ -51,7 +51,7 @@ The tiefling has the secret support of the archdevil Levistus, having traded her
 Cantrips (at will): [[fire bolt]] (see "Actions" below), [[mage hand]], [[message]], [[minor illusion]], [[prestidigitation]]
 1st level (4 slots): [[detect magic]], [[mage armor]], [[magic missile]]
 2nd level (3 slots): [[flaming sphere]], [[knock]], [[scorching ray]]
-3rd level (3 slots): [[counterspell]], [[fireball]], [[fly]]
+3rd level (3 slots): [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[fly]]
 4th level (3 slots): [[banishment]], [[fire shield]]
 5th level (2 slots): [[Bigby's hand]], [[Rary's telepathic bond]]
 

@@ -34,7 +34,7 @@ Now alone on his mission, Malivar doesn't hesitate to use or abuse the trust of 
 Cantrips (at will): [[acid splash]], [[mage hand]], [[poison spray]], [[prestidigitation]]
 1st level (4 slots): [[mage armor]], [[magic missile]], [[unseen servant]]*
 2nd level (3 slots): [[cloud of daggers]]*, [[misty step]]*, [[web]]*
-3rd level (3 slots): [[fireball]], [[thunder step]]*
+3rd level (3 slots): [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[thunder step]]*
 4th level (3 slots): [[Evard's black tentacles]]*, [[stoneskin]]
 5th level (2 slots): [[cone of cold]]*, [[conjure elemental]]*
 

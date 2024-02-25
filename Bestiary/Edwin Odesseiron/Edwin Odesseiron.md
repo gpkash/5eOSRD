@@ -33,7 +33,7 @@ Despite his inarguably high intelligence, Edwin seems to lack common sense. As a
 
 **Focused Conjuration**. While Edwin is [[concentration||concentrating]] on a conjuration spell, his [[concentration]] cannot be broken as a result of taking damage.
 
-**Staff of Power**. A magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While held it grants a +2 bonus to armor class, saving throws, and spell attack rolls (all factored into Edwin's statistics). The staff has 20 charges for the following properties. The staff regains [[2d8 + 4 expended charges daily at dawn. While holding this staff, Edwin can use an action to expend 1 or more of its Charges to cast one of the following Spells from it, using his spell save DC and spell attack bonus: [[cone of cold]] (5 charges), [[fireball]] (5th-level version, 5 charges), [[globe of invulnerability]] (6 charges), [[hold monster]] (5 charges), [[levitate]] (2 charges), [[lightning bolt]] (5th-level version, 5 charges), [[magic missile]] (1 charge), [[ray of enfeeblement]] (1 charge), or [[wall of force]] (5 charges).
+**Staff of Power**. A magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While held it grants a +2 bonus to armor class, saving throws, and spell attack rolls (all factored into Edwin's statistics). The staff has 20 charges for the following properties. The staff regains [[2d8 + 4 expended charges daily at dawn. While holding this staff, Edwin can use an action to expend 1 or more of its Charges to cast one of the following Spells from it, using his spell save DC and spell attack bonus: [[cone of cold]] (5 charges), [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]] (5th-level version, 5 charges), [[globe of invulnerability]] (6 charges), [[hold monster]] (5 charges), [[levitate]] (2 charges), [[lightning bolt]] (5th-level version, 5 charges), [[magic missile]] (1 charge), [[ray of enfeeblement]] (1 charge), or [[wall of force]] (5 charges).
 
 **Contingency**. Edwin has a [[contingency]] spell trigger if he is [[incapacitated]], [[paralyzed]] or [[stunned]]. When this occurs, a 6th level [[dispel magic]] targets himself. He also has a clone body stored in a cavern one mile beneath the city of Baldur's Gate.
 
@@ -44,7 +44,7 @@ Despite his inarguably high intelligence, Edwin seems to lack common sense. As a
 Cantrips (at will): [[acid splash]]*, [[fire bolt]], [[mage hand]]*, [[poison spray]]*
 1st level (4 slots): [[mage armor]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[unseen servant]]*
 2nd level (3 slots): [[cloud of daggers]]*, [[mirror image]], [[misty step]]*
-3rd level (3 slots): [[counterspell]], [[dispel magic]], [[fireball]], [[stinking cloud]]
+3rd level (3 slots): [[counterspell]], [[dispel magic]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[stinking cloud]]
 4th level (3 slots): [[conjure minor elementals]], [[evard's black tentacles]]*
 5th level (3 slots): [[cloudkill]]*, [[conjure elemental]]*, [[scrying]]
 6th level (1 slots): [[arcane gate]]*, [[contingency]]

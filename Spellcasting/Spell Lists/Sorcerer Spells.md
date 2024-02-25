@@ -108,7 +108,7 @@
 | [[Enemies Abound]]                   | 3rd-level | enchantment   |
 | [[Erupting Earth]]                   | 3rd-level | transmutation |
 | [[Fear]]                             | 3rd-level | illusion      |
-| [[Fireball]]                         | 3rd-level | evocation     |
+| [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]                         | 3rd-level | evocation     |
 | [[Flame Arrows]]                     | 3rd-level | transmutation |
 | [[Fly]]                              | 3rd-level | transmutation |
 | [[Freedom of the Waves]]             | 3rd-level | conjuration   |

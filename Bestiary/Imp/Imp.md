@@ -3,9 +3,6 @@ _Tiny fiend (devil), lawful evil_
 
 ![[Imp.jpg]]
 
-
-
-
 ---
 
 **Armor Class** 13
@@ -37,7 +34,6 @@ _Tiny fiend (devil), lawful evil_
 **Sting (Bite in Beast Form)**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
 **Invisibility**. The imp magically turns [[invisible]] until it attacks, or until its [[concentration]] ends (as if [[concentration||concentrating]] on a spell). Any equipment the imp wears or carries is [[invisible]] with it.
-
 
 ---
 

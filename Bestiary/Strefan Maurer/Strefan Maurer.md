@@ -46,7 +46,7 @@ Strefan's statistics are unchanged from the statistics of [[Strahd von Zarovich|
 Cantrips (at will): [[mage hand]], [[prestidigitation]], [[ray of frost]]
 1st level (4 slots): [[comprehend languages]], [[fog cloud]], [[sleep]]
 2nd level (3 slots): [[detect thoughts]], [[gust of wind]], [[mirror image]]
-3rd level (3 slots): [[animate dead]], [[fireball]], [[nondetection]]
+3rd level (3 slots): [[animate dead]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[nondetection]]
 4th level (3 slots): [[blight]], [[greater invisibility]], [[polymorph]]
 5th level (1 slots): [[animate objects]], [[scrying]]
 

@@ -61,7 +61,7 @@ Withdrawing to Omu, Nsi clung to his noble title, joined forces with the yuan-ti
 Cantrips (at will): [[chill touch]], [[fire bolt]], [[mage hand]], [[mending]], [[poison spray]]
 1st level (4 slots): [[expeditious retreat]], [[false life]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (3 slots): [[blindness/deafness]], [[hold person]], [[misty step]]
-3rd level (3 slots): [[animate dead]], [[counterspell]], [[fireball]]
+3rd level (3 slots): [[animate dead]], [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]
 4th level (3 slots): [[blight]], [[polymorph]]
 5th level (2 slots): [[contact other plane]], [[geas]]
 6th level (1 slots): [[create undead]]

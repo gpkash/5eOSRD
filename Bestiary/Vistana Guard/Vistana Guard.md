@@ -6,7 +6,7 @@ _Medium humanoid (any race), any alignment_
 
 ---
 
-**Armor Class** 16 ([[5eOSRD/Equipment/Armor/Medium Armor/Chain shirt]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]])
+**Armor Class** 16 ([[Chain shirt]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]])
 **Hit Points** 11 (2d8 + 2)
 **Speed** 30 ft.
 

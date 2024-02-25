@@ -25,7 +25,7 @@ The Genie lets you choose from an expanded list of spells when you learn a warlo
 | ----------- | ------------------------- | ------------------- | ------------------------ | ----------------- | ----------------- |
 | 1st         | [[detect evil and good]]  | [[sanctuary]]       | [[thunderwave]]          | [[burning hands]] | [[fog cloud]]     |
 | 2nd         | [[phantasmal force]]      | [[spike growth]]    | [[gust of wind]]         | [[scorching ray]] | [[blur]]          |
-| 3rd         | [[create food and water]] | [[meld into stone]] | [[wind wall]]            | [[fireball]]      | [[sleet storm]]   |
+| 3rd         | [[create food and water]] | [[meld into stone]] | [[wind wall]]            | [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]      | [[sleet storm]]   |
 | 4th         | [[phantasmal killer]]     | [[stone shape]]     | [[greater invisibility]] | [[fire shield]]   | [[control water]] |
 | 5th         | [[creation]]              | [[wall of stone]]   | [[seeming]]              | [[flame strike]]  | [[cone of cold]]  | 
 | 9th         | [[wish]]                  | —                   | —                        | —                 | —                 |

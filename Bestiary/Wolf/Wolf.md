@@ -1,7 +1,7 @@
 ### Wolf
 _Medium beast, unaligned_
 
-![[Wolf token.png]]
+![[5eOSRD/Bestiary/Wolf/Wolf token.png]]
 
 
 ---

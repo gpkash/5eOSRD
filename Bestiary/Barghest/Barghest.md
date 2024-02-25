@@ -36,7 +36,7 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 
 **Shapechanger**. The barghest can use its action to polymorph into a Small goblin or back into its true form. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. The barghest reverts to its true form if it dies.
 
-**Fire Banishment**. When the barghest starts its turn engulfed in flames that are at least 10 feet high or wide, it must succeed on a DC 15 Charisma saving throw or be instantly banished to Gehenna. Instantaneous bursts of flame (such as a red dragon's breath or a [[fireball]] spell) don't have this effect on the barghest.
+**Fire Banishment**. When the barghest starts its turn engulfed in flames that are at least 10 feet high or wide, it must succeed on a DC 15 Charisma saving throw or be instantly banished to Gehenna. Instantaneous bursts of flame (such as a red dragon's breath or a [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]] spell) don't have this effect on the barghest.
 
 **Keen Smell**. The barghest has advantage on Wisdom ([[Perception]]) checks that rely on smell.
 

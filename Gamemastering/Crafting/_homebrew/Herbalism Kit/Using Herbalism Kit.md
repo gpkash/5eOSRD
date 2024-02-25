@@ -26,15 +26,15 @@ You can identify most plants with a quick inspection of their appearance, smell,
 
 To create any of the following items, an herbalism kit must be used. Proficiency in herbalism kits allows you to add your proficiency bonus to checks to their creation.
 
-### Common Recipes (DC 8)
-Creation of these items requires the ingredients listed and 8 hours of work. After deducting the costs of the ingredient(s), a recipe costs 25gp. The product is worth 50gp.
+### Common Recipes
+Creation of these items requires the ingredients listed and 30 minutes of work. After deducting the costs of the ingredient(s), a recipe costs 25gp. The product is worth 50gp.
 
 | Roll Range | Item                                             |
 |------------|--------------------------------------------------|
 | 01-10      | [[Antitoxin]]                                    |
 | 11-20      | [[5eOSRD/Gamemastering/Crafting/_homebrew/Herbalism Kit/Recipes/Muroosa Balm\|Muroosa Balm]] |
 | 21-30      | [[Pepper Peas]]*                              |
-| 31-40      | [[Potion of Plantspeak]]*                        |
+| 31-40      | [[Potion of Plantmind]]*                        |
 | 41-50      | [[Soothing Salve]]*                              |
 | 51-60      | [[Quenching Pilther]]*                           |
 | 61-70      | [[5eOSRD/Gamemastering/Crafting/_homebrew/Herbalism Kit/Recipes/Willowshade Oil\|Willowshade Oil]] |
@@ -42,8 +42,8 @@ Creation of these items requires the ingredients listed and 8 hours of work. Aft
 | 81-90      | [[Gashglue]]                                     |
 | 91-100     | [[Woundbind Poultice]]                           |
 
-### Uncommon Recipes (DC 12)
-Creation of these items requires the ingredients listed and 24 hours of work. After deducting the costs of the ingredient(s), a recipe costs 100gp. The product is worth 200gp.
+### Uncommon Recipes
+Creation of these items requires the ingredients listed and 1 hour of work. After deducting the costs of the ingredient(s), a recipe costs 100gp. The product is worth 200gp.
 
 | Roll Range | Item                                                                                                      |
 |:----------:| --------------------------------------------------------------------------------------------------------- |
@@ -70,8 +70,8 @@ Creation of these items requires the ingredients listed and 24 hours of work. Af
 |   92-96    | [[Quickened Thought]] (paste)                                                                             |
 |   97-100   | [[Relaxing Bark]] (incense)                                                                               |
 
-### Rare Recipes (DC 15)
-Creation of these items requires the ingredients listed and 80 hours of work. After deducting the costs of the ingredient(s), a recipe costs 500gp. The product is worth 1000gp.
+### Rare Recipes
+Creation of these items requires the ingredients listed and 8 hours of work. After deducting the costs of the ingredient(s), a recipe costs 500gp. The product is worth 1000gp.
 
 | Roll Range | Item                             |
 |:----------:| -------------------------------- |
@@ -84,8 +84,8 @@ Creation of these items requires the ingredients listed and 80 hours of work. Af
 |   79-91    | [[Drunk Legs]] (drink)           |
 |   92-100   | [[Weakening Muscle]] (gel)       |
 
-### Very Rare Recipes (DC 18)
-Creation of these items requires the ingredients listed and 240 hours of work. After deducting the costs of the ingredient(s), a recipe costs 1000gp. The product is worth 2000gp.
+### Very Rare Recipes
+Creation of these items requires the ingredients listed and 24 hours of work. After deducting the costs of the ingredient(s), a recipe costs 1000gp. The product is worth 2000gp.
 
 | Roll Range | Item                                                                                                      |
 |:----------:| --------------------------------------------------------------------------------------------------------- |

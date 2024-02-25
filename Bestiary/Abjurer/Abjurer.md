@@ -35,7 +35,7 @@ Abjurers are specialist wizards who feel secure when warded by layers of magical
 Cantrips (at will): [[blade ward]], [[dancing lights]], [[mending]], [[message]], [[ray of frost]]
 1st level (4 slots): [[alarm]]*, [[mage armor]]*, [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]*
 2nd level (3 slots): [[arcane lock]]*, [[invisibility]]
-3rd level (3 slots): [[counterspell]]*, [[dispel magic]]*, [[fireball]]
+3rd level (3 slots): [[counterspell]]*, [[dispel magic]]*, [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]
 4th level (3 slots): [[banishment]]*, [[stoneskin]]*
 5th level (2 slots): [[cone of cold]], [[wall of force]]
 6th level (1 slots): [[flesh to stone]], [[globe of invulnerability]]*

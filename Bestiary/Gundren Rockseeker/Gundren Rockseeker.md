@@ -1,7 +1,7 @@
 ### Gundren Rockseeker
 _Medium humanoid (any race), any alignment_
 
-![[Gundren Rockseeker token.png]]
+![[5eOSRD/Bestiary/Gundren Rockseeker/Gundren Rockseeker token.png]]
 
 
 ---

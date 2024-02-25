@@ -4,7 +4,7 @@ The **Hammers of Grimjaws** are the highest ranking and most elite order of [
 
 ## Membership
 
-Members of the Grimjaws are sponsored by existing members from the ranks of only two orders of Tyr, the [[Knights of Holy Judgment]] and the [[Knights of the Merciful Sword]].
+Members of the Grimjaws are sponsored by existing members from the ranks of only two orders of Tyr, the [[Knights of Holy Judgment]] and the [[5eOSRD/Worlds/Forgotten Realms/Prime Material Plane/Realmspace/Deities/Tyr/Knights of the Merciful Sword]].
 
 ### Vision
 

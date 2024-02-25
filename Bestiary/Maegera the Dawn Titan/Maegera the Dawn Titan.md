@@ -44,7 +44,7 @@ Maegera looks like a 50-foot-tall, multi-limbed beast made of flame, with smolde
 
 **Magic Resistance**. Maegera has advantage on saving throws against spells and other magical effects.
 
-**Spellcasting.** Maegera casts [[fireball]] (spell save DC 19), requiring no material components and using Charisma as the spellcasting ability.
+**Spellcasting.** Maegera casts [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]] (spell save DC 19), requiring no material components and using Charisma as the spellcasting ability.
 
 ##### Actions
 **Multiattack**. Maegera makes three slam attacks.

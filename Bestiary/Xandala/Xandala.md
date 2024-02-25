@@ -47,7 +47,7 @@ Xandala's magic traces back to a draconic bloodline, and parts of her skin are c
 Cantrips (at will): [[acid splash]], [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[ray of frost]]
 1st level (4 slots): [[chromatic orb]], [[feather fall]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (4 slots): [[invisibility]], [[misty step]]
-3rd level (3 slots): [[fireball]], [[fly]]
+3rd level (3 slots): [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[fly]]
 4th level (3 slots): [[ice storm]], [[polymorph]]
 5th level (1 slots): [[dominate person]]
 

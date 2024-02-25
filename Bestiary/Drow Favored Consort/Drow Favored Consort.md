@@ -43,7 +43,7 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
 Cantrips (at will): [[mage hand]], [[message]], [[poison spray]], [[shocking grasp]], [[ray of frost]]
 1st level (4 slots): [[burning hands]], [[mage armor]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (3 slots): [[gust of wind]], [[invisibility]], [[misty step]], [[shatter]]
-3rd level (3 slots): [[counterspell]], [[fireball]], [[haste]]
+3rd level (3 slots): [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[haste]]
 4th level (3 slots): [[dimension door]], [[Otiluke's resilient sphere]]
 5th level (2 slots): [[cone of cold]]
 6th level (1 slots): [[chain lightning]]

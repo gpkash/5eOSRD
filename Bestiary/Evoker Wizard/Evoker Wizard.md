@@ -3,9 +3,6 @@ _Medium humanoid, any alignment_
 
 ![[Evoker Wizard.jpg]]
 
-
-
-
 ---
 
 **Armor Class** 12, 15 (with [[mage armor]])

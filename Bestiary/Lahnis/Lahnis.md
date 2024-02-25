@@ -29,7 +29,7 @@ _Medium humanoid (any race), any alignment_
 Cantrips (at will): [[fire bolt]]*, [[5eOSRD/Spellcasting/Spells/Light/Light|Light]]*, [[prestidigitation]], [[ray of frost]]*
 1st level (4 slots): [[burning hands]]*, [[mage armor]], [[magic missile]]*
 2nd level (3 slots): [[mirror image]], [[misty step]], [[shatter]]*
-3rd level (3 slots): [[counterspell]], [[fireball]]*, [[lightning bolt]]*
+3rd level (3 slots): [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]*, [[lightning bolt]]*
 4th level (3 slots): [[ice storm]]*, [[stoneskin]]
 5th level (2 slots): [[Bigby's hand]]*, [[cone of cold]]*
 6th level (1 slots): [[chain lightning]]*, [[wall of ice]]*

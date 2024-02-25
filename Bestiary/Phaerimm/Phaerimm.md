@@ -52,7 +52,7 @@ Highly intelligent, phaerimms are malevolent aberrations that dwell deep beneath
 Cantrips (at will): [[mage hand]], [[minor illusion]], [[poison spray]], [[ray of frost]]
 1st level (4 slots): [[dissonant whispers]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (3 slots): [[crown of madness]], [[detect thoughts]], [[phantasmal force]]
-3rd level (3 slots): [[fireball]], [[fear]], [[hypnotic pattern]]
+3rd level (3 slots): [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[fear]], [[hypnotic pattern]]
 4th level (3 slots): [[confusion]], [[greater invisibility]], [[phantasmal killer]]
 5th level (2 slots): [[dominate person]], [[hold monster]], [[telekinesis]]
 6th level (1 slots): [[chain lightning]], [[mass suggestion]]

@@ -41,7 +41,7 @@ Eo's only weakness is her children. Her son, Aeshma, has gone missing recently. 
 Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]], [[shocking grasp]]
 1st level (4 slots): [[chromatic orb]]*, [[detect magic]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (3 slots): [[detect thoughts]], [[mirror image]], [[misty step]]
-3rd level (3 slots): [[counterspell]], [[fireball]], [[lightning bolt]]
+3rd level (3 slots): [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[lightning bolt]]
 4th level (3 slots): [[banishment]]*, [[greater invisibility]]*, [[polymorph]]*
 5th level (3 slots): [[dominate person]]*, [[scrying]], [[wall of force]]
 6th level (1 slots): [[chain lightning]], [[disintegrate]]*

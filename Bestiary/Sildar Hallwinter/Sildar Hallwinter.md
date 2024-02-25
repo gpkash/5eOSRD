@@ -1,7 +1,7 @@
 ### Sildar Hallwinter
 _Medium humanoid (human), neutral good_
 
-![[Sildar Hallwinter token.png]]
+![[5eOSRD/Bestiary/Sildar Hallwinter/Sildar Hallwinter token.png]]
 
 Sildar Hallwinter is a retired soldier and sellsword who hails from the city of Neverwinter. He is a loyal member of the Lords' Alliance, a political organization that unites the various free cities and towns of the North.
 

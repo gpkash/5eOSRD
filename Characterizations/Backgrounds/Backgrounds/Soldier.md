@@ -6,7 +6,7 @@ When you choose this background, work with your DM to determine which military o
 
 **Skill Proficiencies:** [[Athletics]], [[Intimidation]] 
 **Tool Proficiencies:** One type of gaming set, vehicles (land)
-**Equipment:** An insignia of rank, a trophy taken from a fallen enemy (a dagger, broken blade, or piece of a banner), a set of bone dice or deck of cards, a set of common clothes, and a belt [[5eOSRD/Equipment/Items/Mundane 1/Pouch/Pouch]] containing 10 g
+**Equipment:** An insignia of rank, a trophy taken from a fallen enemy (a dagger, broken blade, or piece of a banner), a set of bone dice or deck of cards, a set of common clothes, and a belt [[Pouch]] containing 10 g
 
 ## Specialty
 

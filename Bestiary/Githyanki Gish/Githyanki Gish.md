@@ -33,7 +33,7 @@ _Medium humanoid (gith), lawful evil_
 Cantrips (at will): [[blade ward]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[message]], [[true strike]]
 1st level (4 slots): [[expeditious retreat]], [[magic missile]], [[sleep]], [[thunderwave]]
 2nd level (3 slots): [[blur]], [[invisibility]], [[levitate]]
-3rd level (3 slots): [[counterspell]], [[fireball]], [[haste]]
+3rd level (3 slots): [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[haste]]
 4th level (2 slots): [[dimension door]]
 
 ##### Actions

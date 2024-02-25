@@ -47,7 +47,7 @@ There can be little doubt that this ancient dragon is one of the most intelligen
 Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[prestidigitation]], [[ray of frost]], [[shocking grasp]]
 1st level (4 slots): [[detect magic]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[thunderwave]], [[unseen servant]]
 2nd level (3 slots): [[blur]], [[enlarge/reduce]], [[flaming sphere]], [[hold person]], [[scorching ray]]
-3rd level (3 slots): [[counterspell]], [[fireball]], [[lightning bolt]], [[slow]]
+3rd level (3 slots): [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[lightning bolt]], [[slow]]
 4th level (3 slots): [[confusion]], [[dimension door]], [[fabricate]]
 5th level (2 slots): [[conjure elemental]], [[polymorph]], [[wall of fire]], [[wall of force]]
 6th level (1 slots): [[chain lightning]], [[disintegrate]], [[true seeing]]

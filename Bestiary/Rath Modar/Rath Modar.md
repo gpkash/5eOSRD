@@ -22,14 +22,14 @@ _Medium humanoid (human), lawful evil_
 
 ---
 
-**Special Equipment**. Rath has a [[5eOSRD/Equipment/Items/Magic/Staff of Fire/Staff of Fire]], and scrolls of [[dimension door]], [[feather fall]], and [[fireball]].
+**Special Equipment**. Rath has a [[5eOSRD/Equipment/Items/Magic/Staff of Fire/Staff of Fire]], and scrolls of [[dimension door]], [[feather fall]], and [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]].
 
 **Spellcasting.** Rath is an 11th-level spellcaster who uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Rath has the following spells prepared from the wizard spell list:
 
 Cantrips (at will): [[fire bolt]], [[minor illusion]], [[prestidigitation]], [[shocking grasp]]
 1st level (4 slots): [[chromatic orb]], [[color spray]], [[mage armor]], [[magic missile]]
 2nd level (3 slots): [[detect thoughts]], [[mirror image]], [[phantasmal force]]
-3rd level (3 slots): [[counterspell]], [[fireball]], [[major image]]
+3rd level (3 slots): [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[major image]]
 4th level (3 slots): [[confusion]], [[greater invisibility]]
 5th level (2 slots): [[mislead]], [[seeming]]
 6th level (1 slots): [[globe of invulnerability]]

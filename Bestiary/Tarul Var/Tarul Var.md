@@ -48,7 +48,7 @@ After failing in an earlier task for the Red Wizards, the lich Tarul Var is sequ
 Cantrips (at will): [[fire bolt]], [[mage hand]], [[minor illusion]], [[prestidigitation]], [[ray of frost]]
 1st level (4 slots): [[detect magic]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[unseen servant]]*
 2nd level (3 slots): [[detect thoughts]], [[flaming sphere]]*, [[mirror image]], [[scorching ray]]
-3rd level (3 slots): [[counterspell]], [[dispel magic]], [[fireball]]
+3rd level (3 slots): [[counterspell]], [[dispel magic]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]
 4th level (3 slots): [[dimension door]]*, [[Evard's black tentacles]]*
 5th level (3 slots): [[cloudkill]]*, [[scrying]]
 6th level (1 slots): [[circle of death]]

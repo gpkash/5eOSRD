@@ -52,7 +52,7 @@ Halaster's true form is that of a tall, gaunt, male human, but he uses magic to 
 Cantrips (at will): [[dancing lights]], [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]]
 1st level (4 slots): [[mage armor]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[silent image]]
 2nd level (3 slots): [[arcane lock]], [[cloud of daggers]], [[darkvision]], [[knock]]
-3rd level (3 slots): [[counterspell]], [[dispel magic]], [[fireball]]
+3rd level (3 slots): [[counterspell]], [[dispel magic]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]
 4th level (3 slots): [[confusion]], [[hallucinatory terrain]], [[polymorph]]
 5th level (3 slots): [[Bigby's hand]], [[geas]], [[wall of force]]
 6th level (2 slots): [[chain lightning]], [[globe of invulnerability]], [[programmed illusion]]

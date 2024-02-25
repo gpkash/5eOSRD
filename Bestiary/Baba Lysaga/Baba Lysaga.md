@@ -65,7 +65,7 @@ Strahd doesn't consider the wereravens a serious threat, but Lysaga has chosen t
 Cantrips (at will): [[acid splash]], [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]]
 1st level (4 slots): [[detect magic]], [[magic missile]], [[sleep]], [[witch bolt]]
 2nd level (3 slots): [[crown of madness]], [[enlarge/reduce]], [[misty step]]
-3rd level (3 slots): [[dispel magic]], [[fireball]], [[lightning bolt]]
+3rd level (3 slots): [[dispel magic]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[lightning bolt]]
 4th level (3 slots): [[blight]], [[Evard's black tentacles]], [[polymorph]]
 5th level (2 slots): [[cloudkill]], [[geas]], [[scrying]]
 6th level (1 slots): [[programmed illusion]], [[true seeing]]

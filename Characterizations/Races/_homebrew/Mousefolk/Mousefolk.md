@@ -16,7 +16,7 @@ Reaching an little over 2 feet tall, the Mousefolk often go unnoticed in their d
 
 Their diminutive stature and quiet demeanour make the Mousefolk inoffensive to most, granting a certain detachment from the major conflicts and strife of the age. Their fast metabolisms and quick feet give the Mousefolk a slender build, usually weighing between 20-30 pounds.
 
-Mousefolk fur color ranges from white to tan to brown or black, with various patterns passed through heredity. They take care to groom and clean their fur, as it represents their family and community. A Mousefolk's eye color is either red or black. Mousefolk like to wear comfortable dark colored clothes that allow for discretion and a wide range of movement.
+Mousefolk fur color ranges from white to tan to brown or black, with various patterns passed through heredity. They take care to groom and clean their fur, as it represents their family and community. A Mousefolk's eye color is either red or black. Mousefolk like to wear comfortable dark coloured clothes that allow for discretion and a wide range of movement.
 
 The concept of personal wealth or glory doesn't pervade through Mousefolk culture, most actions taken are for the good of the community rather than the self. Any wealth or resources gained are utilized for the betterment of the group. Some Mousefolk, however, use their natural abilities for personal gain. These individuals tend to be outcasts or black sheep of the clans.
 

@@ -76,7 +76,7 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
 Cantrips (at will): [[mage hand]], [[prestidigitation]], [[ray of frost]]
 1st level (4 slots): [[detect magic]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[thunderwave]]
 2nd level (3 slots): [[detect thoughts]], [[invisibility]], [[Melf's acid arrow]], [[mirror image]]
-3rd level (3 slots): [[animate dead]], [[counterspell]], [[dispel magic]], [[fireball]]
+3rd level (3 slots): [[animate dead]], [[counterspell]], [[dispel magic]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]
 4th level (3 slots): [[blight]], [[dimension door]]
 5th level (3 slots): [[cloudkill]], [[scrying]]
 6th level (1 slots): [[disintegrate]], [[globe of invulnerability]]

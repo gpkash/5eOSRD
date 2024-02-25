@@ -35,3 +35,19 @@ Taverns and inns
 - Evan Ghastkill: Lord of the town and patriarch of his family
 
 [[Facts about Nashkel]]
+
+
+---
+
+Nashkel (Fortified Town)
+
+Nashkel is the northernmost city of Amn, actually resting north of Amns established border in the Cloud Peaks. It is 2,000 feet above sea level, 500 feet above the cities of lost Minsorran and 200 feet higher than Imnescar. These factors give Nashkel the nicknames of the Cold City, Windy City, or Sloping City of Amn, as it rests on the low northern slopes of the Cloud Peaks. Nashkel is almost autonomous, as roads to it are often blocked by snows, but it still considers itself a part of Amn.
+
+Population: 3,000 in town, 1,500 more in outlying villages and farms (98% human, 2% halfling, some shield dwarves).
+Major Products: Caravan equipment, guides; local game and pelts, sheep and wool, barley, beer.
+
+Places of Note:
+Cloud Peaks Outfitters, an equipment shop for those traveling through the mountains (prices fair, products excellent). Salla Pitontoes (CG halff C4Tymora) has special supplies
+(spidersilk ropes, a ring of feather falling, rock claws, etc.) for friends.
+
+Icedawn's House, a shrine to the winter goddess Auril, is a small cabin up the slopes from Nashkel, wherein lives Jasha Istor (NE hf P8Auril). She will greet all travelers heading into the peaks, seeking donations to keep Auril's wrath away. Jasha is also one of the best guides through the Peaks from Nashkel, and her fees, while steep (twice any other), gain a party or caravan her spells protections from the wintery gales and snow. Jasha would be richer and her temple more opulent if she didn't scatter danters in the snow to assuage Auril's wrath. Many who wander the passes in summer find these gold coins; those who pick up one usually catch chills easily, and those who take more than one coin die of frostbite the next winter.

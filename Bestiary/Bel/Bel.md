@@ -49,13 +49,13 @@ Bel outwardly plays the role of Zariel's loyal vassal. However, Bel rankles at Z
 **Tail**. _Melee Weapon Attack:_ +17 to hit, reach 10 ft., one target. Hit: 25 (3d10 + 9) bludgeoning damage. If the target is a creature, it must succeed on a DC 23 Constitution saving throw or have the [[stunned]] condition until the end of its next turn.
 
 ##### Legendary Actions
-**Fireball**. Bel casts [[Fireball]].
+**Fireball**. Bel casts [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]].
 
 **Tactical Edge (Costs 2 Actions)**. Roll a d6 for Bel. The number rolled on the die is subtracted from the next attack roll made against Bel or an ally of his choice within the next minute.
 
 **Summon Ice Devil (Costs 3 Actions)**. Bel magically summons an [[ice devil]] with an ice spear (as described in the ice devil's entry in the Monster Manual). The ice devil appears in an unoccupied space within 60 feet of Bel, acts as Bel's ally, and can summon other devils if it has such power. The ice devil remains until Bel dies or until he dismisses it with an action.
 
-**Fireball**. Bel casts [[Fireball]].
+**Fireball**. Bel casts [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]].
 
 **Tactical Edge (Costs 2 Actions)**. Roll a d6 for Bel. The number rolled on the die is subtracted from the next attack roll made against Bel or an ally of his choice within the next minute.
 

@@ -33,7 +33,7 @@ _Medium humanoid (human), lawful evil_
 Cantrips (at will): [[mage hand]], [[prestidigitation]], [[ray of frost]], [[shocking grasp]]
 1st level (4 slots): [[fog cloud]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[thunderwave]]
 2nd level (3 slots): [[invisibility]], [[misty step]], [[scorching ray]]
-3rd level (3 slots): [[counterspell]], [[dispel magic]], [[fireball]]
+3rd level (3 slots): [[counterspell]], [[dispel magic]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]
 
 ##### Actions
 **Dagger**. _Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or ranged 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.

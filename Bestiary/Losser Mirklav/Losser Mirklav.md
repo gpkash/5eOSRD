@@ -37,7 +37,7 @@ A halfling necromancer who is in possession of the Stone of Golorr. He lives in 
 Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]]
 1st level (4 slots): [[detect magic]], [[mage armor]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (3 slots): [[misty step]], [[suggestion]]
-3rd level (3 slots): [[animate dead]], [[fireball]], [[fly]]
+3rd level (3 slots): [[animate dead]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[fly]]
 4th level (3 slots): [[blight]], [[ice storm]]
 5th level (1 slots): [[cone of cold]]
 

@@ -41,7 +41,7 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 Cantrips (at will): [[acid splash]], [[fire bolt]], [[ray of frost]], [[shocking grasp]]
 1st level (4 slots): [[fog cloud]], [[magic missile]], [[thunderwave]]
 2nd level (3 slots): [[gust of wind]], [[Melf's acid arrow]], [[scorching ray]]
-3rd level (3 slots): [[fireball]], [[fly]], [[lightning bolt]]
+3rd level (3 slots): [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[fly]], [[lightning bolt]]
 4th level (1 slots): [[ice storm]]
 
 ##### Actions

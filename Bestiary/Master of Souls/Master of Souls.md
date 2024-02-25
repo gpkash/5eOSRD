@@ -40,7 +40,7 @@ Those who follow Myrkul are either wizards or those who seek to master the necro
 Cantrips (at will): [[chill touch]] (see "Actions" below), [[mage hand]], [[message]], [[prestidigitation]]
 1st level (4 slots): [[burning hands]], [[detect magic]], [[ray of sickness]] (see "Actions" below), [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (3 slots): [[darkness]], [[misty step]], [[scorching ray]] (see "Actions" below)
-3rd level (2 slots): [[animate dead]], [[fireball]]
+3rd level (2 slots): [[animate dead]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]
 
 ##### Actions
 **Multiattack**. The master of souls attacks twice with its flail.

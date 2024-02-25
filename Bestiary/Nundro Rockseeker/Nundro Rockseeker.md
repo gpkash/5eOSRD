@@ -1,7 +1,7 @@
 ### Nundro Rockseeker
 _Medium humanoid (any race), any alignment_
 
-![[Nundro Rockseeker token.png]]
+![[5eOSRD/Bestiary/Nundro Rockseeker/Nundro Rockseeker token.png]]
 
 
 ---

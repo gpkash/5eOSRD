@@ -7,5 +7,5 @@ If the temporary hit points exceeds the damage taken, you regain only up to the 
 
 **Ingredients:** Oil, Cypress Tree Sap, [[Morning Dew]]
 **Environment:** Forest, Swamp
-**Potency DC:** Minor 10; Moderate 15; Masterwork 20
-**Cost:** Minor 10 gp; Moderate 20 gp; Masterwork 30 gp 
+**Potency DC:** 13/15/18
+**Cost:** 10gp/20gp/30gp 

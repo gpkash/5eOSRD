@@ -64,7 +64,7 @@ As an undead being, Erandis lost the use of her dragonmark. Thus, when the divin
 Cantrips (at will): [[chill touch]] (see "Actions" below), [[fire bolt]], [[mage hand]], [[prestidigitation]], [[ray of frost]]
 1st level (4 slots): [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[sleep]]
 2nd level (3 slots): [[blur]], [[detect thoughts]], [[mirror image]]
-3rd level (3 slots): [[animate dead]], [[counterspell]], [[fireball]], [[fly]], [[lightning bolt]]
+3rd level (3 slots): [[animate dead]], [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[fly]], [[lightning bolt]]
 4th level (3 slots): [[blight]], [[confusion]], [[polymorph]]
 5th level (3 slots): [[cloudkill]], [[cone of cold]], [[hold monster]], [[scrying]]
 6th level (2 slots): [[chain lightning]], [[circle of death]], [[create undead]]

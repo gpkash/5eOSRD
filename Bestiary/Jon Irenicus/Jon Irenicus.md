@@ -54,7 +54,7 @@ But that was not to be Jon's final fate. Due to a pact with the Dark Powers of t
 Cantrips (at will): [[mage hand]], [[prestidigitation]], [[ray of frost]]
 1st level (4 slots): [[detect magic]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[thunderwave]]
 2nd level (3 slots): [[detect thoughts]], [[invisibility]], [[Melf's acid arrow]], [[mirror image]]
-3rd level (3 slots): [[animate dead]], [[counterspell]], [[dispel magic]], [[fireball]]
+3rd level (3 slots): [[animate dead]], [[counterspell]], [[dispel magic]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]
 4th level (3 slots): [[blight]], [[dimension door]]
 5th level (3 slots): [[cloudkill]], [[scrying]]
 6th level (1 slots): [[disintegrate]], [[tenser's transformation]]

@@ -58,7 +58,7 @@ Dark spellcasters fashion flameskulls from the remains of dead wizards. When the
 Cantrips (at will): [[mage hand]]
 1st level (3 slots): [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (2 slots): [[blur]], [[flaming sphere]]
-3rd level (1 slots): [[fireball]]
+3rd level (1 slots): [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]
 
 ##### Actions
 **Multiattack**. The flameskull uses Fire Ray twice.

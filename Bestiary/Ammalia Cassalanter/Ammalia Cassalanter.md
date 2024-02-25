@@ -39,7 +39,7 @@ Ammalia is well mannered, well read, well traveled, and exceptionally shrewd. Sh
 Cantrips (at will): [[friends]], [[mage hand]], [[mending]], [[message]]
 1st level (4 slots): [[charm person]], [[mage armor]], [[magic missile]]
 2nd level (3 slots): [[hold person]], [[invisibility]], [[suggestion]]
-3rd level (3 slots): [[fireball]], [[haste]], [[tongues]]
+3rd level (3 slots): [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[haste]], [[tongues]]
 4th level (3 slots): [[confusion]], [[stoneskin]]
 5th level (1 slots): [[hold monster]]
 

@@ -35,7 +35,7 @@ Previously a Red Wizard of Thay, this mage now studies magic under Manshoon.
 Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]]
 1st level (4 slots): [[detect magic]], [[mage armor]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (3 slots): [[misty step]], [[suggestion]]
-3rd level (3 slots): [[counterspell]], [[fireball]], [[sending]]
+3rd level (3 slots): [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[sending]]
 4th level (3 slots): [[greater invisibility]], [[ice storm]]
 5th level (1 slots): [[cone of cold]]
 

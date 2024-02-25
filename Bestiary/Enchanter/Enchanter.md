@@ -33,7 +33,7 @@ Enchanters are specialist wizards who understand how to alter and control minds 
 Cantrips (at will): [[friends]], [[mage hand]], [[mending]], [[message]]
 1st level (4 slots): [[charm person]]*, [[mage armor]], [[magic missile]]
 2nd level (3 slots): [[hold person]]*, [[invisibility]], [[suggestion]]*
-3rd level (3 slots): [[fireball]], [[haste]], [[tongues]]
+3rd level (3 slots): [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[haste]], [[tongues]]
 4th level (3 slots): [[dominate beast]]*, [[stoneskin]]
 5th level (2 slots): [[hold monster]]*
 

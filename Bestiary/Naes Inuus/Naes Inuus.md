@@ -45,7 +45,7 @@ As the high priest of Sune's faith on Faerûn, Naes leaves most of the evangeliz
 Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[sacred flame]], [[thaumaturgy]]
 1st level (4 slots): [[cure wounds]], [[guiding bolt]], [[sanctuary]]
 2nd level (3 slots): [[lesser restoration]], [[spiritual weapon]]
-3rd level (2 slots): [[fireball]], [[spirit guardians]]
+3rd level (2 slots): [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[spirit guardians]]
 4th level (3 slots): [[death ward]]*, [[wall of fire]]
 5th level (2 slots): [[antilife shell]], [[flame strike]]
 6th level (1 slots): [[blade barrier]]

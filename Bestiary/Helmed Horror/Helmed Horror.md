@@ -41,7 +41,7 @@ This construct possesses intelligence, the ability to reason and adjust its tact
 
 **Magic Resistance**. The helmed horror has advantage on saving throws against spells and other magical effects.
 
-**Spell Immunity**. The helmed horror is immune to three spells chosen by its creator. Typical immunities include [[fireball]], [[heat metal]], and [[lightning bolt]].
+**Spell Immunity**. The helmed horror is immune to three spells chosen by its creator. Typical immunities include [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[heat metal]], and [[lightning bolt]].
 
 ##### Actions
 **Multiattack**. The helmed horror makes two longsword attacks.

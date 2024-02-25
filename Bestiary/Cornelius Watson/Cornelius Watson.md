@@ -45,7 +45,7 @@ Forced to find a new source of income, Doc Watson was convinced by a friend of h
 Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]], [[shocking grasp]]
 1st level (4 slots): [[detect magic]]*, [[identify]], [[mage armor]], [[magic missile]]
 2nd level (3 slots): [[detect thoughts]], [[locate object]]*, [[mirror image]], [[misty step]]
-3rd level (3 slots): [[clairvoyance]]*, [[counterspell]], [[fireball]]
+3rd level (3 slots): [[clairvoyance]]*, [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]
 4th level (3 slots): [[arcane eye]]*, [[banishment]]
 5th level (3 slots): [[rary's telepathic bond]]*, [[scrying]]*, [[wall of force]]
 6th level (1 slots): [[true seeing]]*

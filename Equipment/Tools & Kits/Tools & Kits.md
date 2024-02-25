@@ -44,7 +44,7 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 | [[Navigator's Tools]]         | 25 gp | 2 lb.  |
 | [[5eOSRD/Equipment/Items/Mundane Items/Poisoner's Kit/Poisoner's Kit]]            | 50 gp | 2 lb.  |
 | [[Thieves' Tools]]            | 25 gp | 1 lb.  |
-| Vehicles (land or water)  | *     | *      |
+| [[Vehicles]] (land or water)  | *     | *      |
 
 \* See the "Mounts and Vehicles" section.
 
@@ -56,12 +56,12 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 
 ***[[Gaming Set]]***. This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a [[Gaming Set]], you can add your [[proficiency bonus]] to [[ability checks]] you make to play a game with that set. Each type of [[Gaming Set]] requires a separate proficiency.
 
-***[[5eOSRD/Equipment/Items/Mundane Items/Herbalism Kit/Herbalism Kit]]***. This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and [[potions]]. Proficiency with this kit lets you add your [[proficiency bonus]] to any [[ability checks]] you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and [[potions]] of healing.
+***[[5eOSRD/Equipment/Items/Mundane Items/Herbalism Kit/Herbalism Kit|Herbalism Kit]]***. This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and [[potions]]. Proficiency with this kit lets you add your [[proficiency bonus]] to any [[ability checks]] you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and [[potions]] of healing.
 
 ***[[5eOSRD/Equipment/Items/Mundane Items/Musical Instrument/Musical Instrument|Musical Instrument]]***. Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given [[5eOSRD/Equipment/Items/Mundane Items/Musical Instrument/Musical Instrument|musical instrument]], you can add your [[proficiency bonus]] to any [[ability checks]] you make to play music with the instrument. A [[Bard]] can use a [[5eOSRD/Equipment/Items/Mundane Items/Musical Instrument/Musical Instrument|musical instrument]] as a spellcasting focus. Each type of [[5eOSRD/Equipment/Items/Mundane Items/Musical Instrument/Musical Instrument|musical instrument]] requires a separate proficiency.
 
 ***[[Navigator's Tools]]***. This set of instruments is used for navigation at sea. Proficiency with [[Navigator's Tools]] lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your [[proficiency bonus]] to any ability check you make to avoid getting lost at sea.
 
-***[[5eOSRD/Equipment/Items/Mundane Items/Poisoner's Kit/Poisoner's Kit]]***. A [[5eOSRD/Equipment/Items/Mundane Items/Poisoner's Kit/Poisoner's Kit]] includes the vials, chemicals, and other equipment necessary for the creation of [[poisons]]. Proficiency with this kit lets you add your [[proficiency bonus]] to any [[ability checks]] you make to craft or use [[poisons]].
+***[[5eOSRD/Equipment/Items/Mundane Items/Poisoner's Kit/Poisoner's Kit|Poisoner's Kit]]***. A [[5eOSRD/Equipment/Items/Mundane Items/Poisoner's Kit/Poisoner's Kit|Poisoner's Kit]] includes the vials, chemicals, and other equipment necessary for the creation of [[poisons]]. Proficiency with this kit lets you add your [[proficiency bonus]] to any [[ability checks]] you make to craft or use [[poisons]].
 
 ***[[Thieves' Tools]]***. This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your [[proficiency bonus]] to any [[ability checks]] you make to disarm [[traps]] or open locks.

@@ -42,7 +42,7 @@ As an entertainer and purveyor of the "Jim Darkmagic Experience," the legendary 
 Cantrips (at will): [[fire bolt]], [[friends]], [[mage hand]], [[minor illusion]], [[prestidigitation]]
 1st level (4 slots): [[disguise self]], [[Jim's magic missile|AI]]*, [[mage armor]]
 2nd level (3 slots): [[invisibility]], [[Jim's glowing coin|AI]]*
-3rd level (3 slots): [[incite greed|AI]]*, [[fireball]]
+3rd level (3 slots): [[incite greed|AI]]*, [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]
 4th level (3 slots): [[conjure minor elementals]], [[polymorph]]
 5th level (1 slots): [[mislead]]
 

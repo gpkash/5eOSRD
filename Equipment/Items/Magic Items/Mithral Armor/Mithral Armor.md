@@ -6,6 +6,8 @@ Generic variant, uncommon, minor tier
 
 Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.
 
+Cost guideline: ~10x the value of the base armor
+
 ***Base items.*** This item variant can be applied to the following base items:
 
 - *Breastplate* (*Mithral Breastplate*)

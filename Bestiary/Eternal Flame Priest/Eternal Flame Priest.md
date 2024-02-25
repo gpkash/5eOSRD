@@ -33,7 +33,7 @@ Eternal Flame priests see the world around them as impure and unworthy, and beli
 Cantrips (at will): [[control flames]], [[create bonfire]], [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[minor illusion]]
 1st level (4 slots): [[burning hands]], [[expeditious retreat]], [[mage armor]]
 2nd level (3 slots): [[blur]], [[scorching ray]]
-3rd level (2 slots): [[fireball]]
+3rd level (2 slots): [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]
 
 ##### Actions
 **Dagger**. _Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.

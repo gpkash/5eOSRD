@@ -39,7 +39,7 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
 Cantrips (at will): [[chill touch]], [[fire bolt]], [[mage hand]], [[message]], [[minor illusion]]
 1st level (4 slots): [[charm person]], [[detect magic]], [[protection from evil and good]], [[witch bolt]]
 2nd level (3 slots): [[hold person]], [[ray of enfeeblement]], [[suggestion]]
-3rd level (3 slots): [[counterspell]], [[fireball]], [[fly]]
+3rd level (3 slots): [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[fly]]
 4th level (3 slots): [[confusion]], [[hallucinatory terrain]], [[wall of fire]]
 5th level (2 slots): [[dominate person]], [[dream]], [[geas]]
 6th level (1 slots): [[circle of death]], [[disintegrate]]

@@ -57,7 +57,7 @@ What drew you forth from your life of study? Did your first taste of magical kno
 
 You can make a wizard quickly by following these suggestions. First, [[Intelligence]] should be your highest ability score, followed by [[Constitution]] or [[Dexterity]].
 
-If you plan to join the [[School of Enchantment]], make [[Charisma]] your next-best score. Second, choose the [[Sage]] background. Third, choose the [[mage hand]], [[5eOSRD/Spellcasting/Spells/Light|light]], and [[ray of frost]] cantrips, along with the following 1st-level spells for your [[5eOSRD/Equipment/Adventuring Gear/Spellbook]]: [[burning hands]], [[charm person]], [[feather fall]], [[mage armor]], [[magic missile]], and [[sleep]].
+If you plan to join the [[School of Enchantment]], make [[Charisma]] your next-best score. Second, choose the [[Sage]] background. Third, choose the [[mage hand]], [[5eOSRD/Spellcasting/Spells/Light|light]], and [[ray of frost]] cantrips, along with the following 1st-level spells for your [[Spellbook]]: [[burning hands]], [[charm person]], [[feather fall]], [[mage armor]], [[magic missile]], and [[sleep]].
 
 # Class Features
 
@@ -84,12 +84,12 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a quarterstaff or (*b*) a dagger
 - (*a*) a [[5eOSRD/Equipment/Adventuring Gear/Component Pouch]] or (*b*) an [[5eOSRD/Equipment/Adventuring Gear/Arcane Focus]]
 - (*a*) a [[5eOSRD/Equipment/Adventuring Gear/Packs/Scholar's Pack]] or (*b*) an [[5eOSRD/Equipment/Adventuring Gear/Packs/Explorer's Pack]]
-- A [[5eOSRD/Equipment/Adventuring Gear/Spellbook]]
+- A [[Spellbook]]
 
 
 ## Spellcasting
 
-As a student of arcane magic, you have a [[5eOSRD/Equipment/Adventuring Gear/Spellbook]] containing spells that show the first glimmerings of your true power.
+As a student of arcane magic, you have a [[Spellbook]] containing spells that show the first glimmerings of your true power.
 
 ### Cantrips
 
@@ -97,15 +97,15 @@ At 1st level, you know three cantrips of your choice from the wizard spell list.
 
 ### Spellbook
 
-At 1st level, you have a [[5eOSRD/Equipment/Adventuring Gear/Spellbook]] containing six 1st- level [[wizard spells]] of your choice. Your [[5eOSRD/Equipment/Adventuring Gear/Spellbook]] is the repository of the [[wizard spells]] you know, except your cantrips, which are fixed in your mind.
+At 1st level, you have a [[Spellbook]] containing six 1st- level [[wizard spells]] of your choice. Your [[Spellbook]] is the repository of the [[wizard spells]] you know, except your cantrips, which are fixed in your mind.
 
 >**Your Spellbook**
 >
->The spells that you add to your [[5eOSRD/Equipment/Adventuring Gear/Spellbook]] as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.
+>The spells that you add to your [[Spellbook]] as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.
 >
->***Copying a Spell into the Book***. When you find a wizard spell of 1st level or higher, you can add it to your [[5eOSRD/Equipment/Adventuring Gear/Spellbook]] if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.
+>***Copying a Spell into the Book***. When you find a wizard spell of 1st level or higher, you can add it to your [[Spellbook]] if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.
 >
->Copying that spell into your [[5eOSRD/Equipment/Adventuring Gear/Spellbook]] involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your [[5eOSRD/Equipment/Adventuring Gear/Spellbook]] using your own notation.
+>Copying that spell into your [[Spellbook]] involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your [[Spellbook]] using your own notation.
 >
 >For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
 
@@ -113,11 +113,11 @@ At 1st level, you have a [[5eOSRD/Equipment/Adventuring Gear/Spellbook]] contain
 
 The Wizard table shows how many spell slots you have to cast your [[wizard spells]] of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a [[Long Rest]].
 
-You prepare the list of [[wizard spells]] that are available for you to cast. To do so, choose a number of [[wizard spells]] from your [[5eOSRD/Equipment/Adventuring Gear/Spellbook]] equal to your [[Intelligence]] modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
+You prepare the list of [[wizard spells]] that are available for you to cast. To do so, choose a number of [[wizard spells]] from your [[Spellbook]] equal to your [[Intelligence]] modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an [[Intelligence]] of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your [[5eOSRD/Equipment/Adventuring Gear/Spellbook]]. If you prepare the 1st-level spell *[[magic missile]]*, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an [[Intelligence]] of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your [[Spellbook]]. If you prepare the 1st-level spell *[[magic missile]]*, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
-You can change your list of prepared spells when you finish a [[Long Rest]]. Preparing a new list of [[wizard spells]] requires time spent studying your [[5eOSRD/Equipment/Adventuring Gear/Spellbook]] and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
+You can change your list of prepared spells when you finish a [[Long Rest]]. Preparing a new list of [[wizard spells]] requires time spent studying your [[Spellbook]] and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
 
 ### Spellcasting Ability
 
@@ -129,7 +129,7 @@ You can change your list of prepared spells when you finish a [[Long Rest]]. Pre
 
 ### Ritual Casting
 
-You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your [[5eOSRD/Equipment/Adventuring Gear/Spellbook]]. You don't need to have the spell prepared.
+You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your [[Spellbook]]. You don't need to have the spell prepared.
 
 ### Spellcasting Focus
 
@@ -137,11 +137,11 @@ You can use an [[5eOSRD/Equipment/Adventuring Gear/Arcane Focus]] as a [[spellca
 
 ### Learning Spells of 1st Level and Higher
 
-Each time you gain a wizard level, you can add two [[wizard spells]] of your choice to your [[5eOSRD/Equipment/Adventuring Gear/Spellbook]] for free. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your [[5eOSRD/Equipment/Adventuring Gear/Spellbook]].
+Each time you gain a wizard level, you can add two [[wizard spells]] of your choice to your [[Spellbook]] for free. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your [[Spellbook]].
 
 ## Arcane Recovery
 
-You have learned to regain some of your magical energy by studying your [[5eOSRD/Equipment/Adventuring Gear/Spellbook]]. Once per day when you finish a [[Short Rest]], you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
+You have learned to regain some of your magical energy by studying your [[Spellbook]]. Once per day when you finish a [[Short Rest]], you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
 
 For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.
 
@@ -157,13 +157,13 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 ## Spell Mastery
 
-At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your [[5eOSRD/Equipment/Adventuring Gear/Spellbook]]. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your [[Spellbook]]. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
 By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
 
 ## Signature Spells
 
-When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level [[wizard spells]] in your [[5eOSRD/Equipment/Adventuring Gear/Spellbook]] as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or [[Long Rest]].
+When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level [[wizard spells]] in your [[Spellbook]] as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or [[Long Rest]].
 
 If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 

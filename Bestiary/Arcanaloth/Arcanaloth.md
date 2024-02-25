@@ -39,7 +39,7 @@ _Medium fiend (yugoloth), neutral evil_
 Cantrips (at will): [[fire bolt]], [[mage hand]], [[minor illusion]], [[prestidigitation]]
 1st level (4 slots): [[detect magic]], [[identify]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[Tenser's floating disk]]
 2nd level (3 slots): [[detect thoughts]], [[mirror image]], [[phantasmal force]], [[suggestion]]
-3rd level (3 slots): [[counterspell]], [[fear]], [[fireball]]
+3rd level (3 slots): [[counterspell]], [[fear]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]
 4th level (3 slots): [[banishment]], [[dimension door]]
 5th level (2 slots): [[contact other plane]], [[hold monster]]
 6th level (1 slots): [[chain lightning]]

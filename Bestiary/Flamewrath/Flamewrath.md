@@ -35,7 +35,7 @@ A flamewrath is a spellcaster that has earned the favor of Imix, the Prince of E
 Cantrips (at will): [[control flames]], [[fire bolt]], [[friends]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[minor illusion]]
 1st level (4 slots): [[burning hands]], [[color spray]], [[mage armor]]
 2nd level (3 slots): [[scorching ray]], [[suggestion]]
-3rd level (3 slots): [[fireball]], [[hypnotic pattern]]
+3rd level (3 slots): [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[hypnotic pattern]]
 4th level (1 slots): [[fire shield]] (see Wreathed in Flame)
 
 ##### Actions

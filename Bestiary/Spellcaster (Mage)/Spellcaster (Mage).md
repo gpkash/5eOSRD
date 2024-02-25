@@ -29,7 +29,7 @@ _Medium humanoid (mage), _
 Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[minor illusion]]
 1st level (4 slots): [[burning hands]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[sleep]]
 2nd level (3 slots): [[flaming sphere]], [[invisibility]]
-3rd level (3 slots): [[fireball]], [[fly]]
+3rd level (3 slots): [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[fly]]
 4th level (1 slots): [[wall of fire]]
 
 ##### Actions

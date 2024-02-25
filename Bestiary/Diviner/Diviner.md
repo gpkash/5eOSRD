@@ -35,7 +35,7 @@ Diviners are specialist wizards who know that knowledge is power. They might act
 Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[message]], [[true strike]]
 1st level (4 slots): [[detect magic]]*, [[feather fall]], [[mage armor]]
 2nd level (3 slots): [[detect thoughts]]*, [[locate object]]*, [[scorching ray]]
-3rd level (3 slots): [[clairvoyance]]*, [[fly]], [[fireball]]
+3rd level (3 slots): [[clairvoyance]]*, [[fly]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]
 4th level (3 slots): [[arcane eye]]*, [[ice storm]], [[stoneskin]]
 5th level (2 slots): [[Rary's telepathic bond]]*, [[seeming]]
 6th level (1 slots): [[mass suggestion]], [[true seeing]]*

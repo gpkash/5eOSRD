@@ -7,11 +7,6 @@ Cyclopes like those described in the Monster Manual are found primarily among th
 
 Cyclopes serve the Izzet league as workshop guardians, personal protectors, and heavy laborers. They wear mizzium armor plating to minimize injuries from laboratory mishaps, piston gauntlets to increase their strength for lifting and punching, and telescopic helmets to minimize the shortcomings of their monocular vision. They are sometimes called monoclons or Nivix cyclopes, after the name of the Izzet guildhall.
 
-
-
-
-
-
 ---
 
 **Armor Class** 14 ([[Half Plate Armor]])
