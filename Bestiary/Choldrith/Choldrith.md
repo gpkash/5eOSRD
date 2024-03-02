@@ -44,7 +44,7 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
 **Spellcasting.** The choldrith is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The choldrith has the following cleric spells prepared:
 
 Cantrips (at will): [[guidance]], [[mending]], [[resistance]], [[thaumaturgy]]
-1st level (4 slots): [[bane]], [[healing word]], [[sanctuary]], [[shield of faith]]
+1st level (4 slots): [[5eOSRD/Spellcasting/Spells/Bane/Bane]], [[healing word]], [[sanctuary]], [[shield of faith]]
 2nd level (3 slots): [[hold person]], [[spiritual weapon]] (dagger)
 
 ##### Actions

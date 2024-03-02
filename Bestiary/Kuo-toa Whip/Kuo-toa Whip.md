@@ -35,7 +35,7 @@ _Medium humanoid (kuo-toa), neutral evil_
 **Spellcasting.** The kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The kuo-toa has the following cleric spells prepared:
 
 Cantrips (at will): [[sacred flame]], [[thaumaturgy]]
-1st level (3 slots): [[bane]], [[shield of faith]]
+1st level (3 slots): [[5eOSRD/Spellcasting/Spells/Bane/Bane]], [[shield of faith]]
 
 ##### Actions
 **Multiattack**. The kuo-toa makes two attacks: one with its bite and one with its pincer staff.

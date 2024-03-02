@@ -50,7 +50,7 @@ Any temple of [[ Lolth|Drow|MTF]] also functions as a matron mother's lair while
 **Spellcasting.** The drow is a 20th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 19, +11 to hit with spell attacks). The drow has the following cleric spells prepared:
 
 Cantrips (at will): [[guidance]], [[mending]], [[resistance]], [[sacred flame]], [[thaumaturgy]]
-1st level (4 slots): [[bane]], [[command]], [[cure wounds]], [[guiding bolt]]
+1st level (4 slots): [[5eOSRD/Spellcasting/Spells/Bane/Bane]], [[command]], [[cure wounds]], [[guiding bolt]]
 2nd level (3 slots): [[hold person]], [[silence]], [[spiritual weapon]]
 3rd level (3 slots): [[bestow curse]], [[clairvoyance]], [[dispel magic]], [[spirit guardians]]
 4th level (3 slots): [[banishment]], [[death ward]], [[freedom of movement]], [[guardian of faith]]

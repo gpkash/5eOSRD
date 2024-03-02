@@ -42,7 +42,7 @@ Orc females devoted to Luthic are in charge of fortifying and maintaining an orc
 **Spellcasting.** The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The orc has the following cleric spells prepared:
 
 Cantrips (at will): [[guidance]], [[mending]], [[resistance]], [[thaumaturgy]]
-1st level (4 slots): [[bane]], [[cure wounds]], [[guiding bolt]]
+1st level (4 slots): [[5eOSRD/Spellcasting/Spells/Bane/Bane]], [[cure wounds]], [[guiding bolt]]
 2nd level (3 slots): [[augury]], [[warding bond]]
 3rd level (2 slots): [[bestow curse]], [[create food and water]]
 

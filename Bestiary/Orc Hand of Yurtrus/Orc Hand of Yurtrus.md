@@ -46,7 +46,7 @@ As befits followers of a god who doesn't speak, hands of Yurtrus remove their to
 **Spellcasting.** The orc is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It requires no verbal components to cast its spells. The orc has the following cleric spells prepared:
 
 Cantrips (at will): [[guidance]], [[mending]], [[resistance]], [[thaumaturgy]]
-1st level (4 slots): [[bane]], [[detect magic]], [[inflict wounds]], [[protection from evil and good]]
+1st level (4 slots): [[5eOSRD/Spellcasting/Spells/Bane/Bane]], [[detect magic]], [[inflict wounds]], [[protection from evil and good]]
 2nd level (3 slots): [[blindness/deafness]], [[silence]]
 
 ##### Actions

@@ -40,7 +40,7 @@ Lolth's worshipers expect treachery—the Spider Queen encourages it, after all.
 **Spellcasting.** The drow is a 12th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). She has the following cleric spells prepared:
 
 Cantrips (at will): [[guidance]], [[message]], [[poison spray]], [[resistance]], [[thaumaturgy]]
-1st level (4 slots): [[bane]], [[cure wounds]], [[inflict wounds]]
+1st level (4 slots): [[5eOSRD/Spellcasting/Spells/Bane/Bane]], [[cure wounds]], [[inflict wounds]]
 2nd level (3 slots): [[blindness/deafness]], [[silence]], [[spiritual weapon]]
 3rd level (3 slots): [[bestow curse]], [[dispel magic]], [[magic circle]]
 4th level (3 slots): [[banishment]], [[divination]], [[freedom of movement]]

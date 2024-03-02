@@ -48,7 +48,7 @@ Goblins are small, black-hearted, selfish humanoids that lair in caves, abandone
 **Spellcasting.** Grenl is a 1st-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). She has the following cleric spells prepared:
 
 Cantrips (at will): [[poison spray]], [[thaumaturgy]]
-1st level (2 slots): [[bane]], [[inflict wounds]]
+1st level (2 slots): [[5eOSRD/Spellcasting/Spells/Bane/Bane]], [[inflict wounds]]
 
 ##### Actions
 **Scimitar**. _Melee Weapon Attack:_ +4, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.

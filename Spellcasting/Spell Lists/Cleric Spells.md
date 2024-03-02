@@ -13,7 +13,7 @@
 | [[Toll the Dead]]                      | Cantrip   | Necromancy    |
 | [[Word of Radiance]]                   | Cantrip   | Evocation     |
 | **1st-level**                          |           |               |
-| [[Bane]]                               | 1st-level | enchantment   |
+| [[5eOSRD/Spellcasting/Spells/Bane/Bane]]                               | 1st-level | enchantment   |
 | [[Bless]]                              | 1st-level | enchantment   |
 | [[Ceremony]] (ritual)                  | 1st-level | abjuration    |
 | [[Command]]                            | 1st-level | enchantment   |

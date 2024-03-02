@@ -30,7 +30,7 @@ One of the most effective weapons in the Rakdos cult's arsenal is satire, and a 
 **Spellcasting.** The lampooner is a 4th-level Rakdos spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It knows the following bard spells:
 
 Cantrips (at will): [[dancing lights]], [[minor illusion]], [[vicious mockery]]
-1st level (4 slots): [[bane]], [[dissonant whispers]], [[silent image]], [[Tasha's hideous laughter]], [[thunderwave]]
+1st level (4 slots): [[5eOSRD/Spellcasting/Spells/Bane/Bane]], [[dissonant whispers]], [[silent image]], [[Tasha's hideous laughter]], [[thunderwave]]
 2nd level (3 slots): [[crown of madness]], [[enthrall]], [[suggestion]]
 
 ##### Actions

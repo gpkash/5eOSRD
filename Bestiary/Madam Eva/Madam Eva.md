@@ -52,7 +52,7 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
 **Spellcasting.** Madam Eva is a 16th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). Madam Eva has the following cleric spells prepared:
 
 Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mending]], [[sacred flame]], [[thaumaturgy]]
-1st level (4 slots): [[bane]], [[command]], [[detect evil and good]], [[protection from evil and good]]
+1st level (4 slots): [[5eOSRD/Spellcasting/Spells/Bane/Bane]], [[command]], [[detect evil and good]], [[protection from evil and good]]
 2nd level (3 slots): [[lesser restoration]], [[protection from poison]], [[spiritual weapon]]
 3rd level (3 slots): [[create food and water]], [[speak with dead]], [[spirit guardians]]
 4th level (3 slots): [[divination]], [[freedom of movement]], [[guardian of faith]]

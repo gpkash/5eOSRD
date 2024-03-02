@@ -47,7 +47,7 @@ Yakfolk have a drive for learning, particularly when it comes to the secrets of 
 **Spellcasting.** The yakfolk is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The priest has the following cleric spells prepared:
 
 Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mending]], [[sacred flame]], [[thaumaturgy]]
-1st level (4 slots): [[bane]], [[command]], [[cure wounds]], [[sanctuary]]
+1st level (4 slots): [[5eOSRD/Spellcasting/Spells/Bane/Bane]], [[command]], [[cure wounds]], [[sanctuary]]
 2nd level (3 slots): [[augury]], [[hold person]], [[spiritual weapon]]
 3rd level (3 slots): [[bestow curse]], [[protection from energy]], [[sending]]
 4th level (1 slots): [[banishment]]

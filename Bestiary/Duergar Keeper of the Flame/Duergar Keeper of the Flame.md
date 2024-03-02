@@ -69,7 +69,7 @@ Cantrips (at will): guidance, mending, sacred flame
 **Spellcasting.** The Keeper of the Flame is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The Keeper of the Flame has the following cleric spells prepared:
 
 Cantrips (at will): [[guidance]], [[mending]], [[sacred flame]]
-1st level (4 slots): [[bane]], [[inflict wounds]], [[shield of faith]]
+1st level (4 slots): [[5eOSRD/Spellcasting/Spells/Bane/Bane]], [[inflict wounds]], [[shield of faith]]
 2nd level (2 slots): [[enhance ability]], [[spiritual weapon]]
 
 ##### Actions

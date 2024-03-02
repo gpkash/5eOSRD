@@ -17,7 +17,7 @@
 | [[Vicious Mockery]]                    | Cantrip   | Enchantment   |
 | **1st-level**                          |           |               |
 | [[Animal Friendship]]             | 1st-level | enchantment   |
-| [[Bane]]                               | 1st-level | enchantment   |
+| [[5eOSRD/Spellcasting/Spells/Bane/Bane]]                               | 1st-level | enchantment   |
 | [[Charm Person]]                       | 1st-level | enchantment   |
 | [[Comprehend Languages]] (ritual)      | 1st-level | divination    |
 | [[Cure Wounds]]                        | 1st-level | evocation     |

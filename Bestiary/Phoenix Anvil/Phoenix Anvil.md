@@ -34,7 +34,7 @@ More of an object individual than a people person, Phoenix is obsessively dedica
 **Spellcasting.** Phoenix is a 4th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). He has the following cleric spells prepared:
 
 Cantrips (at will): [[guidance]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mending]], [[sacred flame]]
-1st level (4 slots): [[bane]], [[cure wounds]], [[guiding bolt]]
+1st level (4 slots): [[5eOSRD/Spellcasting/Spells/Bane/Bane]], [[cure wounds]], [[guiding bolt]]
 2nd level (3 slots): [[hold person]], [[spiritual weapon]]
 
 ##### Actions

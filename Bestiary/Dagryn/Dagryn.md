@@ -50,7 +50,7 @@ Dagryn now dreads adding new ailments to the relentless, crippling pain of his d
 **Spellcasting.** Dagryn is a 11th-level spellcaster. His spellcasting ability is Charisma (save DC 13, +5 to hit with spell attacks). He regains his expended spell slots when he finishes a short or long rest. He knows the following warlock spells:
 
 Cantrips (at will): [[blade ward]], [[eldritch blast]], [[friends]], [[message]], [[vicious mockery]]
-5th level (3 slots): [[bane]], [[charm person]], [[dimension door]], [[dominate beast]], [[faerie fire]], [[fear]], [[hold monster]], [[misty step]], [[phantasmal force]], [[seeming]]
+5th level (3 slots): [[5eOSRD/Spellcasting/Spells/Bane/Bane]], [[charm person]], [[dimension door]], [[dominate beast]], [[faerie fire]], [[fear]], [[hold monster]], [[misty step]], [[phantasmal force]], [[seeming]]
 
 ##### Actions
 **Club**. _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.

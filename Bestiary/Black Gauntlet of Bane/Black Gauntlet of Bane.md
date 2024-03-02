@@ -44,7 +44,7 @@ Bane's devoted followers are warriors who seek to rule through martial strength 
 **Spellcasting.** The black gauntlet is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It has the following cleric spells prepared:
 
 Cantrips (at will): [[guidance]], [[sacred flame]], [[thaumaturgy]]
-1st level (4 slots): [[bane]], [[bless]], [[cure wounds]], [[guiding bolt]] (see "Actions" below)
+1st level (4 slots): [[5eOSRD/Spellcasting/Spells/Bane/Bane]], [[bless]], [[cure wounds]], [[guiding bolt]] (see "Actions" below)
 2nd level (3 slots): [[blindness/deafness]], [[hold person]], [[silence]]
 3rd level (2 slots): [[sending]], [[spirit guardians]]
 

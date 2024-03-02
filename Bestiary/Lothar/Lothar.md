@@ -47,7 +47,7 @@ Much like most who follow the Raven Queen, Lothar rarely understands her motivat
 **Spellcasting.** Lothar is a 5th-level spellcaster. His spellcasting ability is Charisma (save DC 12, +4 to hit with spell attacks). He regains his expended spell slots when he finishes a short or long rest. He knows the following warlock spells:
 
 Cantrips (at will): [[blade ward]], [[eldritch blast]], [[message]]
-3rd level (2 slots): [[bane]], [[charm person]], [[daylight]], [[faerie fire]], [[fear]], [[misty step]]
+3rd level (2 slots): [[5eOSRD/Spellcasting/Spells/Bane/Bane]], [[charm person]], [[daylight]], [[faerie fire]], [[fear]], [[misty step]]
 
 ##### Actions
 **Multiattack (Humanoid or Hybrid Form Only)**. Lothar makes two attacks, only one of which can be a bite.
