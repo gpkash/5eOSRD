@@ -21,7 +21,7 @@ As a monk, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) a shortsword or (*b*) any simple weapon
-- (*a*) a [[5eOSRD/Equipment/Adventuring Gear/Packs/Dungeoneer's Pack]] or (*b*) an [[5eOSRD/Equipment/Adventuring Gear/Packs/Explorer's Pack]]
+- (*a*) a [[Dungeoneer's Pack]] or (*b*) an [[Explorer's Pack]]
 - 10 darts
 
 **Table- The Monk**
@@ -57,7 +57,7 @@ Beginning at 1st level, while you are wearing no [[armor]] and not wielding a [[
 
 At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk [[Weapons]], which are shortswords and any simple melee [[Weapons]] that don't have the [[Two-Handed]] or [[Heavy]] property.
 
-You gain the following benefits while you are unarmed or wielding only monk [[Weapons]] and you aren't wearing [[armor]] or wielding a [[5eOSRD/Equipment/Armor/Shield|shield]]:
+You gain the following benefits while you are unarmed or wielding only monk [[Weapons]] and you aren't wearing [[armor]] or wielding a [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|shield]]:
 
 - You can use [[Dexterity]] instead of [[Strength]] for the attack and damage rolls of your unarmed strikes and monk [[Weapons]].
 - You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
