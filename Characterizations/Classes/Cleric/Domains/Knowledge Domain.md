@@ -1,10 +1,10 @@
-# Knowledge Domain
+### Knowledge Domain
 
 **_The gods of knowledge – including [[Oghma]], [[Boccob]], [[Gilean]], [[Aureon]], and Thoth – value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some [[deities]] hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith [[deities]] like [[Gond]], [[Reorx]], [[Onatar]], [[Moradin]], Hephaestus, and Goibhniu._**
 
 **_In Amonkhet, knowledge is the second virtue of society. Kefnet’s task is to pass on this teaching of the God-Pharaoh and elucidate its meaning. He teaches that the afterlife will be inhabited only by those who have proved by their wits that they are worthy of dwelling in the glorious presence of the God-Pharaoh. He trains acolytes and initiates to push their limits and challenge their mental capacity with spells of ever-greater power._**
 
-### Knowledge Domain Spells
+#### Knowledge Domain Spells
 
 | Cleric Level | Spells                                |
 | ------------ | ------------------------------------- |
@@ -14,17 +14,17 @@
 | 7th          | [[Arcane Eye]], [[Confusion]]         |
 | 9th          | [[Legend Lore]], [[Scrying]]          |
 
-### Blessings of Knowledge
+#### Blessings of Knowledge
 
 At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: [[Arcana]], [[History]], [[Nature]], or [[Religion]].
 
 Your [[proficiency bonus]] is doubled for any ability check you make that uses either of those skills.
 
-### Channel Divinity: Knowledge of the Ages
+#### Channel Divinity: Knowledge of the Ages
 
 Starting at 2nd level, you can use your Channel Divinity to tap into a divine well of knowledge. As an action, you choose one skill or tool. For 10 minutes, you have proficiency with the chosen skill or tool.
 
-### Channel Divinity: Read Thoughts
+#### Channel Divinity: Read Thoughts
 
 At 6th level, you can use your Channel Divinity to read a creature's thoughts. You can then use your access to the creature's mind to command it.
 
@@ -34,11 +34,11 @@ If the creature fails its save, you can read its surface thoughts (those foremos
 
 During that time, you can use your action to end this effect and cast the [[Suggestion]] spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.
 
-### Potent Spellcasting
+#### Potent Spellcasting
 
 Starting at 8th level, you add your [[Wisdom]] modifier to the damage you deal with any [[cleric]] cantrip.
 
-### Visions of the Past
+#### Visions of the Past
 
 Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your Wisdom score and must maintain concentration during that time, as if you were casting a spell.
 

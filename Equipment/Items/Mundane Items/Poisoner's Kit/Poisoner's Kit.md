@@ -20,4 +20,4 @@ Additionally, the *Crafting and Harvesting Poison* rules require the use of a po
 
 ***Handle Poison.*** Your proficiency allows you to handle and apply a poison without risk of exposing yourself to its effects.
 
-#
+*Homebrew: [[Using Poisoner's Kits]].

@@ -28,7 +28,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 **Table- The Cleric**
 
-| Level | [[Proficiency Bonus]] | Features                                                                | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| Level | [[Proficiency Bonus\|PB]] | Features                                                                | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |-------|-------------------|-------------------------------------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | 1st   | +2                | [[Spellcasting]], Divine Domain                                             | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2nd   | +2                | Channel Divinity (1/rest), Divine Domain Feature                        | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
@@ -111,9 +111,19 @@ As an action, you present your [[5eOSRD/Equipment/Adventuring Gear/Holy Symbol]]
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
+#### Channel Divinity: Harness Divine Power
+_2nd-level cleric optional feature, source TCE p30_
+
+You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.
+
 ### Ability Score Improvement
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+#### Cantrip Versatility
+_4th-level cleric optional feature, source TCE p30_
+
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the [[Cleric Spells]] list.
 
 ### Destroy Undead
 
@@ -142,43 +152,23 @@ At 20th level, your call for intervention succeeds automatically, no roll requir
 
 ## Cleric Domains
 
-### Life Domain
-
-The Life domain focuses on the vibrant positive energy-one of the fundamental forces of the universe-that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as [[Chauntea]], [[Arawai]], and Demeter), sun gods (such as [[Lathander]], [[Pelor]], and Re-Horakhty), gods of healing or endurance (such as [[Ilmater]], [[Mishakal]], Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and [[Boldrei]]).
-
-**Table- Life Domain Spells**
-
-| Cleric Level | Spells                               |
-|--------------|--------------------------------------|
-| 1st          | [[bless]], [[cure wounds]]                   |
-| 3rd          | [[lesser restoration]], [[spiritual weapon]] |
-| 5th          | [[beacon of hope]], [[revivify]]             |
-| 7th          | [[death ward]], [[guardian of faith]]        |
-| 9th          | [[mass cure wounds]], [[raise dead]]         |
-|              |                                      |
-
-#### Bonus Proficiency
-
-When you choose this domain at 1st level, you gain proficiency with [[Heavy Armor]].
-
-#### Disciple of Life
-
-Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.
-
-#### Channel Divinity: Preserve Life
-
-Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.
-
-As an action, you present your [[5eOSRD/Equipment/Adventuring Gear/Holy Symbol]] and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.
-
-#### Blessed Healer
-
-Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level.
-
-#### Divine Strike
-
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
-
-#### Supreme Healing
-
-Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
+- [[Ambition Domain]]
+- [[Arcana Domain]]
+- [[Blood Domain]]
+- [[Community Domain]]
+- [[Death Domain]]
+- [[Forge Domain]]
+- [[Grave Domain]]
+- [[Knowledge Domain]]
+- [[Life Domain]]
+- [[Moon Domain]]
+- [[Nature Domain]]
+- [[Night Domain]]
+- [[Order Domain]]
+- [[Solidarity Domain]]
+- [[Strength Domain]]
+- [[Tempest Domain]]
+- [[Trickery Domain]]
+- [[Twilight Domain]]
+- [[War Domain]]
+- [[Zeal Domain]]

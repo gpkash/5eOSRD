@@ -14,13 +14,7 @@ A wyvern has two scaly legs, leathery wings, and a sinewy tail topped with its m
 
 Although they possess more cunning than ordinary beasts, wyverns lack the intelligence of their draconic cousins. As such, creatures that maintain their composure as a wyvern hunts them from the air can often elude or trick it. Wyverns follow a direct path to their prey, with no thought given to possible ambushes.
 
-
 **Tamed Wyverns** A wyvern can be tamed for use as a mount, but doing so presents a difficult and deadly challenge. Raising one as a hatchling offers the best results. However, a wyvern's violent temperament has cost the life of many a would-be master.
-
-
-
-
-
 
 ---
 
