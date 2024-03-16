@@ -42,3 +42,97 @@ You might want to tweak some of the features of a background so it better fits y
 [[Sage]]
 [[Sailor]]
 [[Urchin]]
+
+
+
+| Name                           | Skills                                                                                                                                                                      |
+|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Acolyte                        | Insight, Religion                                                                                                                                                           |
+| Anthropologist                 | Insight, Religion                                                                                                                                                           |
+| Archaeologist                  | History, Survival                                                                                                                                                           |
+| Astral Drifter                 | Insight, Religion                                                                                                                                                           |
+| Athlete                        | Acrobatics, Athletics                                                                                                                                                       |
+| Azorius Functionary            | Insight, Intimidation                                                                                                                                                       |
+| Baldur's Gate Acolyte          | Insight, Religion                                                                                                                                                           |
+| Baldur's Gate Charlatan        | Deception, Sleight of Hand                                                                                                                                                  |
+| Baldur's Gate Criminal         | Deception, Stealth                                                                                                                                                          |
+| Baldur's Gate Entertainer      | Acrobatics, Performance                                                                                                                                                     |
+| Baldur's Gate Folk Hero        | Animal Handling, Survival                                                                                                                                                   |
+| Baldur's Gate Guild Artisan    | Insight, Persuasion                                                                                                                                                         |
+| Baldur's Gate Hermit           | Medicine, Religion                                                                                                                                                          |
+| Baldur's Gate Noble            | History, Persuasion                                                                                                                                                         |
+| Baldur's Gate Outlander        | Athletics, Survival                                                                                                                                                         |
+| Baldur's Gate Sage             | Arcana, History                                                                                                                                                             |
+| Baldur's Gate Sailor           | Athletics, Perception                                                                                                                                                       |
+| Baldur's Gate Soldier          | Athletics, Intimidation                                                                                                                                                     |
+| Baldur's Gate Urchin           | Sleight of Hand, Stealth                                                                                                                                                    |
+| Boros Legionnaire              | Athletics, Intimidation                                                                                                                                                     |
+| Celebrity Adventurer's Scion   | Perception, Performance                                                                                                                                                     |
+| Charlatan                      | Deception, Sleight of Hand                                                                                                                                                  |
+| City Watch                     | Athletics, Insight                                                                                                                                                          |
+| City Watch (Investigator)      | Insight, Investigation                                                                                                                                                      |
+| Clan Crafter                   | History, Insight                                                                                                                                                            |
+| Cloistered Scholar             | History; choose 1 of Arcana, Nature, or Religion                                                                                                                            |
+| Courtier                       | Insight, Persuasion                                                                                                                                                         |
+| Criminal                       | Deception, Stealth                                                                                                                                                          |
+| Criminal (Spy)                 | Deception, Stealth                                                                                                                                                          |
+| Custom Background              | Any                                                                                                                                                                         |
+| Dimir Operative                | Deception, Stealth                                                                                                                                                          |
+| Entertainer                    | Acrobatics, Performance                                                                                                                                                     |
+| Entertainer (Gladiator)        | Acrobatics, Performance                                                                                                                                                     |
+| Faceless                       | Deception, Intimidation                                                                                                                                                     |
+| Faction Agent                  | Insight; choose 1 of Arcana, Animal Handling, Deception, History, Intimidation, Investigation, Medicine, Nature, Perception, Performance, Persuasion, Religion, or Survival |
+| Failed Merchant                | Investigation, Persuasion                                                                                                                                                   |
+| Far Traveler                   | Insight, Perception                                                                                                                                                         |
+| Feylost                        | Deception, Survival                                                                                                                                                         |
+| Fisher                         | History, Survival                                                                                                                                                           |
+| Folk Hero                      | Animal Handling, Survival                                                                                                                                                   |
+| Gambler                        | Deception, Insight                                                                                                                                                          |
+| Gate Warden                    | Persuasion, Survival                                                                                                                                                        |
+| Giant Foundling                | Intimidation, Survival                                                                                                                                                      |
+| Golgari Agent                  | Nature, Survival                                                                                                                                                            |
+| Gruul Anarch                   | Animal Handling, Athletics                                                                                                                                                  |
+| Guild Artisan                  | Insight, Persuasion                                                                                                                                                         |
+| Guild Artisan (Guild Merchant) | Insight, Persuasion                                                                                                                                                         |
+| Haunted One                    | Choose 2 of Arcana, Investigation, Religion, or Survival                                                                                                                    |
+| Hermit                         | Medicine, Religion                                                                                                                                                          |
+| House Agent                    | Investigation, Persuasion                                                                                                                                                   |
+| Inheritor                      | Survival; choose 1 of Arcana, History, or Religion                                                                                                                          |
+| Investigator                   | Choose 2 of Insight, Investigation, or Perception                                                                                                                           |
+| Izzet Engineer                 | Arcana, Investigation                                                                                                                                                       |
+| Knight of Solamnia             | Athletics, Survival                                                                                                                                                         |
+| Knight of the Order            | Persuasion; choose 1 of Arcana, History, Nature, or Religion                                                                                                                |
+| Lorehold Student               | History, Religion                                                                                                                                                           |
+| Mage of High Sorcery           | Arcana, History                                                                                                                                                             |
+| Marine                         | Athletics, Survival                                                                                                                                                         |
+| Mercenary Veteran              | Athletics, Persuasion                                                                                                                                                       |
+| Noble                          | History, Persuasion                                                                                                                                                         |
+| Noble (Knight)                 | History, Persuasion                                                                                                                                                         |
+| Noble (Retainers)              | History, Persuasion                                                                                                                                                         |
+| Orzhov Representative          | Intimidation, Religion                                                                                                                                                      |
+| Outlander                      | Athletics, Survival                                                                                                                                                         |
+| Plaintiff                      | Medicine, Persuasion                                                                                                                                                        |
+| Planar Philosopher             | Arcana; choose 1 of Religion, Insight, Nature, Intimidation, History, Stealth, Perception, Medicine, Survival, Persuasion, Performance, or Athletics                        |
+| Prismari Student               | Acrobatics, Performance                                                                                                                                                     |
+| Quandrix Student               | Arcana, Nature                                                                                                                                                              |
+| Rakdos Cultist                 | Acrobatics, Performance                                                                                                                                                     |
+| Rewarded                       | Insight, Persuasion                                                                                                                                                         |
+| Rival Intern                   | History, Investigation                                                                                                                                                      |
+| Ruined                         | Stealth, Survival                                                                                                                                                           |
+| Rune Carver                    | History, Perception                                                                                                                                                         |
+| Sage                           | Arcana, History                                                                                                                                                             |
+| Sailor                         | Athletics, Perception                                                                                                                                                       |
+| Sailor (Pirate)                | Athletics, Perception                                                                                                                                                       |
+| Selesnya Initiate              | Nature, Persuasion                                                                                                                                                          |
+| Shipwright                     | History, Perception                                                                                                                                                         |
+| Silverquill Student            | Intimidation, Persuasion                                                                                                                                                    |
+| Simic Scientist                | Arcana, Medicine                                                                                                                                                            |
+| Smuggler                       | Athletics, Deception                                                                                                                                                        |
+| Soldier                        | Athletics, Intimidation                                                                                                                                                     |
+| Urban Bounty Hunter            | Choose 2 of Deception, Insight, Persuasion, or Stealth                                                                                                                      |
+| Urchin                         | Sleight of Hand, Stealth                                                                                                                                                    |
+| Uthgardt Tribe Member          | Athletics, Survival                                                                                                                                                         |
+| Waterdhavian Noble             | History, Persuasion                                                                                                                                                         |
+| Wildspacer                     | Athletics, Survival                                                                                                                                                         |
+| Witchlight Hand                | Performance, Sleight of Hand                                                                                                                                                |
+| Witherbloom Student            | Nature, Survival                                                                                                                                                            |

@@ -21,10 +21,10 @@ As a cleric, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) a mace or (*b*) a warhammer (if proficient)
-- (*a*) [[5eOSRD/Equipment/Armor/Medium Armor/Scale mail]], (*b*) [[leather]] armor, or (*c*) [[5eOSRD/Equipment/Armor/Heavy Armor/Chain Mail]] (if proficient)
+- (*a*) [Scale mail]], (*b*) [[leather]] armor, or (*c*) [[Chain Mail]] (if proficient)
 - (*a*) a light crossbow and 20 bolts or (*b*) any simple weapon
-- (*a*) a [[5eOSRD/Equipment/Items/Mundane 1/Priest's Pack/Priest's Pack]] or (*b*) an [[5eOSRD/Equipment/Adventuring Gear/Packs/Explorer's Pack]]
-- A [[5eOSRD/Equipment/Armor/Shield|shield]] and a [[5eOSRD/Equipment/Adventuring Gear/Holy Symbol]]
+- (*a*) a [[Priest's Pack]] or (*b*) an [[Explorer's Pack]]
+- A [[5eOSRD/Equipment/Armor/Shield|shield]] and a [[Holy Symbol]]
 
 **Table- The Cleric**
 

@@ -7,7 +7,7 @@ You must meet any prerequisite specified in a feat to take that feat. If you eve
 ### Player's Handbook
 [[Actor]]
 [[Alert]]
-[[Athlete]]
+[[5eOSRD/Characterizations/Feats/Feats/Athlete]]
 [[Charger]]
 [[Crossbow Expert]]
 [[Defensive Duelist]]
