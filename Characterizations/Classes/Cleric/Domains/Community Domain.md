@@ -8,21 +8,21 @@ Clerics of such gods value unity, and praise the strength that can be gained whe
 
 | Cleric Level | Spells                                    |
 | ------------ | ----------------------------------------- |
-| 1st          | Bless, Goodberry                          |
-| 3rd          | Aid, Heroism                              |
-| 5th          | Beacon of Hope, Spirit Guardians          |
-| 7th          | Banishment, Mordenkainen's Faithful Hound |
-| 9th          | Mass Cure Wounds, Rary's Telepathic Bond  |
+| 1st          | [[Bless]], [[Goodberry]]                          |
+| 3rd          | [[Aid]], [[Heroism]]                              |
+| 5th          | [[Beacon of Hope]], [[Spirit Guardians]]          |
+| 7th          | [[Banishment]], [[Mordenkainen's Faithful Hound]] |
+| 9th          | [[Mass Cure Wounds]], [[Rary's Telepathic Bond]]  |
 
 #### Blessing of the Hearth
 
-From 1st level, you gain the ability to conjure a small flagstone hearth with a simple iron cooking pot whenever you rest. This hearth helps warm you and your companions, and can be used to prepare hearty and nutritious meals on the road. If you or any friendly creatures you make camp with would regain hit points at the end of a short rest by spending one or more hit dice, each of those creatures may choose to re-roll one of their resting dice, taking the higher roll between the two.
+From 1st level, you gain the ability to conjure a small flagstone hearth with a simple iron cooking pot whenever you rest. This hearth helps warm you and your companions, and can be used to prepare hearty and nutritious meals on the road. If you or any friendly creatures you make camp with would regain hit points at the end of a [[short rest]] by spending one or more hit dice, each of those creatures may choose to re-roll one of their resting dice, taking the higher roll between the two.
 
-Additionally, you gain proficiency with Cook's Utensils.
+Additionally, you gain proficiency with [[Cook's Utensils]].
 
 #### Channel Divinity: Magnificent Feast
 
-Starting at 2nd level, you may use your Channel Divinity to conjure a magical feast for the rough road ahead. By spending 10 minutes, you may create a number of delicious, well-prepared, yet simple food items equal to your Wisdom modifier (minimum of 1). These food items will last up to 8 hours or until the end of a rest, and will never spoil. Eating food created in this way takes an action, providing whomever eats it with healing equal to 2d4 + your cleric level, and can remove either the frightened or poisoned condition from that creature (chosen by the creature when consumed).
+Starting at 2nd level, you may use your Channel Divinity to conjure a magical feast for the rough road ahead. By spending 10 minutes, you may create a number of delicious, well-prepared, yet simple food items equal to your Wisdom modifier (minimum of 1). These food items will last up to 8 hours or until the end of a rest, and will never spoil. Eating food created in this way takes an action, providing whomever eats it with healing equal to 2d4 + your cleric level, and can remove either the [[frightened]] or [[poisoned]] condition from that creature (chosen by the creature when consumed).
 
 #### Channel Divinity: Community Watch
 
@@ -35,5 +35,7 @@ At 8th level, you gain the ability to infuse your weapon with the power to punis
 #### Paragon of the People
 
 At 17th level, your Community Watch grants an additional d6 to each affected ally. It also grants immunity to fear for the duration of the effect. Additionally, your Magnificent Feast produces twice as many foodstuffs, each of which can, when consumed, remove a single curse or disease affecting the target (including attunement to a cursed item).
+
+---
 
 *Source: HWCS p39*

@@ -43,4 +43,6 @@ This eclipse lasts while you concentrate (as if concentrating on a spell) for up
 Additionally, once per turn when you deal radiant damage to any creatures in this area of dim light, you can curse one of those creatures until the eclipse ends (no action required). A creature cursed in this way has its speed halved and can't regain hit points.
 Once you use this feature, you can't use it again until you finish a long rest.
 
+---
+
 *Source: TDCSR p169*

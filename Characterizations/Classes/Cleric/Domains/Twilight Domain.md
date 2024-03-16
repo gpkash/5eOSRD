@@ -74,4 +74,6 @@ You are blessed with divine might in battle. When a creature takes damage from o
 
 The twilight that you summon offers a protective embrace: you and your allies have half cover while in the sphere created by your Twilight Sanctuary.
 
+---
+
 *Source: [[TCE]] p34*

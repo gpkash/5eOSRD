@@ -48,4 +48,6 @@ Once you use this feature, you can't use it again until you finish a short or [[
 
 **_Area Reading._** As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a number of days equal to your [[Wisdom]] score. For each minute you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.
 
-***Source: [[Player's Handbook]]***
+---
+
+***Source: [[PHB]] p56***

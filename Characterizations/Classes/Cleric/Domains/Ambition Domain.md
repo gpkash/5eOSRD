@@ -10,17 +10,17 @@ At each indicated cleric level, add the listed spells to your spells prepared.
 
 | Cleric Level | Spells                            |
 | ------------ | --------------------------------- |
-| 1st          | bane, disguise self               |
-| 3rd          | mirror image, ray of enfeeblement |
-| 5th          | bestow curse, vampiric touch      |
-| 7th          | death ward, dimension door        |
-| 9th          | dominate person, modify memory    |
+| 1st          | [[5eOSRD/Spellcasting/Spells/Bane/Bane\|bane]], [[disguise self]]               |
+| 3rd          | [[mirror image]], [[ray of enfeeblement]] |
+| 5th          | [[bestow curse]], [[vampiric touch]]      |
+| 7th          | [[death ward]], [[dimension door]]        |
+| 9th          | [[dominate person]], [[modify memory]]    |
 
 #### Warding Flare 
 
-When you choose this domain at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature.
+When you choose this domain at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be [[blinded]] is immune to this feature.
 
-You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+You can use this feature a number of times equal to your [[Wisdom]] modifier (a minimum of once). You regain all expended uses when you finish a [[long rest]].
 
 #### Channel Divinity: Invoke Duplicity
 
@@ -32,10 +32,12 @@ For the duration, you can cast spells as though you were in the illusion's space
 
 #### Channel Divinity: Cloak of Shadows
 
-Starting at 6th level, you can use your Channel Divinity to vanish. As an action, you become invisible until the end of your next turn. You become visible if you attack or cast a spell.
+Starting at 6th level, you can use your Channel Divinity to vanish. As an action, you become [[invisible]] until the end of your next turn. You become visible if you attack or cast a spell.
 
 #### Improved Duplicity
 
 At 17th level, you can create up to four duplicates of yourself, instead of one, when you use Invoke Duplicity. As a bonus action on your turn, you can move any number of them up to 30 feet, to a maximum range of 120 feet.
+
+---
 
 *Source: PSA p27*
