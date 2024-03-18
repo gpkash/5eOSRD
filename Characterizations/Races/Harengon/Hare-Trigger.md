@@ -1,0 +1,1 @@
+**Hare-Trigger**. You can add your proficiency bonus to your initiative rolls.
