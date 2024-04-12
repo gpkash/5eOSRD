@@ -39,7 +39,7 @@ As an entertainer and purveyor of the "Jim Darkmagic Experience," the legendary 
 
 **Spellcasting.** Jim is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). He has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[friends]], [[mage hand]], [[minor illusion]], [[prestidigitation]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[friends]], [[mage hand]], [[minor illusion]], [[prestidigitation]]
 1st level (4 slots): [[disguise self]], [[Jim's magic missile|AI]]*, [[mage armor]]
 2nd level (3 slots): [[invisibility]], [[Jim's glowing coin|AI]]*
 3rd level (3 slots): [[incite greed|AI]]*, [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]

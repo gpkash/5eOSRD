@@ -7,7 +7,7 @@
 | [[Booming Blade]]                  | Cantrip   | Evocation     |
 | [[Create Bonfire]]                 | Cantrip   | Conjuration   |
 | [[Dancing Lights]]                 | Cantrip   | Evocation     |
-| [[Fire Bolt]]                      | Cantrip   | Evocation     |
+| [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]]                      | Cantrip   | Evocation     |
 | [[Frostbite]]                      | Cantrip   | Evocation     |
 | [[Green-Flame Blade]]              | Cantrip   | Evocation     |
 | [[Guidance]]                       | Cantrip   | Divination    |

@@ -44,7 +44,7 @@ There can be little doubt that this ancient dragon is one of the most intelligen
 
 **Spellcasting.** Niv-Mizzet is a 20th-level Izzet spellcaster. His spellcasting ability is Intelligence (spell save DC 26, +18 to hit with spell attacks). He has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[prestidigitation]], [[ray of frost]], [[shocking grasp]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[prestidigitation]], [[ray of frost]], [[shocking grasp]]
 1st level (4 slots): [[detect magic]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[thunderwave]], [[unseen servant]]
 2nd level (3 slots): [[blur]], [[enlarge/reduce]], [[flaming sphere]], [[hold person]], [[scorching ray]]
 3rd level (3 slots): [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[lightning bolt]], [[slow]]

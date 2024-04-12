@@ -10,7 +10,7 @@
 | [[Control Flames]]                   | Cantrip   | Transmutation |
 | [[Create Bonfire]]                   | Cantrip   | Conjuration   |
 | [[Dancing Lights]]                   | Cantrip   | Evocation     |
-| [[Fire Bolt]]                        | Cantrip   | Evocation     |
+| [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]]                        | Cantrip   | Evocation     |
 | [[Friends]]                          | Cantrip   | Enchantment   |
 | [[Frostbite]]                        | Cantrip   | Evocation     |
 | [[Green-Flame Blade]]                | Cantrip   | Evocation     |

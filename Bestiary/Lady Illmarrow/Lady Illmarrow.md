@@ -61,7 +61,7 @@ As an undead being, Erandis lost the use of her dragonmark. Thus, when the divin
 
 **Spellcasting.** Illmarrow is a 20th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 23, +15 to hit with spell attacks). Illmarrow has the following wizard spells prepared:
 
-Cantrips (at will): [[chill touch]] (see "Actions" below), [[fire bolt]], [[mage hand]], [[prestidigitation]], [[ray of frost]]
+Cantrips (at will): [[chill touch]] (see "Actions" below), [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[mage hand]], [[prestidigitation]], [[ray of frost]]
 1st level (4 slots): [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[sleep]]
 2nd level (3 slots): [[blur]], [[detect thoughts]], [[mirror image]]
 3rd level (3 slots): [[animate dead]], [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[fly]], [[lightning bolt]]

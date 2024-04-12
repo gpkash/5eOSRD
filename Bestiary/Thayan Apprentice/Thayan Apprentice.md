@@ -25,7 +25,7 @@ _Medium humanoid (human), any non-good alignment_
 
 **Spellcasting.** The apprentice is a 4th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[mage hand]], [[prestidigitation]], [[shocking grasp]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[mage hand]], [[prestidigitation]], [[shocking grasp]]
 1st level (4 slots): [[burning hands]], [[detect magic]], [[mage armor]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (3 slots): [[blur]], [[scorching ray]]
 

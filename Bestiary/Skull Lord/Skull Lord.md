@@ -38,7 +38,7 @@ Infighting and treachery brought skull lords into existence. The first of them a
 
 **Spellcasting.** The skull lord is a 13th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The skull lord knows the following sorcerer spells:
 
-Cantrips (at will): [[chill touch]], [[fire bolt]], [[mage hand]], [[poison spray]], [[ray of frost]], [[shocking grasp]]
+Cantrips (at will): [[chill touch]], [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[mage hand]], [[poison spray]], [[ray of frost]], [[shocking grasp]]
 1st level (4 slots): [[magic missile]], [[expeditious retreat]], [[thunderwave]]
 2nd level (3 slots): [[mirror image]], [[scorching ray]]
 3rd level (3 slots): [[fear]], [[haste]]

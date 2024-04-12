@@ -32,7 +32,7 @@ _Medium humanoid (firenewt), neutral evil_
 
 **Spellcasting.** The firenewt is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 
-Cantrips (at will): [[fire bolt]], [[guidance]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[guidance]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]]
 2nd level (2 slots): [[burning hands]], [[flaming sphere]], [[hellish rebuke]], [[scorching ray]]
 
 ##### Actions

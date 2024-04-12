@@ -33,7 +33,7 @@ Preeta served as an assistant to Arcturia, one of Halaster's apprentices, until 
 
 **Spellcasting.** The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]]
 1st level (4 slots): [[detect magic]], [[mage armor]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (3 slots): [[misty step]], [[suggestion]]
 3rd level (3 slots): [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[fly]]

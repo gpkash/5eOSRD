@@ -38,7 +38,7 @@ Eo's only weakness is her children. Her son, Aeshma, has gone missing recently. 
 
 **Spellcasting.** Eo Ashmajiir is an 18th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). Eo can cast the following spells:
 
-Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]], [[shocking grasp]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]], [[shocking grasp]]
 1st level (4 slots): [[chromatic orb]]*, [[detect magic]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (3 slots): [[detect thoughts]], [[mirror image]], [[misty step]]
 3rd level (3 slots): [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[lightning bolt]]

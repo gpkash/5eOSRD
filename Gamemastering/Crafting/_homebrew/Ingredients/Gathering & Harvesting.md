@@ -2,17 +2,17 @@
 
 ### Rules for Gathering
 Certain areas may contain several harvestable plants, fungi or, rarely, animals. To determine what goods can be found in areas, make a nature check. If the check is:
-- ≥10 all common plants and fungi bound to that environment are identified
-- ≥15 all common and uncommon plants and fungi bound to that environment are identified
-- ≥20 all common, uncommon and rare plants and fungi bound to that environment are identified
+- ≥DC10 all common plants and fungi bound to that environment are identified
+- ≥DC15 all common and uncommon plants and fungi bound to that environment are identified
+- ≥DC20 all common, uncommon and rare plants and fungi bound to that environment are identified
 
 The DM can decide to be more or less lenient depending on the area, a lush jungle may contain more interesting herbs and fungi than a windswept desert, after all. A DM can also pick and choose a few ingredients.
 
 Inspecting an area to make the nature check takes 15 minutes. If the DM allows it, a +3 can be added to the check for each additional 15 minutes spent on investigating the area to a maximum of +6.
+
 The player can repeatedly search an area without repercussions on the amount of ingredients obtained from an area.
 
 ### Rules for Harvesting
-
 Once a herb or fungus is identified and the player is proficient with the herbalism kit, they can throw a d20 and add their proficiency bonus and their Potion Making Level modifier (see page 22) to that throw to determine if they can harvest the ingredient. 
 
 Harvesting an ingredient takes 10 minutes. If the DM allows it, a +3 can be added to the check for each additional 10 minutes spent on gathering the ingredient to a maximum of +6. The player must decide beforehand how long they want to spent on harvesting the ingredient.
@@ -28,7 +28,6 @@ Obtaining animal based ingredients doesn’t require proficiency with the associ
 Attempting to harvest animal ingredients can be done only once, failure results in the destruction of all harvestable ingredients.
 
 ### Important!
-
 Each item gathered is a separate, 10+/30+ min action. A player collecting more than 1 ingredient must spent an additional 10+/30+ min gathering it, but does not have to roll a new nature check.
 
 ### Potion Crafting
@@ -48,7 +47,6 @@ If a potion making Check is failed, the original ingredients are returned, thoug
 | Rare              | 50 gp  | 
 | Very Rare         | 150 gp |
 | Legendary         | 500 gp |
-
 
 
 ## [[Gatherable Plants & Fungi]]

@@ -5,6 +5,7 @@ The weather is a major part of everyday life, but one that often doesn't make it
 You can either select the appropriate weather for the day in your season, locale, and climate, or you can use the provided tables to generate a generic random result.
 
 You can change weather as often or as little as you would like for your game, but I'd recommend once per day, rolling at the start of the day and using that weather throughout the day to keep things nice and simple. Rolling two, three, or even four times a day can produce more varied and realistic results.
+
 You can pick weather to fit your campaign or roll on the Weather table to determine the weather for a given day, adjusting for the terrain and season as appropriate.
 
 The following weather effects are just the baseline suggestion for how these weather effects impact your game.
@@ -44,15 +45,21 @@ These represent a generic baseline for your seasons. You can add a modifier to t
 
 ### Summer
 
-| d100  | Weather           |
-|:-----:| ----------------- |
-|  01   | Thunderstorm      |
-| 02-05 | Rain              |
-| 06-30 | Light Clouds      |
-| 31-80 | Clear Skies       |
-| 81-85 | High Winds        |
-| 86-99 | Scorching Heat    |
-|  100  | Strange Phenomena |
+| d100  | Weather                   |
+|:-----:| ------------------------- |
+|  01   | Severe Thunderstorm, hail | 
+| 02-05 | Thunderstorm              |
+| 06-10 | Heavy Rain                |
+| 11-14 | Rain                      |
+| 15-19 | Scattered Showers         |
+| 20-24 | Spitting                  |
+| 25-29 | Mostly Cloudy             |
+| 30-34 | Partly Cloudy             |
+| 35-39 | Mostly Sunny              |
+| 40-80 | Clear Skies               |
+| 81-85 | High Winds                |
+| 86-99 | Scorching Heat            |
+|  100  | Strange Phenomena         |
 
 ### Fall
 
@@ -172,4 +179,6 @@ On a 1, you are attacked by an air elemental.
 
 Fluctuations in the weave drive strange flashing lights and odd phenomena sweeping across the world. Rain falls upwards, plants bloom unseasonable, and people see apparitions of the dead and gone. High chance of encounters with sentient plants, ghosts, and strange illusions. All spells cast are naturally upcast by 1 level, but trigger a Wild Surge as per a Wild Magic Sorcerer class feature until the storm subsides (or a table of similar effects including apparitions, illusions, and magical mishaps).
 
-Source: _Kibbles' Compendium of Common Sense Stuff_
+---
+
+Original Source: _Kibbles' Compendium of Common Sense Stuff, altered by Gary Kash_

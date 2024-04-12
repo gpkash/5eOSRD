@@ -40,7 +40,7 @@ Several of the older and more seasoned wizards in Waterdeep consider Vajra an up
 
 **Spellcasting.** Vajra is an 18th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 18, +12 to hit with spell attacks). She has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[message]], [[prestidigitation]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[message]], [[prestidigitation]]
 1st level (4 slots): [[detect magic]], [[identify]], [[mage armor]], [[thunderwave]]
 2nd level (3 slots): [[invisibility]], [[misty step]], [[web]]
 3rd level (3 slots): [[counterspell]], [[fly]], [[sending]]

@@ -45,7 +45,7 @@ Pelyious crews his airship with a family of wolfweres. Most stay in their human 
 
 **Spellcasting.** Pelyious is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). Pelyious has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]]
 1st level (4 slots): [[detect magic]], [[mage armor]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (3 slots): [[misty step]], [[suggestion]]
 3rd level (3 slots): [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[fly]]

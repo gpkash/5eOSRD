@@ -19,4 +19,8 @@ If all the above requirements are met, the result of the process is an item of t
 
 Crafting Magic Items. Creating a magic item requires more than just time, effort, and materials. It is a long-term process that involves one or more adventures to track down rare materials and the lore needed to create the item.
 
+---
+
+For more detailed homebrew crafting, see [[Crafting Rules]].
+
 *Source: [[XGE]] page 128*

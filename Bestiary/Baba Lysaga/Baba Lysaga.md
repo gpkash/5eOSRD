@@ -62,7 +62,7 @@ Strahd doesn't consider the wereravens a serious threat, but Lysaga has chosen t
 
 **Spellcasting.** Baba Lysaga is a 16th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Baba Lysaga has the following wizard spells prepared:
 
-Cantrips (at will): [[acid splash]], [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]]
+Cantrips (at will): [[acid splash]], [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]]
 1st level (4 slots): [[detect magic]], [[magic missile]], [[sleep]], [[witch bolt]]
 2nd level (3 slots): [[crown of madness]], [[enlarge/reduce]], [[misty step]]
 3rd level (3 slots): [[dispel magic]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[lightning bolt]]

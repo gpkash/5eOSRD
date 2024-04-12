@@ -34,7 +34,7 @@ Apprentice wizards are novice arcane spellcasters who serve more experienced wiz
 
 **Spellcasting.** The Dwarf is a 1st-level spellcaster. Its spellcasting ability is Intelligence. It has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[mending]], [[prestidigitation]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[mending]], [[prestidigitation]]
 1st level (2 slots): [[burning hands]], [[disguise self]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 
 ##### Actions

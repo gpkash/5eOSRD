@@ -30,7 +30,7 @@ Eternal Flame priests see the world around them as impure and unworthy, and beli
 
 **Spellcasting.** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 
-Cantrips (at will): [[control flames]], [[create bonfire]], [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[minor illusion]]
+Cantrips (at will): [[control flames]], [[create bonfire]], [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[minor illusion]]
 1st level (4 slots): [[burning hands]], [[expeditious retreat]], [[mage armor]]
 2nd level (3 slots): [[blur]], [[scorching ray]]
 3rd level (2 slots): [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]

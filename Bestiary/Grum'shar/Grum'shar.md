@@ -32,7 +32,7 @@ Apprentice wizards are novice arcane spellcasters who serve more experienced wiz
 
 **Spellcasting.** Grum'shar is a 1st-level spellcaster. His spellcasting ability is Intelligence. He has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[mending]], [[prestidigitation]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[mending]], [[prestidigitation]]
 1st level (2 slots): [[burning hands]], [[disguise self]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 
 ##### Actions

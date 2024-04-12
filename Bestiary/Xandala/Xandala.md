@@ -44,7 +44,7 @@ Xandala's magic traces back to a draconic bloodline, and parts of her skin are c
 
 **Spellcasting.** Xandala is a 9th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). Xandala has the following sorcerer spells prepared:
 
-Cantrips (at will): [[acid splash]], [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[ray of frost]]
+Cantrips (at will): [[acid splash]], [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[ray of frost]]
 1st level (4 slots): [[chromatic orb]], [[feather fall]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (4 slots): [[invisibility]], [[misty step]]
 3rd level (3 slots): [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[fly]]

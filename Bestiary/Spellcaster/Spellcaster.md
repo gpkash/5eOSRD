@@ -31,7 +31,7 @@ Cantrips (at will): [[guidance]], [[sacred flame]]
 
 **Spellcasting (Mage).** The spellcaster's spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The spellcaster has following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]]
 1st level (2 slots): [[sleep]]
 
 ##### Actions

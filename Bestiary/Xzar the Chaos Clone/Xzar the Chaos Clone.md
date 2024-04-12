@@ -41,7 +41,7 @@ Xzar is pragmatic and manipulative enough to appear amicable while sizing up pot
 
 **Spellcasting.** Xzar is an 16th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 17, +12 to hit with spell attacks). Xzar has the following wizard spells prepared:
 
-Cantrips (at will): [[acid splash]], [[fire bolt]], [[mage hand]], [[poison spray]]
+Cantrips (at will): [[acid splash]], [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[mage hand]], [[poison spray]]
 1st level (4 slots): [[false life]]*, [[mage armor]], [[ray of sickness]]*
 2nd level (3 slots): [[ray of enfeeblement]]*, [[mirror image]], [[misty step]]
 3rd level (3 slots): [[animate dead]]*, [[counterspell]], [[dispel magic]], [[vampiric touch]]*

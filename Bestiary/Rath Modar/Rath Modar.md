@@ -26,7 +26,7 @@ _Medium humanoid (human), lawful evil_
 
 **Spellcasting.** Rath is an 11th-level spellcaster who uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Rath has the following spells prepared from the wizard spell list:
 
-Cantrips (at will): [[fire bolt]], [[minor illusion]], [[prestidigitation]], [[shocking grasp]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[minor illusion]], [[prestidigitation]], [[shocking grasp]]
 1st level (4 slots): [[chromatic orb]], [[color spray]], [[mage armor]], [[magic missile]]
 2nd level (3 slots): [[detect thoughts]], [[mirror image]], [[phantasmal force]]
 3rd level (3 slots): [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[major image]]

@@ -44,7 +44,7 @@ Some tales assert that the Lord of Blades led the warforged armies of Cyre in th
 
 **Spellcasting.** The Lord of Blades is a 20th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). He has the following artificer spells prepared:
 
-Cantrips (at will): [[fire bolt]] (see "Actions" below), [[mage hand]], [[mending]], [[prestidigitation]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]] (see "Actions" below), [[mage hand]], [[mending]], [[prestidigitation]]
 1st level (4 slots): [[expeditious retreat]], [[sanctuary]], [[thunderwave]]
 2nd level (3 slots): [[blur]], [[heat metal]], [[scorching ray]], [[see invisibility]]
 3rd level (3 slots): [[dispel magic]], [[fly]], [[haste]]

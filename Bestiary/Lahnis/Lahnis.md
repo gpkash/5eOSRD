@@ -26,7 +26,7 @@ _Medium humanoid (any race), any alignment_
 
 **Spellcasting.** The evoker is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The evoker has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]]*, [[5eOSRD/Spellcasting/Spells/Light/Light|Light]]*, [[prestidigitation]], [[ray of frost]]*
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]]*, [[5eOSRD/Spellcasting/Spells/Light/Light|Light]]*, [[prestidigitation]], [[ray of frost]]*
 1st level (4 slots): [[burning hands]]*, [[mage armor]], [[magic missile]]*
 2nd level (3 slots): [[mirror image]], [[misty step]], [[shatter]]*
 3rd level (3 slots): [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]*, [[lightning bolt]]*

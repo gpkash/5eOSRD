@@ -34,7 +34,7 @@ Flabbergast's familiar, Mister Snibbly, uses the cat stat block.
 
 **Spellcasting.** Flabbergast is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). He has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]]
 1st level (4 slots): [[detect magic]], [[mage armor]], [[distort value|AI]]*
 2nd level (3 slots): [[gift of gab|AI]]*, [[suggestion]]
 3rd level (3 slots): [[fast friends|AI]]*, [[lightning bolt]]

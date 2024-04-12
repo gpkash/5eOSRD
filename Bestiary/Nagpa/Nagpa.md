@@ -36,7 +36,7 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
 
 **Spellcasting.** The nagpa is a 15th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). A nagpa has the following wizard spells prepared:
 
-Cantrips (at will): [[chill touch]], [[fire bolt]], [[mage hand]], [[message]], [[minor illusion]]
+Cantrips (at will): [[chill touch]], [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[mage hand]], [[message]], [[minor illusion]]
 1st level (4 slots): [[charm person]], [[detect magic]], [[protection from evil and good]], [[witch bolt]]
 2nd level (3 slots): [[hold person]], [[ray of enfeeblement]], [[suggestion]]
 3rd level (3 slots): [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[fly]]

@@ -1,6 +1,8 @@
 # Thalantyr
 
-**Thalantyr** was a tiefling [[wizard]], specialized in [[School of Conjuration|conjuration]], and a former adventurer who lived in his house called [[High Hedge]], west of [[5eOSRD/Worlds/Forgotten Realms/Prime Material Plane/Realmspace/Toril/Faerûn/Sword Coast/Beregost/Beregost]].
+![[Thalantyr.png]]
+
+**Thalantyr** is a gnome [[wizard]], specialized in [[School of Conjuration|conjuration]], and a former adventurer who lived in his house called [[High Hedge]], west of [[5eOSRD/Worlds/Forgotten Realms/Prime Material Plane/Realmspace/Toril/Faerûn/Sword Coast/Beregost/Beregost]].
 
 ## Personality
 

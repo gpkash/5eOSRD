@@ -35,7 +35,7 @@ A scale sorcerer who resides in or near a dragon's lair may serve as that dragon
 
 **Spellcasting.** The kobold is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has the following sorcerer spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[mage hand]], [[mending]], [[poison spray]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[mage hand]], [[mending]], [[poison spray]]
 1st level (4 slots): [[charm person]], [[chromatic orb]], [[expeditious retreat]]
 2nd level (2 slots): [[scorching ray]]
 

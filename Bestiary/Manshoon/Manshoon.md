@@ -50,7 +50,7 @@ Manshoon can have only one simulacrum at any given time, and he uses it as a sub
 
 **Spellcasting.** Manshoon is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 21, +15 to hit with spell attacks). He has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]], [[shocking grasp]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]], [[shocking grasp]]
 1st level (4 slots): [[detect magic]], [[mage armor]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (3 slots): [[detect thoughts]], [[mirror image]], [[misty step]]
 3rd level (3 slots): [[counterspell]], [[lightning bolt]], [[sending]]

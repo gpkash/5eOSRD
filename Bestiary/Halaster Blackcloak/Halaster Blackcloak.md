@@ -49,7 +49,7 @@ Halaster's true form is that of a tall, gaunt, male human, but he uses magic to 
 
 **Spellcasting.** Halaster is a 20th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 22, +14 to hit with spell attacks). He can cast [[disguise self]] and [[invisibility]] at will. He can cast [[fly]] and [[lightning bolt]] once each without expending a spell slot, but can't do so again until he finishes a short or long rest. Halaster has the following wizard spells prepared:
 
-Cantrips (at will): [[dancing lights]], [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]]
+Cantrips (at will): [[dancing lights]], [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]]
 1st level (4 slots): [[mage armor]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[silent image]]
 2nd level (3 slots): [[arcane lock]], [[cloud of daggers]], [[darkvision]], [[knock]]
 3rd level (3 slots): [[counterspell]], [[dispel magic]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]

@@ -30,7 +30,7 @@ The Azorius Senate has spellcasters who are trained to capture lawbreakers and b
 
 **Spellcasting.** The lawmage is an 8th-level Azorius spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The lawmage has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[friends]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[message]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[friends]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[message]]
 1st level (4 slots): [[alarm]], [[expeditious retreat]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (3 slots): [[arcane lock]], [[detect thoughts]], [[hold person]]
 3rd level (3 slots): [[clairvoyance]], [[dispel magic]], [[slow]]

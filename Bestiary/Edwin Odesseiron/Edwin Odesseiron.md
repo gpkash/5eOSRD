@@ -41,7 +41,7 @@ Despite his inarguably high intelligence, Edwin seems to lack common sense. As a
 
 **Spellcasting.** Edwin is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 18, +12 to hit with spell attacks). Edwin has the following wizard spells prepared:
 
-Cantrips (at will): [[acid splash]]*, [[fire bolt]], [[mage hand]]*, [[poison spray]]*
+Cantrips (at will): [[acid splash]]*, [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[mage hand]]*, [[poison spray]]*
 1st level (4 slots): [[mage armor]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[unseen servant]]*
 2nd level (3 slots): [[cloud of daggers]]*, [[mirror image]], [[misty step]]*
 3rd level (3 slots): [[counterspell]], [[dispel magic]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[stinking cloud]]

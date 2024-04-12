@@ -60,7 +60,7 @@ When he was young, living in the vast, internecine planar city of Ravnica, Tyreu
 
 **Spellcasting.** Tyreus is a 16th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). He has the following wizard spells prepared.
 
-Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[minor illusion]], [[shocking grasp]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[minor illusion]], [[shocking grasp]]
 1st level (4 slots): [[mage armor]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[thunderwave]]
 2nd level (3 slots): [[invisibility]]*, [[mirror image]]*, [[phantasmal force]]*
 3rd level (3 slots): [[counterspell]], [[fly]], [[lightning bolt]], [[major image]]*

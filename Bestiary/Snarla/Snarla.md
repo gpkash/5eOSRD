@@ -77,7 +77,7 @@ The following information applies to specific lycanthropes.
 
 **Spellcasting.** Snarla is a 6th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). She has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[shocking grasp]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[shocking grasp]]
 1st level (4 slots): [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[thunderwave]]
 2nd level (3 slots): [[mirror image]], [[web]]
 3rd level (3 slots): [[dispel magic]], [[fear]], [[haste]], [[stinking cloud]]

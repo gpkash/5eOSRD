@@ -50,7 +50,7 @@ Duergar make war against their dwarven kin and all other subterranean races. The
 
 **Spellcasting.** Snurrevin is a 3rd-level spellcaster. His spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). He has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[mage hand]], [[minor illusion]], [[shocking grasp]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[mage hand]], [[minor illusion]], [[shocking grasp]]
 1st level (4 slots): [[color spray]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[silent image]]
 2nd level (2 slots): [[hold person]], [[shatter]]
 

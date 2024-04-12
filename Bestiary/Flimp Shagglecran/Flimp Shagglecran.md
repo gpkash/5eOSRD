@@ -43,7 +43,7 @@ Together the two of them were able to rebuild and modify the wrecked ship which 
 
 **Spellcasting.** Flimp is a 14th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). Flimp has the following artificer spells prepared:
 
-Cantrips (at will): [[acid splash]], [[fire bolt]], [[guidance]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]]
+Cantrips (at will): [[acid splash]], [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[guidance]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]]
 1st level (4 slots): [[cure wounds]], [[feather fall]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (3 slots): [[aid]], [[blur]], [[warding bond]]
 3rd level (3 slots): [[aura of vitality]], [[blink]], [[elemental weapon]]

@@ -34,7 +34,7 @@ A halfling necromancer who is in possession of the Stone of Golorr. He lives in 
 
 **Spellcasting.** The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence. The mage has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]]
 1st level (4 slots): [[detect magic]], [[mage armor]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (3 slots): [[misty step]], [[suggestion]]
 3rd level (3 slots): [[animate dead]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[fly]]

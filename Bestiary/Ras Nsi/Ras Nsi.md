@@ -58,7 +58,7 @@ Withdrawing to Omu, Nsi clung to his noble title, joined forces with the yuan-ti
 
 **Spellcasting.** Ras Nsi is an 11th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). Ras Nsi has the following wizard spells prepared:
 
-Cantrips (at will): [[chill touch]], [[fire bolt]], [[mage hand]], [[mending]], [[poison spray]]
+Cantrips (at will): [[chill touch]], [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[mage hand]], [[mending]], [[poison spray]]
 1st level (4 slots): [[expeditious retreat]], [[false life]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (3 slots): [[blindness/deafness]], [[hold person]], [[misty step]]
 3rd level (3 slots): [[animate dead]], [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]

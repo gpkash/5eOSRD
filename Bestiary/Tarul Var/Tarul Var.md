@@ -45,7 +45,7 @@ After failing in an earlier task for the Red Wizards, the lich Tarul Var is sequ
 
 **Spellcasting.** Var is a 12th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). He has the following wizard spells prepared: *Conjuration spell of 1st level or higher
 
-Cantrips (at will): [[fire bolt]], [[mage hand]], [[minor illusion]], [[prestidigitation]], [[ray of frost]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[mage hand]], [[minor illusion]], [[prestidigitation]], [[ray of frost]]
 1st level (4 slots): [[detect magic]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[unseen servant]]*
 2nd level (3 slots): [[detect thoughts]], [[flaming sphere]]*, [[mirror image]], [[scorching ray]]
 3rd level (3 slots): [[counterspell]], [[dispel magic]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]

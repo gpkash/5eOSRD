@@ -48,7 +48,7 @@ The tiefling has the secret support of the archdevil Levistus, having traded her
 
 **Spellcasting.** Avarice is a 10th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 14; +6 to hit with spell attacks). She has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]] (see "Actions" below), [[mage hand]], [[message]], [[minor illusion]], [[prestidigitation]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]] (see "Actions" below), [[mage hand]], [[message]], [[minor illusion]], [[prestidigitation]]
 1st level (4 slots): [[detect magic]], [[mage armor]], [[magic missile]]
 2nd level (3 slots): [[flaming sphere]], [[knock]], [[scorching ray]]
 3rd level (3 slots): [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[fly]]

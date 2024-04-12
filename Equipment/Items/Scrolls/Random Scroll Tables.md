@@ -21,8 +21,8 @@
 | **25-26**        | [[Mage Armor]]                          | 1st       |
 | **27-28**        | [[Mage Hand]]                           | 1st       |
 | **29-30**        | [[Sleep]]                               | 1st       |
-| **31-32**        | Tasha's [[Hideous Laughter]]            | 1st       |
-| **33-34**        | Tenser's [[Floating Disk]]              | 1st       |
+| **31-32**        | [[Tasha's Hideous Laughter]]            | 1st       |
+| **33-34**        | [[Tenser's Floating Disk]]              | 1st       |
 | **35-36**        | [[Witch Bolt]]                          | 1st       |
 | **37-38**        | [[Blindness-Deafness]]                  | 2nd       |
 | **39-40**        | [[Earthbind]]                           | 2nd       |
@@ -49,7 +49,7 @@
 | **81**           | [[Counterspell]]                        | 3rd       |
 | **82**           | [[Dispel Magic]]                        | 3rd       |
 | **83**           | [[Fear]]                                | 3rd       |
-| **84**           | [[5eOSRD/Spellcasting/Spells/Fireball]] | 3rd       |
+| **84**           | [[5eOSRD/Spellcasting/Spells/Fireball/Fireball\|Fireball]] | 3rd       |
 | **85**           | [[Fly]]                                 | 3rd       |
 | **86**           | [[Gaseous Form]]                        | 3rd       |
 | **87**           | [[Haste]]                               | 3rd       |

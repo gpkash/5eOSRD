@@ -30,7 +30,7 @@ Boros firefists combine potent magic with peerless fighting ability, inspiring a
 
 **Spellcasting.** The firefist is a 9th-level Boros spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It has the following cleric spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[sacred flame]], [[spare the dying]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[sacred flame]], [[spare the dying]]
 1st level (4 slots): [[guiding bolt]], [[healing word]], [[heroism]], [[shield of faith]]
 2nd level (3 slots): [[lesser restoration]], [[scorching ray]]
 3rd level (3 slots): [[blinding smite]], [[crusader's mantle]], [[revivify]]

@@ -41,7 +41,7 @@ When enemies threaten the Temple of Eternal Flame, Vanifer withdraws to the Weep
 
 **Spellcasting.** Vanifer is a 10th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). Vanifer knows the following sorcerer spells:
 
-Cantrips (at will): [[chill touch]], [[fire bolt]], [[friends]], [[mage hand]], [[message]], [[produce flame]], [[thaumaturgy]]
+Cantrips (at will): [[chill touch]], [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[friends]], [[mage hand]], [[message]], [[produce flame]], [[thaumaturgy]]
 1st level (4 slots): [[burning hands]], [[chromatic orb]], [[hellish rebuke]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (3 slots): [[darkness]], [[detect thoughts]], [[misty step]], [[scorching ray]]
 3rd level (3 slots): [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[hypnotic pattern]]

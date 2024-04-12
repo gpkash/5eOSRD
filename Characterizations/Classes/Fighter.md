@@ -20,10 +20,10 @@ As a fighter, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-- (*a*) [[5eOSRD/Equipment/Armor/Heavy Armor/Chain Mail]] or (*b*) [[leather]] armor, longbow, and 20 arrows
+- (*a*) [[Chain Mail]] or (*b*) [[leather]] armor, longbow, and 20 arrows
 - (*a*) a martial weapon and a [[5eOSRD/Equipment/Armor/Shield|shield]] or (*b*) two [[Martial Weapons]]
 - (*a*) a light crossbow and 20 bolts or (*b*) two handaxes
-- (*a*) a [[5eOSRD/Equipment/Adventuring Gear/Packs/Dungeoneer's Pack]] or (*b*) an [[5eOSRD/Equipment/Adventuring Gear/Packs/Explorer's Pack]]
+- (*a*) a [[Dungeoneer's Pack]] or (*b*) an [[Explorer's Pack]]
 
 **Table- The Fighter**
 
@@ -104,7 +104,7 @@ The number of attacks increases to three when you reach 11th level in this class
 
 ### Indomitable
 
-Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a [[Long Rest]].
+Beginning at 9th level, you can re-roll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a [[Long Rest]].
 
 You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
 

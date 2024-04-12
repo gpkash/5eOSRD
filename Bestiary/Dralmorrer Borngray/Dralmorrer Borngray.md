@@ -31,7 +31,7 @@ _Medium humanoid (High elf), neutral evil_
 
 **Spellcasting.** Dralmorrer is a 7th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Dralmorrer has the following spells prepared from the wizard spell list:
 
-Cantrips (at will): [[fire bolt]], [[prestidigitation]], [[shocking grasp]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[prestidigitation]], [[shocking grasp]]
 1st level (4 slots): [[longstrider]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[thunderwave]]
 2nd level (2 slots): [[magic weapon]], [[misty step]]
 

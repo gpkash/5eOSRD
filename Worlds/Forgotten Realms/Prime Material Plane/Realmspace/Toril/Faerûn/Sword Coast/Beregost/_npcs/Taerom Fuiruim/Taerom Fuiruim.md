@@ -1,6 +1,6 @@
 # Taerom Fuiruim
 
-**Taerom "Thunderhammer" Fuiruim** is a renowned master armorer and weaponsmith, as well as the owner of [[Thunderhammer Smithy]] in [[5eOSRD/Worlds/Forgotten Realms/Prime Material Plane/Realmspace/Toril/Faerûn/Sword Coast/Beregost/Beregost]] during the mid−14th century DR. He was very well-respected in his town and considered one of the finest smiths in the entirety of the [[Sword Coast]].
+**Taerom "Thunderhammer" Fuiruim** is a renowned master armorer and weaponsmith, as well as the owner of [[Thunderhammer Smithy]] in [[Beregost]] during the mid−14th century DR. He was very well-respected in his town and considered one of the finest smiths in the entirety of the [[Sword Coast]].
 
 ## Description
 

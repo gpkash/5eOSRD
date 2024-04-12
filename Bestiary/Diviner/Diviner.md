@@ -32,7 +32,7 @@ Diviners are specialist wizards who know that knowledge is power. They might act
 
 **Spellcasting.** The diviner is a 15th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The diviner has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[message]], [[true strike]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[message]], [[true strike]]
 1st level (4 slots): [[detect magic]]*, [[feather fall]], [[mage armor]]
 2nd level (3 slots): [[detect thoughts]]*, [[locate object]]*, [[scorching ray]]
 3rd level (3 slots): [[clairvoyance]]*, [[fly]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]

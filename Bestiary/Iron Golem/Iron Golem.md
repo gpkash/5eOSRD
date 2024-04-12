@@ -3,9 +3,6 @@ _Large construct, unaligned_
 
 ![[Iron Golem.jpg]]
 
-
-
-
 ---
 
 **Armor Class** 20 (natural armor)

@@ -14,12 +14,6 @@ Gnolls rarely build permanent structures or craft anything of lasting value. The
 
 **Thirst for Blood** No goodness or compassion resides in the heart of a gnoll. Like a demon, it lacks anything resembling a conscience, and can't be taught or coerced to put aside its destructive tendencies. The gnolls' frenzied bloodlust makes them an enemy to all, and when they lack a common foe, they fight among themselves. Even the most savage orcs avoid allying with gnolls.
 
-
-
-
-
-
-
 ---
 
 **Armor Class** 15 ([[Hide Armor]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]])

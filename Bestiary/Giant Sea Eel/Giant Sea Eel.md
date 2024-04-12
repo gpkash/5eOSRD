@@ -5,11 +5,6 @@ _Large beast, unaligned_
 
 Snaking predators lurking in the dark waters of the ocean, these kelp-colored beasts serve as guards and mounts for the locathah (including those found in Danger at Dunwater).
 
-
-
-
-
-
 ---
 
 **Armor Class** 14 (natural armor)

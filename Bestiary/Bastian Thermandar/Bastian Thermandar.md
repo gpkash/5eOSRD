@@ -35,7 +35,7 @@ As a practitioner of the arcane arts who learned much of his fire magic from Van
 
 **Spellcasting.** Bastian is a 9th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). Bastian knows the following sorcerer spells:
 
-Cantrips (at will): [[fire bolt]], [[mage hand]], [[message]], [[prestidigitation]], [[shocking grasp]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[mage hand]], [[message]], [[prestidigitation]], [[shocking grasp]]
 1st level (4 slots): [[mage armor]], [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]]
 2nd level (3 slots): [[misty step]], [[scorching ray]]
 3rd level (3 slots): [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]

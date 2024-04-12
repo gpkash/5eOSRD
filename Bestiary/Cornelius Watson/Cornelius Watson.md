@@ -42,7 +42,7 @@ Forced to find a new source of income, Doc Watson was convinced by a friend of h
 
 **Spellcasting.** Cornelius Watson is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Cornelius Watson has the following wizard spells prepared:
 
-Cantrips (at will): [[fire bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]], [[shocking grasp]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[prestidigitation]], [[shocking grasp]]
 1st level (4 slots): [[detect magic]]*, [[identify]], [[mage armor]], [[magic missile]]
 2nd level (3 slots): [[detect thoughts]], [[locate object]]*, [[mirror image]], [[misty step]]
 3rd level (3 slots): [[clairvoyance]]*, [[counterspell]], [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]]

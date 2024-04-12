@@ -32,7 +32,7 @@ _Medium humanoid (any race), any alignment_
 
 **Spellcasting.** The warlock is a 17th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 
-Cantrips (at will): [[eldritch blast]], [[fire bolt]], [[friends]], [[mage hand]], [[minor illusion]], [[prestidigitation]], [[shocking grasp]]
+Cantrips (at will): [[eldritch blast]], [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[friends]], [[mage hand]], [[minor illusion]], [[prestidigitation]], [[shocking grasp]]
 5th level (4 slots): [[banishment]], [[burning hands]], [[flame strike]], [[hellish rebuke]], [[magic circle]], [[scorching ray]], [[scrying]], [[stinking cloud]], [[suggestion]], [[wall of fire]]
 
 ##### Actions

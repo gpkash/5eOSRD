@@ -32,7 +32,7 @@ A flamewrath is a spellcaster that has earned the favor of Imix, the Prince of E
 
 **Spellcasting.** The flamewrath is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It knows the following sorcerer spells:
 
-Cantrips (at will): [[control flames]], [[fire bolt]], [[friends]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[minor illusion]]
+Cantrips (at will): [[control flames]], [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[friends]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[minor illusion]]
 1st level (4 slots): [[burning hands]], [[color spray]], [[mage armor]]
 2nd level (3 slots): [[scorching ray]], [[suggestion]]
 3rd level (3 slots): [[5eOSRD/Spellcasting/Spells/Fireball/Fireball]], [[hypnotic pattern]]

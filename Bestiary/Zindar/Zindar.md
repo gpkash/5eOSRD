@@ -46,7 +46,7 @@ Zindar makes extensive use of spells in his day-today work, casting message to d
 
 **Spellcasting.** Zindar is a 14th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). Zindar knows the following sorcerer spells:
 
-Cantrips (at will): [[fire bolt]], [[friends]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[mending]], [[message]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[friends]], [[5eOSRD/Spellcasting/Spells/Light/Light|Light]], [[mage hand]], [[mending]], [[message]]
 1st level (6 slots): [[magic missile]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[sleep]]
 2nd level (4 slots): [[detect thoughts]], [[knock]]
 3rd level (3 slots): [[clairvoyance]], [[tongues]]

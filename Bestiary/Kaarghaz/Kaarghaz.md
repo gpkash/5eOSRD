@@ -46,7 +46,7 @@ Troglodytes make little and build less, scavenging their possessions from their 
 
 **Spellcasting.** Kaarghaz is a 4th-level spellcaster. His spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). He knows the following sorcerer spells:
 
-Cantrips (at will): [[fire bolt]], [[mage hand]], [[poison spray]], [[prestidigitation]], [[ray of frost]]
+Cantrips (at will): [[5eOSRD/Spellcasting/Spells/Fire Bolt/Fire Bolt]], [[mage hand]], [[poison spray]], [[prestidigitation]], [[ray of frost]]
 1st level (6 slots): [[burning hands]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]], [[sleep]]
 2nd level (3 slots): [[invisibility]], [[scorching ray]]
 

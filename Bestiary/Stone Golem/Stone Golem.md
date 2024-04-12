@@ -3,9 +3,6 @@ _Large construct, unaligned_
 
 ![[Stone Golem.jpg]]
 
-
-
-
 ---
 
 **Armor Class** 17 (natural armor)
