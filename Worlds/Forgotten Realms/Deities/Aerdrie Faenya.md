@@ -6,7 +6,7 @@
 **Province:** Air, rain, fertility, birth
 **Symbol:** Bird silhouetted against a cloud
 **Portfolio**: Sky
-**Channel divinity**: [[Preserve life]], [[Destructive wrath]], [[Invoke duplicity]], [[Cloak of shadows]]
+**Channel divinity**: [[Preserve life]], [[Destructive wrath]], [[Invoke Duplicity]], [[Cloak of Shadows]]
 **Favored animals**: Birds, Grasshopper swarms, Tressyms
 **Favored monsters**: Aarakocra, Aasimar, Air elementals, Androsphinxes, Avorals, Cloud giants, Djinn, Griffons, Hippogriffs, Lammasus, Lillends, Pegasi, Pixies, Silver dragons, Storm giants
 **Favored minerals**: Hornbill ivory, sapphire, turquoise
