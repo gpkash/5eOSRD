@@ -4,17 +4,12 @@
 
 An interloper deity, Tyr, known as the **One-Handed** across the [Outer Planes](https://forgottenrealms.fandom.com/wiki/Outer_Planes "Outer Planes"), was the same power as the god of the same name in the [Norse pantheon](https://forgottenrealms.fandom.com/wiki/Norse_pantheon "Norse pantheon"), although in the Realms he was worshiped only as a god of justice and not as a god of war. As the only Norse power worshiped in [Faerûn](https://forgottenrealms.fandom.com/wiki/Faer%C3%BBn "Faerûn"),[note 2] if a [cleric](https://forgottenrealms.fandom.com/wiki/Cleric "Cleric") of the Norse pantheon came to [Toril](https://forgottenrealms.fandom.com/wiki/Toril "Toril") from another world, he or she would be granted spells through Tyr.
 
-“
-
-_A good man is a hammer in the hand of Tyr._
-
-”
-
-— [Miltiades](https://forgottenrealms.fandom.com/wiki/Miltiades "Miltiades") of [Phlan](https://forgottenrealms.fandom.com/wiki/Phlan "Phlan")
+> “_A good man is a hammer in the hand of Tyr._”
+> — [Miltiades](https://forgottenrealms.fandom.com/wiki/Miltiades "Miltiades") of [Phlan](https://forgottenrealms.fandom.com/wiki/Phlan "Phlan")
 
 ## Description
 
-Tyr was portrayed as blind or with a bloody bandage over his eyes and missing his right hand, and he did not try to hide or bandage his stump. He usually was shown as a burly, noble warriorwith a powerful build and a bearded face.
+Tyr was portrayed as blind or with a bloody bandage over his eyes and missing his right hand, and he did not try to hide or bandage his stump. He usually was shown as a burly, noble warrior with a powerful build and a bearded face.
 
 When an [avatar](https://forgottenrealms.fandom.com/wiki/Avatar "Avatar") of Tyr appeared to his followers, his eyes (or eye) were at first the color of bright steel, but they faded away to empty sockets before the avatar vanished. His brow always shone with a white radiance or halo, leaving no doubt as to his divine nature.
 
