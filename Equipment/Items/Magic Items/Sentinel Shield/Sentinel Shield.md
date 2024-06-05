@@ -1,5 +1,7 @@
 #### Sentinel Shield
 
+![[Sentinel Shield.jpg]]
+
 Armor (shield), uncommon, major tier, 6 lb.
 
 AC +2
