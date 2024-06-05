@@ -11,11 +11,11 @@ Noted below are fungi and plants that can be collected.
 | [[Ashblossom]]              | Volcanos                                                                     | 20    |
 | [[Bane Berry]]              | Urban areas                                                                  | 15    |
 | [[Bloodroot]]               | Grasslands, Savannahs                                                        | 15    |
-| [[Blightshrooms]]           | Blightshore                                                                  | 20    |
+| [[Blight Spores]]           | Blightshore                                                                  | 20    |
 | [[Cat's Tongue]]            | Forests, Grasslands, Hill                                                    | 10    |
 | [[Death Cap]]               | Forests, Swamp                                                               | 20    |
-| [[Dreamlilly]]              | Coast, Grasslands, Hill                                                      | 10    |
-| [[Everfrost Berry]]         | Forests, Grasslands                                                          | 10    |
+| [[5eOSRD/Gamemastering/Crafting/_homebrew/Ingredients/Plants, Fungi & Inorganics/Catalog/Dreamlily\|Dreamlily]]              | Coast, Grasslands, Hill                                                      | 10    |
+| [[Everfrost Berries]]         | Forests, Grasslands                                                          | 10    |
 | [[Fairy Stool]]             | Feywild, Forests                                                             | 20    |
 | [[Fire Peas]]               | Desert, Savannahs                                                            | 15    |
 | [[Flame Lily]]              | Desert, Savannahs                                                            | 15    |
@@ -42,8 +42,8 @@ Noted below are fungi and plants that can be collected.
 | [[Sourgrass]]               | Grasslands, Mountains                                                        | 15    |
 | [[Soothsalt Geode]]         | Blightshore                                                                  | 10/20 |
 | [[The Bearded Green]]       | Forests                                                                      | 15    |
-| [[5eOSRD/Gamemastering/Crafting/_homebrew/Ingredients/Plants, Fungi & Inorganics/Catalog/Theki Root]]              | Swamp                                                                        | 15    |
-| [[5eOSRD/Gamemastering/Crafting/_homebrew/Ingredients/Plants, Fungi & Inorganics/Catalog/White Ghost Orchid Seed]] | Coast, Forests                                                               | 15    |
-| [[Willowshade Bush]]        | Coast, Swamp                                                                 | 15    |
+| [[5eOSRD/Gamemastering/Crafting/_homebrew/Ingredients/Plants, Fungi & Inorganics/Catalog/Theki Root\|Theki Root]]              | Swamp                                                                        | 15    |
+| [[5eOSRD/Gamemastering/Crafting/_homebrew/Ingredients/Plants, Fungi & Inorganics/Catalog/White Ghost Orchid Seed\|White Ghost Orchid Seed]] | Coast, Forests                                                               | 15    |
+| Willowshade Bush ([[5eOSRD/Gamemastering/Crafting/_homebrew/Herbalism Kit/Recipes/Willowshade Oil\|Willowshade Oil]])        | Coast, Swamp                                                                 | 15    |
 | [[Wolfsbane]]               | Mountains                                                                    | 20    |
 
