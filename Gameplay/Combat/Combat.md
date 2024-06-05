@@ -1,4 +1,4 @@
-# COMBAT
+# Combat
 
 A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and [[spellcasting]]. The game organizes the chaos of combat into a cycle of rounds and turns. A **round** represents about 6 seconds in the game world. During a round, each participant in a battle takes a **turn**. The order of turns is determined at the beginning of a combat encounter, when everyone rolls initiative. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other.
 
@@ -172,9 +172,9 @@ You can lend your aid to another creature in the completion of a task. When you 
 
 Alternatively, you can aid a friendly creature in attacking a creature within 5 feet of you. You feint, distract the target, or in some other way team up to make your ally's attack more effective. If your ally attacks the target before your next turn, the first attack roll is made with advantage.
 
-## [[5eOSRD/Gameplay/Abilities/Dexterity/Hide|Hide]]
+## [[5eOSRD/Gameplay/Abilities/Dexterity/Hiding|Hide]]
 
-When you take the [[5eOSRD/Gameplay/Abilities/Dexterity/Hide|Hide]] action, you make a [[Dexterity]] ([[Stealth]]) check in an attempt to [[5eOSRD/Gameplay/Abilities/Dexterity/Hide|hide]], following the rules for [[hiding]]. If you succeed, you gain certain benefits, as described in the "Unseen Attackers and Targets" section later in this chapter.
+When you take the [[5eOSRD/Gameplay/Abilities/Dexterity/Hiding|Hide]] action, you make a [[Dexterity]] ([[Stealth]]) check in an attempt to [[5eOSRD/Gameplay/Abilities/Dexterity/Hiding|hide]], following the rules for [[hiding]]. If you succeed, you gain certain benefits, as described in the "Unseen Attackers and Targets" section later in this chapter.
 
 ## Ready
 
