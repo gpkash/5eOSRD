@@ -5,9 +5,6 @@ _Medium humanoid (half-elf), chaotic evil_
 
 Laurin Ophidas is a disgraced member of the Cerberus Assembly, an organization of spellcasters in the Dwendalian Empire in Wildemount. He fled from that organization after stealing a staff of the adder from a superior.
 
-
-
-
 ---
 
 **Armor Class** 13 ([[Leather Armor]])

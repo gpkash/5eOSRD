@@ -9,8 +9,6 @@ All of these near misses and improbable escapes have only solidified Tiax's delu
 
 As one might expect, Tiax's foremost attributes are exaggeration and deceit. Unfortunately, for the unsuspecting, Tiax's unthreatening and absurd demeanor can grant the illusion of harmlessness. His many lies appear outlandish and easily dismissed, and his erratic behavior borders on complete buffoonery. Some might even find his colorful, chaotic personality to be charming. Certainly, Koh Tam seems to tolerate him for one reason or another. But make no mistake, Tiax is dangerous. The wise should be wary.
 
-
-
 ---
 
 **Armor Class** 13, 16 (with [[mage armor]])

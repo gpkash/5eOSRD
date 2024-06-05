@@ -7,9 +7,6 @@ Hill giants who master rune magic discover a close connection to the natural for
 
 These hill giants drape themselves in rocks attached to chains or ropes, then use their magic to knock down and pummel their foes with these stones. This magic, combined with their ability to defeat and devour their prey as quickly as a torrent of boulders cascades down a mountain, leads other giants to call them avalanchers.
 
-
-
-
 ---
 
 **Armor Class** 15 (natural armor)

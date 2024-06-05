@@ -13,12 +13,6 @@ Ixitxachitl (pronounced ick-zit-zah-chit-ul) are aquatic creatures resembling ma
 
 **Demon Worshipers** The ixitxachitl venerate and serve various demons, particularly Demogorgon, whom they consider their patron and creator. They have an intense rivalry with the merrow over which of them are the greatest and most favored servants of the Prince of Demons.
 
-
-
-
-
-
-
 ---
 
 **Armor Class** 15 (natural armor)
