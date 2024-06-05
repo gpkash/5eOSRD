@@ -133,7 +133,7 @@ You can cast a wizard spell as a ritual if that spell has the ritual tag and you
 
 ### Spellcasting Focus
 
-You can use an [[5eOSRD/Equipment/Adventuring Gear/Arcane Focus]] as a [[spellcasting]] focus for your [[wizard spells]].
+You can use an [[Arcane Focus]] as a [[spellcasting]] focus for your [[wizard spells]].
 
 ### Learning Spells of 1st Level and Higher
 

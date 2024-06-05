@@ -18,12 +18,12 @@ A convenient list of roll-tables with all available resources by environment.
 | d100 | Ingredient                    | DC  |
 | ---------- | ----------------------- | --- |
 | 01-09      | [[Gillyweed]]               | 10  |
-| 10-18      | [[5eOSRD/Gamemastering/Crafting/_homebrew/Ingredients/Plants, Fungi & Inorganics/Dreamlily|Dreamlily]]              | 10  |
+| 10-18      | [[5eOSRD/Gamemastering/Crafting/_homebrew/Ingredients/Plants, Fungi & Inorganics/Dreamlily\|Dreamlily]]              | 10  |
 | 19-27      | [[Giant Toad]]              | 10  |
 | 28-36      | [[Giant Wolf Spider]]       | 10  |
 | 37-45      | [[Lightning Moss]]          | 15  |
-| 46-54      | Willowshade Bush ([[5eOSRD/Gamemastering/Crafting/_homebrew/Herbalism Kit/Recipes/Willowshade Oil|Willowshade oil]])        | 15  |
-| 55-63      | [[5eOSRD/Gamemastering/Crafting/_homebrew/Ingredients/Plants, Fungi & Inorganics/White Ghost Orchid Seed|White Ghost Orchid Seed]] | 15  |
+| 46-54      | Willowshade Bush ([[5eOSRD/Gamemastering/Crafting/_homebrew/Herbalism Kit/Recipes/Willowshade Oil\|Willowshade oil]])        | 15  |
+| 55-63      | [[5eOSRD/Gamemastering/Crafting/_homebrew/Ingredients/Plants, Fungi & Inorganics/Catalog/White Ghost Orchid Seed\|White Ghost Orchid Seed]] | 15  |
 | 64-72      | [[Eagle]]                   | 15  |
 | 73-81      | Blue-Ringed [[Octopus]]     | 15  |
 | 82-90      | [[Skulk]]                   | 15  |
@@ -59,10 +59,10 @@ A convenient list of roll-tables with all available resources by environment.
 | 35-39  | [[Angel's Trumpet]]         | 15  |
 | 40-44  | [[Ankheg]]                  | 15  |
 | 45-49  | [[Nightshade]]              | 15  |
-| 50-54  | Olisuba Bush ([[5eOSRD/Gamemastering/Crafting/_homebrew/Ingredients/Plants, Fungi & Inorganics/Olisuba Leaf|Olisuba Leaf]])            | 15  |
+| 50-54  | Olisuba Bush ([[5eOSRD/Gamemastering/Crafting/_homebrew/Ingredients/Plants, Fungi & Inorganics/Catalog/Olisuba Leaf\|Olisuba Leaf]]) | 15  |
 | 55-59  | [[Stinging Nettle]]          | 15  |
 | 60-64  | [[The Bearded Green]]       | 15  |
-| 65-69  | [[5eOSRD/Gamemastering/Crafting/_homebrew/Ingredients/Plants, Fungi & Inorganics/White Ghost Orchid Seed|White Ghost Orchid Seed]] | 15  |
+| 65-69  | [[5eOSRD/Gamemastering/Crafting/_homebrew/Ingredients/Plants, Fungi & Inorganics/Catalog/White Ghost Orchid Seed\|White Ghost Orchid Seed]] | 15  |
 | 70-74  | [[Skulk]]                   | 15  |
 | 75-79  | [[Giant Toad]]              | 15  |
 | 80-83  | [[Death Cap]]               | 20  |
@@ -76,13 +76,13 @@ A convenient list of roll-tables with all available resources by environment.
 | d100   | Ingredient            | DC  |
 | ------ | --------------------- | --- |
 | 01-09    | [[Cat's Tongue]]          | 10  |
-| 10-18  | [[5eOSRD/Gamemastering/Crafting/_homebrew/Ingredients/Plants, Fungi & Inorganics/Dreamlily|Dreamlily]]             | 10  |
+| 10-18  | [[5eOSRD/Gamemastering/Crafting/_homebrew/Ingredients/Plants, Fungi & Inorganics/Catalog/Dreamlily\|Dreamlily]]             | 10  |
 | 19-27  | [[Morning Dew]]           | 10  |
 | 28-36  | [[Giant Poisonous Snake]] | 10  |
 | 37-45  | [[Giant Wolf Spider]]     | 10  |
 | 46-54  | [[Everfrost Berries]]       | 10  |
 | 55-63  | [[Bloodroot]]             | 15  |
-| 64-72  | Olisuba Bush ([[5eOSRD/Gamemastering/Crafting/_homebrew/Ingredients/Plants, Fungi & Inorganics/Olisuba Leaf|Olisuba Leaf]])          | 15  |
+| 64-72  | Olisuba Bush ([[5eOSRD/Gamemastering/Crafting/_homebrew/Ingredients/Plants, Fungi & Inorganics/Catalog/Olisuba Leaf\|Olisuba Leaf]])          | 15  |
 | 73-81  | [[Sourgrass]]             | 15  |
 | 82-90  | [[Ankheg]]                | 15  |
 | 91-98  | [[Eagle]]                 | 15  |
@@ -137,8 +137,8 @@ A convenient list of roll-tables with all available resources by environment.
 | 19-24| [[Acid Dew]]                 | 15  |
 | 25-30| [[Carrion Crawler]]          | 15  |
 | 31-36| [[Stinging Nettle]]           | 15  |
-| 37-42| [[5eOSRD/Gamemastering/Crafting/_homebrew/Ingredients/Plants, Fungi & Inorganics/Theki Root|Theki Root]]               | 15  |
-| 43-48| Willowshade Bush ([[5eOSRD/Gamemastering/Crafting/_homebrew/Herbalism Kit/Recipes/Willowshade Oil|Willowshade Oil]])         | 15  |
+| 37-42| [[5eOSRD/Gamemastering/Crafting/_homebrew/Ingredients/Plants, Fungi & Inorganics/Theki Root\|Theki Root]]               | 15  |
+| 43-48| Willowshade Bush ([[5eOSRD/Gamemastering/Crafting/_homebrew/Herbalism Kit/Recipes/Willowshade Oil\|Willowshade Oil]])         | 15  |
 | 49-54| [[Giant Toad]]               | 15  |
 | 55-60| [[Skulk]]                    | 15  |
 | 61-66| [[Death Cap]]                | 20  |

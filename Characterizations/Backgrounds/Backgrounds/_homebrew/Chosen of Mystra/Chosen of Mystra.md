@@ -16,9 +16,9 @@ Your connection to the weave is enhanced. Starting at 4th level, your link to th
 Once per [[Long Rest]] you can [[Detect Magic]].
 
 ### Arcane Resilience
-Starting at 6th level, you have grown accustomed to using the Weave to defend yourself from even the deadliest of magics, making you naturally resilient to elemental types of magic.
+Starting at 6th level, you have grown accustomed to using the Weave to defend someone from even the deadliest of magics, making them naturally resilient to elemental types of magic.
 
-Choose two types of damage from the following list: acid, cold, fire, force, lightning, necrotic, poison, radiant, and thunder. You have [[5eOSRD/Gameplay/Combat/Resistence/Resistance|resistance]] against spell damage from these two types. Furthermore, you have advantage on saving throws against spells that deal damage of either of the selected types.
+Choose two types of damage from the following list: acid, cold, fire, force, lightning, necrotic, poison, radiant, and thunder. You can make one creature have [[5eOSRD/Gameplay/Combat/Resistence/Resistance|resistance]] against spell damage from these two types. Furthermore, you have advantage on saving throws against spells that deal damage of either of the selected types.
 
 ### Knowledge of the Weave
 Starting at 10th level, you are able to gain knowledge through the weave and listen to it's intention.
