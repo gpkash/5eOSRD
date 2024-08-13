@@ -1,5 +1,5 @@
 
-# Mark
+# Mark (optional)
 
 This option makes it easier for melee combatants to harry each other with opportunity attacks.
 
