@@ -5,9 +5,6 @@ _Large beast, unaligned_
 
 These large mollusks retreat into their hardy shells when threatened, and they're particularly susceptible to being injured by contact with salt.
 
-
-
-
 ---
 
 **Armor Class** 11 (natural armor)

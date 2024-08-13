@@ -59,7 +59,7 @@ Despite their god's moniker, the Vos'skyriss serpentfolk outlaw hoods so that ou
 
 **Scimitar**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
 
-**Constrict**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. Hit: 7 (1d8 + 3) bludgeoning damage, and the target is [[grappled]] (escape DC 13). Until this [[ grapple]] ends, the creature is [[restrained]], and the serpentfolk can't constrict another target.
+**Constrict**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. Hit: 7 (1d8 + 3) bludgeoning damage, and the target is [[grappled]] (escape DC 13). Until this [[Grapple]] ends, the creature is [[restrained]], and the serpentfolk can't constrict another target.
 
 
 ---

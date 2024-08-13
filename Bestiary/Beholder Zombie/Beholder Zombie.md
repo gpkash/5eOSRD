@@ -3,9 +3,6 @@ _Large undead, neutral evil_
 
 ![[Beholder Zombie.jpg]]
 
-
-
-
 ---
 
 **Armor Class** 15 (natural armor)

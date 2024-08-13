@@ -57,7 +57,7 @@ These monstrous spiders, the spawn of the divine [[ The Spider Queen|Exandria|Sp
 
 **Stinger**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) piercing damage, and the target must succeed on a DC 14 Constitution saving throws or be [[paralyzed]] for 1 minute. The target can repeat the saving throws at the end of each of its turns, ending the effect on itself on a success.
 
-**Web Spinner**. _Ranged Weapon Attack:_ +7 to hit, reach 40 ft., one target. Hit:  The target is pulled 40 feet toward the spider and is [[grappled]] (escape DC 14). The spider can [[ grapple]] only one creature at a time in this way. As an action, the spider can cocoon a creature it has [[grappled]] in webbing, causing it to be [[restrained]] and ending the [[grappled]] condition.
+**Web Spinner**. _Ranged Weapon Attack:_ +7 to hit, reach 40 ft., one target. Hit:  The target is pulled 40 feet toward the spider and is [[grappled]] (escape DC 14). The spider can [[Grapple]] only one creature at a time in this way. As an action, the spider can cocoon a creature it has [[grappled]] in webbing, causing it to be [[restrained]] and ending the [[grappled]] condition.
 
 #### Reactions
 **Arterial Spray**. When the spider takes damage while below half its hit point maximum, it can spray poisonous blood in a 15-foot cone. Each creature in the area must make a DC 14 Constitution saving throws. On a failed save, a creature takes 13 (3d8) poison damage and is [[poisoned]] for 1 minute. On a successful save, the creature takes half as much damage and isn't [[poisoned]]. If this poison damage reduces a creature to 0 hit points, the creature is stable but [[poisoned]] for 1 hour, even after regaining hit points, and is [[paralyzed]] while [[poisoned]] in this way.

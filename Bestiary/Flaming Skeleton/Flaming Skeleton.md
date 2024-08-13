@@ -32,7 +32,7 @@ _Medium undead, lawful evil_
 ##### Actions
 **Shortsword**. _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage and 3 (1d6) fire damage.
 
-**Ignite**. The skeleton flings itself at a Large or smaller creature within 5 feet of it. The target must succeed on a DC 12 Dexterity saving throws or be [[grappled]] (escape DC 12). On a failed save, the target also takes 3 (1d6) fire damage at the start of each of its turns, even after the [[ grapple]] ends. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the effect ends.
+**Ignite**. The skeleton flings itself at a Large or smaller creature within 5 feet of it. The target must succeed on a DC 12 Dexterity saving throws or be [[grappled]] (escape DC 12). On a failed save, the target also takes 3 (1d6) fire damage at the start of each of its turns, even after the [[Grapple]] ends. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the effect ends.
 
 
 ---

@@ -21,7 +21,7 @@ Dum Dum goblins are your average run-of-the-mill goblins that live in the Dankwo
 
 ---
 
-**Nimble Escape**. The goblin can take the [[ Disengage]] or [[ Hide]] action as a bonus action on each of its turns.
+**Nimble Escape**. The goblin can take the [[ Disengage]] or [[5eOSRD/Gameplay/Abilities/Dexterity/Hide]] action as a bonus action on each of its turns.
 
 ##### Actions
 **Catch me if you can!**. Dum-Dum Goblins will opt to run and hide before fighting! A DC 15 Dexterity check must be made before they can be attacked.

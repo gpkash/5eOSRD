@@ -22,15 +22,9 @@ A zombie can follow simple orders and distinguish friends from foes, but its abi
 
 **Undead Nature** A zombie doesn't require air, food, drink, or sleep.
 
-
-
 > _After Beek died, we cast an [[animate dead]] spell on his corpse. It was fun for a while, but the zombie started to smell real bad, so we doused it in oil and set it on fire. Beek would've found that hilarious.
 _
 > _—Fonkin Hoodypeak_
-
-
-
-
 
 ---
 

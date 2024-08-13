@@ -43,13 +43,13 @@ _Large humanoid (any), chaotic evil_
 
 **Move**. The Slaughter Lord moves up to half its speed.
 
-**Cast a Spell (Costs 3 Actions)**. The Slaughter Lord [[ cast a spell|casts an innate spell]].
+**Cast a Spell (Costs 3 Actions)**. The Slaughter Lord [[Cast a Spell|casts an innate spell]].
 
 **Attack**. The Slaughter Lord makes a spear or dual greatswords attack.
 
 **Move**. The Slaughter Lord moves up to half its speed.
 
-**Cast a Spell (Costs 3 Actions)**. The Slaughter Lord [[ cast a spell|casts an innate spell]].
+**Cast a Spell (Costs 3 Actions)**. The Slaughter Lord [[Cast a Spell|casts an innate spell]].
 
 
 ---

@@ -29,9 +29,6 @@ _
 
 **A Beholder's Lair** A beholder's central lair is typically a large, spacious cavern with high ceilings, where it can attack without fear of closing to melee range. A beholder encountered in its lair has a challenge rating of 14 (11,500 XP).
 
-
-
-
 ---
 
 **Armor Class** 18 (natural armor)

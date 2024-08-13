@@ -3,9 +3,6 @@ _Huge dragon, chaotic evil_
 
 ![[Adult Black Dragon token.png]]
 
-
-
-
 ---
 
 **Armor Class** 19 (natural armor)
