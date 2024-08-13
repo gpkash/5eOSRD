@@ -1,6 +1,5 @@
 #### Draakhorn
-
-Wondrous item, artifact
+*Wondrous item, artifact*
 
 ![[Draakhorn.webp]]
 
