@@ -9,13 +9,11 @@ Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and isl
 
 Their minds shattered beyond repair, the kuo-toa adopted a religious fervor, inventing gods to protect them against threats. Most notable of these threats are the drow, which have slain the kuo-toa on sight since the days when the two races first met.
 
-
 **God Makers** Kuo-toa worship gods of their own insane creation, but if enough kuo-toa believe that a god is real, the energy of their collective subconscious can cause that god to manifest as a physical entity. The form a kuo-toa god takes depends on the inspiration for its divine image, and is usually random or nonsensical.
 
 One of the most revered gods of the kuo-toa is Blibdoolpoolp the Sea Mother, who takes the form of a female human with a crayfish head, a crayfish's claws, and an articulated shell covering her shoulders. Blibdoolpoolp was likely invented by a kuo-toa that improved on a broken human statue by adding the limbs and head of a crustacean. In sudden awe of its handiwork, it then named the resulting form a god.
 
-Kuo-toa that cross paths with an aboleth often find themselves worshiping it as a god, their madness blinding them to the fact that the aboleth is merely using them for its own nefarious ends.
-
+Kuo-toa that cross paths with an [[aboleth]] often find themselves worshiping it as a god, their madness blinding them to the fact that the [[aboleth]] is merely using them for its own nefarious ends.
 
 **Theocratic Rulers** Kuo-toa archpriests are surrounded by fanatical devotees of their faith. The archpriest of a kuo-toa domain demands that all its subjects worship a specific god. An archpriest's mad belief in its god is so fervent that it manifests the powers of a high cleric. The archpriest can also bestow spells to devout underlings called whips. One or more of these whips are also the archpriest's children, and their primary role in kuo-toan society is to fight to the death to claim the throne when the archpriest dies. If a whip displeases the archpriest, the archpriest can strip it of its spellcasting ability, if not its life.
 
@@ -25,27 +23,16 @@ Kuo-toa Gear. Many weapons of the kuo-toa are designed to capture rather than ki
 
 In general, kuo-toa don't like the weight of armor on their slippery bodies and rely on their natural rubbery hides for protection. However, they like to wear jewelry made from scavenged bones, shells, pearls, gems, and carapace fragments.
 
-
 **Variant: Kuo-toa Monitor** A kuo-toa monitor has a challenge rating of 3 (700 XP). It has the same statistics as a kuo-toa whip except that it adds its Wisdom modifier to its Armor Class (AC 13), loses the Spellcaster trait, and replaces the whip's action options with the following action options.
 
 **Multiattack** The kuo-toa makes one bite attack and two unarmed strikes.
 
-
 **Bite** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
-
 
 **Unarmed Strike** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage + 3 (1d6) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
 
-
-
-
-> _They invent their own gods... the very definition of insanity.
-_
+> "_They invent their own gods... the very definition of insanity._"
 > _—Sabal Mizzrym of Menzoberranzan_
-
-
-
-
 
 ---
 
@@ -82,7 +69,6 @@ _
 
 #### Reactions
 **Sticky Shield**. When a creature misses the kuo-toa with a melee weapon attack, the kuo-toa uses its sticky shield to catch the weapon. The attacker must succeed on a DC 11 Strength saving throw, or the weapon becomes stuck to the kuo-toa's shield. If the weapon's wielder can't or won't let go of the weapon, the wielder is [[grappled]] while the weapon is stuck. While stuck, the weapon can't be used. A creature can pull the weapon free by taking an action to make a DC 11 Strength check and succeeding.
-
 
 ---
 

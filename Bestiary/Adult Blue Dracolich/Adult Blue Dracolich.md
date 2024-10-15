@@ -33,12 +33,6 @@ When a dragon becomes a dracolich, it retains its statistics except as described
 
 **Magic Resistance** The dracolich has advantage on saving throws against spells and other magical effects.
 
-
-
-
-
-
-
 ---
 
 **Armor Class** 19 (natural armor)

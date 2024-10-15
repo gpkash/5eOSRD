@@ -3,9 +3,6 @@ _Medium fiend, neutral evil_
 
 ![[Night Hag.jpg]]
 
-
-
-
 ---
 
 **Armor Class** 17 (natural armor)

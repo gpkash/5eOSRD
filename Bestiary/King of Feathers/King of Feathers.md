@@ -5,11 +5,6 @@ _Huge monstrosity, unaligned_
 
 The monstrous tyrannosaurus known as the King of Feathers is the undisputed lord of Omu. Most other dwellers of the Forbidden City live in fear of its thunderous approach and steer well clear of the amphitheater, its lair.
 
-
-
-
-
-
 ---
 
 **Armor Class** 13 (natural armor)

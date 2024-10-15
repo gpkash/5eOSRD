@@ -3,9 +3,6 @@ _Medium undead, neutral evil_
 
 ![[Vampire Spawn.jpg]]
 
-
-
-
 ---
 
 **Armor Class** 15 (natural armor)

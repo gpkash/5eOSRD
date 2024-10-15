@@ -3,9 +3,6 @@ _Large ooze, unaligned_
 
 ![[Black Pudding.jpg]]
 
-
-
-
 ---
 
 **Armor Class** 7

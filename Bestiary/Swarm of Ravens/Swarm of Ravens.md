@@ -3,9 +3,6 @@ _Medium beast, unaligned_
 
 ![[Swarm of Ravens.jpg]]
 
-
-
-
 ---
 
 **Armor Class** 12

@@ -9,18 +9,11 @@ An abominable horror from deep beneath the earth, an umber hulk burrows into cav
 
 Burrowing into the wall of a cavern or passageway, an umber hulk lies in wait for creatures to pass by on the other side, its hair-like feelers sensing any movement around it. When it explodes out in a shower of earth and rock, its unsuspecting quarry turns to face the oncoming threat-and is entranced by the umber hulk's bewildering eyes, forced to stand helpless as its mandibles snap shut.
 
-
 **Mind Scrambler** Many survivors of an umber hulk encounter recollect little about the attack, because the monster's confusing gaze scrambles their memory of the event. Those who have fought and killed umber hulks recognize the signs. For other denizens of the Underdark, grisly tales of vanished explorers and wanton destruction speak of an unknown foe. Umber hulks take on supernatural status in these harrowing stories, many of which convey the same warning: once an umber hulk has been spotted, it is already too late to escape it.
-
-
 
 > _The wall caved in. That's the last thing I remember.
 _
 > _—A survivor's account of an umber hulk attack_
-
-
-
-
 
 ---
 

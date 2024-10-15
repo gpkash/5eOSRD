@@ -7,11 +7,6 @@ In the Tomb of Horrors, treasure sometimes presents itself for the taking. In on
 
 **Undead Nature** A skeleton doesn't require air, food, drink, or sleep.
 
-
-
-
-
-
 ---
 
 **Armor Class** 17 (natural armor)

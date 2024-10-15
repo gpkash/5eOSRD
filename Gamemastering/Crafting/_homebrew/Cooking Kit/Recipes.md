@@ -1,5 +1,6 @@
 | Recipe                                                                                       | Price   | Spices | DC  | Cooking Time |
 | -------------------------------------------------------------------------------------------- | ------- | ------ | --- | ------------ |
+| [[Brannen Heety's Hearty Goat Stew]]                                                         | 10gp    | 3gp    | 8   | 1 hour       | 
 | [[Bullywug Leg]]                                                                             | 500gp   | 2gp    | 11  | 15 minutes   |
 | [[Choldrith Hard-Boiled Eggs]]                                                               | 1,000gp | 1gp    | 14  | 30 minutes   |
 | [[Chuul Tail]]                                                                               | 1,000gp | 2gp    | 15  | 30 minutes   |

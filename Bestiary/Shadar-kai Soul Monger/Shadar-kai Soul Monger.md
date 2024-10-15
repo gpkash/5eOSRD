@@ -3,9 +3,6 @@ _Medium humanoid (elf), neutral evil_
 
 ![[Shadar-kai Soul Monger.jpg]]
 
-
-
-
 ---
 
 **Armor Class** 15 ([[Studded Leather Armor|studded leather]])

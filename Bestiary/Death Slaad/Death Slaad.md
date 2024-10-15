@@ -3,9 +3,6 @@ _Medium aberration (shapechanger), chaotic evil_
 
 ![[Death Slaad.jpg]]
 
-
-
-
 ---
 
 **Armor Class** 18 (natural armor)
@@ -34,6 +31,10 @@ _Medium aberration (shapechanger), chaotic evil_
 **Regeneration**. The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
 
 **Innate Spellcasting.** The slaad's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The slaad can innately cast the following spells, requiring no material components:
+
+At will: [[detect magic]], [[detect thoughts]], [[invisibility]] (self only), [[mage hand]], [[major image]]
+2/day each: [[fear]], [[fireball]], [[fly]], [[tongues]]
+1/day each: [[cloudkill]], [[plane shift]]
 
 ##### Actions
 **Multiattack**. The slaad makes three attacks: one with its bite and two with its claws or greatsword.

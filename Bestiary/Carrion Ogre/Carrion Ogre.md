@@ -6,10 +6,6 @@ _Large giant, chaotic evil_
 A creature that has the body of an ogre and the head of a carrion crawler.
 
 
-
-
-
-
 ---
 
 **Armor Class** 11 ([[Hide Armor]])

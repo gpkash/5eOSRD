@@ -7,18 +7,11 @@ Of all the terrors created by foul sorcery, gibbering mouthers are among the mos
 
 **Amoeboid Form** The gibbering mouther's body is an amorphous mass of mouths and eyes that propels itself by oozing forward, fastening several mouths to the ground and pulling its bulk behind. Though it moves slowly, it swims through water, mud, and quicksand with ease.
 
-
 **Mouths of Madness** When a gibbering mouther senses prey, its mouths begin to murmur and chatter, each with a different voice: deep or shrill, wailing or ululating, crying out in agony or ecstasy. This cacophonous gibbering overcomes the senses of any creature that hears it, causing most to flee in terror. Others are overcome with madness or stand [[paralyzed]], fixated on the horrific creature as it oozes forward to consume them.
 
 **All-Consuming** Driven to devour any creature it can reach, a gibbering mouther flows over victims transfixed by its mad ranting, its multitudinous voices temporarily silenced as it gnaws and swallows living flesh. The monster liquefies stone with which it comes into contact, hindering creatures that overcome its gibbering and attempt to flee.
 
 A gibbering mouther leaves nothing of its prey behind. However, even as the last of a victim's body is consumed, its eyes and mouth boil to the surface, ready to join the chorus of tormented gibbering that welcomes the monster's next meal.
-
-
-
-
-
-
 
 ---
 

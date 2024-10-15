@@ -3,9 +3,6 @@ _Medium humanoid (elf), neutral evil_
 
 ![[Shadar-kai Gloom Weaver.jpg]]
 
-
-
-
 ---
 
 **Armor Class** 14
@@ -31,6 +28,11 @@ _Medium humanoid (elf), neutral evil_
 **Fey Ancestry**. The shadar-kai has advantage on saving throws against being [[charmed]], and magic can't put it to sleep.
 
 **Spellcasting.** The shadar-kai casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
+
+Cantrips (at will): [[minor illusion]], [[prestidigitation]], [[chill touch]], [[eldritch blast]]*
+1st-5th level (3 5th-level slots): [[armor of Agathys]], [[blight]], [[darkness]], [[dream]], [[invisibility]], [[fear]], [[hypnotic pattern]], [[major image]], [[contact other plane]], [[vampiric touch]],[[witch bolt]]
+
+*3 beams +4 bonus to each damage roll
 
 ##### Actions
 **Multiattack**. The shadar-kai makes three Shadow Spear attacks. It can replace one attack with a use of Spellcasting.

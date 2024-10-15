@@ -9,11 +9,6 @@ Monsters found in the river include fish such as [[Quipper|quippers]], [[giant f
 
 River serpents range from fairly mundane specimens that resemble [[giant constrictor snake|giant constrictor snakes]] to more monstrous versions with the statistics of a [[Behir]] (but without lightning immunity or lightning breath).
 
-
-
-
-
-
 ---
 
 **Armor Class** 12

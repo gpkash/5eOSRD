@@ -5,8 +5,6 @@ _Tiny beast, unaligned_
 
 The waters of the Great River and all its tributaries are home to fish that serve as one of the most important food sources for other animals in the forest. These include large predatory fish, as well as churning swarms of small biting fish such as piranhas.
 
-
-
 ---
 
 **Armor Class** 13
@@ -29,7 +27,6 @@ The waters of the Great River and all its tributaries are home to fish that serv
 
 ##### Actions
 **Bite**. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
-
 
 ---
 

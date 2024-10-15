@@ -1,6 +1,5 @@
 #### Raven's Slumber
-
-Wondrous item, very rare
+*Wondrous item, very rare*
 
 ---
 

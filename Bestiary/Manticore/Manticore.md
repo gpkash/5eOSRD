@@ -20,10 +20,6 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
 _
 > _—Marthok Uldarr, dwarf copper merchant_
 
-
-
-
-
 ---
 
 **Armor Class** 14 (natural armor)

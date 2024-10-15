@@ -24,7 +24,7 @@ Every character and monster has a speed, which is the distance in feet that the 
 
 The following rules determine how far a character or monster can move in a minute, an hour, or a day.
 
-[[Travel Pace]]                           |
+[[Travel Pace]] 
 
 ### Difficult Terrain
 

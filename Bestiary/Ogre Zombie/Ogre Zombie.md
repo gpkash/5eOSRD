@@ -3,9 +3,6 @@ _Large undead, neutral evil_
 
 ![[Ogre Zombie.jpg]]
 
-
-
-
 ---
 
 **Armor Class** 8
@@ -30,7 +27,6 @@ _Large undead, neutral evil_
 
 ##### Actions
 **Morningstar**. _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
-
 
 ---
 

@@ -1,0 +1,5 @@
+# Swordsmere
+
+Inside [[Mount Sklagarra]] in the western part of the [[Troll Mountains]], an abandoned complex of dwarf-carved caverns surrounds a subterranean lake full of carnivorous, sightless fish. On a lone island in the center of the lake sits an elegant manor called Herald’s Hall that serves as the secret headquarters of the [[Heralds of Faerûn]], a renegade group of Harpers. The manor contains innumerable artifacts, spellbooks, and weapons that have made history in the past few centuries.
+
+The Heralds sealed off the passages leading from [[Swordsmere]] to [[Deep Shanatar]] to ensure their privacy, leaving no external entrances. Thus, the complex is accessible only by portals from [[Athkatla]], [[Baldur’s Gate]], [[Beregost]], [[Eshpurta]], and [[Murann]]. Dozens of runic guardians and shield guardians patrol the tunnels and caverns, and even the area under the lake. They recognize only Herald members and have orders to contain and imprison all others.

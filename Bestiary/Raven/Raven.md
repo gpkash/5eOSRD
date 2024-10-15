@@ -3,7 +3,6 @@ _Tiny beast, unaligned_
 
 ![[Raven token.png]]
 
-
 ---
 
 **Armor Class** 12

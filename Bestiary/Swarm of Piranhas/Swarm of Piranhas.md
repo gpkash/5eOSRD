@@ -3,9 +3,6 @@ _Medium beast, unaligned_
 
 ![[Swarm of Piranhas token.png]]
 
-
-
-
 ---
 
 **Armor Class** 13

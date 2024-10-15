@@ -10,11 +10,6 @@ Carrion crawlers scour putrid flesh from carcasses and gobble the slimy bones th
 
 **Patient Predators** Whether in subterranean darkness or while hunting at night, light signals a potential meal. A carrion crawler might follow a light source from a distance for hours, hoping to pick up the scent of blood. Despite their great size, carrion crawlers can also easily set up ambushes by waiting around blind corners for prey to come to them. When facing potential prey or intruders, a carrion crawler lets its poison do the work. Once a victim goes rigid with paralysis, the carrion crawler wraps it with its tentacles and drags it away to a high ledge or isolated passageway, where it can be killed safely. The monster then resumes patrolling its territory while waiting for its meal to ripen.
 
-
-
-
-
-
 ---
 
 **Armor Class** 13 (natural armor)

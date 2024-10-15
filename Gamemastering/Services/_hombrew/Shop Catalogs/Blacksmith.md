@@ -54,7 +54,7 @@
 | [[Chain (10 feet)]]                                    | 5 gp              | 3 gp             | 8 gp                 | X                 | X                | X                | X                  |
 | [[Crowbar]]   | 2 gp              | 1 gp             | 3 gp                 | X                 | X                | X                | X                  |
 | [[Grappling Hook]]                                         | 2 gp              | 1 gp             | 3 gp                 |                   |                  | X                | X                  |
-| [[Hammer]]                                                 | 1 gp              | 7 sp             | 2 gp                 | X                 | X                | X                | X                  |
+| [[5eOSRD/Equipment/Items/Mundane Items/Hammer/Hammer]]                                                 | 1 gp              | 7 sp             | 2 gp                 | X                 | X                | X                | X                  |
 | [[Sledgehammer]]                                         | 2 gp              | 1 gp             | 3 gp                 |                   | X                | X                | X                  |
 | [[Hunting Trap]]     | 5 gp              | 3 gp             | 8 gp                 |                   | X                | X                | X                  |
 | [[Lamp]]         | 5 sp              | 3 sp             | 8 sp                 |                   | X                | X                | X                  |

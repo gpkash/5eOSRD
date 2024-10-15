@@ -273,7 +273,7 @@ Items
 
 [[Fire Arrow]]
 
-[[5eOSRD/Equipment/Items/_homebrew/Fire Bolt]]
+[[5eOSRD/Equipment/Items/Magic Items/_homebrew/Fire Bolt]]
 
 [[Fire Dagger]]
 
@@ -329,13 +329,13 @@ Items
 
 [[Instrument Of Harmony]]
 
-[[5eOSRD/Equipment/Items/_homebrew/Kraken Bolt]]
+[[5eOSRD/Equipment/Items/Magic Items/_homebrew/Kraken Bolt]]
 
-[[5eOSRD/Equipment/Items/_homebrew/Kraken Paint]]
+[[5eOSRD/Equipment/Items/Magic Items/_homebrew/Kraken Paint]]
 
-[[5eOSRD/Equipment/Items/_homebrew/Kraken Shield]]
+[[5eOSRD/Equipment/Items/Magic Items/_homebrew/Kraken Shield]]
 
-[[5eOSRD/Equipment/Items/_homebrew/Kraken Tunic]]
+[[5eOSRD/Equipment/Items/Magic Items/_homebrew/Kraken Tunic]]
 
 [[Lenses Of The Oasis]]
 
@@ -527,9 +527,9 @@ Items
 
 [[Turned Soul Gem]]
 
-[[5eOSRD/Equipment/Items/_homebrew/Unicorn Glue]]
+[[5eOSRD/Equipment/Items/Magic Items/_homebrew/Unicorn Glue]]
 
-[[5eOSRD/Equipment/Items/_homebrew/Unicorn's Charge]]
+[[5eOSRD/Equipment/Items/Magic Items/_homebrew/Unicorn's Charge]]
 
 [[Wand Of Confusion]]
 
