@@ -3,9 +3,6 @@ _Medium humanoid (human, shapechanger), neutral good_
 
 ![[Werebear.jpg]]
 
-
-
-
 ---
 
 **Armor Class** 10 (in humanoid form), 11 (natural armor)
@@ -35,7 +32,6 @@ _Medium humanoid (human, shapechanger), neutral good_
 **Claw (Bear or Hybrid Form Only)**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
 
 **Greataxe (Humanoid or Hybrid Form Only)**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.
-
 
 ---
 

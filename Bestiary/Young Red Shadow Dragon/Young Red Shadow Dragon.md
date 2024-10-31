@@ -40,7 +40,7 @@ _Large dragon, chaotic evil_
 
 **Claw**. _Melee Weapon Attack:_ +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.
 
-**Shadow Breath Recharge 5-6**. The dragon exhales shadowy fire in a 30-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw, taking 56 (16d6) necrotic damage on a failed save, or half as much damage on a successful one. A humanoid reduced to 0 hit points by this damage dies, and an undead [[shadow]] rises from its corpse and acts immediately after the dragon in the initiative count. The shadow is under the dragon's control.
+**Shadow Breath Recharge 5-6**. The dragon exhales shadowy fire in a 30-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw, taking 56 (16d6) necrotic damage on a failed save, or half as much damage on a successful one. A humanoid reduced to 0 hit points by this damage dies, and an undead [[5eOSRD/Bestiary/Shadow/Shadow]] rises from its corpse and acts immediately after the dragon in the initiative count. The shadow is under the dragon's control.
 
 
 ---

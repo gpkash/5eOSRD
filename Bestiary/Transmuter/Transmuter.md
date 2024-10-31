@@ -5,11 +5,6 @@ _Medium humanoid (any race), any alignment_
 
 Transmuters are specialist wizards who embrace change, rail against the status quo, and view magical transmutation as a path to riches, enlightenment, or apotheosis.
 
-
-
-
-
-
 ---
 
 **Armor Class** 12, 15 (with [[mage armor]])

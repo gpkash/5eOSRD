@@ -46,7 +46,7 @@ Even now, though she still serves as an avatar of Mephistopheles, Aribeth is not
 
 **Nightmare**. Aribeth is accompanied by a nightmare. The nightmare allows Aribeth to use it as a mount.
 
-**Shadows**. 3 [[shadow||shadows]] hide within the saddle of Aribeth's nightmare. These shadows only come out if there is a creature within 30 feet that is at 0 hit points. When that happens, 1 shadow will emerge and attack the creature in order to make it fail a death saving throw. It continues to do so until the creature is dead.
+**Shadows**. 3 [[5eOSRD/Bestiary/Shadow/Shadow||shadows]] hide within the saddle of Aribeth's nightmare. These shadows only come out if there is a creature within 30 feet that is at 0 hit points. When that happens, 1 shadow will emerge and attack the creature in order to make it fail a death saving throw. It continues to do so until the creature is dead.
 
 **Spellcasting.** Aribeth is a 11th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). Aribeth has the following paladin spells prepared:
 

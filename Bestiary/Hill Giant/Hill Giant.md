@@ -3,9 +3,6 @@ _Huge giant, chaotic evil_
 
 ![[Hill Giant.jpg]]
 
-
-
-
 ---
 
 **Armor Class** 13 (natural armor)

@@ -3,9 +3,6 @@ _Huge giant, neutral good, neutral evil_
 
 ![[Cloud Giant.jpg]]
 
-
-
-
 ---
 
 **Armor Class** 14 (natural armor)
