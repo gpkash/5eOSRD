@@ -139,7 +139,9 @@ You can use a [[5eOSRD/Equipment/Adventuring Gear/Druidic Focus]] as a spellcast
 
 ### [[Wild Shape]]
 
-### [[Druid Circle]]
+### Druid Circle
+
+At 2nd level, you choose to identify with a circle of druids: the [[Circle of the Land]], [[Circle of the Moon]], [[Circle of Dreams]], [[Circle of the Shepherd]], [[Circle of Spores]], or the [[Circle of Wildfire]] which are all detailed at the end of the class description. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
 ### Ability Score Improvement
 
@@ -154,6 +156,10 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 ## Druid Circles
 - [[Circle of the Land]] ([[PHB]])
 - [[Circle of the Moon]] ([[PHB]])
+- [[Circle of Dreams]] ([[XGE]])
+- [[Circle of the Shepherd]] ([[XGE]])
+- [[Circle of Spores]] ([[TCE]])
+- [[Circle of Wildfire]] ([[TCE]])
 
 > #### Druids and the Gods
 > 
