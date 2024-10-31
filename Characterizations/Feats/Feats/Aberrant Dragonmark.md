@@ -5,7 +5,7 @@
 You have manifested an aberrant dragonmark. Determine its appearance and the flaw associated with it. You gain the following benefits:
 
 - Increase your [[Constitution]] score by 1, to a maximum of 20.
-- You learn a cantrip of your choice from the [[sorcerer]] spell list. In addition, choose a 1st-level spell from the [[sorcerer]] spell list. You learn that spell and can cast it through your mark. Once you cast it, you must finish a short or [[Long Rest]] before you can cast it again through the mark. [[Constitution]] is your [[spellcasting ability]] for these spells.
+- You learn a cantrip of your choice from the [[Sorcerer]] spell list. In addition, choose a 1st-level spell from the [[Sorcerer]] spell list. You learn that spell and can cast it through your mark. Once you cast it, you must finish a short or [[Long Rest]] before you can cast it again through the mark. [[Constitution]] is your [[spellcasting ability]] for these spells.
 - When you cast the 1st-level spell through your mark, you can expend one of your Hit Dice and roll it. If you roll an even number, you gain a number of temporary hit points equal to the number rolled. If you roll an odd number, one random creature within 30 feet of you (not including you) takes force damage equal to the number rolled. If no other creatures are in range, you take the damage. You also develop a random flaw from the Aberrant Dragonmark Flaws table.
 
 ##### Aberrant Dragonmark Flaws Table
