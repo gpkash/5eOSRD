@@ -1,6 +1,8 @@
 #### Keoghtom's Restorative Ointment
 Uncommon, Ointment
 
+Pronounced: Key-Oh-Tum
+
 This glass jar, contains 3 doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh 1/2 pound.
 
 As an action, one dose of the ointment can be swallowed or applied to a wound. The creature that receives it regains 1d8 + 5, 2d8 + 5 or 3d8 + 5 hit points, depending on the potency, and ceases to be [[poisoned]]. After use, you must make a Constitution saving throw against the DC of the potency and on a fail, you suffer the effects of sluggishness. You take disadvantage on all dexterity saving throws which go away after a short rest.
