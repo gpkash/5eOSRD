@@ -1,6 +1,8 @@
 ### Intelligence
 Intelligence measures mental acuity, accuracy of recall, and the ability to reason.
 
+> Homebrew: [[Intelligence Description Chart]]
+
 #### Intelligence Checks
 An Intelligence check comes into play when you need to draw on logic, education, memory, or deductive reasoning. The Arcana, History, Investigation, Nature, and Religion skills reflect aptitude in certain kinds of Intelligence checks.
 
@@ -22,3 +24,4 @@ An Intelligence check comes into play when you need to draw on logic, education,
 #### Spellcasting Ability
 
 Wizards use Intelligence as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+

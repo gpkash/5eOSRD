@@ -13,7 +13,7 @@ Your elf character has a variety of natural abilities, the result of thousands o
 
 ***Speed***. Your base walking speed is 30 feet.
 
-- [[5eOSRD/Gamemastering/Senses/Darkvision|Darkvision]]
+- 60 feet [[5eOSRD/Gamemastering/Senses/Darkvision|Darkvision]]
 - [[Keen Senses]]
 - [[Fey Ancestry]]
 - [[Trance]]
