@@ -1,4 +1,4 @@
-# Dungeons & Dragons 5th Edition: Obsidian SRD
+# Dungeons & Dragons 5th Edition (pre-2024): Obsidian SRD
 
 The 5eOSRD is for Game Masters *(and those special ultra-organized players)* for use in and out of sessions. It is a reference that brings together the most relevant parts of The Player's Handbook, Dungeon Master's Guide, the supplemental guides and some of the most popular homebrew content. 
 
