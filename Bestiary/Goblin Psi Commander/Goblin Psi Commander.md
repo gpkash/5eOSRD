@@ -3,9 +3,6 @@ _Small aberration (goblinoid), any alignment_
 
 ![[Goblin Psi Commander.jpg]]
 
-
-
-
 ---
 
 **Armor Class** 16 ([[Studded Leather Armor]])

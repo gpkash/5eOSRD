@@ -3,9 +3,6 @@ _Large plant, lawful neutral_
 
 ![[Myconid Sovereign token.png]]
 
-
-
-
 ---
 
 **Armor Class** 13 (natural armor)

@@ -10,12 +10,6 @@ A blistercoil weird is an anthropomorphic brute formed from water and molten roc
 
 **Elemental Nature** An Izzet weird doesn't require air, food, drink, or sleep.
 
-
-
-
-
-
-
 ---
 
 **Armor Class** 13

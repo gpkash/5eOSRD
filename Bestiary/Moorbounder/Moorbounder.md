@@ -7,10 +7,6 @@ One of the many predators to stalk the marshlands and muddy foothills of Xhorhas
 
 **Natural Hunters** Moorbounders hunt with elongated tusks and retractable claws. With a vague resemblance to large hunting cats, their muscular bodies are built for combat, granting them incredible prowess at leaping and a running speed that makes them dominant carnivores.
 
-
-
-
-
 ---
 
 **Armor Class** 13 (natural armor)

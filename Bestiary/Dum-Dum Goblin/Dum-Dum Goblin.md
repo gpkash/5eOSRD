@@ -5,8 +5,6 @@ _Small humanoid (goblinoid), neutral evil_
 
 Dum Dum goblins are your average run-of-the-mill goblins that live in the Dankwood. They are led by their chief, Grobble, who loves to eat mushroom pie and send out his gang of goblin thieves to steal stuff. He loves to be flattered and thinks he's the toughest goblin in the Dankwood.
 
-
-
 ---
 
 **Armor Class** 7

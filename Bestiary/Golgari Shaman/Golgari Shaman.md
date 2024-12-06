@@ -10,11 +10,6 @@ Golgari shamans paint their faces so they appear to have extra eyes on their che
 
 **Golgari Lairs** Members of the Golgari Swarm have an intimate connection to their territory. When at least six Golgari defend their territory together, they can call on the environment to aid them. The group must include Jarad Vod Savo or at least one Golgari shaman, kraul death priest, undercity medusa, or Devkarin lich. When determining the difficulty of such an encounter, consider the lair to be one additional creature of challenge rating 1.
 
-
-
-
-
-
 ---
 
 **Armor Class** 14 ([[Hide Armor]])

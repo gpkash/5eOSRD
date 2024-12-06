@@ -11,13 +11,7 @@ Powerful magic allows a spellcaster to summon a galeb duhr from the Plane of Ear
 
 A galeb duhr is permanently bound to the Material Plane, so that when it dies, it doesn't return to the Plane of Earth. It has an excellent memory and is more than happy to share information regarding its environment with creatures it doesn't regard as threats.
 
-
 **Stone Connection** A galeb duhr can become one with the earth around it, allowing it to imbue nearby rocks and boulders with a semblance of life. The galeb duhr uses its animated boulders to frighten away interlopers and defend whatever it has been charged to protect. When it needs to move close to those intruders, it presses its limbs tight to its body and rolls forward at a furious pace.
-
-
-
-
-
 
 ---
 
@@ -47,7 +41,6 @@ A galeb duhr is permanently bound to the Material Plane, so that when it dies, i
 **Slam**. _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage.
 
 **Animate Boulders (1/Day)**. The galeb duhr magically animates up to two boulders it can see within 60 feet of it. A boulder has statistics like those of a galeb duhr, except it has Intelligence 1 and Charisma 1, it can't be [[charmed]] or [[frightened]], and it lacks this action option. A boulder remains animated as long as the galeb duhr maintains [[concentration]], up to 1 minute (as if [[concentration||concentrating]] on a spell).
-
 
 ---
 

@@ -3,7 +3,6 @@ _Large giant, chaotic evil_
 
 ![[Ogre Goblin Hucker token.png]]
 
-
 ---
 
 **Armor Class** 11 ([[Hide Armor]])

@@ -3,9 +3,6 @@ _Small plant, lawful neutral_
 
 ![[Myconid Sprout token.png]]
 
-
-
-
 ---
 
 **Armor Class** 10

@@ -3,7 +3,6 @@ _Medium humanoid (orc), chaotic evil_
 
 ![[Fiendish Orc token.png]]
 
-
 ---
 
 **Armor Class** 16 ([[5eOSRD/Equipment/Armor/Heavy Armor/Chain Mail]])

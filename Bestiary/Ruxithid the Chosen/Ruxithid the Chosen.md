@@ -7,9 +7,6 @@ Centuries ago, an abandoned duergar mining outpost called Zorzula's Rest was con
 
 In recent weeks, the Sawplee goblins' leader found a mysterious gemstone. Unknown to Ruxithid the Chosen, a new group of mind flayer fanatics that draw power from the Far Realm planted it for him to find. The gemstone lets Ruxithid telepathically communicate with the mind flayers, who he believes are gods.
 
-
-
-
 ---
 
 **Armor Class** 15 ([[5eOSRD/Equipment/Armor/Medium Armor/Chain shirt]])
@@ -38,7 +35,6 @@ In recent weeks, the Sawplee goblins' leader found a mysterious gemstone. Unknow
 **Multiattack**. Ruxithid makes two Psi-Charged Scimitar attacks.
 
 **Psi-Charged Scimitar**. _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 7 (2d6) psychic damage.
-
 
 ---
 

@@ -3,9 +3,6 @@ _Huge giant, neutral_
 
 ![[Stone Giant.jpg]]
 
-
-
-
 ---
 
 **Armor Class** 17 (natural armor)

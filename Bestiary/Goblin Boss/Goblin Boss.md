@@ -3,12 +3,9 @@ _Small humanoid (goblinoid), neutral evil_
 
 ![[Goblin Boss token.png]]
 
-
-
-
 ---
 
-**Armor Class** 17 ([[5eOSRD/Equipment/Armor/Medium Armor/Chain shirt]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]])
+**Armor Class** 17 ([[Chain shirt]], [[5eOSRD/Equipment/Items/Mundane Items/Shield/Shield|Shield]])
 **Hit Points** 21 (6d6)
 **Speed** 30 ft.
 

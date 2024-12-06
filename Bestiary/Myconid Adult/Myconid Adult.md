@@ -3,9 +3,6 @@ _Medium plant, lawful neutral_
 
 ![[Myconid Adult token.png]]
 
-
-
-
 ---
 
 **Armor Class** 12 (natural armor)
