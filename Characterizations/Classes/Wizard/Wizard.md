@@ -82,7 +82,7 @@ As a wizard, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) a quarterstaff or (*b*) a dagger
-- (*a*) a [[5eOSRD/Equipment/Adventuring Gear/Component Pouch]] or (*b*) an [[5eOSRD/Equipment/Adventuring Gear/Arcane Focus]]
+- (*a*) a [[Component Pouch]] or (*b*) an [[Arcane Focus]]
 - (*a*) a [[5eOSRD/Equipment/Adventuring Gear/Packs/Scholar's Pack]] or (*b*) an [[5eOSRD/Equipment/Adventuring Gear/Packs/Explorer's Pack]]
 - A [[Spellbook]]
 

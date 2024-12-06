@@ -85,7 +85,7 @@ As a warlock, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) a light crossbow and 20 bolts or (*b*) any simple weapon
-- (*a*) a [[5eOSRD/Equipment/Adventuring Gear/Component Pouch]] or (*b*) an [[5eOSRD/Equipment/Adventuring Gear/Arcane Focus]]
+- (*a*) a [[Component Pouch]] or (*b*) an [[Arcane Focus]]
 - (*a*) a [[5eOSRD/Equipment/Adventuring Gear/Packs/Scholar's Pack]] or (*b*) a [[5eOSRD/Equipment/Adventuring Gear/Packs/Dungeoneer's Pack]]
 - [[Leather]] armor, any simple weapon, and two daggers
 
@@ -125,7 +125,7 @@ Additionally, when you gain a level in this class, you can choose one of the [[W
 
 #### Spellcasting Focus
 
-You can use an [[5eOSRD/Equipment/Adventuring Gear/Arcane Focus]] as a spellcasting focus for your [[Warlock Spells]].
+You can use an [[Arcane Focus]] as a spellcasting focus for your [[Warlock Spells]].
 
 ### Eldritch Invocations
 

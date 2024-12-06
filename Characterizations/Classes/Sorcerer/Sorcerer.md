@@ -1,3 +1,5 @@
+# Sorcerer
+
 ### Class Features
 
 As a sorcerer, you gain the following class features.
@@ -21,7 +23,7 @@ As a sorcerer, you gain the following class features.
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (*a*) a light crossbow and 20 bolts or (*b*) any simple weapon
-- (*a*) a [[5eOSRD/Equipment/Adventuring Gear/Component Pouch]] or (*b*) an [[5eOSRD/Equipment/Adventuring Gear/Arcane Focus]]
+- (*a*) a [[Component Pouch]] or (*b*) an [[Arcane Focus]]]]
 - (*a*) a [[5eOSRD/Equipment/Adventuring Gear/Packs/Dungeoneer's Pack]] or (*b*) an [[5eOSRD/Equipment/Adventuring Gear/Packs/Explorer's Pack]]
 - Two daggers
 
@@ -115,7 +117,6 @@ Any spell slot you create with this feature vanishes when you finish a [[Long Re
 | 3rd              | 5                  |
 | 4th              | 6                  |
 | 5th              | 7                  |
-|                  |                    |
 
 ***Converting a Spell Slot to Sorcery Points***. As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
 

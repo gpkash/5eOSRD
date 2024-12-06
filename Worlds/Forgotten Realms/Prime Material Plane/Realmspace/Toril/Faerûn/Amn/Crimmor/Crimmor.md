@@ -155,7 +155,7 @@ Deceased in Crimmor were celebrated by day-long remembrance feasts held in their
 
 ### Prostitution
 
-While ladies of coin weren't proposing their services in the streets, the trade was still alive in the city. Hostesses of some clubs offered more than drinks, prostitutes looked for business in the Tymoran Trails inn, and a couple of brothels masquerading as boarding houses offered room visits from "house girls" for an extra fee.
+While "entertainers of coin" weren't proposing their services in the streets, the trade was still alive in the city. Hostesses of some clubs offered more than drinks, prostitutes looked for business in the Tymoran Trails inn, and a couple of brothels masquerading as boarding houses offered "room visits" for an extra fee.
 
 ### Festivals and Holidays
 

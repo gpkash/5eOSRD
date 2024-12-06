@@ -6,7 +6,7 @@
 
 ![[Velsharoon_-_Brom.webp]]
 
-**Velsharoon** (pronounced: _VEL-shah-roon_), also known as **Mellifleur**, was the [Faerunian](https://forgottenrealms.fandom.com/wiki/Faer%C3%BBnian_pantheon "Faerûnian pantheon") [demigod](https://forgottenrealms.fandom.com/wiki/Demigod "Demigod") of [necromancy](https://forgottenrealms.fandom.com/wiki/Necromancy "Necromancy"), the patron of [liches](https://forgottenrealms.fandom.com/wiki/Lich "Lich") and those that explored [undeath](https://forgottenrealms.fandom.com/wiki/Undeath "Undeath"). Arrogant and obsessed, the **Archmage of Necromancy**continued his experiments on the living and the dead as a god, paying no heed to the lesser lives lost in the name of his research and encouraging his disciples to do the same.
+**Velsharoon** (pronounced: _VEL-shah-roon_), also known as **Mellifleur**, was the [Faerunian](https://forgottenrealms.fandom.com/wiki/Faer%C3%BBnian_pantheon "Faerûnian pantheon") [demigod](https://forgottenrealms.fandom.com/wiki/Demigod "Demigod") of [necromancy](https://forgottenrealms.fandom.com/wiki/Necromancy "Necromancy"), the patron of [liches](https://forgottenrealms.fandom.com/wiki/Lich "Lich") and those that explored [undeath](https://forgottenrealms.fandom.com/wiki/Undeath "Undeath"). Arrogant and obsessed, the **Archmage of Necromancy** continued his experiments on the living and the dead as a god, paying no heed to the lesser lives lost in the name of his research and encouraging his disciples to do the same.
 
 ## Description
 
@@ -14,7 +14,7 @@ Velsharoon appeared as a gaunt, sallow-skinned man 10 feet (3 meters) in hei
 
 ### Manifestations
 
-Velsharoon's favored manifestation was a burning skull, wreathed in red, pale blue or blue-green flames. He was fond of using various gemstones to denote his favor or presence of hues including black, purple, maroon, rust-red, gray, and a bright and unnatural green reminiscent of [green slimes](https://forgottenrealms.fandom.com/wiki/Green_slime "Green slime"). The sudden appearance of a [bloodrose](https://forgottenrealms.fandom.com/wiki/Bloodrose "Bloodrose") was said to herald him.
+Velsharoon's favoured manifestation was a burning skull, wreathed in red, pale blue or blue-green flames. He was fond of using various gemstones to denote his favor or presence of hues including black, purple, maroon, rust-red, gray, and a bright and unnatural green reminiscent of [green slimes](https://forgottenrealms.fandom.com/wiki/Green_slime "Green slime"). The sudden appearance of a [bloodrose](https://forgottenrealms.fandom.com/wiki/Bloodrose "Bloodrose") was said to herald him.
 
 ## Personality
 

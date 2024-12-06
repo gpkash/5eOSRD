@@ -67,7 +67,7 @@ Creation of these items requires the ingredients listed and 80 hours of work. Af
 | 41-48      | [[Forgetfulness]]*                              |
 | 49-56      | [[Fire Plague]]*                                |
 | 57-64      | [[Magebane]]*                                   |
-| 65-72      | [[Magic’s Bane]]*                               |
+| 65-72      | [[Magic's Bane]]*                               |
 | 73-80      | [[5eOSRD/Gamemastering/Crafting/_homebrew/Poisoner Kit/Recipes/Oil of Taggit\|Oil of Taggit]] |
 | 81-88      | [[Thessaltoxin]]                                |
 | 89-100     | [[5eOSRD/Gamemastering/Crafting/_homebrew/Poisoner Kit/Recipes/Torpor\|Torpor]] |
